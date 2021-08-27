@@ -1,0 +1,33 @@
+version: '3'
+services:
+
+  postgres:
+    image: postgres:11
+    container_name: postgres
+    restart: always
+    env_file:
+      - .env
+    environment:
+      - POSTGRES_USER=$PGUSER
+      - POSTGRES_PASSWORD=$PGPASSWORD
+      - POSTGRES_DB=postgres
+    volumes:
+      - ./volumes/postgres/data:/var/lib/postgresql/data
+      - ./volumes:/opt
+    ports:
+      - "$PGPORT:5432"
+
+  flyway:
+    image: "flyway/flyway:6"
+    container_name: flyway
+    env_file:
+      - .env
+    command: migrate -locations=filesystem:/flyway/migrations/public -schemas=public -connectRetries=60
+    environment:
+      - FLYWAY_URL=jdbc:postgresql://postgres:$PGPORT/postgres
+      - FLYWAY_USER=$PGUSER
+      - FLYWAY_PASSWORD=$PGPASSWORD
+    volumes:
+      - ./src/migrations:/flyway/migrations
+    depends_on:
+      - postgres
