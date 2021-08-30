@@ -5,17 +5,15 @@ services:
     image: postgres:11
     container_name: postgres
     restart: always
-    env_file:
-      - .env
     environment:
-      - POSTGRES_USER=$PGUSER
-      - POSTGRES_PASSWORD=$PGPASSWORD
+      - POSTGRES_USER=builder
+      - POSTGRES_HOST_AUTH_METHOD=trust
       - POSTGRES_DB=postgres
     volumes:
       - ./volumes/postgres/data:/var/lib/postgresql/data
       - ./volumes:/opt
     ports:
-      - "$PGPORT:5432"
+      - "5432:5432"
 
   etl:
     build: ./src/integrations/
@@ -26,13 +24,10 @@ services:
   flyway:
     image: "flyway/flyway:6"
     container_name: flyway
-    env_file:
-      - .env
     command: migrate -locations=filesystem:/flyway/migrations/public -schemas=public -connectRetries=60
     environment:
-      - FLYWAY_URL=jdbc:postgresql://postgres:$PGPORT/postgres
-      - FLYWAY_USER=$PGUSER
-      - FLYWAY_PASSWORD=$PGPASSWORD
+      - FLYWAY_URL=jdbc:postgresql://postgres:5432/postgres
+      - FLYWAY_USER=builder
     volumes:
       - ./src/migrations:/flyway/migrations
     depends_on:
