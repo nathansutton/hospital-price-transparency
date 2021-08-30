@@ -8,10 +8,15 @@ Starting in NC
 
 Run the flyway migrations
 ```
-docker-compose run flyway flyway
+docker-compose run flyway
 ```
 
 Run the ETL
 ```
-docker-compose run flyway flyway
+docker-compose run etl
+```
+
+Interactive PSQL client
+```
+docker exec -it postgres psql -d postgres -U builder
 ```
