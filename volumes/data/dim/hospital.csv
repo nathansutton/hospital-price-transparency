@@ -1,0 +1,116 @@
+hospital_id,hospital_name,hospital_npi,city,state,critical_access_ind,affiliation,disclosure
+1,CarolinaEast Medical Center,1801852835,New Bern,NC,0,Independent,https://apps.para-hcfs.com/PTT/FinalLinks/CarolinaEast_V2.aspx#
+2,Carteret Health Care,1760479331,Morehead City,NC,0,Independent,https://www.carterethealth.org/documents/content/CHC-Charge-Comparison.xlsx
+3,Catawba Valley Medical Center,1164495255,Hickory,NC,0,Independent,https://www.catawbavalleyhealth.org/documents/560789196_CatawbaValleyMedicalCenter_StandardCharges.csv
+4,Dosher Memorial Hospital,1326589649,Southport,NC,1,Independent,
+5,Granville Medical Center,1326061730,Oxford,NC,0,Independent,https://www.ghshospital.org/Content/Uploads/GranvilleMedical/files/Transparency%20Chargemaster%20Charges%20effective%201.1.21.xls
+6,Hugh Chatham Memorial Hospital,1942361308,Elkin,NC,0,Independent,https://www.hughchatham.org/wp-content/uploads/2020/10/HCMH-Chargemaster.pdf
+7,Iredell Memorial Hospital,1588709596,Statesville,NC,0,Independent,https://res.cloudinary.com/dpmykpsih/raw/upload/iredell-health-system-site-359/media/r/987174c3c5b24b478553986b48984339/cdm_for_internet_10-1-2020.csv
+8,North Carolina Specialty Hospital,1437221785,Durham,NC,0,Independent,https://docs.google.com/spreadsheets/d/118qzCAtylGIzNz1503k4aOkP5A1XOAEg/edit#gid=565460623
+9,Northern Regional Hospital,1366449282,Mount Airy,NC,0,Independent,https://wearenorthern.org/wp-content/uploads/2020/10/NRH-Comprehensive-Chargemaster-2020.xlsx
+10,Sampson Regional Medical Center,1609857432,Clinton,NC,0,Independent,https://apps.para-hcfs.com/PTT/FinalLinks/Sampson_V2.aspx#
+11,Washington Regional Medical Center,1972119782,Plymouth,NC,1,Affinity Health Partners,https://www.washingtonregionalmedical.org/wp-content/uploads/2021/07/WRMC-Price-Transparency-Worksheet-July-2021.pdf
+12,Cannon Memorial Hospital,1922214873,Linville,NC,1,Appalachian Regional Healthcare System,https://apprhs.org/?wpfb_dl=253
+13,Watauga Medical Center,1205859766,Boone,NC,0,Appalachian Regional Healthcare System,https://apprhs.org/?wpfb_dl=254
+14,Atrium Health Anson,1659856060,Wadesboro,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthAnson_StandardCharges.json
+15,Atrium Health Mercy,1376985135,Charlotte,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-1398929_AtriumHealthMercy_StandardCharges.json
+16,Atrium Health Pineville,1417432840,Charlotte,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthPineville_StandardCharges.json
+17,Atrium Health Stanly,1144688219,Albemarle,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthStanly_StandardCharges.json
+18,Carolinas HealthCare System Blue Ridge Morganton,1700860491,Morganton,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-1398929_CarolinasMedicalCenter_StandardCharges.json
+19,Columbus Regional Healthcare System,1376537555,Whiteville,NC,0,Atrium Health,http://www.crhealthcare.org/wp-content/uploads/Columbus-Regional-List-of-Standard-Charges-20181220.csv
+20,Scotland Memorial Hospital,1265426191,Laurinburg,NC,0,Atrium Health,https://cdn.atriumhealth.org/-/media/scotlandhealth/documents/financial-assistance/scotland-memorial-hospital.xlsx?rev=c70287a11c884243916c9f5d51fc9058&hash=682DBEEE9266C0DA31D8DA45440EDEA3
+21,St. Luke's Hospital,1245373455,Columbus,NC,1,Atrium Health,http://richr6.sg-host.com/56-0554222_StLukesHospital_StandardCharges.json
+22,Atrium Health Cabarrus,1487866315,Concord,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthCabarrus_StandardCharges.json
+23,Atrium Health Carolinas Medical Center,1376985135,Charlotte,NC,0,Atrium Health,
+24,Atrium Health Cleveland,1326442336,Shelby,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthCleveland_StandardCharges.json
+25,Atrium Health Kings Mountain,1558765529,Kings Mountain,NC,0,Atrium Health,
+26,Atrium Health Lincoln,1326088139,Lincolnton,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthLincoln_StandardCharges.json
+27,Atrium Health Union,1396790325,Monroe,NC,0,Atrium Health,
+28,Atrium Health University City,1346297892,Charlotte,NC,0,Atrium Health,https://chsprodrsrcegrporg385.blob.core.windows.net/cms-price-transparency/56-0529945_AtriumHealthUniversity_StandardCharges.json
+29,Alleghany Health,1841222841,Sparta,NC,1,Atrium Health,
+30,Atrium Health Wake Forest Baptist Davie Medical Center,1154326379,Bermuda Run,NC,0,Atrium Health,https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Patient-and-Family-Resources/Transparency-Files/Davie-Medical-Center-Transparency-12312020-FINAL.csv?la=en
+31,Atrium Health Wake Forest Baptist High Point Medical Center,1396746228,High Point,NC,0,Atrium Health,https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Patient-and-Family-Resources/Transparency-Files/High-Point-Regional-Medical-Center-Transparency-File-12312020-FINAL.csv?la=en
+32,Atrium Health Wake Forest Baptist Lexington Medical Center,1417958331,Lexington,NC,0,Atrium Health,https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Patient-and-Family-Resources/Transparency-Files/Lexington-Medical-Center-Transparency-12312020-FINAL.csv?la=en
+33,Atrium Health Wake Forest Baptist Medical Center,1912373804,Winston-Salem,NC,0,Atrium Health,https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Patient-and-Family-Resources/Transparency-Files/North-Carolina-Baptist-Hospital--Transparency-File-FINAL.csv?la=en
+34,Atrium Health Wake Forest Baptist Wilkes Medical Center,1376920926,North Wilkesboro,NC,0,Atrium Health,https://www.wakehealth.edu/-/media/WakeForest/Clinical/Files/Patient-and-Family-Resources/Transparency-Files/Wilkes-Regional-Medical-Center-Transparency-12312020-FINAL.csv?la=en
+35,Cape Fear Valley Bladen County Hospital,1558537282,Elizabethtown,NC,1,Cape Fear,
+36,Cape Fear Valley Hoke Hospital,1750788238,Raeford,NC,0,Cape Fear,
+37,Cape Fear Valley Medical Center,1639172869,Fayetteville,NC,0,Cape Fear,
+38,Highsmith-Rainey Specialty Hospital,1982607115,Fayetteville,NC,0,Cape Fear,
+39,Betsy Johnson Regional Hospital,1922144757,Dunn,NC,0,Cape Fear,
+40,Central Harnett Hospital,1922144757,Lillington,NC,0,Cape Fear,
+41,CaroMont Regional Medical Center,1013918960,Gastonia,NC,0,CaroMont Health,https://www.caromonthealth.org/documents/56-0619359_Caromont-Regional-Medical-Center_standardcharges.csv
+42,Davis Regional Medical Center,1154375178,Statesville,NC,0,Community Health,https://www.davisregional.com/Uploads/Public/Documents/charge-masters/562206788_Davis_standardcharges.csv
+43,Lake Norman Regional Medical Center,1073568754,Mooresville,NC,0,Community Health,https://www.lnrmc.com/Uploads/Public/Documents/charge-masters/592612221_Lake%20Norman_standardcharges.csv
+44,Cone Health Alamance Regional Medical Center,1326010273,Burlington,NC,0,Cone Health,https://www.conehealth.com/app/files/public/fa85c15e-a576-458b-ab38-bf87fa1a42cc/560529994_AlamanceRegionalMedicalCenterInc_standardcharges.csv
+45,Cone Health Annie Penn Hospital,1407966864,Reidsville,NC,0,Cone Health,https://www.conehealth.com/app/files/public/1a362311-fb77-470a-aa82-90bba247b348/581588823_AnniePennHospital_standardcharges.csv
+46,Cone Health Moses Cone Hospital,1467082370,Greensboro,NC,0,Cone Health,https://www.conehealth.com/app/files/public/5bfbc310-d09f-4a2d-b2c9-0083ab1b2593/581588823_TheMosesHConeMemorialHospital_standardcharges.csv
+47,Cone Health Wesley Long Hospital,1194001479,Greensboro,NC,0,Cone Health,https://www.conehealth.com/app/files/public/2fb24100-cddd-460f-ae5e-54e8dfdb66ab/581588823_WesleyLongHospital_standardcharges.csv
+48,Duke Raleigh Hospital,1205150380,Raleigh,NC,0,Duke Health,https://www.dukehealth.org/sites/default/files/general_page/56-2070036_DRaH_standardcharges_cdm.csv
+49,Duke Regional Hospital,1871592113,Durham,NC,0,Duke Health,https://www.dukehealth.org/sites/default/files/general_page/56-2070036_DRH_standardcharges_cdm.csv
+50,Duke University Hospital,1306013552,Durham,NC,0,Duke Health,https://www.dukehealth.org/sites/default/files/general_page/56-2070036_DUH_standardcharges_cdm.csv
+51,Central Carolina Hospital,1104365584,Sanford,NC,0,Duke LifePoint,
+52,Frye Regional Medical Center,1801823349,Hickory,NC,0,Duke LifePoint,https://www.fryemedctr.com/understanding-billing-and-charges
+53,Harris Regional Hospital,1346300431,Sylva,NC,0,Duke LifePoint,
+54,Haywood Regional Medical Center,1811158215,Clyde,NC,0,Duke LifePoint,https://www.myhaywoodregional.com/sites/haywood/assets/uploads/Pricing%20Transparency%20Files/300830918_Haywood_Regional_Medical_Center_Standard_Charges_12202020%20(2).zip
+55,Maria Parham Health,1275114928,Henderson,NC,0,Duke LifePoint,https://www.mariaparham.com/sites/maria/assets/uploads/MARIA%20PARHAM%20HEALTH%2016810(1).xlsx
+56,Person Memorial Hospital,1568507036,Roxboro,NC,0,Duke LifePoint,
+57,Rutherford Regional Health System,1023435898,Rutherfordton,NC,0,Duke LifePoint,https://www.myrutherfordregional.com/sites/rutherford/assets/uploads/billing/300811171_Rutherford_Regional_Medical_Center_Standard_Charges_12202020.zip
+58,Swain Community Hospital,1528649266,Bryson City,NC,1,Duke LifePoint,https://www.myswaincommunity.com/sites/swain/assets/uploads/Pricing%20Transparency/320441929_Swain_County_Hospital_Standard_Charges_12242020%20(3).zip
+59,Wilson Medical Center,1093137838,Wilson,NC,0,Duke LifePoint,https://apps.para-hcfs.com/PTT/FinalLinks/Wilson_V2.aspx#
+60,Erlanger Western Carolina Hospital,1801831102,Murphy,NC,1,Erlanger,https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/westcarolina
+61,FirstHealth Montgomery Memorial Hospital,1548276389,Troy,NC,1,FirstHealth,https://www.cdmpricing.com/2540dcb17c9d1497c17eacc26ed9c9ec
+62,FirstHealth Moore Regional Hospital,1376708149,Pinehurst,NC,0,FirstHealth,https://www.cdmpricing.com/148edeae6e4a28704905be6a5f4e3039
+63,FirstHealth Moore Regional Hospital - Hoke,1376708149,Raeford,NC,0,FirstHealth,https://www.cdmpricing.com/148edeae6e4a28704905be6a5f4e3039
+64,FirstHealth Moore Regional Hospital - Richmond,1376708149,Rockingham,NC,0,FirstHealth,https://www.cdmpricing.com/148edeae6e4a28704905be6a5f4e3039
+65,Angel Medical Center,1235396292,Franklin,NC,1,HCA,https://missionhealth.org/kaGZs2YoXr/832053115_angel-medical-center_standardcharges.csv
+66,Blue Ridge Regional Hospital,1679570840,Spruce Pine,NC,1,HCA,https://missionhealth.org/kaGZs2YoXr/832048759_blue-ridge-regional-hospital_standardcharges.csv
+67,Highlands-Cashiers Hospital,1346456597,Highlands,NC,1,HCA,https://missionhealth.org/kaGZs2YoXr/832048950_highlands-cashiers-hospital_standardcharges.csv
+68,Mission Hospital,1881626075,Asheville,NC,0,HCA,https://missionhealth.org/kaGZs2YoXr/832048706_mission-hospital_standardcharges.csv
+69,Mission Hospital McDowell,1225513948,Marion,NC,0,HCA,https://missionhealth.org/kaGZs2YoXr/832048888_mcdowell-hospital_standardcharges.csv
+70,Transylvania Regional Hospital,1275520017,Brevard,NC,1,HCA,https://missionhealth.org/kaGZs2YoXr/832048854_transylvania-regional-hospital_standardcharges.csv
+71,Randolph Health,1003891953,Asheboro,NC,0,Java Medical Group,https://www.randolphhealth.org/media/1538/randolph_final-mr-cdm_210101.xlsx
+72,LifeBrite Community Hospital of Stokes,1396288999,Danbury,NC,1,LifeBrite,
+73,Novant Health Brunswick Medical Center,1710915756,Supply,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/20-4278130_NovantHealthBrunswickMedicalCenter_standardcharges.csv
+74,Novant Health Charlotte Orthopaedic Hospital,1689015158,Charlotte,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0554230_NovantHealthCharlotteOrthopedicHospital_standardcharges.csv
+75,Novant Health Forsyth Medical Center,1215495148,Winston-Salem,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0928089_NovantHealthForsythMedicalCenter_standardcharges.csv
+76,Novant Health Huntersville Medical Center,1346291309,Huntersville,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0554230_NovantHealthHuntersvilleMedicalCenter_standardcharges.csv
+77,Novant Health Kernersville Medical Center,1396372322,Kernersville,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0928089_NovantHealthKernersvilleMedicalCenter_standardcharges.csv
+78,Novant Health Matthews Medical Center,1225426976,Matthews,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-1376368_NovantHealthMatthewsMedicalCenter_standardcharges.csv
+79,Novant Health Medical Park Hospital,1538111828,Winston-Salem,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-1340424_NovantHealthMedicalParkHospital_standardcharges.csv
+80,Novant Health Mint Hill Medical Center,1972001469,Mint Hill,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/26-0599536_NovantHealthMintHillMedicalCenter_standardcharges.csv
+81,Novant Health Presbyterian Medical Center,1306304233,Charlotte,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0554230_NovantHealthPresbyterianMedicalCenter_standardcharges.csv
+82,Novant Health Rowan Medical Center,1447806443,Salisbury,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0547479_NovantHealthRowanMedicalCenter_standardcharges.csv
+83,Novant Health Thomasville Medical Center,1265088264,Thomasville,NC,0,Novant Health,https://www.novanthealth.org/Portals/92/Assets/Documents/Corporate/CSVs/56-0636250_NovantHealthThomasvilleMedicalCenter_standardcharges.csv
+84,Halifax Regional Medical Center,1346273943,Roanoke Rapids,NC,0,Novant Health,
+85,Ashe Memorial Hospital,1376671370,Jefferson,NC,1,Novant Health,
+86,Pender Memorial Hospital,1033242987,Burgaw,NC,1,Novant Health,https://www.nhrmc.org/-/media/reimbursement/price-transparency/341307-pender-memorial-hospital-standard-charges.xlsx
+87,New Hanover Regional Medical Center,1548216880,Wilmington,NC,0,Novant Health,https://www.nhrmc.org/-/media/reimbursement/price-transparency/340141-new-hanover-regional-medical-center-standard-charges.xlsx
+88,NHRMC Orthopedic Hospital,1548216880,Wilmington,NC,0,Novant Health,
+89,Martin General Hospital,1538357611,Williamston,NC,0,Quorum Health,https://www.martingeneral.com/Uploads/Public/Documents/Pricing/CM_12_2020/MartinGeneral_CMList_12_01_2020.csv
+90,Sentara Albemarle Medical Center,1245211168,Elizabeth City,NC,0,Sentara,https://www.sentara.com/Assets/Pdf/Billing/Sentara-Hospital-Charges-Transparency-Hampton-Roads-Northern-VA-Jan-2021.csv
+91,Caldwell UNC Health Care,1114974029,Lenoir,NC,0,UNC Health,
+92,Chatham UNC Health Care,1770789752,Siler City,NC,1,UNC Health,
+93,Johnston UNC Health Care,1619911104,Smithfield,NC,0,UNC Health,http://portalapprev.com/ptapp/#1bebae81d06505b29fc9a5323fb9dac3f480979f0fa32bf4004915e0207d36a9
+94,Nash UNC Health Care,1619969219,Rocky Mount,NC,0,UNC Health,http://portalapprev.com/ptapp/#6864cd865dc9126d1ceb5dba82cccac976f64b50ff09491ea3ef6d72ac9bcffd
+95,Pardee UNC Health Care,1144247982,Hendersonville,NC,0,UNC Health,https://www.adventhealth.com/sites/default/files/CDM/2021/json/560543246_AdventHealth_Hendersonville_standardcharges.json
+96,UNC Health Southeastern,1427445360,Lumberton,NC,0,UNC Health,http://portalapprev.com/ptapp/#ba3c4e2c4a2e1f7ea210c970fc4319b1465e1ac06ec9ea1c4d6cfc8c1be9351c
+97,UNC Hospitals Hillsborough Campus,1831576982,Hillsborough,NC,0,UNC Health,
+98,UNC Lenoir Health Care,1962446385,Kinston,NC,0,UNC Health,
+99,UNC Medical Center,1306229935,Chapel Hill,NC,0,UNC Health,
+100,UNC REX Healthcare,1346683844,Raleigh,NC,0,UNC Health,
+101,UNC Rockingham Health Care,1326048810,Eden,NC,0,UNC Health,
+102,Wayne UNC Health Care,1700054582,Goldsboro,NC,0,UNC Health,
+103,Onslow Memorial Hospital,1679535496,Jacksonville,NC,0,UNC Health,
+104,The Outer Banks Hospital,1518921717,Nags Head,NC,1,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-2112733-THE-OUTER-BANKS-STANDARD-CHARGES.xlsx
+105,Vidant Beaufort Hospital,1679867170,Washington,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/45-2436270-VIDANT-BEAUFORT-STANDARD-CHARGES.xlsx
+106,Vidant Bertie Hospital,1013999705,Windsor,NC,1,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-2072002-VIDANT-BERTIE-STANDARD-CHARGES.xlsx
+107,Vidant Chowan Hospital,1467430710,Edenton,NC,1,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-2101090-VIDANT-CHOWAN-STANDARD-CHARGES.xlsx
+108,Vidant Duplin Hospital,1508832833,Kenansville,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-6011594-VIDANT-DUPLIN-STANDARD-CHARGES.xlsx
+109,Vidant Edgecombe Hospital,1699757393,Tarboro,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-2093700-VIDANT-EDGECOMBE-STANDARD-CHARGES.xlsx
+110,Vidant Medical Center,1043218944,Greenville,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-0585243-VIDANT-MEDICAL-CENTER-STANDARD-CHARGES.xlsx
+111,Vidant Roanoke-Chowan Hospital,1467441394,Ahoskie,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-2003393-VIDANT-ROANOKE-CHOWAN-STANDARD-CHARGES.xlsx
+112,Vidant North Hospital,1336771112,Roanoke Rapids,NC,0,Vidant,https://www.vidanthealth.com/wp-content/uploads/2021/06/56-0989789-VIDANT-NORTH-STANDARD-CHARGES-1.xlsx
+113,WakeMed,1972579837,Raleigh,NC,0,WakeMed,
+114,WakeMed Cary Hospital,1114993086,Cary,NC,0,WakeMed,
+115,WakeMed North Hospital,1013137199,Raleigh,NC,0,WakeMed,

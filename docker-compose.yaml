@@ -17,6 +17,12 @@ services:
     ports:
       - "$PGPORT:5432"
 
+  etl:
+    build: ./src/integrations/
+    container_name: etl
+    volumes:
+      - ./volumes/data:/opt/data
+
   flyway:
     image: "flyway/flyway:6"
     container_name: flyway
@@ -31,3 +37,4 @@ services:
       - ./src/migrations:/flyway/migrations
     depends_on:
       - postgres
+      - etl
