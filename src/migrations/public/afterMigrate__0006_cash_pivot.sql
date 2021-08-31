@@ -122,3 +122,5 @@ FROM public.price_pivot
 GROUP BY
     concept_id
 ;
+
+COPY cash_pivot TO PROGRAM 'gzip > /opt/data/extracts/cash_pivot.csv.gz' WITH CSV HEADER;

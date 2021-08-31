@@ -15,3 +15,5 @@ GROUP BY
     hospital_id
   , concept_id
 ;
+
+COPY price_pivot TO PROGRAM 'gzip > /opt/data/extracts/price_pivot.csv.gz' WITH CSV HEADER;
