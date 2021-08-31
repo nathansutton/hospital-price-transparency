@@ -2,7 +2,7 @@
 
 ## Hospital Price transparency
 
-The Centers for Medicare and Medicaid Services recently required hospitals in the United States to publish a [list of prices](https://www.cms.gov/hospital-price-transparency) on their websites.  They specifically instruct hospitals to make these lists...
+The Centers for Medicare and Medicaid Services recently required hospitals under  [45 CFR §180.50](https://www.federalregister.gov/d/2019-24931/p-1010) to publish a [list of prices](https://www.cms.gov/hospital-price-transparency) on their websites.  They specifically instruct hospitals to make these lists...
 - As a comprehensive machine-readable file with all items and services.   
 - In a display of shoppable services in a consumer-friendly format.  
 
