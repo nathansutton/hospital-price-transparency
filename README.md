@@ -49,6 +49,10 @@ Interactive PSQL client
 docker exec -it postgres psql -d postgres -U builder
 ```
 
+### What this is not
+
+I sacrificed some scalabilty for the name of speed.  There are some [excellent examples](https://github.com/vsoch/hospital-chargemaster/blob/master/hospitals.tsv) how you could scrape your way through this to complete automation.  I introduced a s manual step of downloading a file and naming it by the hospital ID.  All other transformations are codified and reproducible in the container.
+
 ### Contact
 
 Submit an issue if you find anything inconsistent.  Like all data products, we make assumptions and provide no warrantee.  
