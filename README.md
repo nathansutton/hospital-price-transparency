@@ -29,6 +29,11 @@ Only North Carolina is covered right now because I happen to live there.  Submit
 
 ### Usage
 
+Quickstart with docker-compose
+```
+docker-compose up
+```
+
 Run the flyway migrations
 ```
 docker-compose run flyway
