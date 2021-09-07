@@ -4,7 +4,7 @@ library(readxl)
 options(stringsAsFactors = FALSE)
 
 # must match a reference ontology
-concept <- fread("/opt/data/vocab/CONCEPT.csv.gz",quote="")
+concept <- fread("/opt/data/dim/CONCEPT.csv.gz",quote="")
 concept <- unique(concept[,c("concept_code","concept_id"),with=F])
 names(concept)[1] <- "cpt"
 

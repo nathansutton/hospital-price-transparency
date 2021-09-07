@@ -12,4 +12,4 @@ CREATE TABLE concept
   invalid_reason     VARCHAR(1) NULL
 );
 
-COPY concept FROM PROGRAM 'gunzip -c /opt/data/vocab/CONCEPT.csv.gz' WITH DELIMITER E'\t' CSV HEADER QUOTE E'\b' ;
+COPY concept FROM PROGRAM 'gunzip -c /opt/data/dim/CONCEPT.csv.gz' WITH DELIMITER E'\t' CSV HEADER QUOTE E'\b' ;
