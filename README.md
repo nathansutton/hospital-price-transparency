@@ -8,7 +8,8 @@ The Centers for Medicare and Medicaid Services recently required hospitals under
 
 There is a lot of variation in adherence to these policies.  Without strong guidance on formatting from CMS, it is no wonder hospitals are all over the map on formatting.  Many hospitals have complied with the new rules but in ways that are not consumer friendly.  500 Megabytes of JSON data is not a strong start!
 
-[Turquoise Health](https://medium.com/r/?url=https%3A%2F%2Fturquoise.health%2F) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. However, my guess is that they would not be happy to sharing the underlying data they have monetized (but I will ask). This repository fills the gap with open data for researchers and data people.
+[Turquoise Health](https://medium.com/r/?url=https%3A%2F%2Fturquoise.health%2F) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. However, my guess is that they would not be happy to sharing the underlying data they have monetized (but I will ask). __This repository fills the gap with open data for researchers and data people.__
+
 ### Supplied Data
 
 If you don't have the proclivity to transform these data yourself with docker, there are CSV extracts available in ./volumes/data/extracts.  They are broken down into four distinct groups.
