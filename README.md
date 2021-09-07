@@ -8,7 +8,7 @@ The Centers for Medicare and Medicaid Services recently required hospitals under
 
 There is a lot of variation in adherence to these policies.  Without strong guidance on formatting from CMS, it is no wonder hospitals are all over the map on formatting.  Many hospitals have complied with the new rules but in ways that are not consumer friendly.  500 Megabytes of JSON data is not a strong start!
 
-[Turquoise Health](https://medium.com/r/?url=https%3A%2F%2Fturquoise.health%2F) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. However, my guess is that they would not be happy to sharing the underlying data they have monetized (but I will ask). __This repository fills the gap with open data for researchers and data people.__
+[Turquoise Health](https://turquoise.health/) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. However, my guess is that they would not be happy to sharing the underlying data they have monetized (but I will ask). __This repository fills the gap with open data for researchers and data people.__
 
 ### Supplied Data
 
@@ -59,7 +59,7 @@ docker exec -it postgres psql -d postgres -U builder
 I took great care to make the data generation process reproducible inside of a docker container. However, I sacrificed some scalability for the name of speed of development. There are some [excellent examples]((https://github.com/vsoch/hospital-chargemaster/blob/master/hospitals.tsv)) how you could scrape your way through this to complete automation. I introduced a manual step of downloading a file and naming it by my generated hospital ID. All other transformations are codified and reproducible in the container.
 
 ## Where to go from here
-I will use these data as a launching point to investigate questions around the economics of hospital prices. The New York Times had a great quote in their recent article ['Hospitals and Insurers Didn't Want You to See These Prices. Here's Why'](https://medium.com/r/?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2021%2F08%2F22%2Fupshot%2Fhospital-prices.html%3Fsmid%3Durl-share).
+I will use these data as a launching point to investigate questions around the economics of hospital prices. The New York Times had a great quote in their recent article ['Hospitals and Insurers Didn't Want You to See These Prices. Here's Why'](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html?smid=url-share).
 
 ```
 The trade association for insurers said it was "an anomaly" that some insured patients got worse prices than those paying cash.
