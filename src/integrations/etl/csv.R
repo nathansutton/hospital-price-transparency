@@ -4,7 +4,7 @@ library(R.utils)
 options(stringsAsFactors = FALSE)
 
 # must match a reference ontology
-concept <- fread("/opt/data/vocab/CONCEPT.csv.gz",quote="")
+concept <- fread("/opt/data/dim/CONCEPT.csv.gz",quote="")
 concept <- unique(concept[,c("concept_code","concept_id"),with=F])
 names(concept)[1] <- "cpt"
 
@@ -123,6 +123,7 @@ for(i in 1:nrow(control)){
       cpt = dt[['HCPCS/CPT Code']], # not a CPT code
       gross = dt[['Gross Charge']]
     ))
+    out[["cpt"]] <- str_sub(out[["cpt"]],2,nchar(out[["cpt"]]))
   } else if (control$hospital_id[i] %in% c(73:83)) {
     out <- unique(data.table(
       cpt = dt[['CPT/DRG']], # not a CPT code
