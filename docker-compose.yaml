@@ -22,9 +22,9 @@ services:
       - ./volumes/data:/opt/data
 
   flyway:
-    image: "flyway/flyway:6"
+    build: "./src/applications/flyway/"
     container_name: flyway
-    command: migrate -locations=filesystem:/flyway/migrations/public -schemas=public -connectRetries=60
+    command: flyway migrate -locations=filesystem:/flyway/migrations/public -schemas=public -connectRetries=60
     environment:
       - FLYWAY_URL=jdbc:postgresql://postgres:5432/postgres
       - FLYWAY_USER=builder
