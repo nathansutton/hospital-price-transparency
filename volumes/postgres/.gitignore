@@ -1,3 +1,0 @@
-# everything but this file, mounted postgres database
-*
-!.gitignore
