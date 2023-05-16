@@ -2,6 +2,8 @@ name: Scrape latest data
 
 on:
   push:
+    branches: 
+      - main  
   workflow_dispatch:
   schedule:
     - cron:  '0 8 * * *' # daily
