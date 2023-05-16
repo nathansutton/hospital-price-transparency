@@ -1,5 +1,3 @@
-[![YourActionName Actions Status](https://github.com/nathansutton/healthcare-price-transparency/workflows/CI/badge.svg)](https://github.com/nathansutton/healthcare-price-transparency/actions)
-
 ## Hospital Price transparency
 
 The Centers for Medicare and Medicaid Services recently required hospitals under  [45 CFR §180.50](https://www.federalregister.gov/d/2019-24931/p-1010) to publish a [list of prices](https://www.cms.gov/hospital-price-transparency) on their websites.  They specifically instruct hospitals to make these lists...
@@ -8,18 +6,21 @@ The Centers for Medicare and Medicaid Services recently required hospitals under
 
 There is a lot of variation in adherence to these policies.  Without strong guidance on formatting from CMS, it is no wonder hospitals are all over the map on formatting.  Many hospitals have complied with the new rules but in ways that are not consumer friendly.  500 Megabytes of JSON data is not a strong start!
 
-[Turquoise Health](https://turquoise.health/) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. However, my guess is that they would not be happy to sharing the underlying data they have monetized (but I will ask). __This repository fills the gap with open data for researchers and data people.__
+[Turquoise Health](https://turquoise.health/) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. __This repository fills the gap with open data for researchers and data people.__
 
 ### Supplied Data
 
-If you don't have the proclivity to transform these data yourself with docker, there are CSV extracts available in ./volumes/data/extracts.  They are broken down into four distinct groups.
+Each hospital is identified by the NPI.
 
+A jsonlines file is create and tracked over time with version control according to the excellent pattern set out by [@simonw](https://github.com/simonw/ca-fires-history/tree/main).
+
+```
+{"cpt":"0031A","cash":12.8,"gross":56.53}
+```
+- __cpt__: the code from the AMA that corresponds to this billed service
 - __gross__: this is often the top line item that the hospital never actually charges  
 - __cash__: this is the self-pay discounted price you would pay without insurance
-- __max__: this is the maximum negotiated rate by an insurance company in the hospital network.
-- __min__: this is the minimum negotiated rate by an insurance company in the hospital network
 
-A minority of hospitals included the payer and plan specific charges as their own column. I found that hospitals much more frequently reported the de-identified maximum and minimum negotiated prices, and so I started there.
 
 ### Ontology
 
@@ -30,29 +31,11 @@ The disadvantage with this normalization is that we exclude the hospital-specifi
 
 ### Coverage
 
-Only North Carolina is covered right now because I happen to live there.  Submit a PR if you have found data for other hospital systems.  
-
-### Usage
-
-Quickstart with docker-compose
-```
-docker-compose up
-```
-
-Run the flyway migrations
-```
-docker-compose run flyway
-```
-
-Run the ETL
-```
-docker-compose run etl
-```
-
-Interactive PSQL client
-```
-docker exec -it postgres psql -d postgres -U builder
-```
+I am starting in CBSA's in Southern Appalachia.
+- Asheville, NC
+- Johnson City, TN
+- Knoxville, TN
+- Chattanooga, TN
 
 ### A word of caution
 
