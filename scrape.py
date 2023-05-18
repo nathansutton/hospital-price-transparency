@@ -27,7 +27,7 @@ def cleanup_charges(charges: pd.DataFrame, rename: bool, gross: str, cash: str, 
     charges = charges.groupby(["vocabulary_id","concept_code"])[["cash","gross"]].max().reset_index()
     charges = pd.melt(charges,id_vars="concept_code",value_vars=["cash","gross"])
     charges = charges.rename(columns={"concept_code":"cpt","variable":"type","value":"price"})
-    charges = charges.drop_duplicates().dropna().round(2).sort_values(["cpt"])
+    charges = charges.drop_duplicates().dropna().round(2).sort_values(["cpt","type"])
     return charges
 
 
@@ -54,7 +54,7 @@ dt = dt[dt.can_automate == True] # only include those that are working based on 
 
 # concept dimension from OHDSI athena
 concept = pd.read_csv("./dim/CONCEPT.csv.gz",compression='gzip',sep="\t")
-concept = concept[(concept.vocabulary_id=='CPT4') | (concept.vocabulary_id=="HCPCS")] # there are technically overlaps in this code set, improve in the future
+concept = concept[(concept.vocabulary_id=='CPT4')] # there are technically overlaps in this code set, improve in the future
 
 # status 
 status = []
