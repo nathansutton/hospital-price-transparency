@@ -5,38 +5,34 @@ import json
 import os 
 from datetime import date
 
-# hospital dimension
-dt = pd.read_csv("./dim/hospital.csv")
-
 def cleanup_charges(charges: pd.DataFrame, rename: bool, gross: str, cash: str, cpt: str) -> pd.DataFrame:
     """standarize the cleaning into a normalized table of prices"""
     if rename:
-        charges[["gross"]] = charges[[gross]]
-        charges[["cash"]] = charges[[cash]]        
-        charges[["concept_code"]] = charges[[cpt]]        
-        charges[["vocabulary_id"]] = "cpt"
+        charges["gross"] = charges[gross]
+        charges["cash"] = charges[cash]        
+        charges["concept_code"] = charges[[cpt]]
+        charges["concept_code"] = charges["concept_code"].apply(lambda x: strip_zero(x.strip()))
+        charges["vocabulary_id"] = "cpt"
 
     if charges.gross.dtype != 'float64':
         charges["gross"] = charges[["gross"]].apply(lambda x: x.str.replace(",","").str.replace("$",""))
         charges["gross"] = charges["gross"].apply(pd.to_numeric, errors='ignore', downcast='float')
-        charges["gross"] = charges["gross"].apply(lambda x: round(Decimal(x),2))
-    
     if charges.cash.dtype != 'float64':
         charges["cash"] = charges[["cash"]].apply(lambda x: x.str.replace(",","").str.replace("$",""))
         charges["cash"] = charges["cash"].apply(pd.to_numeric, errors='ignore', downcast='float')
-        charges["cash"] = charges["cash"].apply(lambda x: round(Decimal(x),2))
+
 
     charges = charges[charges.vocabulary_id == "cpt"]
-    charges = pd.merge(charges,concept[["concept_id","concept_code"]],left_on="concept_code",right_on="concept_code")
+    charges = pd.merge(charges,concept[["concept_code"]],left_on="concept_code",right_on="concept_code")
     charges = charges.groupby(["vocabulary_id","concept_code"])[["cash","gross"]].max().reset_index()
     charges = pd.melt(charges,id_vars="concept_code",value_vars=["cash","gross"])
     charges = charges.rename(columns={"concept_code":"cpt","variable":"type","value":"price"})
-    charges = charges.drop_duplicates().dropna().sort_values(["cpt"])
+    charges = charges.drop_duplicates().dropna().round(2).sort_values(["cpt"])
     return charges
 
 
 def load_json(url: str) -> dict:
-    """requests gets a 403 forbidden a lot"""
+    """requests gets a 403 forbidden a lot, so just use curl"""
     os.system('curl ' + url + " | jq > tmp.json")
     with open("tmp.json","r") as f:
         charges = json.load(f)
@@ -44,15 +40,54 @@ def load_json(url: str) -> dict:
         os.remove("tmp.json")                
     return charges
 
+def strip_zero(string: str) -> str:
+    """some unfortunate individuals pad their cpt codes with zeros"""
+    if len(string) == 6 and string[0] == "0":
+        return string[1:]
+    else: 
+        return string
+
+
+# hospital dimension
+dt = pd.read_csv("./dim/hospital.csv")
+dt = dt[dt.can_automate == True] # only include those that are working based on a control flag
+
 # concept dimension from OHDSI athena
 concept = pd.read_csv("./dim/CONCEPT.csv.gz",compression='gzip',sep="\t")
-concept = concept[concept.vocabulary_id=='CPT4']
+concept = concept[(concept.vocabulary_id=='CPT4') | (concept.vocabulary_id=="HCPCS")] # there are technically overlaps in this code set, improve in the future
 
 # status 
 status = []
 
 for index, row in dt.iterrows():
+
     try:
+
+        if row["idn"] == "Parkridge":
+            with urllib.request.urlopen(row["file_url"]) as f:
+                charges = pd.read_csv(f,skiprows=int(row["skiprow"]),dtype="object",keep_default_na=False) 
+            charges = cleanup_charges(
+                charges = charges,
+                rename = True,
+                gross = row["gross"],
+                cash = row["cash"],
+                cpt = row["cpt"]
+            )
+            charges.to_json("./data/" + str(row["hospital_npi"]) + ".jsonl",lines=True,orient="records") 
+
+
+        if row["idn"] == "Mission Health":
+            with urllib.request.urlopen(row["file_url"]) as f:
+                charges = pd.read_csv(f,skiprows=int(row["skiprow"]),dtype="object",keep_default_na=False) 
+            charges = cleanup_charges(
+                charges = charges,
+                rename = True,
+                gross = row["gross"],
+                cash = row["cash"],
+                cpt = row["cpt"]
+            )
+            charges.to_json("./data/" + str(row["hospital_npi"]) + ".jsonl",lines=True,orient="records") 
+            
 
         if row["idn"] == "Advent Health":
             charges = load_json(row["file_url"])
@@ -151,4 +186,4 @@ for index, row in dt.iterrows():
        })
 
 
-pd.DataFrame(status).sort_values(['status','hospital_npi']).to_csv("status.csv",index=False)
+pd.DataFrame(status).sort_values(['hospital_npi']).to_csv("status.csv",index=False)
