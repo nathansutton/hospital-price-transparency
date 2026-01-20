@@ -12,12 +12,6 @@ OMOP Common Data Model concept vocabulary containing CPT4 and HCPCS codes. Used 
 
 Download from Athena requires a free account. Select CPT4 and HCPCS vocabularies.
 
-### place_of_service.csv
-
-**Source:** [CMS Provider of Services File](https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-quality-improvement-and-evaluation-system)
-
-Hospital metadata including CCN (CMS Certification Number), name, address, and facility type. The Provider of Services file is updated quarterly by CMS.
-
 ### urls/
 
 **Source:** [hospitalpricingfiles.org](https://hospitalpricingfiles.org)
