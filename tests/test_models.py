@@ -1,7 +1,5 @@
 """Tests for Pydantic data models."""
 
-from datetime import date
-
 import pytest
 from pydantic import ValidationError
 

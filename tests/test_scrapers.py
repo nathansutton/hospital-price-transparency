@@ -1,9 +1,7 @@
 """Tests for scraper implementations."""
 
-import json
-from unittest.mock import MagicMock, patch
+from unittest.mock import MagicMock
 
-import pandas as pd
 import pytest
 
 from src.config import ScraperConfig
@@ -96,7 +94,9 @@ def csv_hospital_config():
 class TestCMSStandardJSONScraper:
     """Tests for CMSStandardJSONScraper."""
 
-    def test_parse_data_cms_format(self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_parse_data_cms_format(
+        self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test CMS standard JSON parsing with standard_charge_information format."""
         scraper = CMSStandardJSONScraper(
             hospital_config=json_hospital_config,
@@ -109,15 +109,11 @@ class TestCMSStandardJSONScraper:
             "standard_charge_information": [
                 {
                     "billing_code_information": [{"type": "CPT", "code": "99213"}],
-                    "standard_charges": [
-                        {"gross_charge": 100, "discounted_cash": 80}
-                    ],
+                    "standard_charges": [{"gross_charge": 100, "discounted_cash": 80}],
                 },
                 {
                     "billing_code_information": [{"type": "CPT", "code": "99214"}],
-                    "standard_charges": [
-                        {"gross_charge": 150, "discounted_cash": 120}
-                    ],
+                    "standard_charges": [{"gross_charge": 150, "discounted_cash": 120}],
                 },
             ]
         }
@@ -129,7 +125,9 @@ class TestCMSStandardJSONScraper:
         assert df.iloc[0]["gross"] == 100
         assert df.iloc[0]["cash"] == 80
 
-    def test_parse_data_flat_list(self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_parse_data_flat_list(
+        self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test CMS JSON parsing with flat list format (direct charges array)."""
         scraper = CMSStandardJSONScraper(
             hospital_config=json_hospital_config,
@@ -164,12 +162,14 @@ class TestCMSStandardJSONScraper:
 
 class TestHyveCMSJSONScraper:
     """Tests for HyveCMSJSONScraper (Covenant Health format).
-    
+
     HyveCMSJSONScraper inherits from CMSStandardJSONScraper without modifications,
     so we just test that it can be instantiated and uses the same parsing.
     """
 
-    def test_inherits_cms_standard(self, json_covenant_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_inherits_cms_standard(
+        self, json_covenant_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test that HyveCMSJSONScraper inherits from CMSStandardJSONScraper."""
         scraper = HyveCMSJSONScraper(
             hospital_config=json_covenant_config,
@@ -180,7 +180,9 @@ class TestHyveCMSJSONScraper:
 
         assert isinstance(scraper, CMSStandardJSONScraper)
 
-    def test_parse_data_uses_cms_format(self, json_covenant_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_parse_data_uses_cms_format(
+        self, json_covenant_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test HyveCMSJSONScraper uses CMS standard format parsing."""
         scraper = HyveCMSJSONScraper(
             hospital_config=json_covenant_config,
@@ -194,9 +196,7 @@ class TestHyveCMSJSONScraper:
             "standard_charge_information": [
                 {
                     "billing_code_information": [{"type": "CPT", "code": "99213"}],
-                    "standard_charges": [
-                        {"gross_charge": 100, "discounted_cash": 80}
-                    ],
+                    "standard_charges": [{"gross_charge": 100, "discounted_cash": 80}],
                 },
             ]
         }
@@ -210,7 +210,9 @@ class TestHyveCMSJSONScraper:
 class TestCMSStandardCSVScraper:
     """Tests for CMSStandardCSVScraper."""
 
-    def test_parse_data(self, csv_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_parse_data(
+        self, csv_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test CMS standard CSV parsing with pipe-delimited code columns."""
         scraper = CMSStandardCSVScraper(
             hospital_config=csv_hospital_config,
@@ -291,7 +293,9 @@ class TestScraperRegistry:
         scraper_class = ScraperRegistry.get_scraper_class(config)
         assert scraper_class == CMSStandardJSONScraper
 
-    def test_create_scraper(self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_create_scraper(
+        self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test creating a scraper instance."""
         scraper = ScraperRegistry.create_scraper(
             hospital_config=json_hospital_config,
@@ -303,10 +307,12 @@ class TestScraperRegistry:
         assert scraper is not None
         assert isinstance(scraper, CMSStandardJSONScraper)
 
-    def test_explicit_scraper_type(self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_explicit_scraper_type(
+        self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test explicit scraper_type override."""
         json_hospital_config.scraper_type = "HyveCMSJSONScraper"
-        
+
         scraper = ScraperRegistry.create_scraper(
             hospital_config=json_hospital_config,
             scraper_config=scraper_config,
@@ -321,7 +327,9 @@ class TestScraperRegistry:
 class TestGetScraper:
     """Tests for get_scraper convenience function."""
 
-    def test_get_scraper_returns_instance(self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer):
+    def test_get_scraper_returns_instance(
+        self, json_hospital_config, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test get_scraper returns a configured scraper instance."""
         scraper = get_scraper(
             hospital_config=json_hospital_config,
@@ -333,7 +341,9 @@ class TestGetScraper:
         assert scraper is not None
         assert isinstance(scraper, CMSStandardJSONScraper)
 
-    def test_get_scraper_returns_none_for_unknown_format(self, scraper_config, mock_http_client, mock_normalizer):
+    def test_get_scraper_returns_none_for_unknown_format(
+        self, scraper_config, mock_http_client, mock_normalizer
+    ):
         """Test get_scraper returns None for unknown format without IDN."""
         config = HospitalConfig(
             hospital_npi="1234567890",
