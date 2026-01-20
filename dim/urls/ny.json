@@ -1,0 +1,1818 @@
+[
+  {
+    "detail_id": "7e186c2e-ed94-471f-b42d-7b1d48611c55",
+    "ccn": "330079",
+    "hospital_name": "ADIRONDACK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://adirondackhealth.box.com/shared/static/r0wsvcixd88hvcijkyv3zb9tj7grjy57.csv",
+    "transparency_page": "https://www.adirondackhealth.org/price-transparency"
+  },
+  {
+    "detail_id": "70cd8f45-a804-4eae-b19c-3dc57ca83c39",
+    "ccn": "330166",
+    "hospital_name": "AHN WESTFIELD MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/160743222_Westfield-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.ahn.org/patients-visitors/patients/financial-services/hospital-charges"
+  },
+  {
+    "detail_id": "0aa82af4-25fc-4c7f-bacb-fe1d47bd06e9",
+    "ccn": "330013",
+    "hospital_name": "ALBANY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.albanymed.org/wp-content/uploads/attachments/141338307_albanymedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.albanymed.org/patients-visitors/billing-insurance/hospital-pricing-transparency/"
+  },
+  {
+    "detail_id": "de56ab86-082e-4397-9bf9-48299365f1ac",
+    "ccn": "330189",
+    "hospital_name": "ALBANY MEDICAL CENTER - SOUTH CLINICAL CAMPUS",
+    "address": "25 HACKETT BOULEVARD, MC 201",
+    "file_url": "https://www.albanymed.org/wp-content/uploads/attachments/141338307_albanymedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.albanymed.org/patients-visitors/billing-insurance/hospital-pricing-transparency/"
+  },
+  {
+    "detail_id": "38a9c8dc-8581-43ba-ac26-6e6875ade477",
+    "ccn": "331321",
+    "hospital_name": "ALICE HYDE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.alicehyde.com/data/files/150346515_alice-hyde-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.alicehyde.com/Patients-and-Visitors/Price-Transparency"
+  },
+  {
+    "detail_id": "e28b1a4f-801d-4e41-bb79-3abe1b6a4948",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "28cb62f9-2302-4bba-99a0-502fdbde135c",
+    "ccn": "330235",
+    "hospital_name": "AUBURN COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.auburnhospital.org/wp-content/uploads/2025/01/150532054_auburn-community-hospital_standardcharges-2.zip",
+    "transparency_page": "https://www.auburnhospital.org/patients-and-visitors/billing/"
+  },
+  {
+    "detail_id": "69600953-863b-407f-bdd9-65cd4bf8570f",
+    "ccn": "330085",
+    "hospital_name": "AURELIA OSBORN FOX MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=dd4a45c34a73e2921ffde17ee78f43a8c88559f85c6b2678e820a524e2e22ecd",
+    "transparency_page": "https://www.bassett.org/about-us/price-transparency"
+  },
+  {
+    "detail_id": "d81d0dba-69b1-40fa-a0f9-b44aa0659316",
+    "ccn": "",
+    "hospital_name": "AURELIA OSBORN FOX MEMORIAL HOSPITAL TRI TOWN REGIONAL HEALTHCARE",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=dd4a45c34a73e2921ffde17ee78f43a8c88559f85c6b2678e820a524e2e22ecd",
+    "transparency_page": "https://www.bassett.org/about-us/price-transparency"
+  },
+  {
+    "detail_id": "64be98c3-23c2-44af-a0f3-abd85fe6cf47",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6e69f90f-cfc8-447a-8d69-773b199923f2",
+    "ccn": "330204",
+    "hospital_name": "BELLEVUE HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/bellevue",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "84923314-52af-416f-993b-bfec6ceaec69",
+    "ccn": "330111",
+    "hospital_name": "BERTRAND CHAFFEE HOSPITAL",
+    "address": "",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/a7b918c3-56d9-410c-bec6-e3d86fde3f92/160743921_BERTRAND-CHAFFEE-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=a7b918c3-56d9-410c-bec6-e3d86fde3f92"
+  },
+  {
+    "detail_id": "83aef9b4-f634-4d82-9dcd-0e383d7da5e8",
+    "ccn": "333301",
+    "hospital_name": "BLYTHEDALE CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.blythedale.org/documents/13-1739922blythedale-children-s-hospitalstandardchargescsv",
+    "transparency_page": "https://www.blythedale.org/price-transparency-shoppable-services"
+  },
+  {
+    "detail_id": "fd7e4e67-3ec2-40e8-9bf7-0e7b7f2dd695",
+    "ccn": "330135",
+    "hospital_name": "BON SECOURS COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecourscommunityhosp.org/Uploads/Public/141347717_BonSecoursCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "84e38949-a059-45c5-94a0-bc125e32982e",
+    "ccn": "331023",
+    "hospital_name": "BRONXCARE CARE CENTER",
+    "address": "",
+    "file_url": "https://info.bronxcare.org/price/131974191_BronxcareHealthSystem_MR.csv",
+    "transparency_page": "https://www.bronxcare.org/about-us/paying-for-care/charges/"
+  },
+  {
+    "detail_id": "0b28db03-04f5-4cad-b543-780289e94a89",
+    "ccn": "330009",
+    "hospital_name": "BRONXCARE DR. MARTIN LUTHER KING, JR. HEALTH CENTER",
+    "address": "",
+    "file_url": "https://info.bronxcare.org/price/131974191_BronxcareHealthSystem_MR.csv",
+    "transparency_page": "https://www.bronxcare.org/about-us/paying-for-care/charges/"
+  },
+  {
+    "detail_id": "b1a0a0fc-3054-4c33-8b55-c501c19b75b2",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "07513272-685f-44de-af4f-00934d54a50b",
+    "ccn": "330056",
+    "hospital_name": "BROOKLYN HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/ebf28644bb924223cdc535587109fa3f/charges/mrf",
+    "transparency_page": "https://www.tbh.org/visitor-information/billing/price-transparency"
+  },
+  {
+    "detail_id": "168e6eef-4305-433d-8ece-15c1171e320f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "7b17654d-7379-4279-886a-b3d3a16816b6",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "1fb5638f-c82c-4c9d-a8b9-01ac64bf9457",
+    "ccn": "334022",
+    "hospital_name": "BRYLIN HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "f302ba52-aafa-4e63-a642-5d149fd5860f",
+    "ccn": "339812",
+    "hospital_name": "BUFFALO GENERAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=8O1flKb9ncxmFbwWjt6PBg*-*",
+    "transparency_page": "https://www.kaleidahealth.org/visitors/patient-pricing/"
+  },
+  {
+    "detail_id": "355e9691-b5b7-4d26-8bce-1f04c1028c06",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "cd176597-ff72-4c18-be9a-a5674b67b6d6",
+    "ccn": "332006",
+    "hospital_name": "CALVARY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.calvaryhospital.org/wp-content/uploads/2025/02/1003858390-Calvary-Hospital-List-of-Services-and-Charges-2025.xlsx",
+    "transparency_page": "https://www.calvaryhospital.org/patients-families/patient-financial-information/"
+  },
+  {
+    "detail_id": "acf2bbf1-8fed-4651-8eb5-83ce1f8852c4",
+    "ccn": "330197",
+    "hospital_name": "CANTON-POTSDAM HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/161012691_canton-potsdam-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "db6a8310-386c-410f-a161-fc58360fc84f",
+    "ccn": "332008",
+    "hospital_name": "CARTER SPECIALTY HOSPITAL",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/henry-carter",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "972d8b14-1984-433e-a6e1-39dda557009b",
+    "ccn": "331318",
+    "hospital_name": "CARTHAGE AREA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carthagehospital.com/156022079_Carthage-Area-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://www.carthagehospital.com/pricing/"
+  },
+  {
+    "detail_id": "485d6a85-6d55-4300-9edf-1f73f5096ae3",
+    "ccn": "330286",
+    "hospital_name": "CATHOLIC HEALTH GOOD SAMARITAN UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://api002.chsli.org/transparency/111888924_good-samaritan-hospital_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparency"
+  },
+  {
+    "detail_id": "76bf3d05-f4c7-4db5-aed8-b06cf07870ae",
+    "ccn": "330259",
+    "hospital_name": "CATHOLIC HEALTH MERCY HOSPITAL",
+    "address": "",
+    "file_url": "https://api002.chsli.org/transparency/111635088_mercy-hospital_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparencyy"
+  },
+  {
+    "detail_id": "772f5944-852f-4664-9f4a-6313b1ce4809",
+    "ccn": "330401",
+    "hospital_name": "CATHOLIC HEALTH ST. CATHERINE OF SIENA HOSPITAL",
+    "address": "50 ROUTE, 25 A",
+    "file_url": "https://api002.chsli.org/transparency/061562701_st-catherine-of-siena-hospital_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparency"
+  },
+  {
+    "detail_id": "f4304576-851e-42a4-ba95-ddc8e095abed",
+    "ccn": "330246",
+    "hospital_name": "CATHOLIC HEALTH ST. CHARLES HOSPITAL",
+    "address": "",
+    "file_url": "https://api002.chsli.org/transparency/111871039_st-charles-hospital_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparency"
+  },
+  {
+    "detail_id": "360d8b2b-7079-4cba-be09-92c919a7a3d4",
+    "ccn": "330182",
+    "hospital_name": "CATHOLIC HEALTH ST. FRANCIS HOSPITAL & HEART CENTER",
+    "address": "",
+    "file_url": "https://api002.chsli.org/transparency/112050523_st-francis-hospital-&-heart-center_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparency"
+  },
+  {
+    "detail_id": "2e350ccd-4c29-4e85-913f-7bb6e20de836",
+    "ccn": "330332",
+    "hospital_name": "CATHOLIC HEALTH ST. JOSEPH HOSPITAL",
+    "address": "",
+    "file_url": "https://api002.chsli.org/transparency/113438973_st-joseph-hospital_standardcharges.json",
+    "transparency_page": "https://www.catholichealthli.org/pricing-transparency"
+  },
+  {
+    "detail_id": "203f6298-a729-4d2b-a529-329cce3dcf2c",
+    "ccn": "330307",
+    "hospital_name": "CAYUGA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cayugahealth.pt.panaceainc.com/MRFDownload/CayugaHealth/CayugaHealth",
+    "transparency_page": "https://cayugahealth.org/patients/paying-for-your-care/cayuga-medical-center/"
+  },
+  {
+    "detail_id": "2259eb6d-675d-4a03-b8f6-893801cd48e0",
+    "ccn": "330250",
+    "hospital_name": "CHAMPLAIN VALLEY PHYSICIANS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.cvph.org/data/files/141338471_champlain-valley-physicians-hospital_standardcharges.csv",
+    "transparency_page": "https://www.cvph.org/Patients-and-Visitors/Patients/Price-Transparency"
+  },
+  {
+    "detail_id": "ad7c8791-a590-46eb-ad19-e43d79ce5c57",
+    "ccn": "330033",
+    "hospital_name": "CHENANGO MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=erEagCB9oOz6xamwkXvx4w*-*",
+    "transparency_page": "https://www.nyuhs.org/patients-visitors/paying-for-your-care"
+  },
+  {
+    "detail_id": "8c519070-1e42-43f5-a8e0-32ff7efb177d",
+    "ccn": "330211",
+    "hospital_name": "CLAXTON-HEPBURN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8209/150559686_claxton-hepburn-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ClaxtonHepburnMedicalCenter/8209"
+  },
+  {
+    "detail_id": "acaaccf5-ec7f-445d-82d2-b6117147d26a",
+    "ccn": "331307",
+    "hospital_name": "CLIFTON-FINE HOSPITAL",
+    "address": "",
+    "file_url": "http://cliftonfinehospital.org/wp-content/uploads/2024/10/900909506_CLIFTONFINEHOSPITAL_STANDARD_CHARGES1.csv",
+    "transparency_page": "https://cliftonfinehospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "efd20a3f-f450-476a-9401-433e04873a9f",
+    "ccn": "330265",
+    "hospital_name": "CLIFTON SPRINGS HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/160743966_clifton-springs-hospital-and-clinic_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "f69a809d-8341-4937-a128-037ad1d01f17",
+    "ccn": "331320",
+    "hospital_name": "COBLESKILL REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=17223fe8a0ab6851f2b57389a5885fb3367942fbb16444f4be42f16f8bb1fdf4",
+    "transparency_page": "https://www.bassett.org/about-us/price-transparency"
+  },
+  {
+    "detail_id": "5f92c815-a776-46d6-9b83-b89d98a38a20",
+    "ccn": "330195",
+    "hospital_name": "COHEN CHILDREN'S MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Cohen_Childrens_Medical_Center_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "89c1fd40-1e2f-4130-9fe6-a15d9492df06",
+    "ccn": "330094",
+    "hospital_name": "COLUMBIA MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.albanymed.org/wp-content/uploads/attachments/141338373_columbiamemorial_standardcharges.csv",
+    "transparency_page": "https://www.albanymed.org/patients-visitors/billing-insurance/hospital-pricing-transparency/"
+  },
+  {
+    "detail_id": "5ffa3c85-5e38-4a3c-9c4a-7b4424223720",
+    "ccn": "331316",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/community-memorial-hospital/150548010_community-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://hospitalpricelists.org/Community-Memorial-Hospital"
+  },
+  {
+    "detail_id": "131eec14-be90-4474-b829-3f02a05a9634",
+    "ccn": "330203",
+    "hospital_name": "CROUSE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.crouse.org/wp-content/uploads/2025/06/16-0960470_Crouse-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.crouse.org/prices/"
+  },
+  {
+    "detail_id": "c5efd106-8630-4a44-b9f4-441723e26760",
+    "ccn": "331301",
+    "hospital_name": "CUBA MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=eaSKZM9oSxCJu26V9eB98Q*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=eaSKZM9oSxCJu26V9eB98Q*-*"
+  },
+  {
+    "detail_id": "191637e1-7162-45cd-89cc-7414396498d3",
+    "ccn": "335669",
+    "hospital_name": "DEGRAFF MEDICAL PARK",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=8O1flKb9ncxmFbwWjt6PBg*-*",
+    "transparency_page": "https://www.kaleidahealth.org/visitors/patient-pricing/"
+  },
+  {
+    "detail_id": "072fd2b7-1f3f-41b2-8dac-ec73133cb6e9",
+    "ccn": "331302",
+    "hospital_name": "ELIZABETHTOWN COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.ech.org/data/files/141364513_ElizabethtownCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.ech.org/Patients-and-Visitors/Price-Transparency"
+  },
+  {
+    "detail_id": "68c72f24-6ff6-4e67-adb5-32ca40806ca9",
+    "ccn": "",
+    "hospital_name": "ELIZABETHTOWN COMMUNITY HOSPITAL TICONDEROGA",
+    "address": "",
+    "file_url": "https://www.ech.org/data/files/141364513_ElizabethtownCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.ech.org/Patients-and-Visitors/Price-Transparency"
+  },
+  {
+    "detail_id": "9dae1427-727e-43d7-9490-efc5dd198f83",
+    "ccn": "331310",
+    "hospital_name": "ELLENVILLE REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://pricetransparency.healthcare/ellenville-regional-hospital/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/ellenville-regional-hospital/charges/"
+  },
+  {
+    "detail_id": "03f53021-88fb-4500-b42b-ed260510d009",
+    "ccn": "330153",
+    "hospital_name": "ELLIS HOSPITAL",
+    "address": "",
+    "file_url": "https://ellismedicine.org/csv/141338428_ellis-hospital_standcharges.csv",
+    "transparency_page": "https://ellismedicine.org/financial-assistance/patient-pricing.aspx"
+  },
+  {
+    "detail_id": "2b9f035d-7c6c-491e-b8ff-dcfc2424a343",
+    "ccn": "",
+    "hospital_name": "ELLIS HOSPITAL - BELLEVUE WOMAN'S CARE CENTER",
+    "address": "",
+    "file_url": "https://ellismedicine.org/csv/141338428_ellis-hospital_standcharges.csv",
+    "transparency_page": "https://ellismedicine.org/financial-assistance/patient-pricing.aspx"
+  },
+  {
+    "detail_id": "58534c86-574b-4fb7-8b2b-351e3234860c",
+    "ccn": "330128",
+    "hospital_name": "ELMHURST HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/elmhurst",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "d50cf988-160e-413b-9a42-069d66abec09",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e2c9577c-65e5-4c67-a0f2-636e15d76b9a",
+    "ccn": "330193",
+    "hospital_name": "FLUSHING HOSPITAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/83c245ec517e2e9e1e399eb95c1fc202/charges/mrf",
+    "transparency_page": "https://flushinghospital.org/paying-for-your-care/price-transparency/"
+  },
+  {
+    "detail_id": "3ba00ebc-277a-436a-a580-4cc0bfc3b1b8",
+    "ccn": "334049",
+    "hospital_name": "FOUR WINDS HOSPITAL SARATOGA",
+    "address": "",
+    "file_url": "https://www.fourwindshospital.com/pdf/contracted_rates_forsaratoga_web_8_5_2025_.csv",
+    "transparency_page": "https://www.fourwindshospital.com/about_four_winds/saratoga/payingforyourcare.html"
+  },
+  {
+    "detail_id": "a836db64-ac59-41d3-bd9c-a07d02f3cfed",
+    "ccn": "334002",
+    "hospital_name": "FOUR WINDS HOSPITAL WESTCHESTER",
+    "address": "",
+    "file_url": "https://www.fourwindshospital.com/pdf/contracted_rates_for_web_-_katonah_8_5_25.csv",
+    "transparency_page": "https://www.fourwindshospital.com/about_four_winds/westchester/payingforhealthcare.html"
+  },
+  {
+    "detail_id": "70361c39-3e48-4edc-9466-a6150060ecb7",
+    "ccn": "330126",
+    "hospital_name": "GARNET HEALTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.garnethealth.org/sites/default/files/2024-12/141364536_garnet-health-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.garnethealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "ca7dad8a-61f1-44cc-be06-1f45df13b34b",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c2e65b90-b6f5-4ba5-b03d-41f34e579e17",
+    "ccn": "330386",
+    "hospital_name": "GARNET HEALTH MEDICAL CENTER - CATSKILLS, HARRIS CAMPUS",
+    "address": "",
+    "file_url": "https://www.garnethealth.org/sites/default/files/2024-12/146049030_garnet-health-medical-center-catskills_standardcharges.csv",
+    "transparency_page": "https://www.garnethealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "24b8ff38-19e9-4faf-8b10-8cb71e30a30b",
+    "ccn": "330058",
+    "hospital_name": "GENEVA GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7967/160743032_geneva-general-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GenevaGeneralHospital/7967"
+  },
+  {
+    "detail_id": "523dffbd-58af-42d3-bc38-7c03e0d6d1b7",
+    "ccn": "330181",
+    "hospital_name": "GLEN COVE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Glen_Cove_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "69d44c69-8705-416b-bb72-daed663cd11b",
+    "ccn": "330191",
+    "hospital_name": "GLENS FALLS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.albanymed.org/wp-content/uploads/attachments/141338413_glensfallshospital_standardcharges.csv",
+    "transparency_page": "https://www.albanymed.org/patients-visitors/billing-insurance/hospital-pricing-transparency/"
+  },
+  {
+    "detail_id": "6d9ac14d-0cd5-4083-82de-6a2701da27c9",
+    "ccn": "330158",
+    "hospital_name": "GOOD SAMARITAN HOSPITAL - SUFFERN",
+    "address": "",
+    "file_url": "https://www.goodsamhosp.org/Uploads/Public/131740104_GoodSamaritanHospital_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "3f409177-9cf7-4042-9ab0-8d57cad692bf",
+    "ccn": "331315",
+    "hospital_name": "GOUVERNEUR HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/464249555_gouverneur-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "13fee754-fbcb-475a-9ea4-4eaebde33a34",
+    "ccn": "334048",
+    "hospital_name": "GRACIE SQUARE HOSPITAL",
+    "address": "420 E 76TH ST, 2ND, 3RD, 4TH & 5TH FLOORS",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/3dto7eb4a5",
+    "transparency_page": "https://www.nygsh.org/hospital-pricing-transparency-standard-charges.html"
+  },
+  {
+    "detail_id": "8f46afb6-8d07-49bc-8af8-4ea29a794fc9",
+    "ccn": "330277",
+    "hospital_name": "GUTHRIE CORNING HOSPITAL",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=610595ce3b92de5ca677fdabb3743fc4dcbb0c455c5fe0d50b08b409b931c15b",
+    "transparency_page": "https://www.guthrie.org/about-us/hospital-price-transparency"
+  },
+  {
+    "detail_id": "31b4c9f6-6abb-4ac9-acb6-ce7d2e708794",
+    "ccn": "330175",
+    "hospital_name": "GUTHRIE CORTLAND REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=7b9dcd42aaca15ad796e448c09186fb2fd7c909fff74a72aef558bf19a1ba560",
+    "transparency_page": "https://www.guthrie.org/about-us/hospital-price-transparency"
+  },
+  {
+    "detail_id": "a7d8671c-56a6-4255-a21d-cc20ecaeecec",
+    "ccn": "330011",
+    "hospital_name": "GUTHRIE LOURDES HOSPITAL",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=151e59cbd2694c13781019a3d8b1498b7b19d03390dd0d09f12c47078097ecad",
+    "transparency_page": "https://www.guthrie.org/about-us/hospital-price-transparency"
+  },
+  {
+    "detail_id": "0cb40e99-49fd-47f4-bec9-a224af5124fc",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "63732bc0-5e6a-4d05-b1b7-1bb1bed0bb30",
+    "ccn": "330224",
+    "hospital_name": "HEALTHALLIANCE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hahv.org/Uploads/Public/141338470_HealthAlliance_MaryAvenue_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "0c4b7300-45e8-4af7-bff7-710689de0d03",
+    "ccn": "330405",
+    "hospital_name": "HELEN HAYES HOSPITAL",
+    "address": "",
+    "file_url": "https://shop.helenhayeshosp.org/00-0432000_Helen-Hayes-Hospital_standardcharges.csv",
+    "transparency_page": "https://shop.helenhayeshosp.org/"
+  },
+  {
+    "detail_id": "647f29f7-b545-44b7-99b0-b1e7d5d25e6f",
+    "ccn": "330164",
+    "hospital_name": "HIGHLAND HOSPITAL",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/5479e418-958b-4a8a-b3ab-610f5962d661/160743037-HIGHLAND-HOSPITAL-OF-ROCHESTER-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "b75f7a5f-7e1d-49ed-a0a6-bcdfd8a5127b",
+    "ccn": "330270",
+    "hospital_name": "HOSPITAL FOR SPECIAL SURGERY",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1598703019_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "a12b1dc1-6f24-483c-ac7e-43167003ff28",
+    "ccn": "",
+    "hospital_name": "HSS ASC OF MANHATTAN",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1679267348_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "aafa198c-7118-43f4-ade2-571e3e112a94",
+    "ccn": "",
+    "hospital_name": "HSS BROOKLYN",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1487200408_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "99159ee8-78da-4de5-b334-cbd822fe8224",
+    "ccn": "",
+    "hospital_name": "HSS HUDSON YARDS",
+    "address": "31 HUDSON YARDS, 10TH FLOOR",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1801443619_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "6c34579e-c856-4c23-9970-5dea678617c2",
+    "ccn": "",
+    "hospital_name": "HSS LONG ISLAND",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1629504501_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "fd7c3983-5b35-4f2d-a3a7-db3cc9c03cfe",
+    "ccn": "",
+    "hospital_name": "HSS MIDTOWN",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1255016580_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "cf152750-148a-4a52-be36-56cdf5315f53",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a2c17509-87c5-4588-916e-6a5029be9872",
+    "ccn": "",
+    "hospital_name": "HSS SOUTHAMPTON",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1023705803_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "e8bd0075-ffeb-49ab-8f02-894020bcefda",
+    "ccn": "",
+    "hospital_name": "HSS WESTCHESTER",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1184159188_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "52d3409b-d762-463d-b8f4-453881ec4c20",
+    "ccn": "",
+    "hospital_name": "HSS WEST SIDE ASC",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1376032029_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "46e2ddee-b04c-440c-913c-7e532397519c",
+    "ccn": "330045",
+    "hospital_name": "HUNTINGTON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Huntington_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "09db2db3-9084-4066-8da6-c1ac1235493f",
+    "ccn": "330397",
+    "hospital_name": "INTERFAITH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://onebrooklynhealth.org/media/x1onsrom/111631746_InterfaithMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://onebrooklynhealth.org/financial-assistance"
+  },
+  {
+    "detail_id": "497029d5-30aa-41da-a485-3a16b61650d0",
+    "ccn": "330144",
+    "hospital_name": "IRA DAVENPORT MEMORIAL HOSPITAL INC",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbIDMHBATHNY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/IraDavenport_V2.aspx"
+  },
+  {
+    "detail_id": "dd89366c-f933-4dd2-98a9-0af40876b9f9",
+    "ccn": "330127",
+    "hospital_name": "JACOBI MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/jacobi",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "2b23f070-1eef-4c70-b93f-8b83fbc49016",
+    "ccn": "330014",
+    "hospital_name": "JAMAICA HOSPITAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/66476b8b2599ba3a17ad1a6da4202812/charges/mrf",
+    "transparency_page": "https://jamaicahospital.org/hospital-disclosure-statement/price-transparency/"
+  },
+  {
+    "detail_id": "cf488ce4-dc04-470a-850d-1f6a21948219",
+    "ccn": "330096",
+    "hospital_name": "JONES MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/636ee711-58e5-4a53-abe8-aac528ae0614/222807681-JONES-MEMORIAL-HOSPITAL-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "0dcc8f41-9349-4baa-b7ba-20e13accbd15",
+    "ccn": "330102",
+    "hospital_name": "KENMORE MERCY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2025/02/16-0762843_Kenmore-Mercy-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "2fe54086-b6fc-4155-b961-6c78061d7da8",
+    "ccn": "332345",
+    "hospital_name": "KINGSBROOK JEWISH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://onebrooklynhealth.org/media/nrfb4rma/111631746_KingsbrookJewishMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://onebrooklynhealth.org/financial-assistance"
+  },
+  {
+    "detail_id": "039ed8ed-1750-4737-8f2f-8dc765b06ff8",
+    "ccn": "330202",
+    "hospital_name": "KINGS COUNTY HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/kings",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "2b491c64-ad1f-48fd-af51-76da43982785",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c2ca77fc-366c-4dcb-b8a1-5496a1c08a51",
+    "ccn": "331317",
+    "hospital_name": "LEWIS COUNTY GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.lcgh.net/s/156000458_Lewis-County-Health-Systems_standard-charges.csv",
+    "transparency_page": "https://www.lcgh.net/price-transparency-avoid-a-surprise-bill"
+  },
+  {
+    "detail_id": "ae2ed346-752e-44b6-8a78-1bc79d68019d",
+    "ccn": "330080",
+    "hospital_name": "LINCOLN HOSPITAL",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/lincoln-medical",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "9f7e3074-8085-425e-9532-d9e8f65437dc",
+    "ccn": "331311",
+    "hospital_name": "LITTLE FALLS HOSPITAL",
+    "address": "",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=8fb0fd248ce07d4d38c1724a4d5be384ea5d0043e9eb19e341526134ae7716fc",
+    "transparency_page": "https://www.bassett.org/about-us/price-transparency"
+  },
+  {
+    "detail_id": "0308abc6-9e0a-4e83-b1c4-a6abf32a8b4b",
+    "ccn": "330353",
+    "hospital_name": "LONG ISLAND JEWISH FOREST HILLS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Long_Island_Jewish_Forest_Hills_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "d48eaeaa-c19f-49f3-a8ad-f3ae79c0ffa0",
+    "ccn": "330195",
+    "hospital_name": "LONG ISLAND JEWISH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Long_Island_Jewish_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "f65fe9be-bbe0-4e59-8564-00e8af2f6397",
+    "ccn": "330372",
+    "hospital_name": "LONG ISLAND JEWISH VALLEY STREAM",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Long_Island_Jewish_Valley_Stream_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "2493b54b-3470-4c34-96a2-e2f50203590a",
+    "ccn": "330194",
+    "hospital_name": "MAIMONIDES MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=zkz93A*_*EfGBBA9koWjdYHA*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=zkz93A*_*EfGBBA9koWjdYHA*-*"
+  },
+  {
+    "detail_id": "dcac70a7-59f3-4178-8cd0-315eaf8f8d32",
+    "ccn": "330019",
+    "hospital_name": "MAIMONIDES MIDWOOD COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://nych.com/wp-content/uploads/2025/03/111986351_NYCHB_Brooklyn_Community_standardcharges.csv",
+    "transparency_page": "https://nych.com/about-us/hospital-charges/"
+  },
+  {
+    "detail_id": "3d8a8792-00ac-4cb7-a0eb-9ba3b9b2c030",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6c2709d0-39b8-4e1a-bf91-42f6128b8674",
+    "ccn": "331322",
+    "hospital_name": "MASSENA HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/843134268_massena-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "ff0c71c8-f619-4a52-8848-9144b3953a7c",
+    "ccn": "330185",
+    "hospital_name": "MATHER MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Mather_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "0216eb71-7c96-47f7-86aa-27060aac3a63",
+    "ccn": "331319",
+    "hospital_name": "MEDINA MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://orleanscommunityhealth.org/wp-content/uploads/2025/03/160755799_orleans-community-health_standardcharges-1.csv",
+    "transparency_page": "https://orleanscommunityhealth.org/billing-rates-procedures/"
+  },
+  {
+    "detail_id": "97a81a6e-d968-4a55-aa4a-d35b2f7f3e13",
+    "ccn": "330154",
+    "hospital_name": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/1/131924236_memorial-hospital-for-cancer-and-allied-diseases-nyc_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "961e9c7b-9ebb-425c-871f-a5e9141ef499",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING CANCER CENTER NASSAU",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/6/131924236_memorial-hospital-for-cancer-and-allied-diseases-ny-suburbs_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "bf6fe53e-7f4e-4c1b-8732-81c6fbdc9f48",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING COMMACK NONNAS GARDEN FOUNDATION CENTER",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/6/131924236_memorial-hospital-for-cancer-and-allied-diseases-ny-suburbs_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "201883fa-be0b-4c8e-8c4a-965adf89f11b",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING SKIN CANCER CENTER HAUPPAUGE",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/6/131924236_memorial-hospital-for-cancer-and-allied-diseases-ny-suburbs_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "e6ea9e5c-67c7-45e0-aa06-66226bcaf2f6",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING WESTCHESTER",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/6/131924236_memorial-hospital-for-cancer-and-allied-diseases-ny-suburbs_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "d19b53f7-7648-41a8-b7e1-4d826b252d45",
+    "ccn": "330279",
+    "hospital_name": "MERCY HOSPITAL OF BUFFALO",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2025/03/16-0756336_Mercy-Hospital-of-Buffalo_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "1be4c8fe-4a66-43b2-84c9-a7c2070e578a",
+    "ccn": "",
+    "hospital_name": "MERCY HOSPITAL, ORCHARD PARK DIVISION",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2025/03/16-0756336_Mercy-Hospital-of-Buffalo_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "bb43c623-c75b-4f1e-8eb2-2333eecd44b8",
+    "ccn": "330199",
+    "hospital_name": "METROPOLITAN HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/metropolitan",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "4699a421-1583-488a-b677-7d94222ed5cc",
+    "ccn": "330067",
+    "hospital_name": "MIDHUDSON REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.midhudsonregional.org/Uploads/Public/133964321_MidHudsonHospital_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "d1e849a7-c1fb-444c-bfd5-3fbb2d67d9b5",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "46c3866e-287a-48de-ada3-8a03ed6b1da9",
+    "ccn": "335197",
+    "hospital_name": "MONROE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e2a39844-ae73-4f36-a4a3-dab207d8cdf9",
+    "ccn": "330059",
+    "hospital_name": "MONTEFIORE HOSPITAL (MOSES CAMPUS)",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/131740114_montefiore-medical-center_standardcharges.csv",
+    "transparency_page": "https://montefioreeinstein.org/patient-care/patients-visitors/billing-insurance/paying-for-your-care"
+  },
+  {
+    "detail_id": "5ab6ff5b-cc28-4c6e-a0ea-b59454d14217",
+    "ccn": "",
+    "hospital_name": "MONTEFIORE HUTCHINSON CAMPUS",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/131740114_montefiore-medical-center_standardcharges.csv",
+    "transparency_page": "https://montefioreeinstein.org/patient-care/patients-visitors/billing-insurance/paying-for-your-care"
+  },
+  {
+    "detail_id": "b4f02757-f583-4cc7-9e95-33e5103045eb",
+    "ccn": "330059",
+    "hospital_name": "MONTEFIORE JACK D. WEILER HOSPITAL",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/131740114_montefiore-medical-center_standardcharges.csv",
+    "transparency_page": "https://montefioreeinstein.org/patient-care/patients-visitors/billing-insurance/paying-for-your-care"
+  },
+  {
+    "detail_id": "488b0d01-3de3-491d-838e-1153e99ba080",
+    "ccn": "330086",
+    "hospital_name": "MONTEFIORE MOUNT VERNON HOSPITAL",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/462916938_mount-vernon-hospital_standardcharges.csv",
+    "transparency_page": "https://www.montefiorehealthsystem.org/MountVernon"
+  },
+  {
+    "detail_id": "a275c2cc-efa3-4ee5-bca1-3387a4bcfc2a",
+    "ccn": "330184",
+    "hospital_name": "MONTEFIORE NEW ROCHELLE HOSPITAL",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/462931956_new-rochelle-hospital_standardcharges.csv",
+    "transparency_page": "https://montefiorenewrochelle.org/patients-and-visitors/paying-for-your-care"
+  },
+  {
+    "detail_id": "bb58e151-d28e-44df-bd0f-f032e0001dcc",
+    "ccn": "330104",
+    "hospital_name": "MONTEFIORE NYACK HOSPITAL",
+    "address": "",
+    "file_url": "https://www.montefiorenyack.org/sites/default/files/MNH%20Standard%20Charge%206.27.25.csv",
+    "transparency_page": "https://www.montefiorenyack.org/manage-my-care/billing/price-transparency"
+  },
+  {
+    "detail_id": "3d76ce2f-3bfe-49a0-a4b7-b36439ce97a8",
+    "ccn": "",
+    "hospital_name": "MONTEFIORE ST. LUKE'S CORNWALL CAMPUS",
+    "address": "",
+    "file_url": "https://www.montefioreslc.org/141340054_st-lukes-cornwall-hospital_standardcharges.csv",
+    "transparency_page": "https://www.montefioreslc.org/patients/billing-insurance-information/"
+  },
+  {
+    "detail_id": "fd257d4b-2d25-472a-b36d-9ac450762adc",
+    "ccn": "330264",
+    "hospital_name": "MONTEFIORE ST. LUKE'S CORNWALL NEWBURGH CAMPUS",
+    "address": "",
+    "file_url": "https://www.montefioreslc.org/141340054_st-lukes-cornwall-hospital_standardcharges.csv",
+    "transparency_page": "https://www.montefioreslc.org/patients/billing-insurance-information/"
+  },
+  {
+    "detail_id": "3a5d788b-e4b7-4f58-8e36-6108df72e47e",
+    "ccn": "333556",
+    "hospital_name": "MONTEFIORE WAKEFIELD CAMPUS",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/131740114_montefiore-medical-center_standardcharges.csv",
+    "transparency_page": "https://montefioreeinstein.org/patient-care/patients-visitors/billing-insurance/paying-for-your-care"
+  },
+  {
+    "detail_id": "f8ea4ebc-fd4a-4e86-b089-bfdc6e8b487f",
+    "ccn": "330316",
+    "hospital_name": "MONTEFIORE WESTCHESTER SQUARE CAMPUS",
+    "address": "",
+    "file_url": "https://assets.montefioreeinstein.org/patient-information/131740114_montefiore-medical-center_standardcharges.csv",
+    "transparency_page": "https://montefioreeinstein.org/patient-care/patients-visitors/billing-insurance/paying-for-your-care"
+  },
+  {
+    "detail_id": "489c8a3f-0539-4a9a-ac7f-c4452cd5c345",
+    "ccn": "",
+    "hospital_name": "MOUNT SINAI BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://www.mountsinai.org/files/mrf/135564934_mount-sinai-behavioral-health-center_standardcharges.json",
+    "transparency_page": "https://www.mountsinai.org/about/insurance/price-transparency"
+  },
+  {
+    "detail_id": "696c932b-c9ef-413c-8e09-f66c4ecbf969",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6f21ee75-915c-4c07-9e50-87cbae481d5f",
+    "ccn": "330024",
+    "hospital_name": "MOUNT SINAI HOSPITAL",
+    "address": "",
+    "file_url": "https://www.mountsinai.org/files/mrf/131624096_mount-sinai-hospital_standardcharges.json",
+    "transparency_page": "https://www.mountsinai.org/about/insurance/price-transparency"
+  },
+  {
+    "detail_id": "ddd6d763-bcfc-41af-8a82-b4683a9fcdb6",
+    "ccn": "330046",
+    "hospital_name": "MOUNT SINAI MORNINGSIDE",
+    "address": "",
+    "file_url": "https://www.mountsinai.org/files/mrf/132997301_mount-sinai-morningside_standardcharges.json",
+    "transparency_page": "https://www.mountsinai.org/about/insurance/price-transparency"
+  },
+  {
+    "detail_id": "f5c8bebf-1076-4e94-9f34-871848ddf2e0",
+    "ccn": "330258",
+    "hospital_name": "MOUNT SINAI QUEENS",
+    "address": "",
+    "file_url": "https://www.mountsinai.org/files/mrf/131624096_mount-sinai-queens_standardcharges.json",
+    "transparency_page": "https://www.mountsinai.org/about/insurance/price-transparency"
+  },
+  {
+    "detail_id": "34cc6342-c770-4fb4-8736-078361b2604f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "13797579-ffef-4d10-94d4-f5cee18fa5f9",
+    "ccn": "330046",
+    "hospital_name": "MOUNT SINAI WEST",
+    "address": "",
+    "file_url": "https://www.mountsinai.org/files/mrf/132997301_mount-sinai-morningside_standardcharges.json",
+    "transparency_page": "https://www.mountsinai.org/about/insurance/price-transparency"
+  },
+  {
+    "detail_id": "590c2244-3a35-4114-9f1b-14024836035e",
+    "ccn": "330188",
+    "hospital_name": "MOUNT ST. MARY'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2025/03/16-1523353_Mount-St-Marys-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "e0df2707-3057-4a2d-ba37-8a0d10a1b793",
+    "ccn": "330027",
+    "hospital_name": "NASSAU UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13384/113465690-1801857172_nassau-health-care-corporation_standardcharges.csv",
+    "transparency_page": "https://www.numc.edu/patients-and-visitors/paying-for-care/"
+  },
+  {
+    "detail_id": "d8c81aba-8d11-4a58-ada7-64c280f36bb8",
+    "ccn": "330276",
+    "hospital_name": "NATHAN LITTAUER HOSPITAL",
+    "address": "",
+    "file_url": "https://nathanlittauerhospital-my.sharepoint.com/:x:/g/personal/nlhmarketing_nlh_org/ETiLe_oLmvNBtVRaPvv7uTkB9ixIlprBRJK5YKDXy6eHDQ?e=mmbhFv",
+    "transparency_page": "https://www.nlh.org/wp-content/uploads/2024/09/Hospital-Price-Disclosure.pdf"
+  },
+  {
+    "detail_id": "ae89bf5e-f487-40ed-a357-baf8783a56f3",
+    "ccn": "330030",
+    "hospital_name": "NEWARK-WAYNE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/150584188_newark-wayne-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "0d93c834-253b-4f32-b238-65603d8cc8c4",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "8b49e207-497d-48fc-b647-741b053250f7",
+    "ccn": "330236",
+    "hospital_name": "NEWYORK-PRESBYTERIAN BROOKLYN METHODIST HOSPITAL",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "8c19a1c8-07cc-49aa-bc47-f9a00e6400f6",
+    "ccn": "330101",
+    "hospital_name": "NEW YORK PRESBYTERIAN HOSPITAL - ALLEN HOSPITAL",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "425a909b-0716-4b80-bb5a-8b5d2e562b2e",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "bf9bc00d-2f86-44b0-bd42-d547c4d1b4ed",
+    "ccn": "330101",
+    "hospital_name": "NEW YORK PRESBYTERIAN HOSPITAL - NEW YORK WEILL CORNELL CENTER",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "02e61243-b8d8-462a-9db1-321811fbdfc0",
+    "ccn": "330267",
+    "hospital_name": "NEW YORK-PRESBYTERIAN HUDSON VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/gtk2b9ya33",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/standard-charges"
+  },
+  {
+    "detail_id": "8104219f-3a59-4954-92bc-21b79473d191",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "318d4088-3b18-49ac-9259-baf71b3f206c",
+    "ccn": "330101",
+    "hospital_name": "NEW YORK PRESBYTERIAN MORGAN STANLEY CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "958137e6-2990-42ad-8c04-095e4870482b",
+    "ccn": "330055",
+    "hospital_name": "NEW YORK PRESBYTERIAN QUEENS",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/nfagsjimrt",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency/standard-charges"
+  },
+  {
+    "detail_id": "c5a0d0d1-349a-47ff-8f08-c423c099c3f4",
+    "ccn": "330061",
+    "hospital_name": "NEW YORK PRESBYTERIAN WESTCHESTER",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "09f35af8-61c6-483b-902b-a7992c0b37f5",
+    "ccn": "330101",
+    "hospital_name": "NEW YORK PRESBYTERIAN WESTCHESTER BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://nyp.acquiadam.com/assets/share/asset/hisgjrgpuk",
+    "transparency_page": "https://www.nyp.org/patients-visitors/paying-for-care/hospital-price-transparency"
+  },
+  {
+    "detail_id": "5eee5009-638f-48c6-8bee-fad0d0bf3323",
+    "ccn": "334009",
+    "hospital_name": "NEW YORK PSYCHIATRIC INSTITUTE",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a83529e5-6b6b-4a4f-80b2-e684b1631076",
+    "ccn": "330065",
+    "hospital_name": "NIAGARA FALLS MEMORIAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/0be583591a66cca917519fabf7bc30c4/charges/mrf",
+    "transparency_page": "https://nfmmc.org/price-transparency/"
+  },
+  {
+    "detail_id": "bfbbc5a4-38ff-4a27-b6ef-eadec501094a",
+    "ccn": "330385",
+    "hospital_name": "NORTH CENTRAL BRONX HOSPITAL",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/north-central-bronx",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "a679c18b-9fdc-40a8-880d-87b758c50258",
+    "ccn": "330049",
+    "hospital_name": "NORTHERN DUTCHESS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.nuvancehealth.org/-/media/pdf-files/billing-and-insurance/standard-charge-file/january-2025/141338467_northern-dutchess-hospital_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "8faeb48c-f43d-460b-862b-4c39234fb810",
+    "ccn": "330162",
+    "hospital_name": "NORTHERN WESTCHESTER HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Northern_Westchester_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "f5a354ae-1215-411d-bc41-bfeff6330fd4",
+    "ccn": "330106",
+    "hospital_name": "NORTH SHORE UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/North_Shore_University_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "daf56642-8938-43fd-aadd-1fbca5c2dc09",
+    "ccn": "",
+    "hospital_name": "NORTHWELL GREENWICH VILLAGE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Lenox_Hill_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "c682daa5-dfda-4ade-9b68-8e3be56928c0",
+    "ccn": "330238",
+    "hospital_name": "NOYES MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/016bb4df-9b94-41b6-a803-c44ad94a879c/160743979-NICHOLAS-H-NOYES-MEMORIAL-HOSPITAL-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "2ec54079-2625-48af-b2dc-fa4f090dfaa3",
+    "ccn": "330306",
+    "hospital_name": "NYU LANGONE HOSPITAL BROOKLYN",
+    "address": "",
+    "file_url": "https://standard-charges-prod.s3.amazonaws.com/pricing_files/133971298-1619341716_nyu-langone-brooklyn_standardcharges.csv",
+    "transparency_page": "https://med.nyu.edu/standard-charges/"
+  },
+  {
+    "detail_id": "bcad5310-f488-442b-b7e4-20315f6c6e66",
+    "ccn": "330167",
+    "hospital_name": "NYU LANGONE HOSPITAL LONG ISLAND",
+    "address": "",
+    "file_url": "https://standard-charges-prod.s3.amazonaws.com/pricing_files/133971298-1427616002_nyu-langone-long-island_standardcharges.csv",
+    "transparency_page": "https://med.nyu.edu/standard-charges/"
+  },
+  {
+    "detail_id": "2aab9808-e0f9-4614-8192-b629f8d09eab",
+    "ccn": "330141",
+    "hospital_name": "NYU LANGONE HOSPITAL - SUFFOLK",
+    "address": "",
+    "file_url": "https://urldefense.com/v3/__https://app.vestacare.com/download/csv/11-1704595_longislandcommunityhospital_standardcharges.csv__;!!MXfaZl3l!YUXi6KXPfWqf5OXiRaqRl9SCnI_P90BNWyfVU6TlBExIjxTfiHiH9jIxOWvFG-GDyLPhhtR9WyOHXhRXnLnyGTA$",
+    "transparency_page": "https://licommunityhospital.org/"
+  },
+  {
+    "detail_id": "f6ba7551-5398-4693-ba0e-9558df2b1963",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "7b4776f1-5686-42d6-8c91-67ae7684f0d3",
+    "ccn": "330214",
+    "hospital_name": "NYU LANGONE TISCH HOSPITAL",
+    "address": "",
+    "file_url": "https://standard-charges-prod.s3.amazonaws.com/pricing_files/133971298-1801992631_nyu-langone-tisch_standardcharges.csv",
+    "transparency_page": "https://med.nyu.edu/standard-charges/"
+  },
+  {
+    "detail_id": "55e6fa2b-7ec0-41c9-9519-7baa051b22dc",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "8066fd5a-1fc7-4183-bfca-775385ff8641",
+    "ccn": "333300",
+    "hospital_name": "OISHEI CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=8O1flKb9ncxmFbwWjt6PBg*-*",
+    "transparency_page": "https://www.kaleidahealth.org/visitors/patient-pricing/"
+  },
+  {
+    "detail_id": "663f00a0-8d5c-40b9-982f-408e9a399041",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c48b88ab-3106-465d-b5c4-3bd696f3d87f",
+    "ccn": "330115",
+    "hospital_name": "ONEIDA HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.oneidahealth.org/wp-content/uploads/_manual_upload/161492001_oneida-health_standardcharges.xlsx",
+    "transparency_page": "https://www.oneidahealth.org/billing-insurance-information/price-transparency-and-price-estimation/"
+  },
+  {
+    "detail_id": "1d246aab-6179-4a2a-95e0-1b73b4251393",
+    "ccn": "330218",
+    "hospital_name": "OSWEGO HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/2e1cb55d7318bddaef0f8776011277c1/charges/mrf",
+    "transparency_page": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.oswegohealth.org%2fpatients-families%2fbilling-information%2fprice-transparency%2f&c=E,1,A3-t7cjXxUSVALXMB501cypwvnSlAc0QsXHoRH3ZSTx7FAE4KEEyLSFaK_Q8mr4m--zg7lqSKFn4RJxUOetPUWKb9OXxuMMUMg1Lg6u6yNo,&typo=1"
+  },
+  {
+    "detail_id": "d94789ce-5693-4e32-a715-b483baef0fa3",
+    "ccn": "330107",
+    "hospital_name": "PECONIC BAY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Peconic_Bay_Medical_Center_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "ba519c10-943c-49fa-963c-777d76ac29e9",
+    "ccn": "330261",
+    "hospital_name": "PHELPS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Phelps_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "2707e07f-834f-4a7c-b6b0-1b4ade53bcfc",
+    "ccn": "330331",
+    "hospital_name": "PLAINVIEW HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Plainview_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "00ed36d6-be97-4ade-892e-5d6da2435019",
+    "ccn": "330273",
+    "hospital_name": "PUTNAM HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://www.nuvancehealth.org/-/media/pdf-files/billing-and-insurance/standard-charge-file/january-2025/146019179_putnam-hospital-center_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "bbef7734-af86-4711-8ede-ced01fc9e9fe",
+    "ccn": "330231",
+    "hospital_name": "QUEENS HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/queens",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "ea703f99-fe19-48cc-bf54-e63644a99fe9",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "3523626d-ca0a-4f3b-8329-81862256fda0",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "15c14679-5573-4c62-ba86-eb7b5be2336b",
+    "ccn": "330125",
+    "hospital_name": "ROCHESTER GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/160743134_rochester-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "c349ad4a-9828-4999-884b-cb79b5acb840",
+    "ccn": "330215",
+    "hospital_name": "ROME MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://pricetransparency.blob.core.windows.net/romememorialhospital/16-1471634_Rome-Memorial-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/rome"
+  },
+  {
+    "detail_id": "6e04d175-4ba4-45e9-b16a-646d464c36bd",
+    "ccn": "",
+    "hospital_name": "ROSWELL PARK COMPREHENSIVE CANCER CENTER",
+    "address": "",
+    "file_url": "https://www.roswellpark.org/sites/default/files/161552370_roswell-park-cancer-institute_standardcharges.json",
+    "transparency_page": "https://www.roswellpark.org/become-patient/paying-cancer-care/understanding-charges-services/getting-estimate-costs"
+  },
+  {
+    "detail_id": "0b7620de-64ff-4056-86b3-c6709a249d2e",
+    "ccn": "330399",
+    "hospital_name": "SAINT BARNABAS HOSPITAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://pricetransparency.healthcare/sbhny/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/sbhny/charges"
+  },
+  {
+    "detail_id": "5a817802-014f-4b79-a8ee-4e5cb2146a5d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "12c7dab4-e1aa-4436-85ac-c1ac9d256819",
+    "ccn": "330003",
+    "hospital_name": "SAMARITAN HOSPITAL - ALBANY MEMORIAL CAMPUS",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/samaritanhospital",
+    "transparency_page": "https://www.sphp.com/for-patients/billing-information/pricing-information/price-estimate-and-downloadable-list"
+  },
+  {
+    "detail_id": "49a8b136-b53c-446f-b1aa-899ba5ec18dc",
+    "ccn": "330180",
+    "hospital_name": "SAMARITAN HOSPITAL ST MARY'S CAMPUS",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/samaritanhospital",
+    "transparency_page": "https://www.sphp.com/for-patients/billing-information/pricing-information/price-estimate-and-downloadable-list"
+  },
+  {
+    "detail_id": "0b0a31a6-737d-4b1a-ab5d-851413e3a1fb",
+    "ccn": "330157",
+    "hospital_name": "SAMARITAN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8502/150533577_samaritan-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SamaritanMedicalCenter/8502or"
+  },
+  {
+    "detail_id": "2e599fea-5424-4ca9-af24-bbab075c1763",
+    "ccn": "330222",
+    "hospital_name": "SARATOGA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.albanymed.org/wp-content/uploads/attachments/141338547_saratogahospital_standardcharges.csv",
+    "transparency_page": "https://www.albanymed.org/patients-visitors/billing-insurance/hospital-pricing-transparency/"
+  },
+  {
+    "detail_id": "ff1cbdfe-a68f-421b-803a-cdea806ddedc",
+    "ccn": "331313",
+    "hospital_name": "SCHUYLER HOSPITAL",
+    "address": "",
+    "file_url": "https://cayugahealth.org/cayuga-csv/schuyler-hospital.csv",
+    "transparency_page": "https://cayugahealth.org/patients/paying-for-your-care/schuyler-hospital/"
+  },
+  {
+    "detail_id": "d3cf4022-14d4-4178-9ab4-eb9028519bb1",
+    "ccn": "330078",
+    "hospital_name": "SISTERS OF CHARITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2024/12/16-0743187_Sisters-of-Charity-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "f9b7ac5f-9e88-4025-a4ff-ec35a23087b6",
+    "ccn": "",
+    "hospital_name": "SISTERS OF CHARITY HOSPITAL - ST JOSEPH CAMPUS",
+    "address": "",
+    "file_url": "https://www.chsbuffalo.org/wp-content/uploads/2024/12/16-0743187_Sisters-of-Charity-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.chsbuffalo.org/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "34585dd7-7e2e-4677-8b9b-d8221737f916",
+    "ccn": "331314",
+    "hospital_name": "SOLDIERS AND SAILORS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7966/160743192_soldiers-and-sailors-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SoldiersAndSailorsHospital/7966"
+  },
+  {
+    "detail_id": "9ce335e2-71ad-4707-bbee-c46213d1d817",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e15f671b-3f97-4441-ab4a-215b36bede8c",
+    "ccn": "330043",
+    "hospital_name": "SOUTH SHORE UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/South_Shore_University_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "7f0f150d-6840-409f-9f32-3f8e8956f0bc",
+    "ccn": "330205",
+    "hospital_name": "ST ANTHONY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.stanthonycommunityhosp.org/Uploads/Public/141340100_StAnthonysCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "98ca158b-cd5c-44c3-a3af-9c43354bade6",
+    "ccn": "330160",
+    "hospital_name": "STATEN ISLAND UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Staten_Island_University_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "32c7ccbd-6cf5-4f6b-b934-8eaeaeb2f413",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "560277a7-56b8-4c0a-a10f-9c6d57e40735",
+    "ccn": "330208",
+    "hospital_name": "ST. JOHN RIVERSIDE HOSPITAL ANDRUS PAVILION",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/d7df6109199b6b48b52eabda3a11726d/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/d7df6109199b6b48b52eabda3a11726d/"
+  },
+  {
+    "detail_id": "b8d25c07-4e26-46fc-96cd-50701b877e95",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "4766f48e-59f4-4b57-92f6-6d7c67585375",
+    "ccn": "",
+    "hospital_name": "ST. JOHN'S RIVERSIDE HOSPITAL - DOBBS FERRY",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/d7df6109199b6b48b52eabda3a11726d/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/d7df6109199b6b48b52eabda3a11726d/"
+  },
+  {
+    "detail_id": "63bf1631-b747-4035-a0b4-4729ca28bb5c",
+    "ccn": "330208",
+    "hospital_name": "ST. JOHNS RIVERSIDE HOSPITAL PARKCARE PAVILION",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/d7df6109199b6b48b52eabda3a11726d/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/d7df6109199b6b48b52eabda3a11726d/"
+  },
+  {
+    "detail_id": "2952f5e1-286f-4879-885f-2d7868392e28",
+    "ccn": "335072",
+    "hospital_name": "ST JOSEPHS HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbArnotOgden&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ArnotOgden_V2.aspx"
+  },
+  {
+    "detail_id": "f5d6d2e6-bd97-45e4-b84d-0266db31c567",
+    "ccn": "330140",
+    "hospital_name": "ST JOSEPH'S HOSPITAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stjosephshospitalhealthcenter",
+    "transparency_page": "https://www.sjhsyr.org/for-patients/billing-and-insurance/price-estimates-lists"
+  },
+  {
+    "detail_id": "442f9d68-adbc-43f3-a8db-3491f5bd9930",
+    "ccn": "330006",
+    "hospital_name": "ST JOSEPH'S MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.saintjosephs.org/docs/default-source/financial-and-insurance-docs/price-transparency/may-2025/131740127_sjmc_svwh_standardcharges_2025.csv?sfvrsn=cff970d4_3&download=true",
+    "transparency_page": "https://www.saintjosephs.org/financial-and-insurance-information/price-transparency"
+  },
+  {
+    "detail_id": "91df3aad-730a-4f64-b356-3f2662f0a79f",
+    "ccn": "330047",
+    "hospital_name": "ST. MARY'S HEALTHCARE",
+    "address": "",
+    "file_url": "https://www.smha.org/wp-content/uploads/2025/07/141347719_stmaryshealthcare_standardcharges.csv",
+    "transparency_page": "https://www.smha.org/price-transparency/"
+  },
+  {
+    "detail_id": "445b0cfb-ad90-4abb-a664-f8f45b02117f",
+    "ccn": "",
+    "hospital_name": "STONEY BROOK SOUTHAMPTON HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/99bf3fd5e16310e2b005ea59575278d6/charges/mrf",
+    "transparency_page": "https://southampton.stonybrookmedicine.edu/patients-visitors/financial-services/hospital-charges"
+  },
+  {
+    "detail_id": "8201ca41-0119-4013-bd9f-50b2edcd42b9",
+    "ccn": "330088",
+    "hospital_name": "STONY BROOK EASTERN LONG ISLAND HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/93bb56a81bfc952f8c2de3e8563fd16e/charges/mrf",
+    "transparency_page": "https://elih.stonybrookmedicine.edu/patients_visitors/patient_financial_services/understanding_your_hospital_charges"
+  },
+  {
+    "detail_id": "ba644446-3a62-4c4e-ba48-526ce6bf2c14",
+    "ccn": "330393",
+    "hospital_name": "STONY BROOK UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/952453295c1ee89ee3ba06e6e42496e5/charges/mrf",
+    "transparency_page": "https://www.stonybrookmedicine.edu/patientcare/oon/charges"
+  },
+  {
+    "detail_id": "017e7247-43b8-435f-8c4c-f3dd71193709",
+    "ccn": "330057",
+    "hospital_name": "ST. PETER'S HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stpetershospital",
+    "transparency_page": "https://www.sphp.com/for-patients/billing-information/pricing-information/price-estimate-and-downloadable-list"
+  },
+  {
+    "detail_id": "9ac075c2-cc35-4df9-aa55-22b94b2d9797",
+    "ccn": "330285",
+    "hospital_name": "STRONG MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/b1fa98a4-bf2c-4b54-883d-edbc50653e7a/161029490-STRONG-MEMORIAL-HOSPITAL-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "f45fb6e3-046d-411d-9c52-313280e76671",
+    "ccn": "",
+    "hospital_name": "ST. VINCENT'S HOSPITAL WESTCHESTER",
+    "address": "",
+    "file_url": "https://www.saintjosephs.org/docs/default-source/financial-and-insurance-docs/price-transparency/may-2025/131740127_sjmc_svwh_standardcharges_2025.csv?sfvrsn=cff970d4_3&download=true",
+    "transparency_page": "https://www.saintjosephs.org/financial-and-insurance-information/price-transparency"
+  },
+  {
+    "detail_id": "c884df3b-d345-4757-aca3-8684f4e336df",
+    "ccn": "330406",
+    "hospital_name": "SUNNYVIEW REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/sunnyviewrehabhospital",
+    "transparency_page": "https://www.sphp.com/for-patients/billing-information/pricing-information/price-estimate-and-downloadable-list"
+  },
+  {
+    "detail_id": "471f0679-771f-4bf8-81a5-b363da3c3555",
+    "ccn": "",
+    "hospital_name": "SYOSSET HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Syosset_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  },
+  {
+    "detail_id": "761f1c56-0da4-48b6-bfd5-9a27e4817702",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "574c0337-afdb-4692-b2c6-e380d3bf259e",
+    "ccn": "330226",
+    "hospital_name": "THE UNITY HOSPITAL OF ROCHESTER",
+    "address": "",
+    "file_url": "https://msc.rochesterregional.org/practitionerPortal/docs/237221763_the-unity-hospital-of-rochester_standardcharges.csv",
+    "transparency_page": "https://www.rochesterregional.org/billing-and-insurance/transparency"
+  },
+  {
+    "detail_id": "1899db3a-617d-43c5-be61-347c057dfb7d",
+    "ccn": "330074",
+    "hospital_name": "THOMPSON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/7431070f-e78c-434a-b517-59ac67e44f05/160743024-FREDERICK-FERRIS-THOMPSON-HOSPITAL-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "8961a2a5-a621-4659-902b-5765750fb9b4",
+    "ccn": "330394",
+    "hospital_name": "UHS BINGHAMTON GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=U1LG5vSPbQV514lZH7upqQ*-*",
+    "transparency_page": "https://www.nyuhs.org/patients-visitors/your-medical-charges-estimated-up-front"
+  },
+  {
+    "detail_id": "c55d8e1a-c248-41b2-8bda-c640db509c79",
+    "ccn": "331312",
+    "hospital_name": "UHS DELAWARE VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Z08MbGZSrFBvzRrfL*_*nVGA*-*",
+    "transparency_page": "https://www.nyuhs.org/patients-visitors/paying-for-your-care"
+  },
+  {
+    "detail_id": "198c941c-ed3c-4533-85dd-d41e4c714cd7",
+    "ccn": "330394",
+    "hospital_name": "UHS WILSON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=U1LG5vSPbQV514lZH7upqQ*-*",
+    "transparency_page": "https://www.nyuhs.org/patients-visitors/your-medical-charges-estimated-up-front"
+  },
+  {
+    "detail_id": "3cef4089-2364-479f-ba1c-2866d06f45a8",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "2975e153-b87e-4058-8f4b-a239af192716",
+    "ccn": "330411",
+    "hospital_name": "UNITY SPECIALTY HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "21d7a6ff-740c-4034-b6f3-ffe3322eef81",
+    "ccn": "330350",
+    "hospital_name": "UNIVERSITY HOSPITAL SUNY DOWNSTATE",
+    "address": "",
+    "file_url": "https://www.downstate.edu/patient-care/_documents/charges/364983111_suny-university-hospital-at-downstate_standardcharges.csv",
+    "transparency_page": "https://www.downstate.edu/patient-care/patient-family-support/insurance-billing/hospital-charges.html"
+  },
+  {
+    "detail_id": "3c2289cb-d8f6-4152-b939-74ce55b92120",
+    "ccn": "330239",
+    "hospital_name": "UPMC CHAUTAUQUA",
+    "address": "",
+    "file_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/160743226_upmc-chautauqua_standardcharges.csv?la=en&rev=92ca00d3196840e3858906012619711c&hash=DFC073E2472D4E12FA9B95E40CFBA3F9",
+    "transparency_page": "https://www.upmc.com/locations/hospitals/chautauqua/patients-visitors/patient-info/cdm"
+  },
+  {
+    "detail_id": "ac924ac8-f1f1-4833-855d-0d67d3ba5b9c",
+    "ccn": "",
+    "hospital_name": "UPMC CHAUTAUQUA - JONES MEMORIAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/160743226_upmc-chautauqua_standardcharges.csv?la=en&rev=92ca00d3196840e3858906012619711c&hash=DFC073E2472D4E12FA9B95E40CFBA3F9",
+    "transparency_page": "https://www.upmc.com/locations/hospitals/chautauqua/patients-visitors/patient-info/cdm"
+  },
+  {
+    "detail_id": "c915beec-7003-457f-ac03-ae871a2d5674",
+    "ccn": "335870",
+    "hospital_name": "UPSTATE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.upstate.edu/hospital/files/161469571_upstate-university-hospital_standardcharges.csv",
+    "transparency_page": "https://www.upstate.edu/hospital/patients-families/billing/"
+  },
+  {
+    "detail_id": "1161647b-8f07-475a-ac88-6c02197a205a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "ff0e7dde-9720-4c24-ace5-e36ec853eb16",
+    "ccn": "",
+    "hospital_name": "URMC STRONG WEST",
+    "address": "",
+    "file_url": "https://www.urmc.rochester.edu/getmedia/b1fa98a4-bf2c-4b54-883d-edbc50653e7a/161029490-STRONG-MEMORIAL-HOSPITAL-standardcharges.csv",
+    "transparency_page": "https://www.urmc.rochester.edu/pay-a-bill/cost-estimates-pricing"
+  },
+  {
+    "detail_id": "ba510822-c628-47f7-be67-2daaf455f64c",
+    "ccn": "330023",
+    "hospital_name": "VASSAR BROTHERS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.nuvancehealth.org/-/media/pdf-files/billing-and-insurance/standard-charge-file/january-2025/141338586_vassar-brothers-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "17c477ea-379e-407e-a7d4-22ebb5652b43",
+    "ccn": "330234",
+    "hospital_name": "WESTCHESTER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.westchestermedicalcenter.org/Uploads/Public/133964321_WestchesterMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://www.wmchealth.org/price-transparency"
+  },
+  {
+    "detail_id": "5bc95764-fab1-4b8c-a9fa-a580f7c07c1a",
+    "ccn": "330304",
+    "hospital_name": "WHITE PLAINS HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://www.wphospital.org/clientfiles/getfile/131740130_white-plains-hospital_standardcharges.csv",
+    "transparency_page": "https://www.wphospital.org/patients-visitors/patients/billing-information/standard-charges//"
+  },
+  {
+    "detail_id": "6fa3e0de-84e0-44b8-bf0f-5cda69fe0bad",
+    "ccn": "330396",
+    "hospital_name": "WOODHULL MEDICAL AND MENTAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://nychh.pt.panaceainc.com/MRFDownload/nychh/woodhull",
+    "transparency_page": "https://www.nychealthandhospitals.org/paying-for-your-health-care/facility-charges/"
+  },
+  {
+    "detail_id": "65a1fcc6-3aeb-46d2-9a38-f3884f68b314",
+    "ccn": "330221",
+    "hospital_name": "WYCKOFF HEIGHTS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/101527cba4e89fb2e982b5ed19f92364/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/101527cba4e89fb2e982b5ed19f92364"
+  },
+  {
+    "detail_id": "f1d73792-8496-4e6f-9a55-b05bdd9d5263",
+    "ccn": "330008",
+    "hospital_name": "WYOMING COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/4be8e5d7452bc47c57cfa9afaa2bec25/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/4be8e5d7452bc47c57cfa9afaa2bec25/"
+  },
+  {
+    "detail_id": "6ea4d257-ed65-41ba-afed-354dcca26405",
+    "ccn": "",
+    "hospital_name": "ZUCKER HILLSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northwell.edu/sites/northwell.edu/files/machine-readable-files/Zucker_Hillside_Hospital_Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.northwell.edu/billing-and-insurance/price-estimator-tools"
+  }
+]

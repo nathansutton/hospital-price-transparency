@@ -1,0 +1,1094 @@
+[
+  {
+    "detail_id": "ac72c4ef-cab8-47b1-9a7c-2ec857ebc691",
+    "ccn": "180043",
+    "hospital_name": "ADVENTHEALTH MANCHESTER",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/610594620_AdventHealth-Manchester_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "863ec94b-2f1b-4471-8f83-b331e7bc6a88",
+    "ccn": "182010",
+    "hospital_name": "ARH ADVANCED CARE BIG SANDY",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/872421892_ARH-Advanced-Care-Big-Sandy_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "2893612c-4006-4773-8bfc-88f1439b31e3",
+    "ccn": "",
+    "hospital_name": "ARH ADVANCED CARE KENTUCKY RIVER",
+    "address": "100 MEDICAL CENTER DRIVE, SUITE B",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/872421892_ARH-Advanced-Care-KY-River_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "96e0037e-b054-4d51-8f03-245df1eb089c",
+    "ccn": "181305",
+    "hospital_name": "ARH OUR LADY OF THE WAY",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/452696517_ARH-Our-Lady-of-the-Way_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "b839fecd-a2c0-4076-8ec5-d8908dedbf4d",
+    "ccn": "180080",
+    "hospital_name": "BAPTIST HEALTH CORBIN",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBRMCCORBINKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/planning/price-transparency"
+  },
+  {
+    "detail_id": "adc0ee7d-7b46-4649-86a0-91b9b197af9c",
+    "ccn": "180093",
+    "hospital_name": "BAPTIST HEALTH DEACONESS MADISONVILLE",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10992/610654587_baptist-health-deaconess-madisonville%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BaptistHealthDeaconessMadisonville/10992"
+  },
+  {
+    "detail_id": "b5374bb4-cc94-4a5d-bc2c-1cfd2c1437d6",
+    "ccn": "180012",
+    "hospital_name": "BAPTIST HEALTH HARDIN",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHMHELIZABETHTOWNKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/planning/price-transparency"
+  },
+  {
+    "detail_id": "a7c0e118-4176-49fc-8780-0f4245985d4a",
+    "ccn": "180138",
+    "hospital_name": "BAPTIST HEALTH LA GRANGE",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBHLLAGRANGEKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/planning/price-transparency"
+  },
+  {
+    "detail_id": "0592b74c-cbb9-4f58-936f-e887c273fa11",
+    "ccn": "180103",
+    "hospital_name": "BAPTIST HEALTH LEXINGTON",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCentralBaptistLexingtonKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/before-your-visit/price-transparency"
+  },
+  {
+    "detail_id": "6915d1a4-bed4-4331-a524-5bb6a95caeaf",
+    "ccn": "180130",
+    "hospital_name": "BAPTIST HEALTH LOUISVILLE",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBHELOUISVILLEKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/before-your-visit/price-transparency"
+  },
+  {
+    "detail_id": "60bb269d-b52e-4752-bae7-65b2d6bd6ee7",
+    "ccn": "180104",
+    "hospital_name": "BAPTIST HEALTH PADUCAH",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBHPPADUCAHKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/planning/price-transparency"
+  },
+  {
+    "detail_id": "9c16dfce-e796-4a09-9953-524cefbe9558",
+    "ccn": "183033",
+    "hospital_name": "BAPTIST HEALTH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.encompasshealth.com/cdn/Files/1-price-transparency/844618032_Baptist-Health-Rehabilitation-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/louisville-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "4b57528b-feab-428c-894a-25d321d06bae",
+    "ccn": "180049",
+    "hospital_name": "BAPTIST HEALTH RICHMOND",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBHRRICHMONDKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/patients-visitors/planning/price-transparency"
+  },
+  {
+    "detail_id": "9b9b7598-4014-401d-83ff-db6bffc2c788",
+    "ccn": "181328",
+    "hospital_name": "BARBOURVILLE ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/452696517_Barbourville-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "d6ac8820-3d03-41a3-bf2a-9cffef3dc876",
+    "ccn": "181308",
+    "hospital_name": "BLUEGRASS COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bluegrasscommunityhospital.com/sites/bluegrass/assets/uploads/MRF2Q25/522260534_bluegrass-community_standardcharges.csv",
+    "transparency_page": "https://www.bluegrasscommunityhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "546b76c9-2e6b-4417-b31a-95118f6a6985",
+    "ccn": "180046",
+    "hospital_name": "BOURBON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bourbonhospital.com/sites/bourbon/assets/uploads/MRF2Q25/621757924_bourbon-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bourbonhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "4b542eba-0981-4200-bdf3-bab7ac22db3b",
+    "ccn": "181319",
+    "hospital_name": "BRECKINRIDGE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBMHHARDINSBURGKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Breckinridge_V2.aspx"
+  },
+  {
+    "detail_id": "a42c97f1-32ff-4613-8644-ddffd8d4eb6a",
+    "ccn": "181322",
+    "hospital_name": "CALDWELL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://caldwellmedical.com/wp-content/uploads/2025/10/610432526_caldwell-county-hospital-inc._standardcharges.csv.zip",
+    "transparency_page": "https://caldwellmedical.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7cb3f32c-19be-481c-93e5-af6f6b74e39d",
+    "ccn": "183026",
+    "hospital_name": "CARDINAL HILL REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/47-3054927_Cardinal%20Hill%20Rehabilitation%20Hospital_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/cardinalhillrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "c09bb1a7-5a6a-469c-84fb-0c40ce26a585",
+    "ccn": "181310",
+    "hospital_name": "CARROLL COUNTY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.ccmhosp.com/wp-content/uploads/611297707_CCMH-CORPORATION_standardcharges.zip",
+    "transparency_page": "https://www.ccmhosp.com/financial-information/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "ab98323f-8608-4964-b235-e13777233a35",
+    "ccn": "181309",
+    "hospital_name": "CASEY COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.caseycountyhospital.com/Content/Uploads/caseycountyhospital.com/images/CCH%20Standard%20Charges%20UPDATED%20%201.8.21.xlsx",
+    "transparency_page": "https://www.caseycountyhospital.com/patient-information/standard-charges"
+  },
+  {
+    "detail_id": "0751e4d0-6c3f-4ca5-a70a-7601eb8d6504",
+    "ccn": "180010",
+    "hospital_name": "CHI HEALTH SAINT JOSEPH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.chisaintjosephhealth.org/content/dam/stjoseph-ky/documents/611334601_chi-saint-joseph-health-saint-joseph-hospital_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "5951641f-8ea7-4c08-8dad-3b1d16926b8a",
+    "ccn": "",
+    "hospital_name": "CHI HEALTH SAINT JOSEPH JESSAMINE",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_chi-saint-joseph-health-saint-joseph-jessamine_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "c8fbbb39-af26-49bc-812c-a5c0730ddd3a",
+    "ccn": "180025",
+    "hospital_name": "CHI SAINT JOSEPH HEALTH FLAGET MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611345363_chi-saint-joseph-health-flaget-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "2008c83c-1d23-4810-a305-f562e7244ab0",
+    "ccn": "",
+    "hospital_name": "CHI SAINT JOSEPH HEALTH WOMEN'S HOSPITAL AT SAINT JOSEPH EAST",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_the-womens-hospital-at-saint-joseph-east_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "02a52371-e77c-4679-96ac-6f54a1287405",
+    "ccn": "180011",
+    "hospital_name": "CHI SAINT JOSEPH HOSPITAL LONDON",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_chi-saint-joseph-health-saint-joseph-london_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "e7990e84-2c07-4158-8f61-b1aade161c23",
+    "ccn": "180092",
+    "hospital_name": "CLARK REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.clarkregional.org/sites/clarkregional/assets/uploads/MRF2Q25/621772321_clark-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.clarkregional.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "b09d9b6d-d913-4c6b-a41a-73b7087e6e95",
+    "ccn": "180013",
+    "hospital_name": "COMMONWEALTH REGIONAL SPECIALTY HOSPITAL",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/charges/crsh/",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "c29f6c11-52f6-46b8-8e76-6c21239b156a",
+    "ccn": "",
+    "hospital_name": "CONTINUECARE HOSPITAL AT BAPTIST HEALTH DEACONESS MADISONVILLE",
+    "address": "900 HOSPITAL DR., 4TH FLOOR",
+    "file_url": "https://secure.claraprice.net/price-transparency/YEVG-1730316751634/machine-readable/465033192_continuecare-hospital-at-baptist-health-deaconess-madisonville_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/continuecare-baptist-madisonville-ky"
+  },
+  {
+    "detail_id": "8458c7c5-daeb-4d8c-90d0-ca815edcc906",
+    "ccn": "180104",
+    "hospital_name": "CONTINUECARE HOSPITAL AT BAPTIST HEALTH PADUCAH",
+    "address": "",
+    "file_url": "https://secure.claraprice.net/price-transparency/CRPL-1730316554654/machine-readable/465032999_continuecare-hospital-at-baptist-health-paducah_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/continuecare-baptist-paducah-ky"
+  },
+  {
+    "detail_id": "e74bcd23-d8dd-41a6-b787-48edde2c125f",
+    "ccn": "",
+    "hospital_name": "CONTINUING CARE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611400619_continuing-care-hospital-inc_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "3fe5a271-c981-4e10-b27e-4f31bcfb4bf5",
+    "ccn": "180095",
+    "hospital_name": "CRITTENDEN COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.crittenden-health.org/docs/831262308_Crittenden_Community_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.crittendenhospital.com/getpage.php?name=Chargemaster&sub=Patient%20and%20Visitors"
+  },
+  {
+    "detail_id": "c189a412-6278-4c09-8937-0595ecb93ca1",
+    "ccn": "181317",
+    "hospital_name": "CUMBERLAND COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "http://cchospital.org/61-0624096_cumberlandcountyhospitalinc_standardcharges.csv",
+    "transparency_page": "https://cchospital.org/chargesandrates.html"
+  },
+  {
+    "detail_id": "408648c6-4302-48b4-b05d-7442cc4abadd",
+    "ccn": "184014",
+    "hospital_name": "CUMBERLAND HALL HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/611267294_cumberland-hall_standardcharges.csv",
+    "transparency_page": "https://www.cumberlandhallhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "6e17f335-accd-41a1-9521-0bc1d2227e79",
+    "ccn": "180056",
+    "hospital_name": "DEACONESS HENDERSON HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8109/610461753_deaconess-health-system-henderson-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/hospital/daconesshendersonhospital/8109or"
+  },
+  {
+    "detail_id": "d3712138-a6d9-4eff-a00f-90f1c4a40866",
+    "ccn": "181306",
+    "hospital_name": "DEACONESS UNION COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8111/862614124_deaconess-health-system-union-county-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DeaconessUnionCountyHospital/8111"
+  },
+  {
+    "detail_id": "f97030f3-255b-4156-b521-5344bd550c28",
+    "ccn": "184004",
+    "hospital_name": "EASTERN STATE HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Default.aspx?ci=Dn*__*BGKKwBFJp793mE1jFzw*-*",
+    "transparency_page": "https://ukhealthcare.uky.edu/patients-visitors/patients/payment-insurance"
+  },
+  {
+    "detail_id": "7b972335-2b0e-467c-bdd6-c64183defa2a",
+    "ccn": "183028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF LAKEVIEW",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/25-1573943_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Lakeview%20_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/lakeviewrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "66703ff7-ee62-4c98-8f0d-e9162d4b20ea",
+    "ccn": "183027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NORTHERN KENTUCKY",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1184835_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Northern%20Kentucky_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/kentuckyrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "99fbee7b-f720-47a9-ace7-1113209ce1a1",
+    "ccn": "181315",
+    "hospital_name": "EPHRAIM MCDOWELL FORT LOGAN HOSPITAL",
+    "address": "",
+    "file_url": "https://transparency.emhealth.org/assets/data/611388556_EMHFL-INC_standardcharges.csv",
+    "transparency_page": "https://transparency.emhealth.org/?fac=EMRMC"
+  },
+  {
+    "detail_id": "9393ce01-58c3-4a6b-8662-9212649ffe06",
+    "ccn": "181302",
+    "hospital_name": "EPHRAIM MCDOWELL JAMES B. HAGGIN HOSPITAL",
+    "address": "",
+    "file_url": "https://transparency.emhealth.org/assets/data/610510934_JAMES-B-HAGGIN-MEMORIAL-HOSPITAL-INC_standardcharges.csv",
+    "transparency_page": "https://transparency.emhealth.org/?fac=EMRMC"
+  },
+  {
+    "detail_id": "bed99826-8a36-4ba7-a57f-4c6c525dd4fe",
+    "ccn": "180048",
+    "hospital_name": "EPHRAIM MCDOWELL REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://transparency.emhealth.org/assets/data/610492356_EPHRAIM-MCDOWELL-REGIONAL-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://transparency.emhealth.org/?fac=EMRMC"
+  },
+  {
+    "detail_id": "f0bfd26c-744b-47b8-9c18-12a81c062d48",
+    "ccn": "181332",
+    "hospital_name": "FLEMING COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.flemingcountyhospital.com/docs/ahflemingcountyhospitallibraries/hcl/mrf2q25/473937528_fleming-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.flemingcountyhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "a3818ebd-dba9-446b-b9b2-e2f784e3b40f",
+    "ccn": "180127",
+    "hospital_name": "FRANKFORT REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/61-0859329_frankfort-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://frankfortregional.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "87ccaf12-edbd-4c20-ac5b-f8ea23ce4b14",
+    "ccn": "",
+    "hospital_name": "FRAZIER REHABILITATION INSTITUTE",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Frazier-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "c1be1185-68a4-4650-b400-232d37cf1e1f",
+    "ccn": "183030",
+    "hospital_name": "GATEWAY REHABILITATION HOSPITAL AT FLORENCE",
+    "address": "",
+    "file_url": "https://vrhgateway.com/wp-content/uploads/sites/14/2025/09/471023316_vibra-hospital-of-florence_standardcharges.csv",
+    "transparency_page": "https://vrhgateway.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "5a06fd13-822d-4640-a197-155a2045cc18",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "740dfc31-31d0-4a26-a31e-77b2a6fe85a6",
+    "ccn": "180050",
+    "hospital_name": "HARLAN ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/520795508_Harlan-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "16ea06c2-1945-478e-9530-3554fb686fc0",
+    "ccn": "180079",
+    "hospital_name": "HARRISON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/6cea94a954453f13de317b99f0ff1d70/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/6cea94a954453f13de317b99f0ff1d70/"
+  },
+  {
+    "detail_id": "076b9afe-cc58-4888-a07d-4dbabe083f92",
+    "ccn": "180029",
+    "hospital_name": "HAZARD ARH REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/520795508_Hazard-ARH-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "4a16aad9-db5c-4825-8f67-35769b4666d2",
+    "ccn": "180005",
+    "hospital_name": "HIGHLANDS ARH REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/822577178_Highlands-ARH-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "b1d0dd8d-cad5-4c97-9103-71e7b7f75b0c",
+    "ccn": "180116",
+    "hospital_name": "JACKSON PURCHASE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.jacksonpurchase.com/sites/jackson/assets/uploads/MRF2Q25/621757927_jackson-purchase-med-center_standardcharges.csv",
+    "transparency_page": "https://www.jacksonpurchase.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "646bac16-d790-4bf3-953e-408832eb7712",
+    "ccn": "181325",
+    "hospital_name": "JANE TODD CRAWFORD MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.janetoddhospital.com/Content/Uploads/janetoddhospital.com/images/JTCH%20Standard%20%20Charges%201.8.21.xlsx",
+    "transparency_page": "https://www.janetoddhospital.com/patient-information/standard-charges"
+  },
+  {
+    "detail_id": "72659793-cbda-4ab0-86a4-7a6bc411e4b9",
+    "ccn": "180051",
+    "hospital_name": "JENNIE STUART MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.jenniestuarthealth.org/wp-content/uploads/2025/04/610482973_jennie-stuart-medical-center_standardcharges.csv-9-4.csv",
+    "transparency_page": "https://www.jenniestuarthealth.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "0ed77f5d-e3ea-4b38-b789-789f0e26a0e0",
+    "ccn": "180139",
+    "hospital_name": "KENTUCKY RIVER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKRMCJACKSONKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/KentuckyRiver.aspx"
+  },
+  {
+    "detail_id": "b5a0f0d0-a92e-4e92-aabd-5dc4f8ef31b2",
+    "ccn": "182001",
+    "hospital_name": "KINDRED HOSPITAL - LOUISVILLE",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=9vw6ymYYRg4MEfUMGoIM6g*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=9vw6ymYYRg4MEfUMGoIM6g*-*"
+  },
+  {
+    "detail_id": "9cc96291-95a5-4822-903a-deaee628b87a",
+    "ccn": "",
+    "hospital_name": "KINDRED HOSPITAL LOUISVILLE AT JEWISH HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=j6s*_*77D9XkMxMAjW8i8OsQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=j6s*_*77D9XkMxMAjW8i8OsQ*-*"
+  },
+  {
+    "detail_id": "6fbaa753-927c-4d16-8b67-657dafa40dbb",
+    "ccn": "180009",
+    "hospital_name": "KINGS DAUGHTERS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7804/610444716_ashland-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/KingsDaughterMedicalCenterKentucky/7804"
+  },
+  {
+    "detail_id": "a84c8572-4332-43bc-a16a-b9d42f2092d3",
+    "ccn": "180132",
+    "hospital_name": "LAKE CUMBERLAND REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.lakecumberlandhospital.com/docs/ahlakecumberlandregionalhospitallibraries/hcl/mrf2q25/621757920_lake-cumberland-regional_standardcharges.csv",
+    "transparency_page": "https://www.lakecumberlandhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "3c6b2083-b4ea-409e-893b-a5b7faaa1d4f",
+    "ccn": "184012",
+    "hospital_name": "LINCOLN TRAIL BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621244469_lincoln-trail_standardcharges.csv",
+    "transparency_page": "https://lincolnbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "8ae9db08-9b02-4cb2-b886-23c6fbea7c10",
+    "ccn": "181320",
+    "hospital_name": "LIVINGSTON HOSPITAL AND HEALTHCARE SERVICES",
+    "address": "",
+    "file_url": "https://www.lhhs.org/getmedia/79a9cfb5-87d0-4d03-903a-5cb2435410cb/livingston-hospital-and-healthcare-services-inc_standardcharges.csv",
+    "transparency_page": "https://www.lhhs.org/for-you/patients-and-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "6fa87a81-acd6-404b-bd04-7ab45afd0d55",
+    "ccn": "181327",
+    "hospital_name": "MARSHALL COUNTY HOSPITAL",
+    "address": "615 OLD SYMSONIA ROAD, PO BOX 630",
+    "file_url": "https://www.marshallcountyhospital.org/docs/610601267-1568528594_marshall-county-hospital-district_standardcharges.csv",
+    "transparency_page": "https://www.marshallcountyhospital.org/getpage.php?name=GOOD_FAITH_ESTIMATE"
+  },
+  {
+    "detail_id": "115f4293-610c-44cd-a34a-b36691c70008",
+    "ccn": "",
+    "hospital_name": "MARSHALL COUNTY SURGICAL & MEDICAL GROUP",
+    "address": "",
+    "file_url": "https://www.marshallcountyhospital.org/docs/610601267-1962873109_marshall-county-hospital-district_standardcharges.csv",
+    "transparency_page": "https://www.marshallcountyhospital.org/getpage.php?name=GOOD_FAITH_ESTIMATE"
+  },
+  {
+    "detail_id": "26f44ac4-3962-4c30-a6f6-009f235a7d2a",
+    "ccn": "181316",
+    "hospital_name": "MARY BRECKINRIDGE ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/452696517_ARH-Mary-Breckinridge-Health_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "9541e8f6-6bce-460b-9b9f-895af7c9172e",
+    "ccn": "181331",
+    "hospital_name": "MCDOWELL ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/520795508_McDowell-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "36d76418-1c66-4020-983c-6e99055a0418",
+    "ccn": "180019",
+    "hospital_name": "MEADOWVIEW REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.meadowviewregional.com/docs/meadowviewregionallibraries/hcl/mrf2q25/621757929_meadowview-regional-med_standardcharges.csv",
+    "transparency_page": "https://www.meadowviewregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "e8fb9982-26fe-4c15-9f07-910a5c68055c",
+    "ccn": "180102",
+    "hospital_name": "MERCY HEALTH - LOURDES HOSPITAL",
+    "address": "",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/610600313_mercy-health-lourdes-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "071d2eff-0957-4e85-a9a1-6c1d2b60045c",
+    "ccn": "181301",
+    "hospital_name": "MERCY HEALTH - MARCUM AND WALLACE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/610927491_mercy-health-marcum-wallace-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "ea847dcc-5b50-45e5-834b-01051f49f179",
+    "ccn": "180020",
+    "hospital_name": "MIDDLESBORO ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/520795508_Middlesboro-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "a834375c-db86-4d36-94e6-21e1d509ce42",
+    "ccn": "180105",
+    "hospital_name": "MONROE COUNTY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCMCTOMPKINSVILLEKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Monroe_V2.aspx"
+  },
+  {
+    "detail_id": "4e0b760a-fb65-49ee-b4f5-abe1bfec25f2",
+    "ccn": "181307",
+    "hospital_name": "MORGAN COUNTY ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/520795508_Morgan-County-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "b1d55a6e-bf4c-46f2-aa84-4f46e3053e16",
+    "ccn": "180027",
+    "hospital_name": "MURRAY CALLOWAY COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMurrayCalloway&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MurrayCalloway_V2.aspx"
+  },
+  {
+    "detail_id": "8d6eadc0-0e15-4a43-bb07-72ae8e652cb6",
+    "ccn": "",
+    "hospital_name": "NORTHKEY COMMUNITY CARE",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "54eb75ea-0907-4405-a9e6-2dcf02974cc9",
+    "ccn": "180088",
+    "hospital_name": "NORTON AUDUBON HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11466/610703799_norton-audubon-hospital_standardcharges.csv",
+    "transparency_page": "https://nortonhealthcare.com/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "ec5cbd84-8564-479f-8eee-5a223cd8dd82",
+    "ccn": "",
+    "hospital_name": "NORTON BROWNSBORO HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11467/610703799_norton-brownsboro-hospital_standardcharges.csv",
+    "transparency_page": "https://nortonhealthcare.com/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "5388e3b4-661b-4763-bda5-bed406358d99",
+    "ccn": "189801",
+    "hospital_name": "NORTON CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://nortonhealthcare.com/wp-content/uploads/610703799_Norton-Childrens-Hospital_StandardCharges.zip",
+    "transparency_page": "https://nortonhealthcare.com/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "e1e1b905-ad0d-44b4-9939-e68e9f726ffe",
+    "ccn": "",
+    "hospital_name": "NORTON HEALTHCARE PAVILION",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11469/610703799_norton-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NortonHospital/11469"
+  },
+  {
+    "detail_id": "2cf1b65a-037b-4bcd-a705-ddb6b46f2314",
+    "ccn": "180088",
+    "hospital_name": "NORTON HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11469/610703799_norton-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NortonHospital/11469"
+  },
+  {
+    "detail_id": "bf1d4618-8f1e-4293-bb3b-43c06fe835a6",
+    "ccn": "",
+    "hospital_name": "NORTON WEST LOUISVILLE HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12591/610703799-1699514463_norton-hospitals-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NortonWestEndHospital/12591"
+  },
+  {
+    "detail_id": "b6eb2e8e-a03d-4f22-b802-67e1ee0fdccf",
+    "ccn": "",
+    "hospital_name": "NORTON WOMEN'S AND CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11470/610703799_norton-womens-and-childrens_standardcharges.csv",
+    "transparency_page": "https://nortonhealthcare.com/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "af71793a-4f11-4a73-a5df-f87ceefe5ffe",
+    "ccn": "181323",
+    "hospital_name": "OHIO COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/ohio-county-hospital/311131099_ohio-county-hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Ohio-County-Hospital"
+  },
+  {
+    "detail_id": "58b96820-a3a3-44d6-bf60-7714283a7bc9",
+    "ccn": "180004",
+    "hospital_name": "OWENSBORO HEALTH MUHLENBERG COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.owensborohealth.org/sites/default/files/documents/47-3944197_owensboro-health-muhlenberg-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.owensborohealth.org/patient-visitor/billing/pricing-information"
+  },
+  {
+    "detail_id": "d0110dbf-865b-46ac-9df9-be3c2e87247c",
+    "ccn": "180038",
+    "hospital_name": "OWENSBORO HEALTH REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.owensborohealth.org/sites/default/files/documents/61-1286361_owensboro-health-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.owensborohealth.org/patient-visitor/billing/pricing-information"
+  },
+  {
+    "detail_id": "8d5dc56b-9cf7-4b06-bbb5-00f2fcd97418",
+    "ccn": "180070",
+    "hospital_name": "OWENSBORO HEALTH TWIN LAKES MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.owensborohealth.org/sites/default/files/documents/85-3033915_owensboro-health-twin-lakes-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.owensborohealth.org/patient-visitor/billing/pricing-information"
+  },
+  {
+    "detail_id": "7a3944b9-c57e-4b6d-8edf-b726c2f3308d",
+    "ccn": "180078",
+    "hospital_name": "PAINTSVILLE ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/822577178_Paintsville-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "43508943-8d35-4cf9-a893-41c8427edc03",
+    "ccn": "180044",
+    "hospital_name": "PIKEVILLE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=CKA*__*zCaPMbmJ5cnsoIHDKg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=CKA*__*zCaPMbmJ5cnsoIHDKg*-*"
+  },
+  {
+    "detail_id": "44582108-ab5a-40ff-99a0-ba9bc247158a",
+    "ccn": "180154",
+    "hospital_name": "PINEVILLE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPCHCPINEVILLEKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://yourhometownhospital.org/"
+  },
+  {
+    "detail_id": "152f03c0-3434-416f-8be2-b7c626dfcf5d",
+    "ccn": "184017",
+    "hospital_name": "RIVENDELL BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200931121_rivendell-ky_standardcharges.csv",
+    "transparency_page": "https://rivendellbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "6baedfa5-1d64-4290-8233-2c95ddba0a8e",
+    "ccn": "",
+    "hospital_name": "RIVERVALLEY BEHAVIORAL HEALTH CHILDREN’S HOSPITAL – OWENSBORO",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "aba81f61-2236-4f91-9463-fb4047fb5eb4",
+    "ccn": "180115",
+    "hospital_name": "ROCKCASTLE REGIONAL HOSPITAL & RESPIRATORY CARE CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRHARCMTVERNONKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Rockcastle_V2.aspx"
+  },
+  {
+    "detail_id": "a24a686c-c002-4295-aed1-2c760e54614c",
+    "ccn": "181330",
+    "hospital_name": "RUSSELL COUNTY HOSPITAL",
+    "address": "153 DOWELL RD., PO BOX 1610",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRCHRUSSELLSPRINGSKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Russell_V2.aspx"
+  },
+  {
+    "detail_id": "e6889ca6-3a07-4b49-93dd-78944fb325c4",
+    "ccn": "181329",
+    "hospital_name": "SAINT JOSEPH BEREA",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_chi-saint-joseph-health-saint-joseph-berea_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "e9fc3efd-b6f4-4e70-b46e-6fe3772ea02b",
+    "ccn": "180143",
+    "hospital_name": "SAINT JOSEPH EAST",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_chi-saint-joseph-health-saint-joseph-east_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "bd97080a-8bd2-45f0-8102-ca47a12a7414",
+    "ccn": "180064",
+    "hospital_name": "SAINT JOSEPH MOUNT STERLING",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601_chi-saint-joseph-health-saint-joseph-mount-sterling_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/patient-resources/saint-joseph-health-price-transparency"
+  },
+  {
+    "detail_id": "b07448ef-b468-487a-8a25-e82007d4fae8",
+    "ccn": "182003",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - CENTRAL KENTUCKY",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/02-0631042_Select_Specialty_Hospital-Central_Kentucky_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "1ce06639-7593-4a49-8760-3a4e316562fa",
+    "ccn": "182004",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NORTHERN KENTUCKY",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1816237_Select_Specialty_Hospital-Northern_Kentucky_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "3ca9cb4c-fdaa-43ea-9f8b-4463bdadc9e7",
+    "ccn": "183029",
+    "hospital_name": "SOUTHERN KENTUCKY REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://skyrehab.com/wp-content/uploads/sites/17/2025/08/030501856_southern-kentucky-rehab-hospital_standardcharges.csv",
+    "transparency_page": "https://skyrehab.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "68f21ac1-df71-4e4f-9349-422c0aba4e60",
+    "ccn": "180024",
+    "hospital_name": "SPRING VIEW HOSPITAL",
+    "address": "",
+    "file_url": "https://www.springviewhospital.com/docs/zahspringviewlibraries/hcl/mrf2q25/200155414_spring-view-hospital_standardcharges.csv",
+    "transparency_page": "https://www.springviewhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "0a2e2847-ef4e-4e5c-bf5e-bff2dac8d13a",
+    "ccn": "180018",
+    "hospital_name": "ST. CLAIRE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbStClaireMoreheadKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/StClaire_V2.aspx"
+  },
+  {
+    "detail_id": "2ba31afc-3ae5-454c-9127-c997b2e22a0e",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
+  },
+  {
+    "detail_id": "7697aff5-4266-4650-bc15-67f30c73e29b",
+    "ccn": "180035",
+    "hospital_name": "ST. ELIZABETH EDGEWOOD",
+    "address": "",
+    "file_url": "https://www.stelizabeth.com/docs/default-source/patient-pricing/2025/610445850_st-elizabeth-edgewood_standardcharges.json",
+    "transparency_page": "https://www.stelizabeth.com/care/billing/patient-pricing/patient-pricing-machine-readable/"
+  },
+  {
+    "detail_id": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
+  },
+  {
+    "detail_id": "ff6c9f5e-8120-47fb-bdff-8cc32c9dbd05",
+    "ccn": "180045",
+    "hospital_name": "ST. ELIZABETH FLORENCE",
+    "address": "",
+    "file_url": "https://www.stelizabeth.com/docs/default-source/patient-pricing/2025/610445850_st-elizabeth-florence_standardcharges.json",
+    "transparency_page": "https://www.stelizabeth.com/care/billing/patient-pricing/patient-pricing-machine-readable/"
+  },
+  {
+    "detail_id": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
+  },
+  {
+    "detail_id": "c3ecb83f-36fe-4d87-9f4e-95d85705055a",
+    "ccn": "180001",
+    "hospital_name": "ST. ELIZABETH FT. THOMAS",
+    "address": "",
+    "file_url": "https://www.stelizabeth.com/docs/default-source/patient-pricing/2025/610445850_st-elizabeth-ftthomas_standardcharges.json",
+    "transparency_page": "https://www.stelizabeth.com/care/billing/patient-pricing/patient-pricing-machine-readable/"
+  },
+  {
+    "detail_id": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
+  },
+  {
+    "detail_id": "c00fcb04-d845-4556-85d0-64b0f56b1ffe",
+    "ccn": "181311",
+    "hospital_name": "ST. ELIZABETH GRANT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.stelizabeth.com/docs/default-source/patient-pricing/2025/610445850_st-elizabeth-grant_standardcharges.json",
+    "transparency_page": "https://www.stelizabeth.com/care/billing/patient-pricing/patient-pricing-machine-readable/"
+  },
+  {
+    "detail_id": "",
+    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
+  },
+  {
+    "detail_id": "64faa1a3-d949-49e8-8f7a-da297ac5ca1b",
+    "ccn": "184006",
+    "hospital_name": "SUN BEHAVIORAL KENTUCKY",
+    "address": "",
+    "file_url": "https://sunkentucky.com/wp-content/uploads/2024/12/KY-Price-Transparency-validated-1125.-01012025.csv",
+    "transparency_page": "https://sunkentucky.com/standard-services/"
+  },
+  {
+    "detail_id": "dfc46bf5-e7d7-40c1-b7fa-cc1fb652f082",
+    "ccn": "180087",
+    "hospital_name": "TAYLOR REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTRCAMPBELLSVILLEKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Taylor_V3.aspx#"
+  },
+  {
+    "detail_id": "238cf683-2f44-4833-816b-ff0512079d5f",
+    "ccn": "184007",
+    "hospital_name": "THE BROOK - DUPONT",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205048087_brook-dupont_standardcharges.csv",
+    "transparency_page": "https://thebrookhospitals.com/standard-services-2/"
+  },
+  {
+    "detail_id": "6dd0c3a2-da00-4fe0-af87-44cdb4a81a32",
+    "ccn": "184008",
+    "hospital_name": "THE BROOK HOSPITAL - KMI",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205048153_brook-kmi_standardcharges.csv",
+    "transparency_page": "https://thebrookhospitals.com/standard-services-2/"
+  },
+  {
+    "detail_id": "d83de32a-de2e-431b-b312-88c05e85ab57",
+    "ccn": "181333",
+    "hospital_name": "THE MEDICAL CENTER AT ALBANY",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/charges/mca/",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "d86505b4-c30b-49da-bf91-3bffbf8e2833",
+    "ccn": "180013",
+    "hospital_name": "THE MEDICAL CENTER AT BOWLING GREEN",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/charges/mcbg/",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "578aa0a9-6b6a-4cf5-aa28-71d8056fa5a0",
+    "ccn": "181314",
+    "hospital_name": "THE MEDICAL CENTER AT CAVERNA",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/charges/mcc/",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "bb9c782a-811c-4ace-9dc4-9e219f2c113a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "8be9c8ea-37b9-4c72-b413-e41dba46c0d2",
+    "ccn": "180066",
+    "hospital_name": "THE MEDICAL CENTER AT RUSSELLVILLE",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/download/42770/?tmstv=1741701592",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "4d1dbb77-de81-47cc-8ef0-2386a8ac3113",
+    "ccn": "181324",
+    "hospital_name": "THE MEDICAL CENTER AT SCOTTSVILLE",
+    "address": "",
+    "file_url": "https://medcenterhealth.org/charges/mcs/",
+    "transparency_page": "https://medcenterhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "c1ca5ee4-1865-4f21-98c3-3cc1141a100d",
+    "ccn": "184009",
+    "hospital_name": "THE RIDGE BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044431_ridge-bh_standardcharges.csv",
+    "transparency_page": "https://ridgebhs.com/standard-services/"
+  },
+  {
+    "detail_id": "588e4e41-8610-4a3e-8863-86ddd05b0a38",
+    "ccn": "180128",
+    "hospital_name": "THREE RIVERS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTRMCLOUISAKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ThreeRivers.aspx"
+  },
+  {
+    "detail_id": "369007c5-35cd-40e8-8d35-22a52c910434",
+    "ccn": "180149",
+    "hospital_name": "T J HEALTH COLUMBIA",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJHCCOLUMBIAKY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.tjregionalhealth.org/patients-visitors/billing-insurance-pricing/price-lists/"
+  },
+  {
+    "detail_id": "cad55541-f1d2-4496-a507-e116a59e7b00",
+    "ccn": "180017",
+    "hospital_name": "T J SAMSON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTJSamsonCommunity&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.tjregionalhealth.org/patients-visitors/billing-insurance-pricing/price-lists/"
+  },
+  {
+    "detail_id": "cd53bbe0-c5fe-4459-8822-c04c941e80ab",
+    "ccn": "181304",
+    "hospital_name": "TRIGG COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.trigghospital.org/docs/610471581_trigg-county-hospital-_standardcharges.csv",
+    "transparency_page": "https://www.trigghospital.org/getpage.php?name=Hospital_Pricing&sub=Patients%20and%20Visitors"
+  },
+  {
+    "detail_id": "f4390e36-0ceb-4381-a4b0-6451f99867dc",
+    "ccn": "180124",
+    "hospital_name": "TRISTAR GREENVIEW REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ea90461dcc04484494a1727a4979f0e4?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e17e2b22-915e-4fad-a70f-48608054e471",
+    "ccn": "180069",
+    "hospital_name": "TUG VALLEY ARH REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/520795508_Tug-Valley-ARH-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "9d733446-e1b9-453b-ab45-270aaff19fd2",
+    "ccn": "180151",
+    "hospital_name": "UK HEALTHCARE GOOD SAMARITAN HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Default.aspx?ci=Dn*__*BGKKwBFJp793mE1jFzw*-*",
+    "transparency_page": "https://ukhealthcare.uky.edu/patients-visitors/patients/payment-insurance"
+  },
+  {
+    "detail_id": "e1e6a608-0b00-4e99-b8fd-f26edee7c1d3",
+    "ccn": "180067",
+    "hospital_name": "UNIVERSITY OF KENTUCKY ALBERT B. CHANDLER HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Default.aspx?ci=Dn*__*BGKKwBFJp793mE1jFzw*-*",
+    "transparency_page": "https://ukhealthcare.uky.edu/patients-visitors/patients/payment-insurance"
+  },
+  {
+    "detail_id": "eeaa1491-5fdc-48d1-bcf0-7df1d5d8b668",
+    "ccn": "180040",
+    "hospital_name": "UOFL HEALTH - JEWISH HOSPITAL",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Jewish-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "a85249a3-aef8-4e21-9273-bb06a8dc5931",
+    "ccn": "180037",
+    "hospital_name": "UOFL HEALTH - MARY & ELIZABETH HOSPITAL",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Mary-and-Elizabeth-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "62103f27-b346-4edb-9c5d-ec217821538d",
+    "ccn": "",
+    "hospital_name": "UOFL HEALTH - MEDICAL CENTER EAST",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Medical-Center-East_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "46678b87-3ce6-448e-9945-f60b1a599a57",
+    "ccn": "",
+    "hospital_name": "UOFL HEALTH - MEDICAL CENTER NORTHEAST",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Medical-Center-Northeast_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "f8802930-c925-4c30-a758-ec82ae6f79db",
+    "ccn": "",
+    "hospital_name": "UOFL HEALTH – MEDICAL CENTER SOUTH",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-South-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "eba6dbc7-195a-4abc-87ac-672887a60560",
+    "ccn": "",
+    "hospital_name": "UOFL HEALTH - MEDICAL CENTER SOUTHWEST",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Medical-Center-Southwest_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "edadd725-0254-4ec9-a613-4f21ea01fbc2",
+    "ccn": "",
+    "hospital_name": "UOFL HEALTH - PEACE HOSPITAL",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843178470_UofL-Health-Peace-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "b1fcebae-3677-4a98-874e-6fc43a9793ea",
+    "ccn": "180016",
+    "hospital_name": "UOFL HEALTH - SHELBYVILLE HOSPITAL",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/843196350_UofL-Health-Shelbyville-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "19d053e9-ac22-438f-9872-82f77bca9686",
+    "ccn": "180141",
+    "hospital_name": "UOFL HEALTH - UOFL HOSPITAL",
+    "address": "",
+    "file_url": "https://uoflhealth.org/wp-content/uploads/2024/12/611293786_UofL-Health-UofL-Hospital_standardcharges.zip",
+    "transparency_page": "https://uoflhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "1e411a1f-24b7-4421-a532-744295ee15be",
+    "ccn": "181321",
+    "hospital_name": "WAYNE COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://waynehospital.org/files/galleries/610847215_Wayne-County-Hospital_standardcharges.csv",
+    "transparency_page": "https://waynehospital.org/Price-Transparency"
+  },
+  {
+    "detail_id": "7c3820ef-c17b-42a0-b9ed-0229fedc37ee",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  }
+]

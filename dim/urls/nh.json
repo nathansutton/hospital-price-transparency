@@ -1,0 +1,274 @@
+[
+  {
+    "detail_id": "7d9fb832-096c-4f72-aeae-df1095f197dd",
+    "ccn": "301305",
+    "hospital_name": "ALICE PECK DAY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.alicepeckday.org/02-0222791_Alice%20Peck%20Day%20Memorial_standardcharges.csv",
+    "transparency_page": "https://www.alicepeckday.org/patients/billing-financial-assistance"
+  },
+  {
+    "detail_id": "b9638385-5de3-4621-b449-f76212a567f4",
+    "ccn": "301310",
+    "hospital_name": "ANDROSCOGGIN VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/androscoggin-valley-hospital/020280367_Androscoggin-Valley-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/androscoggin-valley-hospital"
+  },
+  {
+    "detail_id": "80db1e92-80e1-43b8-9dff-22faeb8a842d",
+    "ccn": "300034",
+    "hospital_name": "CATHOLIC MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://catholicmc.com/dA/f58927902c/fileAsset/99-3123201_CATHOLIC-MEDICAL-CENTER_standardcharges.json",
+    "transparency_page": "https://catholicmc.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "43a2d873-7f71-481d-871d-52b07c4e46ab",
+    "ccn": "300019",
+    "hospital_name": "CHESHIRE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.cheshiremed.org/02-0354549_Cheshire%20Medical%20Center_standardcharges.zip",
+    "transparency_page": "https://www.cheshiremed.org/patients-visitors/charges-for-services"
+  },
+  {
+    "detail_id": "3b3ee277-75e3-45b1-b000-00dae1020f2f",
+    "ccn": "300001",
+    "hospital_name": "CONCORD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.concordhospital.org/app/files/public/7596681e-a594-49fb-8bd7-e41379e5fb2c/222594672_concord-hospital_standardcharges.csv",
+    "transparency_page": "https://www.concordhospital.org/patients-visitors/cost-of-care-estimates/"
+  },
+  {
+    "detail_id": "e3c256b1-f17c-4454-be70-9c66325824ee",
+    "ccn": "301306",
+    "hospital_name": "CONCORD HOSPITAL FRANKLIN",
+    "address": "",
+    "file_url": "https://www.concordhospital.org/app/files/public/fe1159b3-be6a-4316-a76c-c13776e363d6/851433123_concord-hospital-franklin_standardcharges.csv",
+    "transparency_page": "https://www.concordhospital.org/patients-visitors/cost-of-care-estimates/"
+  },
+  {
+    "detail_id": "120d11f2-d1b8-490a-94e8-0bc064c2714e",
+    "ccn": "300005",
+    "hospital_name": "CONCORD HOSPITAL LACONIA",
+    "address": "",
+    "file_url": "https://www.concordhospital.org/app/files/public/35ce9449-be92-488c-8eaf-85744e8e1b14/851443782_concord-hospital-laconia_standardcharges.csv",
+    "transparency_page": "https://www.concordhospital.org/patients-visitors/cost-of-care-estimates/"
+  },
+  {
+    "detail_id": "5cfc3755-c9b0-4579-82fd-f0c7e415d757",
+    "ccn": "301301",
+    "hospital_name": "COTTAGE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.cottagehospital.org/uploads/files/02-0223321_Cottage%20Hospital_standardcharges.csv",
+    "transparency_page": "https://www.cottagehospital.org/price-transparency-"
+  },
+  {
+    "detail_id": "ff6ad7db-1221-4f67-be7a-f8bc83615820",
+    "ccn": "300003",
+    "hospital_name": "DARTMOUTH HITCHCOCK MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.dartmouth-hitchcock.org/02-0222140_Mary%20Hitchcock%20Memorial%20Hospital_standardcharges.zip",
+    "transparency_page": "https://www.dartmouth-hitchcock.org/patients-visitors/lebanon-locations"
+  },
+  {
+    "detail_id": "c95ed708-26b3-4b4d-81ef-d403d08760ea",
+    "ccn": "",
+    "hospital_name": "DOVER EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://portsmouthhospital.com/dA/7e27d9b26b/fileAsset/02-0364103_dover-er_standardcharges.json",
+    "transparency_page": "https://portsmouthhospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "307c79fc-2891-4378-a3bc-a04596069574",
+    "ccn": "300012",
+    "hospital_name": "ELLIOT HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=f7iBAjlzov5McTIGaTxPpw*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=f7iBAjlzov5McTIGaTxPpw*-*"
+  },
+  {
+    "detail_id": "6eda0feb-c0d3-4e00-a61a-7e29c6d5d7d5",
+    "ccn": "303027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF CONCORD",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1102594_encompass-health-rehabilitation-hospital-of-concord_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/concordrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "7ef0cc51-f91e-4a06-a557-4f83170e7e41",
+    "ccn": "300023",
+    "hospital_name": "EXETER HOSPITAL",
+    "address": "",
+    "file_url": "https://exeterhospital.org/222674014_exeter-hospital_standardcharges.csv",
+    "transparency_page": "https://exeterhospital.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "38da49ae-1706-42dd-8e9b-649f93fd0799",
+    "ccn": "300014",
+    "hospital_name": "FRISBIE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/84-2462186_frisbie-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://frisbiehospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "f2f9f56f-7964-4cba-9e34-3bca8d867bc6",
+    "ccn": "301312",
+    "hospital_name": "HUGGINS HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/731ef0e972451ae12e17d777e7ad6cc9/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/731ef0e972451ae12e17d777e7ad6cc9"
+  },
+  {
+    "detail_id": "f807fd1d-8393-4668-9ca5-6d6f1bf59209",
+    "ccn": "301302",
+    "hospital_name": "LITTLETON REGIONAL HEALTHCARE",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/dd0894ed86f26a1af99627e59ddebbb1/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/dd0894ed86f26a1af99627e59ddebbb1/"
+  },
+  {
+    "detail_id": "87d6921d-964a-44c7-8482-6bbfccf73980",
+    "ccn": "301307",
+    "hospital_name": "MAINE HEALTH MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7979/020222156-1760436216_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/mainehealthmemorialhospital/7979"
+  },
+  {
+    "detail_id": "75b6aa96-c655-4d3a-9334-1777fded97e4",
+    "ccn": "301309",
+    "hospital_name": "MONADNOCK COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=96OHZrUcIshoMmRv3TQ0Bg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=96OHZrUcIshoMmRv3TQ0Bg*-*"
+  },
+  {
+    "detail_id": "7eead078-f8b1-4fb2-9bd0-76bbbf21842b",
+    "ccn": "301304",
+    "hospital_name": "NEW LONDON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.newlondonhospital.org/02-0222171_New%20London%20Hospital_standardcharges.csv",
+    "transparency_page": "https://www.newlondonhospital.org/patients-visitors/charges-services"
+  },
+  {
+    "detail_id": "724146a2-dbb5-4d8e-8c28-4b3357f68c86",
+    "ccn": "300012",
+    "hospital_name": "NORTHEAST REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northeastrehab.com/020369797_northeastrehabilitationhospital_standardcharges/",
+    "transparency_page": "https://www.northeastrehab.com/faqs/our-networks-standard-charges/"
+  },
+  {
+    "detail_id": "a24e6bb0-7cfe-412d-9b59-21e22c3229e9",
+    "ccn": "",
+    "hospital_name": "NORTHEAST REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.northeastrehab.com/020369797_northeastrehabilitationhospital_standardcharges/",
+    "transparency_page": "https://www.northeastrehab.com/faqs/our-networks-standard-charges/"
+  },
+  {
+    "detail_id": "1f892b5a-8d13-49e3-aee9-77b706b65d4b",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "d88dbb50-d308-4b60-bdcc-49fd512ab908",
+    "ccn": "303026",
+    "hospital_name": "NORTHEAST REHABILITATION HOSPITAL SALEM",
+    "address": "",
+    "file_url": "https://www.northeastrehab.com/020369797_northeastrehabilitationhospital_standardcharges/",
+    "transparency_page": "https://www.northeastrehab.com/faqs/our-networks-standard-charges/"
+  },
+  {
+    "detail_id": "2fd5121c-93a2-4591-b09b-6dc19874a969",
+    "ccn": "300017",
+    "hospital_name": "PARKLAND MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/02-0364103_parkland-medical-center_standardcharges.json",
+    "transparency_page": "https://parklandmedicalcenter.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "a9054d68-9556-47b1-a22f-a0e5dfd4fb93",
+    "ccn": "",
+    "hospital_name": "PLAISTOW EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/02-0364103_plaistow-emergency-room_standardcharges.json",
+    "transparency_page": "https://parklandmedicalcenter.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "a243fe54-b106-4866-9b29-71da9f6b15f8",
+    "ccn": "300029",
+    "hospital_name": "PORTSMOUTH REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/02-0364103_portsmouth-regional-hospital_standardcharges.json",
+    "transparency_page": "https://portsmouthhospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "73c4e4cc-c91c-46db-a6b4-133091fe48e6",
+    "ccn": "",
+    "hospital_name": "SEABROOK EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/02-0364103_seabrook-er_standardcharges.json",
+    "transparency_page": "https://portsmouthhospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "45aaad69-4c81-43c4-a939-fcc6e608dda9",
+    "ccn": "300020",
+    "hospital_name": "SOUTHERN NEW HAMPSHIRE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=06hFExK19Svl3QLOl*_*Dgkw*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=06hFExK19Svl3QLOl*_*Dgkw*-*"
+  },
+  {
+    "detail_id": "1b372eb9-82a8-4e02-bc7a-5c80b3d09db9",
+    "ccn": "301311",
+    "hospital_name": "SPEARE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=4EZY3sRA8HLb8Qjm705tAg*-*",
+    "transparency_page": "https://spearehospital.com/patients-visitors/cost-estimates-and-charges/"
+  },
+  {
+    "detail_id": "328a3d93-e2a4-4435-ac4d-3fbb7e422e3c",
+    "ccn": "300011",
+    "hospital_name": "ST JOSEPH HOSPITAL",
+    "address": "",
+    "file_url": "https://stjosephhospital.com/CMS%20Files/020222215_st-joseph-hospital-of-nashua_standardcharges.csv",
+    "transparency_page": "https://stjosephhospital.com/pricing/"
+  },
+  {
+    "detail_id": "a101d5dd-88f8-427b-bb2d-c3fcb420876a",
+    "ccn": "301300",
+    "hospital_name": "UPPER CONNECTICUT VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/upper-connecticut-valley-hospital/020276210_Upper-Connecticut-Valley-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/upper-connecticut-valley-hospital"
+  },
+  {
+    "detail_id": "c7adb594-959a-4909-905b-fb32d8b4f871",
+    "ccn": "301308",
+    "hospital_name": "VALLEY REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/e8ee7c31-a93d-41f9-b0b7-1df54697d98f/020222118_VALLEY-REGIONAL-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=e8ee7c31-a93d-41f9-b0b7-1df54697d98f"
+  },
+  {
+    "detail_id": "669c7e86-daa6-4c55-b4a1-7303112557df",
+    "ccn": "301303",
+    "hospital_name": "WEEKS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/weeks-medical-center/020222242_Weeks-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/weeks-medical-center"
+  },
+  {
+    "detail_id": "49cbd04d-af2e-4270-8670-20c8fc558d1a",
+    "ccn": "300018",
+    "hospital_name": "WENTWORTH-DOUGLASS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/020260334_Wentworth-Douglass-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.wdhospital.org/wdh/patients-and-visitors/billing-and-insurance/cms-required-hospital-charge-data"
+  }
+]

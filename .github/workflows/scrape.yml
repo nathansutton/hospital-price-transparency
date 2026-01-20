@@ -1,34 +1,84 @@
-name: Scrape latest data
+name: Validate Hospital URLs
 
 on:
-  push:
-    branches: 
-      - main  
-  workflow_dispatch:
   schedule:
-    - cron:  '0 8 * * *' # daily
+    - cron: '0 8 * * *'  # Daily at 8 AM UTC
+  workflow_dispatch:
+    inputs:
+      state:
+        description: 'State to validate (or "all")'
+        required: false
+        default: 'all'
 
 jobs:
-  scheduled:
+  validate-state:
     runs-on: ubuntu-latest
-    steps:    
-    - name: Check out this repo
-      uses: actions/checkout@v2
-    - name: Install Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'  
-    - name: Install Dependencies
-      run: pip install -r requirements.txt
-      shell: bash
-    - name: scrape the latest data
-      run: python scrape.py
-      shell: bash
-    - name: Commit and push if it changed
-      run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+    strategy:
+      matrix:
+        state: [AL, CT, DE, FL, GA, KY, MA, MD, NC, NH, NJ, NY, PA, RI, SC, TN, TX, VA, VT, WV]
+      fail-fast: false
+      max-parallel: 5
+
+    # Skip matrix jobs if a specific state was requested
+    if: ${{ github.event.inputs.state == 'all' || github.event.inputs.state == '' || github.event.inputs.state == matrix.state }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Validate ${{ matrix.state }} URLs
+        run: uv run python scripts/scrape.py --state ${{ matrix.state }} --validate-only
+        continue-on-error: true
+
+      - name: Upload status
+        uses: actions/upload-artifact@v4
+        with:
+          name: status-${{ matrix.state }}
+          path: status/${{ matrix.state }}.csv
+          if-no-files-found: warn
+          retention-days: 7
+
+  summarize:
+    needs: validate-state
+    runs-on: ubuntu-latest
+    if: always()
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Download all status files
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+          pattern: status-*
+
+      - name: Merge status files
+        run: |
+          mkdir -p status
+          for dir in artifacts/status-*/; do
+            if [ -d "$dir" ]; then
+              cp "$dir"*.csv status/ 2>/dev/null || true
+            fi
+          done
+          echo "Status files collected:"
+          ls -la status/
+
+      - name: Generate summary
+        run: uv run python scripts/generate_summary.py
+
+      - name: Commit status updates
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add status/
+
+          TIMESTAMP=$(date -u '+%Y-%m-%d')
+          git commit -m "URL validation: ${TIMESTAMP}" || echo "No changes to commit"
+          git push

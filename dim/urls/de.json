@@ -1,0 +1,130 @@
+[
+  {
+    "detail_id": "97553450-91b2-4a6b-a2e6-c3ef54c5273d",
+    "ccn": "080004",
+    "hospital_name": "BAYHEALTH HOSPITAL KENT CAMPUS",
+    "address": "",
+    "file_url": "https://www.bayhealth.org/-/media/files/patients-and-visitors/billing-financial-aid/price-transparency/2025/510064318bayhealthmedicalcenterkentcampusstandardcharges.json",
+    "transparency_page": "https://www.bayhealth.org/patients/billing/price-transparency"
+  },
+  {
+    "detail_id": "5cf60639-ac73-4b30-890a-9637b379bc56",
+    "ccn": "080009",
+    "hospital_name": "BAYHEALTH MEDICAL CENTER SUSSEX CAMPUS",
+    "address": "",
+    "file_url": "https://www.bayhealth.org/-/media/files/patients-and-visitors/billing-financial-aid/price-transparency/2025/510064318bayhealthhospitalsussexcampusstandardcharges.json",
+    "transparency_page": "https://www.bayhealth.org/patients/billing/price-transparency"
+  },
+  {
+    "detail_id": "fd8e3cdb-2b53-4c23-bc1a-866d293caf22",
+    "ccn": "080007",
+    "hospital_name": "BEEBE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/bdfcf79238cced1fa24bc49318040614/charges/mrf",
+    "transparency_page": "https://www.beebehealthcare.org/patients-visitors/understanding-medical-costs"
+  },
+  {
+    "detail_id": "e5348309-612b-43a6-bc8f-2b6b69b53058",
+    "ccn": "",
+    "hospital_name": "CHRISTIANA CARE-WILMINGTON HOSPITAL",
+    "address": "",
+    "file_url": "https://documents.christianacare.org/Finance/510103684_christianacare_standardcharges.json",
+    "transparency_page": "https://billing.christianacare.org/transparency/chargemaster"
+  },
+  {
+    "detail_id": "f57119ca-c343-48df-8e76-309b0b44e74d",
+    "ccn": "080001",
+    "hospital_name": "CHRISTIANA HOSPITAL",
+    "address": "",
+    "file_url": "https://documents.christianacare.org/Finance/510103684_christianacare_standardcharges.json",
+    "transparency_page": "https://billing.christianacare.org/transparency/chargemaster"
+  },
+  {
+    "detail_id": "a9627ff2-97cc-40f1-ba44-e21855d27f9c",
+    "ccn": "084004",
+    "hospital_name": "DOVER BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205093162_dover_standardcharges.csv",
+    "transparency_page": "https://doverbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "3a94b085-65a6-4ecb-97ee-e9b6b98b687e",
+    "ccn": "083026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MIDDLETOWN",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/27-3463026_encompass-health-rehabilitation-hospital-of-middletown_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/middletownrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "69a4716c-60cb-41ed-8499-65a38abdcb0e",
+    "ccn": "084003",
+    "hospital_name": "MEADOW WOOD BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://www.meadowwoodhospital.com/wp-content/uploads/pricing/2025/199/45-1343206_PHC_Meadowwood-LLC_standard%20charges.csv",
+    "transparency_page": "https://www.meadowwoodhospital.com/admissions/insurance-payment/"
+  },
+  {
+    "detail_id": "130424d7-c173-4abf-a45a-5f6cbf9dcfed",
+    "ccn": "083300",
+    "hospital_name": "NEMOURS CHILDREN'S HOSPITAL, DELAWARE",
+    "address": "",
+    "file_url": "https://www.nemours.org/content/dam/nemours/nemours-org/en/documents/590634433-1467505073_Nemours-Childrens-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.nemours.org/patientfamily/hospital-charges.html"
+  },
+  {
+    "detail_id": "0ce6c80d-c67b-4aa2-8c4f-78a0e1db7dce",
+    "ccn": "",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF DOVER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10965/320518669_pam-squared-at-dover-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RehabHospitalDover/10965"
+  },
+  {
+    "detail_id": "a1056ce6-756c-4db3-8b6e-b97bcd04c23e",
+    "ccn": "",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF GEORGETOWN",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10113/853049458_pam-rehabilitation-hospital-of-georgetown-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RehabHospitalofGeorgetownSussex/10113"
+  },
+  {
+    "detail_id": "39722888-ef6a-4248-8dda-75f3639ca50d",
+    "ccn": "084002",
+    "hospital_name": "ROCKFORD CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044421_rockford_standardcharges.csv",
+    "transparency_page": "https://rockfordcenter.com/standard-services/"
+  },
+  {
+    "detail_id": "becbacd3-7ffe-4498-9efc-2bc0cfe6f764",
+    "ccn": "082000",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - WILMINGTON",
+    "address": "501 WEST 14TH STREET, 9TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/51-0382465_Select_Specialty_Hospital-Wilmington_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "0c6d67d2-5977-4ac8-a68a-48a240910407",
+    "ccn": "080003",
+    "hospital_name": "ST. FRANCIS HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stfrancishospital",
+    "transparency_page": "https://www.trinityhealthma.org/patients-visitors/billing-insurance/pricing-transparency"
+  },
+  {
+    "detail_id": "b318ba0f-2006-453e-b904-2dbea469e5d1",
+    "ccn": "084005",
+    "hospital_name": "SUN BEHAVIORAL DELAWARE",
+    "address": "",
+    "file_url": "http://sundelaware.com/wp-content/uploads/2025/07/DE-Price-Transparency-Shoppable-Services.xlsx",
+    "transparency_page": "https://sundelaware.com/standard-services/"
+  },
+  {
+    "detail_id": "bec0c2a1-0feb-40d0-a94a-02017be2a5e1",
+    "ccn": "080006",
+    "hospital_name": "TIDALHEALTH NANTICOKE",
+    "address": "",
+    "file_url": "https://www.tidalhealth.org/sites/default/files/2024-12/51-0069243_Tidal-HealthNanticoke-Inc_standardcharges.csv",
+    "transparency_page": "https://www.tidalhealth.org/medical-care/financial-admin-services/billing/hospital-based-price-billing-unit-information"
+  }
+]

@@ -1,0 +1,14 @@
+date,ccn,hospital,status,file_url,records,error_type,error_message,duration
+2026-01-20T00:27:48.473771+00:00,470011,BRATTLEBORO MEMORIAL HOSPITAL,SUCCESS,https://sthpiprd.blob.core.windows.net/machine-readable-files/10714/030107300_brattleboro-memorial-hospital_standardcharges.csv,6252,,,38.73
+2026-01-20T00:27:48.473798+00:00,474001,BRATTLEBORO RETREAT,SUCCESS,https://www.brattlebororetreat.org/wp-content/uploads/2025/05/2024-2025-Price-Transparency-Disclosure.csv,428,,,0.33
+2026-01-20T00:27:48.473805+00:00,470001,CENTRAL VERMONT MEDICAL CENTER,SUCCESS,https://www.cvmc.org/sites/default/files/documents/222547186_Central-Vermont-Medical-Center_standardcharges.csv,8392,,,2.61
+2026-01-20T00:27:48.473811+00:00,471305,COPLEY HOSPITAL,SUCCESS,https://www.copleyvt.org/030179423_Copley-Hospital_standardcharges.csv,5170,,,1.28
+2026-01-20T00:27:48.473815+00:00,471301,GIFFORD MEDICAL CENTER,SUCCESS,https://giffordhealthcare.org/wp-content/uploads/2025/11/030179418_gifford-medical-center_standardcharges.csv,4459,,,9.44
+2026-01-20T00:27:48.473820+00:00,471300,GRACE COTTAGE HOSPITAL,SUCCESS,https://secure.claraprice.net/price-transparency/5f6520a384/machine-readable,1990,,,0.84
+2026-01-20T00:27:48.473824+00:00,471302,MOUNT ASCUTNEY HOSPITAL & HEALTH CENTER,SUCCESS,https://secure.claraprice.net/price-transparency/5fcd5b479a/machine-readable,2426,,,0.64
+2026-01-20T00:27:48.473829+00:00,471304,NORTH COUNTRY HOSPITAL,SUCCESS,https://northcountryhospital.org/wp-content/uploads/030185556_north-country-hospital_standardcharges.csv,6072,,,4.83
+2026-01-20T00:27:48.473833+00:00,471303,NORTHEASTERN VERMONT REGIONAL HOSPITAL,SUCCESS,https://nvrh.org/wp-content/uploads/2025/06/036013761_NORTHEASTERN-VERMONT-Regional-Hospital_standardcharges.csv,6694,,,1.66
+2026-01-20T00:27:48.473837+00:00,470024,NORTHWESTERN MEDICAL CENTER,SUCCESS,https://pricetransparency.blob.core.windows.net/northwesternmedical/03-0278425_Northwestern-Medical-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D,7295,,,3.25
+2026-01-20T00:27:48.473842+00:00,470005,RUTLAND REGIONAL MEDICAL CENTER,FAILURE,https://www.rrmc.org/app/files/public/47f0fe40-cd79-42f2-bd09-793a36563ae6/Patient%20and%20Visitors/030183483_RutlandRegionalMedicalCenter_standardcharges.csv,,PermanentHTTPError,Server returned 403,0.20
+2026-01-20T00:27:48.473847+00:00,470012,SOUTHWESTERN VERMONT MEDICAL CENTER,SUCCESS,https://svhealthcare.org/222563241_Southwestern-Vermont-Medical-Center-Inc._standardcharges.csv,14944,,,5.08
+2026-01-20T00:27:48.473851+00:00,471306,SPRINGFIELD HOSPITAL,SUCCESS,https://secure.claraprice.net/price-transparency/XGDZ-1751991682610/machine-readable,3160,,,1.86
