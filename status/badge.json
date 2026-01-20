@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "label": "hospitals scraped",
+  "message": "12/13 (92%)",
+  "color": "brightgreen",
+  "namedLogo": "data",
+  "cacheSeconds": 3600
+}

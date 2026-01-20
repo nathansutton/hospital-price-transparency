@@ -1,0 +1,810 @@
+[
+  {
+    "detail_id": "dfb6ffa9-4937-4356-b101-faf7c9d43cf4",
+    "ccn": "421301",
+    "hospital_name": "ABBEVILLE AREA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/abbeville-area-medical-center/576000003_Abbeville-Area-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/abbeville-area-medical-center"
+  },
+  {
+    "detail_id": "daf24526-2a62-493e-b61b-993ed7022579",
+    "ccn": "420082",
+    "hospital_name": "AIKEN REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/232791808_aiken-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.aikenregional.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "bf9e6950-5384-44bb-ae13-60ea37379463",
+    "ccn": "421300",
+    "hospital_name": "ALLENDALE COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://allendalecountyhospital.pg.quadax.revenuemasters.com/cdm-files/576001334_allendale-county-hospital_standardcharges.csv",
+    "transparency_page": "https://allendalecountyhospital.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "6cdaa53e-df56-4109-8c68-652c2279ec12",
+    "ccn": "422005",
+    "hospital_name": "AMG SPECIALTY HOSPITAL CHARLESTON",
+    "address": "",
+    "file_url": "https://amgihm.com/wp-content/uploads/2025/02/331688126_charleston-amg-specialty-hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "edb0e500-e9bd-4cba-84c8-af56d9bb6b0a",
+    "ccn": "420011",
+    "hospital_name": "ANMED HEALTH CANNON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12030/570342027_anmed-health-cannon_standardcharges.csv",
+    "transparency_page": "https://anmed.org/patients-visitors/billing-financial-services/pricing-transparency-cost-estimates"
+  },
+  {
+    "detail_id": "a3b3bd61-b6a5-4630-9961-e2730a647189",
+    "ccn": "420027",
+    "hospital_name": "ANMED HEALTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12029/570359174_anmed-health_standardcharges.csv",
+    "transparency_page": "https://anmed.org/patients-visitors/billing-financial-services/pricing-transparency-cost-estimates"
+  },
+  {
+    "detail_id": "9438ef31-6fe7-4567-9525-7c40840bd482",
+    "ccn": "",
+    "hospital_name": "ANMED HEALTH NORTH WOMEN'S AND CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12029/570359174_anmed-health_standardcharges.csv",
+    "transparency_page": "https://anmed.org/patients-visitors/billing-financial-services/pricing-transparency-cost-estimates"
+  },
+  {
+    "detail_id": "2a93626c-c190-48fb-b922-b31c1b23861b",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "4082ea66-7118-47af-9a18-348bd7444bbf",
+    "ccn": "420067",
+    "hospital_name": "BEAUFORT MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bmhsc.org/sites/default/files/2024-10/576000094_beaufortmemorialhospital_standardcharges.csv",
+    "transparency_page": "https://www.bmhsc.org/patients-and-visitors/for-patients/billing-insurance"
+  },
+  {
+    "detail_id": "98195f9e-85b8-4d95-b5cb-ef6009d3f36c",
+    "ccn": "420023",
+    "hospital_name": "BON SECOURS ST FRANCIS DOWNTOWN",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/582504530_st-francis-downtown_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "522a9eca-3e41-4931-bb4a-9913e6e79fa9",
+    "ccn": "",
+    "hospital_name": "BON SECOURS ST FRANCIS EASTSIDE",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/582504530_st-francis-eastside_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "ff5cb995-6592-4ace-b021-24553baa07d8",
+    "ccn": "420065",
+    "hospital_name": "BON SECOURS ST FRANCIS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rsfh.com/upload/docs/Patients%20and%20Visitors/571067254_bon-secours-st.-francis-xavier-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.rsfh.com/billing-financial-assistance/#transparency"
+  },
+  {
+    "detail_id": "923c0e7e-d682-4d09-ac03-175393cc5191",
+    "ccn": "424010",
+    "hospital_name": "CAROLINA CENTER FOR BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044427_carolina-center_standardcharges.csv",
+    "transparency_page": "https://thecarolinacenter.com/standard-services-2/"
+  },
+  {
+    "detail_id": "6ce3b938-8b18-4b75-8d3e-59431735be34",
+    "ccn": "",
+    "hospital_name": "CAROLINA FOREST ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/f2d8d6b1ce904dd3a542034572bc976a?download=true",
+    "transparency_page": "https://www.mygrandstrandhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d5a4d2c5-7510-4efc-9731-b700361f2b82",
+    "ccn": "420010",
+    "hospital_name": "CAROLINA PINES REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=iQ*__*xBZskGDGvutD7kLWDDg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=iQ*__*xBZskGDGvutD7kLWDDg*-*"
+  },
+  {
+    "detail_id": "cb32faa7-3b32-4ddc-a507-61b05f482eb1",
+    "ccn": "420043",
+    "hospital_name": "CHEROKEE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-07/832531807_cherokee-medical-center_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  },
+  {
+    "detail_id": "6f9b6a1f-f7ba-46dc-a13b-f9c2faee2073",
+    "ccn": "420030",
+    "hospital_name": "COLLETON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/57-0712623_HCA-Healthcare-Colleton-Hospital_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://colletonmedical.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "ac98a49d-ad7c-4019-9ba7-cbef326511c5",
+    "ccn": "420049",
+    "hospital_name": "CONWAY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.conwaymedicalcenter.com/wp-content/uploads/2025/07/570314381_conway-medical-center_standardcharges-FINAL.csv",
+    "transparency_page": "https://www.conwaymedicalcenter.com/billing-insurance/#charges"
+  },
+  {
+    "detail_id": "6c027f88-5d91-4e57-b078-b8567df139d6",
+    "ccn": "421304",
+    "hospital_name": "EDGEFIELD COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.selfregional.org/media/570331865_Self-Regional-Healthcare_standardcharges_csv.csv",
+    "transparency_page": "https://www.selfregional.org/healthcare-information/price-transparency/"
+  },
+  {
+    "detail_id": "01a2eab6-cf6f-4e64-9d20-fcbda3483b87",
+    "ccn": "423032",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF BLUFFTON",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/81-1718775_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Bluffton_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/blufftonrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "a62e7bab-8c7a-4cce-a20d-f63a282e84e3",
+    "ccn": "423025",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF COLUMBIA",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-0974715_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Columbia_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/columbiarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "9bc891c0-c3bc-46a1-a140-a40d7fbd3585",
+    "ccn": "423026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FLORENCE",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/57-0775688_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Florence_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/florencerehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "06ea54c7-011c-4867-ab13-c17ec97e21b8",
+    "ccn": "423037",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FORT MILL",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/851311484_Encompass-Health-Rehabilitation-Hospital-of-Fort-Mill_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/fort-mill-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "8673080d-78d5-429f-87e6-7f7a168a500c",
+    "ccn": "423035",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF GREENVILLE",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/833672761_Encompass-Health-Rehabilitation-Hospital-of-Greenville_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/greenville-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2f3cfb88-6303-477b-8a29-ba6c029632c4",
+    "ccn": "423028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF ROCK HILL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/57-1071353_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Rock%20Hill_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/rockhillrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "9472c012-3f68-44be-86f4-991fa86cab8f",
+    "ccn": "420085",
+    "hospital_name": "GRAND STRAND REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/f2d8d6b1ce904dd3a542034572bc976a?download=true",
+    "transparency_page": "https://www.mygrandstrandhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "0585162b-e35c-4a1c-bfff-e634af5ba386",
+    "ccn": "423030",
+    "hospital_name": "GREENWOOD REGIONAL REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://grrh.ernesthealth.com/wp-content/uploads/sites/8/2024/12/205991381_Greenwood-Regional-Rehabilitation-Hosptial_Standard-Charges.csv",
+    "transparency_page": "https://grrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "cdd97aa4-d263-48e3-be89-ba8223e1a0ce",
+    "ccn": "420072",
+    "hospital_name": "HAMPTON REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "http://machine-readable-files.com/hampton-regional-hospital/571017988_Hampton-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/hampton-regional/"
+  },
+  {
+    "detail_id": "fe629555-9cd7-455e-a3a0-a34fc37593ae",
+    "ccn": "420073",
+    "hospital_name": "LEXINGTON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.lexmed.com/docs/patients/852276567_lexington_medical_center_standardcharges.json",
+    "transparency_page": "https://www.lexmed.com/patients-visitors/billing-insurance/hospital-price-transparency"
+  },
+  {
+    "detail_id": "d1c6f282-754e-4ec8-a52b-003437dac585",
+    "ccn": "",
+    "hospital_name": "LEXINGTON REGIONAL REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://lxrrh.ernesthealth.com/wp-content/uploads/sites/12/2024/12/862873839_Lexington-Regional-Rehabilitation-Hospital_Standard-Charges.csv",
+    "transparency_page": "https://lxrrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "a9cfe489-5328-481a-83bc-003612b0f07b",
+    "ccn": "424002",
+    "hospital_name": "LIGHTHOUSE BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/203854241_lighthouse-bh_standardcharges.csv",
+    "transparency_page": "https://lighthousebehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "04210d35-c797-4e34-a63f-4af30701a682",
+    "ccn": "",
+    "hospital_name": "LIVE OAK MENTAL HEALTH AND WELLNESS",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ae8d034808fa49b7b4f19c1dc202493f?download=true",
+    "transparency_page": "https://www.tridenthealthsystem.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "9af95b3e-ff2d-49ed-a21c-d72e9e5b97c6",
+    "ccn": "",
+    "hospital_name": "MCLEOD HEALTH CAROLINA FOREST",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/45-3576100_mcleod-health-carolina-forest_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "5a5c2f11-ffc3-4136-9c57-9df0b33404ee",
+    "ccn": "420107",
+    "hospital_name": "MCLEOD HEALTH CHERAW",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/47-3712858_mcleod-health-cheraw_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "41415ea8-8e50-435c-9a2d-eeafb726c92a",
+    "ccn": "420109",
+    "hospital_name": "MCLEOD HEALTH CLARENDON",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/81-2772554_mcleod-health-clarendon_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "b04c188c-8d0f-448f-8a06-16139ecd69f9",
+    "ccn": "420105",
+    "hospital_name": "MCLEOD LORIS",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/45-3576100_mcleod-health-loris_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "455d9ce0-5b31-43a9-94ff-60fe8b5b1607",
+    "ccn": "423416",
+    "hospital_name": "MCLEOD MEDICAL CENTER-DARLINGTON",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/57-0370242_mcleod-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "216d4f7e-97bd-4ad5-9ded-b121a3f8fa18",
+    "ccn": "420005",
+    "hospital_name": "MCLEOD MEDICAL CENTER-DILLON",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/51-0473471_mcleod-health-dillon_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "0cb3f135-8a3b-4efa-a8ad-97412baf3f90",
+    "ccn": "420051",
+    "hospital_name": "MCLEOD REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/57-0370242_mcleod-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "8a8fb6d4-8af2-43ee-8f76-d9101730ec83",
+    "ccn": "",
+    "hospital_name": "MCLEOD SEACOAST",
+    "address": "",
+    "file_url": "https://www.mcleodhealth.org/wp-content/uploads/price-transparency/45-3576100_mcleod-health-seacoast_standardcharges.csv",
+    "transparency_page": "https://www.mcleodhealth.org/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "c3d42bbd-8dcd-4f42-a99f-1997959c1730",
+    "ccn": "423034",
+    "hospital_name": "MIDLANDS REGIONAL REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://mrrh.ernesthealth.com/wp-content/uploads/sites/14/2024/12/834346681_Midlands-Regional-Rehabilitation-Hospital_Standard-Charges.csv",
+    "transparency_page": "https://mrrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "fc5f5c32-ce0e-4b06-a272-231238d40e7c",
+    "ccn": "",
+    "hospital_name": "MUSC COLUMBIA MEDICAL CENTER NORTHEAST",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-columbia-medical-center-downtown_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "5aec0488-3a9b-47de-9391-ccd161b47e81",
+    "ccn": "",
+    "hospital_name": "MUSC HEALTH BLACK RIVER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-black-river-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "b62949a4-ee9b-4034-a1dc-0671c9c4ed0c",
+    "ccn": "420019",
+    "hospital_name": "MUSC HEALTH CHESTER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-chester-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "f0ba25b9-94e1-43f7-bbe6-9cf95be81f4f",
+    "ccn": "420026",
+    "hospital_name": "MUSC HEALTH COLUMBIA MEDICAL CENTER DOWNTOWN",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-columbia-medical-center-downtown_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "8f2b938f-ac88-42aa-8abf-6fa4c8ef685f",
+    "ccn": "",
+    "hospital_name": "MUSC HEALTH FLORENCE INPATIENT REHABILITATION CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-florence-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "fb91fc82-4705-4ff5-95f1-8217816e4854",
+    "ccn": "420091",
+    "hospital_name": "MUSC HEALTH FLORENCE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-florence-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "e63a5a65-7050-4943-aac6-9e25758dc8a3",
+    "ccn": "420048",
+    "hospital_name": "MUSC HEALTH KERSHAW MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-kershaw-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "369fdb8f-ad6a-48fa-a09d-64c62fd81520",
+    "ccn": "420036",
+    "hospital_name": "MUSC HEALTH LANCASTER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-lancaster-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "f7189bf1-e0a1-4cae-a33d-371fc7e98735",
+    "ccn": "420055",
+    "hospital_name": "MUSC HEALTH MARION MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-marion-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "c023f50c-2d0e-45a2-b197-8385c96607d5",
+    "ccn": "420068",
+    "hospital_name": "MUSC HEALTH - ORANGEBURG",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-columbia-medical-center-downtown_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "d55b5443-9733-4654-a4de-50c1e065792b",
+    "ccn": "423027",
+    "hospital_name": "MUSC HEALTH REHABILITATION HOSPITAL, AN AFFILIATE OF ENCOMPASS HEALTH",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/57-0904886_MUSC%20Health%20Rehabilitation%20Hospital%20an%20affiliate%20of%20Encompass%20Health_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/charlestonrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "e2cbcf4c-f99a-4e2b-99d5-702939d5cfee",
+    "ccn": "420004",
+    "hospital_name": "MUSC HEALTH UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "ca681539-9157-4803-bba4-337e65f7b334",
+    "ccn": "",
+    "hospital_name": "MUSC WOMEN'S HEALTH - FLORENCE WOMEN’S PAVILION",
+    "address": "",
+    "file_url": "https://muschealth.org/-/sm/health/patients-visitors/billing/f/571098556_musc-health-florence-medical-center_standardcharges.csv",
+    "transparency_page": "https://muschealth.org/patients-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "5faa52f0-df94-45ce-86f5-2d7157d77253",
+    "ccn": "420053",
+    "hospital_name": "NEWBERRY COUNTY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8016/570324929_newberry-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NewberryCountyMemorialHospital/8016or"
+  },
+  {
+    "detail_id": "8b51a6df-45fa-4a56-8857-0d0ee418e43d",
+    "ccn": "",
+    "hospital_name": "NORTH STRAND ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/f2d8d6b1ce904dd3a542034572bc976a?download=true",
+    "transparency_page": "https://www.mygrandstrandhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d060264a-51cb-45d5-baed-0687e93f3651",
+    "ccn": "420101",
+    "hospital_name": "NOVANT HEALTH COASTAL CAROLINA HOSPITAL",
+    "address": "",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/934580630_CoastalCarolinaHospital_standardcharges.json",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "a1352267-a1f1-4d88-9121-8c056f258084",
+    "ccn": "420089",
+    "hospital_name": "NOVANT HEALTH EAST COOPER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/934555562_EastCooperMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "d554d369-d749-477a-a541-aa34fd91d0a4",
+    "ccn": "420080",
+    "hospital_name": "NOVANT HEALTH HILTON HEAD MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/934604680_HiltonHeadHospital_standardcharges.json",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "5eeddca4-5906-40ef-8dfe-cb6ec0a83f4c",
+    "ccn": "424006",
+    "hospital_name": "PALMETTO LOWCOUNTRY BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/571101380_palmetto-low-country_standardcharges.csv",
+    "transparency_page": "https://palmettobehavioralhealth.com/standard-services/"
+  },
+  {
+    "detail_id": "769ce1fe-b361-4819-ae90-81ab629d726c",
+    "ccn": "424011",
+    "hospital_name": "PATRICK B HARRIS PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "d48dced2-8377-4bcb-8112-84b7fed196be",
+    "ccn": "420103",
+    "hospital_name": "PELHAM MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-07/141996067_pelham-medical-center_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  },
+  {
+    "detail_id": "0ec9ba82-aef7-4aaf-b07c-3bdd7d22ebd6",
+    "ccn": "420002",
+    "hospital_name": "PIEDMONT MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/953561198_PiedmontMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.piedmontmedicalcenter.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "77745e0a-0b9f-4e64-9c92-0645578ed15b",
+    "ccn": "",
+    "hospital_name": "PIEDMONT MEDICAL CENTER FORT MILL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/953561198_piedmont-medical-center---fort-mill_standardcharges.json",
+    "transparency_page": "https://www.piedmontmedicalcenter.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "b4a70bbf-1917-4aee-b4b3-9cdbb045cde1",
+    "ccn": "420015",
+    "hospital_name": "PRISMA HEALTH BAPTIST EASLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/5f1d387d-be29-44f4-8abb-cc046006b554/811723202_prisma-health-baptist-easley-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "a6737331-d0c3-4563-a022-ddb2913e7afa",
+    "ccn": "420086",
+    "hospital_name": "PRISMA HEALTH BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/b5a94f7f-0335-47bd-b6f7-011ad4c227fc/582296052_prisma-health-baptist-columbia-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "feef214f-61c5-48ae-9fb7-c951d8b49365",
+    "ccn": "420106",
+    "hospital_name": "PRISMA HEALTH BAPTIST PARKRIDGE HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/878eb302-b35b-4dfe-8432-a6a1018ebc9b/582296052_prisma-health-baptist-parkridge-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "8b1711d0-2536-44bd-98e2-ec239791dba3",
+    "ccn": "420078",
+    "hospital_name": "PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/1cc0d702-4ecf-49c8-9b3c-ab00639ad31a/81-1723202_prisma-health-greenville-memorial-hospital_standardcharges-csv.csv",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "50d54f0a-e4d1-422d-9c8b-ae3a75f369dc",
+    "ccn": "420033",
+    "hospital_name": "PRISMA HEALTH GREER MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/994a9a91-396d-4c56-928e-ea15c7fa5b26/811723202_prisma-health-greer-memorial-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "9989dca1-a6e0-44db-815e-4bf30fe355f6",
+    "ccn": "420037",
+    "hospital_name": "PRISMA HEALTH HILLCREST HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/2897ad82-effc-4f7f-890b-fdde8ab8c4c8/811723202_prisma-health-hillcrest-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "57294b82-0264-48be-9855-d0752a59a21b",
+    "ccn": "420038",
+    "hospital_name": "PRISMA HEALTH LAURENS COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/b07db901-d908-4d3a-9393-5a3a22d1c9b9/811723202_prisma-health-laurens-county-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "e40f6245-8fcb-4e82-b822-fff61ac2c4cf",
+    "ccn": "422008",
+    "hospital_name": "PRISMA HEALTH NORTH GREENVILLE HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/b16c4178-792a-4a20-adf0-1544c81381a5/811723202_prisma-health-north-greenville-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "4ec5c259-7004-478f-9495-080b34a89dfe",
+    "ccn": "420009",
+    "hospital_name": "PRISMA HEALTH OCONEE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/71ee3faf-fdfc-439a-8799-cc8a5794c07d/811723202_prisma-health-oconee-memorial-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "27bdaa83-f90c-4300-b74a-4f162e21eb83",
+    "ccn": "420102",
+    "hospital_name": "PRISMA HEALTH PATEWOOD HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/8345af32-6808-4749-9cfe-4bb5c64a2238/811723202_prisma-health-patewood-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "a8d52c41-0544-4d5c-9d77-0123b6ec9cb8",
+    "ccn": "420018",
+    "hospital_name": "PRISMA HEALTH RICHLAND HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/0f087ccd-2924-4d94-9299-1fb0e8de8174/58-2296052_Prisma-Health-Richland_standardcharges-csv.csv",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "074bbda7-7604-4efc-9bf4-1d54e1f69db7",
+    "ccn": "420070",
+    "hospital_name": "PRISMA HEALTH TUOMEY HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/3fd77ab9-5a27-4e66-85dc-2e287fa309a5/474914917_prisma-health-tuomey-hospital_standardcharges-csv-zip.zip",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "49694930-d694-4017-9926-3a6ad85b2c38",
+    "ccn": "424014",
+    "hospital_name": "REBOUND BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://www.reboundbehavioralhealth.com/wp-content/uploads/pricing/2025/211/30-0701952_Rebound-Behavioral-Health_LLC_standardcharges.csv",
+    "transparency_page": "https://www.reboundbehavioralhealth.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "73e5cb7a-0e17-40f2-8cb0-648f152c97f7",
+    "ccn": "",
+    "hospital_name": "REGENCY HOSPITAL FLORENCE",
+    "address": "805 PAMPLICO HIGHWAY, SECOND AND THIRD FLOORS, SOUTH TOWER",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/57-1124822_Regency_Hospital_of_Florence_StandardCharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "e5dd6075-7bfe-40ed-8f01-337196f4408e",
+    "ccn": "422009",
+    "hospital_name": "REGENCY HOSPITAL - UPSTATE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/20-0122559_Regency_Hospital_of_Greenville_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "ad606105-585c-45b1-8340-8c4303051aca",
+    "ccn": "420087",
+    "hospital_name": "ROPER HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rsfh.com/upload/docs/Patients%20and%20Visitors/570828733_roper-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.rsfh.com/billing-financial-assistance/#transparency"
+  },
+  {
+    "detail_id": "d1ea4650-ae1a-46e6-8444-e3c2495c0aff",
+    "ccn": "420110",
+    "hospital_name": "ROPER ST FRANCIS BERKELEY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rsfh.com/upload/docs/Patients%20and%20Visitors/263710229_roper-st.-francis-hospital---berkeley-inc-_standardcharges.csv",
+    "transparency_page": "https://www.rsfh.com/billing-financial-assistance/#transparency"
+  },
+  {
+    "detail_id": "8c0fe90d-41e7-4309-a9c7-79ac5b548179",
+    "ccn": "420104",
+    "hospital_name": "ROPER ST. FRANCIS MOUNT PLEASANT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rsfh.com/upload/docs/Patients%20and%20Visitors/570360499_roper-st.-francis-mount-pleasant-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rsfh.com/billing-financial-assistance/#transparency"
+  },
+  {
+    "detail_id": "327d7901-698b-4133-8d35-ddb500a391e3",
+    "ccn": "420071",
+    "hospital_name": "SELF REGIONAL HEALTHCARE",
+    "address": "",
+    "file_url": "https://www.selfregional.org/media/570331865_Self-Regional-Healthcare_standardcharges_csv.csv",
+    "transparency_page": "https://www.selfregional.org/healthcare-information/price-transparency/"
+  },
+  {
+    "detail_id": "c584cafe-71aa-41b7-adee-cae3d4c8ea3c",
+    "ccn": "",
+    "hospital_name": "SHERIFF AL CANNON DETENTION CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "7b40fc74-2b20-4b90-bf43-e31241ab8a2b",
+    "ccn": "423300",
+    "hospital_name": "SHRINERS' HOSPITAL FOR CHILDREN-GREENVILLE",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/c9cdb40cd7ee3f55ec6a0d0dc127827b/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/c9cdb40cd7ee3f55ec6a0d0dc127827b"
+  },
+  {
+    "detail_id": "d637fcf6-09a9-4c26-8b35-baac35f57654",
+    "ccn": "",
+    "hospital_name": "SOUTH STRAND MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/f2d8d6b1ce904dd3a542034572bc976a?download=true",
+    "transparency_page": "https://www.mygrandstrandhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "42ee6433-96d6-4e59-8119-2a7afcbc0a74",
+    "ccn": "422004",
+    "hospital_name": "SPARTANBURG HOSPITAL FOR RESTORATIVE CARE",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-07/571032061_spartanburg-hospital-for-restorative-care_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  },
+  {
+    "detail_id": "984d13f8-03b4-46ae-ab79-86a4dec52f6c",
+    "ccn": "420007",
+    "hospital_name": "SPARTANBURG MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-01/576000934_spartanburg-medical-center_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  },
+  {
+    "detail_id": "a437a3b2-7adc-4547-b1a4-dbdc7acc2f50",
+    "ccn": "420083",
+    "hospital_name": "SPARTANBURG MEDICAL CENTER - MARY BLACK CAMPUS",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-01/576000934_spartanburg-medical-center_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  },
+  {
+    "detail_id": "1abc6b8f-9617-4538-8354-84053cddf4ad",
+    "ccn": "423031",
+    "hospital_name": "SPARTANBURG REHABILITATION INSTITUTE",
+    "address": "",
+    "file_url": "https://sri.ernesthealth.com/wp-content/uploads/sites/28/2024/12/263108840_Spartanburg-Rehabilitation-Institute_Standard-Charges.csv",
+    "transparency_page": "https://sri.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "82c10a07-4bdf-4e02-9f94-a31e3fdfe8f9",
+    "ccn": "",
+    "hospital_name": "SPRINGBROOK BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "35606ecb-3f6a-4b83-be82-a8baee1309fa",
+    "ccn": "",
+    "hospital_name": "ST. FRANCIS CANCER CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/582504530_st-francis-downtown_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "16bd3580-75c5-4fa3-983b-523e43048425",
+    "ccn": "",
+    "hospital_name": "SUMMERVILLE MEDICAL CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "953b7c6f-5547-42ec-9f83-3105a8fd7856",
+    "ccn": "424008",
+    "hospital_name": "THREE RIVERS BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/571106645_three-rivers-shreveport_standardcharges.csv",
+    "transparency_page": "https://threeriversbehavioral.org/standard-services/"
+  },
+  {
+    "detail_id": "d1c65a6a-8937-4805-b380-06326de11bbe",
+    "ccn": "420020",
+    "hospital_name": "TIDELANDS GEORGETOWN MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tidelandshealth.org/app/files/public/d43fa22a-11d1-4c3b-8c38-60b9f8bd1034/570341194_GeorgetownMemorialHospital_standardcharges_06_27_25.csv",
+    "transparency_page": "https://www.tidelandshealth.org/patients-visitors/standard-charges/"
+  },
+  {
+    "detail_id": "0c8d9ead-59af-4464-a344-5df213f75271",
+    "ccn": "",
+    "hospital_name": "TIDELANDS HEALTH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/81-2585212_tidelands-health-rehabilitation-hospital-an-affiliate-of-encompass-health_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tidelandshealth-murrellsinlet/transparency-healthcare"
+  },
+  {
+    "detail_id": "2ed13368-f68a-4a4d-b83b-4bb7e87d1b93",
+    "ccn": "",
+    "hospital_name": "TIDELANDS HEALTH REHABILITATION HOSPITAL, AN AFFILIATE OF ENCOMPASS HEALTH",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/812585212-tidelands-health-rehabilitation-hospital-an-affiliate-of-encompass-health-little-river-standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tidelandshealth-littleriver/transparency-healthcare"
+  },
+  {
+    "detail_id": "6812f4f8-a091-49b8-ac11-503cef5307dc",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "4c5e4283-398a-4690-8ef9-ca2b4802f4bd",
+    "ccn": "424013",
+    "hospital_name": "TRI-COUNTY COMMISSION ON ALCOHOL AND DRUG ABUSE",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a9616427-ffd7-432f-89b9-896aff3e2963",
+    "ccn": "420079",
+    "hospital_name": "TRIDENT MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1768106_HCA-Healthcare-Trident-Hospital_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.tridenthealthsystem.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "8d4ff561-8112-4b6a-befb-41a68a4a014d",
+    "ccn": "420108",
+    "hospital_name": "UNION MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.spartanburgregional.com/sites/default/files/2025-07/474491361_union-medical-center_standardcharges.json",
+    "transparency_page": "https://www.spartanburgregional.com/standardcharges"
+  }
+]

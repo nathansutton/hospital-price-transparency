@@ -1,0 +1,2898 @@
+[
+  {
+    "detail_id": "466b651d-3941-440a-a16e-2d464ba6f043",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH ALTAMONTE SPRINGS",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "8737ba9e-c90f-4e6a-a523-b351c0b0dcca",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH APOPKA",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "e77aecdb-10a5-46a5-958a-5942b574e615",
+    "ccn": "100069",
+    "hospital_name": "ADVENTHEALTH CARROLLWOOD",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/591113901_AdventHealth-Carollwood_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "60c922d2-aee1-4d21-b366-93471d3bf750",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH CELEBRATION",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "4565db5e-f193-427d-a2fe-6cb9b31db86e",
+    "ccn": "102026",
+    "hospital_name": "ADVENTHEALTH CONNERTON",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/591113901_AdventHealth-Connerton_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "e1e04615-e01a-4b5f-87e2-f6c2714708eb",
+    "ccn": "100211",
+    "hospital_name": "ADVENTHEALTH DADE CITY",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/822567308_AdventHealth-Dade-City_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "f4ae693f-0137-416c-84e0-05c9deb4b12c",
+    "ccn": "100068",
+    "hospital_name": "ADVENTHEALTH DAYTONA BEACH",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590973502_AdventHealth-Daytona_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "6a504f90-7482-4237-ac19-5aa25aa40805",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "231d8c49-0130-4955-974c-ba8d639f35cd",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH EAST ORLANDO",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "e33d878f-a52d-43ac-9ea5-6ab22fd3a393",
+    "ccn": "100072",
+    "hospital_name": "ADVENTHEALTH FISH MEMORIAL",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/593149293_AdventHealth-Fish-Memorial_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "df20a4ce-8e47-4d33-84b1-f715bde840d3",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH FOR CHILDREN",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "fb53e705-70f5-4ff6-b4ec-47f8d6700b84",
+    "ccn": "100137",
+    "hospital_name": "ADVENTHEALTH HEART OF FLORIDA",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/841793121_AdventHealth-Heart-of-Florida_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "3497eddf-ae01-4d15-ba8a-7e3e11cf7309",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH KISSIMMEE",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "cc23f983-59ce-44e8-a169-dc75d3a06d1f",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH LAKE PLACID",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590725553_AdventHealth-Sebring_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "a5f31b07-7d57-4b80-8eeb-1d25f457dbc7",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "56b146b2-065f-4a3a-9060-afab5fd72841",
+    "ccn": "100014",
+    "hospital_name": "ADVENTHEALTH NEW SMYRNA",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/473793197_AdventHealth-New-Smyrna-Beach_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "933b1a22-5bab-4d27-8df8-142b4bbba458",
+    "ccn": "100055",
+    "hospital_name": "ADVENTHEALTH NORTH PINELLAS",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590898901_AdventHealth-North-Pinellas_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "95880234-6da2-4b47-a24a-a8e2d8c7a8f0",
+    "ccn": "100062",
+    "hospital_name": "ADVENTHEALTH OCALA",
+    "address": "1500 SW 1ST AVE, 5TH FLOOR",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/824372339_AdventHealth-Ocala_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "969eb448-046f-4bca-b5a7-b6e8142dfd7e",
+    "ccn": "100007",
+    "hospital_name": "ADVENTHEALTH ORLANDO",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "590d5cba-9e5c-4dc3-9aad-6b919cf05a07",
+    "ccn": "100118",
+    "hospital_name": "ADVENTHEALTH PALM COAST",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/592951990_AdventHealth-Palm-Coast_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "da3bdadf-df08-446e-8c04-7bb301215ede",
+    "ccn": "100363",
+    "hospital_name": "ADVENTHEALTH PALM COAST PARKWAY",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/882288563_AdventHealth-Palm-Coast-Parkway_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "d30b3521-d900-4373-a8e3-1dea59b2eb45",
+    "ccn": "100077",
+    "hospital_name": "ADVENTHEALTH PORT CHARLOTTE",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/201852902_AdventHealth-Port-Charlotte_standardcharges.csv",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "c7c364d6-1938-4532-9b6b-9ce4445b4eb4",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH RIVERVIEW",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/870901094_AdventHealth-Riverview_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "a250effe-835a-4598-83f7-2f5ca781586c",
+    "ccn": "100109",
+    "hospital_name": "ADVENTHEALTH SEBRING",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590725553_AdventHealth-Sebring_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "97e51fb2-cfaf-4034-bc61-e42559930057",
+    "ccn": "100173",
+    "hospital_name": "ADVENTHEALTH TAMPA",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/591113901_AdventHealth-Tampa_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "3984213e-6742-4ee9-bdfd-991a6f7fbd4f",
+    "ccn": "100057",
+    "hospital_name": "ADVENTHEALTH WATERMAN",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/593140669_AdventHealth-Waterman_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "20bc4106-61aa-41c6-b75e-ff0d9b1ac8d1",
+    "ccn": "101300",
+    "hospital_name": "ADVENTHEALTH WAUCHULA",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590725553_AdventHealth-Wauchula_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "3ea517b8-b8bd-440a-ad44-0f0092633185",
+    "ccn": "100319",
+    "hospital_name": "ADVENTHEALTH WESLEY CHAPEL",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/208488713_AdventHealth-Wesley-Chapel_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "ad372c17-9eb5-4259-8f02-43509e4c4962",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH WINTER GARDEN",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "805e8142-56ce-40a9-9340-a0f93439c63c",
+    "ccn": "",
+    "hospital_name": "ADVENTHEALTH WINTER PARK",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/590724459_AdventHealth-Orlando_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "b9ce7758-abe7-49df-b029-6bcc0b70dec3",
+    "ccn": "100046",
+    "hospital_name": "ADVENTHEALTH ZEPHYRHILLS",
+    "address": "",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/592108057_AdventHealth-Zephyrhills_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "9a01776d-b086-4d86-bb60-f31b38066fc8",
+    "ccn": "104059",
+    "hospital_name": "APALACHEE CENTER EASTSIDE PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "https://apalacheecenter.org/wp-content/uploads/2025/04/591162148_eastside-psychiatric-hospital_standardcharges-5.csv",
+    "transparency_page": "https://apalacheecenter.org/title_xxix/"
+  },
+  {
+    "detail_id": "57b6e64d-2037-4811-9586-59050f6b5e80",
+    "ccn": "100307",
+    "hospital_name": "ASCENCION ST. VINCENT'S SOUTHSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/260479484_st-lukes-st-vincents-healthcare-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "2e624ff5-06fc-4667-be4d-5ba0753e9a70",
+    "ccn": "100026",
+    "hospital_name": "ASCENSION SACRED HEART BAY",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/900799724_bay-county-health-system-llc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "9527e0f4-313c-4185-bec6-173c15ec77c4",
+    "ccn": "100292",
+    "hospital_name": "ASCENSION SACRED HEART EMERALD COAST",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/721529708_sacred-heart-health-system-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "8f1504a4-0588-42c9-bb41-6a5a167f2721",
+    "ccn": "100313",
+    "hospital_name": "ASCENSION SACRED HEART GULF",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/300577249_sacred-heart-health-system-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "a8ab5a59-8034-4704-9ff0-cb5628936c51",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "64dc5987-4b8f-47f9-80f0-65511322411e",
+    "ccn": "100321",
+    "hospital_name": "ASCENSION ST. VINCENT'S CLAY COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/461523194_united-states-catholic-conference-st-vincents-medical-center-clay-county-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "2e34d76d-103b-4728-984b-ac81f5564b00",
+    "ccn": "100040",
+    "hospital_name": "ASCENSION ST. VINCENT'S RIVERSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/590624449_st-vincents-medical-center-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "181e52a1-a051-43fc-bfa7-53dd486812b8",
+    "ccn": "100361",
+    "hospital_name": "ASCENSION ST. VINCENT'S ST. JOHNS COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/593650609_st-vincents-health-system-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "8ab977f6-3cc8-4dca-95f1-98811399fa44",
+    "ccn": "104067",
+    "hospital_name": "ASPIRE HEALTH PARTNERS",
+    "address": "",
+    "file_url": "https://images.pricetransparency.healthcare/aspire-health-partners/592301233_aspire-health-partners-inc_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/aspire-health-partners/charges/"
+  },
+  {
+    "detail_id": "365e3b55-915a-454e-b5c8-a420bf0cd7b9",
+    "ccn": "",
+    "hospital_name": "BAPTIST HEALTH HOSPITAL DORAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/590872594_south-miami-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/doral-hospital-pricing"
+  },
+  {
+    "detail_id": "265d9b94-8647-4a36-9a07-5fab164a8947",
+    "ccn": "",
+    "hospital_name": "BAPTIST HEART HOSPITAL",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/vzj6l5oy331dhnx5jzk9sla3vgkjgrby",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "38c9084c-de42-470f-b7e4-afabbac4824f",
+    "ccn": "100093",
+    "hospital_name": "BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealthcare.pt.panaceainc.com/MRFDownload/baptisthealthcare/baptist",
+    "transparency_page": "https://www.ebaptisthealthcare.org/patientfinancialresources/price-transparency-standard-hospital-charges"
+  },
+  {
+    "detail_id": "88d7a52a-38eb-46ad-9425-25f4821fc932",
+    "ccn": "100008",
+    "hospital_name": "BAPTIST HOSPITAL OF MIAMI",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/590910342_baptist-hospital-of-miami_standardcharges.zip",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/baptist-hospital-pricing"
+  },
+  {
+    "detail_id": "00f20fb4-bcba-42e2-8604-f84ac7e8ac8a",
+    "ccn": "",
+    "hospital_name": "BAPTIST MD ANDERSON CANCER CENTER",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/vzj6l5oy331dhnx5jzk9sla3vgkjgrby",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "3c5e4f0e-75e3-46f1-8ff5-75a7a771f608",
+    "ccn": "100117",
+    "hospital_name": "BAPTIST MEDICAL CENTER - BEACHES",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/4du6gx7x9qr05xj7n3gunu2776ngz9j1",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "aab5b1eb-ff89-4a58-aa46-b1c277f8dfbd",
+    "ccn": "",
+    "hospital_name": "BAPTIST MEDICAL CENTER CLAY",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/18kyfxlpo6zaroejxfr8cfj7dv1wy1c8",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "c4268702-99f2-484f-9e68-5c339d1e4c38",
+    "ccn": "100088",
+    "hospital_name": "BAPTIST MEDICAL CENTER JACKSONVILLE",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/vzj6l5oy331dhnx5jzk9sla3vgkjgrby",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "c695e585-14b7-4607-a7c9-92db3a765ea2",
+    "ccn": "100140",
+    "hospital_name": "BAPTIST MEDICAL CENTER - NASSAU",
+    "address": "",
+    "file_url": "https://baptist-health.box.com/s/lmsic18vnv2pmzpxza2flxre1rprmdf5",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "10ce4510-bb54-4530-a82d-d4fd93983a6b",
+    "ccn": "",
+    "hospital_name": "BAPTIST MEDICAL CENTER SOUTH",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptistsouth",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "3d8073c5-27e0-44b4-bd28-2ea1b0939df3",
+    "ccn": "",
+    "hospital_name": "BAPTIST NORTH MEDICAL CAMPUS",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptistnorth",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "75dc2f97-11fb-4a71-af39-beb9eb1b2423",
+    "ccn": "462600",
+    "hospital_name": "BAPTIST & WOLFSON NASSAU CROSSING EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptistncrossing",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "1bdbfb9c-6021-4cf9-8208-17a61115fcd8",
+    "ccn": "",
+    "hospital_name": "BAPTIST & WOLFSON OAKLEAF EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptistoakleaf",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "a1e79059-d28d-4fdf-8007-24d1e85f87fb",
+    "ccn": "",
+    "hospital_name": "BAPTIST & WOLFSON ST. AUGUSTINE EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptiststaugustine",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "b44fac76-fc13-43b2-8be6-91e144d1832f",
+    "ccn": "",
+    "hospital_name": "BAPTIST & WOLFSON TOWN CENTER EMERGENCY ROOM",
+    "address": "",
+    "file_url": "https://baptistjacksonville.pt.panaceainc.com/MRFDownload/baptistjacksonville/baptisttcer",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  },
+  {
+    "detail_id": "0e3a1988-ac7e-494e-8a85-48b002381013",
+    "ccn": "100121",
+    "hospital_name": "BARTOW REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/475387418_bartowregionalmedicalcenter_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "2d7a9bb1-a8a3-46c7-a837-ad98a4c4c1bc",
+    "ccn": "102021",
+    "hospital_name": "BAYCARE ALLIANT HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/050615150_baycareallianthospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "2906d13f-dee3-4f36-85ac-306b0e3284dc",
+    "ccn": "100362",
+    "hospital_name": "BAYCARE HOSPITAL WESLEY CHAPEL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/832099849_baycarehospitalwesleychapel_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "ef7c8719-4ff8-46e7-b02d-a7e9beedda6d",
+    "ccn": "",
+    "hospital_name": "BAYCARE NORTHSIDE BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "9c167b25-3f88-4f81-a2db-428799660484",
+    "ccn": "100067",
+    "hospital_name": "BAYCARE ST ANTHONYS HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/592043026_stanthonyshospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "d145c6dc-8c65-4829-a8a7-25367bc1ce90",
+    "ccn": "100002",
+    "hospital_name": "BETHESDA HOSPITAL EAST",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/592447554_bethesda-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/bethesda-hospital-east-pricing"
+  },
+  {
+    "detail_id": "3e0327a2-5291-4dd2-99cf-1ece665881ea",
+    "ccn": "",
+    "hospital_name": "BETHESDA HOSPITAL WEST",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/592447554_bethesda-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/bethesda-hospital-east-pricing"
+  },
+  {
+    "detail_id": "b55fa7fa-3529-47d7-8b2b-35f3bedc97dd",
+    "ccn": "104081",
+    "hospital_name": "BLACKBERRY CENTER",
+    "address": "",
+    "file_url": "https://www.theblackberrycenter.com/wp-content/uploads/Blackberry-center_standardcharges-25.csv",
+    "transparency_page": "https://www.theblackberrycenter.com/financial-resources/standard-services/"
+  },
+  {
+    "detail_id": "e6ade4c5-2f57-4ce0-bae6-5843db6a2ec1",
+    "ccn": "100168",
+    "hospital_name": "BOCA RATON REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/591006663_boca-raton-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/boca-raton-regional-hospital-pricing"
+  },
+  {
+    "detail_id": "76353c25-0cf7-4256-a28c-de096a921a22",
+    "ccn": "103039",
+    "hospital_name": "BROOKS REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://brooksrehab.org/wp-content/uploads/2025/09/2025-Price-Transparency-Final-v9_02_25.csv",
+    "transparency_page": "https://brooksrehab.org/patient-billing-practices/price-transparency/"
+  },
+  {
+    "detail_id": "384f1e83-7c4d-4015-b109-c5bc92a63db2",
+    "ccn": "100276",
+    "hospital_name": "BROWARD HEALTH CORAL SPRINGS",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10967/596012065_broward-health-coral-springs_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrowardHealthCoralSprings/10967"
+  },
+  {
+    "detail_id": "3774750b-ece7-46fc-8705-e1de353ef89c",
+    "ccn": "100200",
+    "hospital_name": "BROWARD HEALTH IMPERIAL POINT",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10968/596012065_broward-health-imperial-point_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrowardHealthImperialPoint/10968"
+  },
+  {
+    "detail_id": "99e2441a-98b3-4169-8cbe-38d37e12dfcb",
+    "ccn": "100039",
+    "hospital_name": "BROWARD HEALTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10969/596012065_broward-health-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrowardHealthMedicalCenter/10969"
+  },
+  {
+    "detail_id": "500fe538-c650-41b5-8f12-1f6874ef0351",
+    "ccn": "100086",
+    "hospital_name": "BROWARD HEALTH NORTH",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10970/596012065_broward-health-north_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrowardHealthNorth/10970"
+  },
+  {
+    "detail_id": "1406baec-24cf-4c94-ac64-fc8d07e567ae",
+    "ccn": "101304",
+    "hospital_name": "CALHOUN-LIBERTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.calhounlibertyhospital.com/wp-content/uploads/2025/10/593051173_calhoun-liberty-hospital_standardcharges.csv",
+    "transparency_page": "https://www.calhounlibertyhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "c69bbecd-3be8-41b0-9c50-52dd82037798",
+    "ccn": "100177",
+    "hospital_name": "CAPE CANAVERAL HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "685d9c95-c1a1-4500-9b6a-8d889525fadb",
+    "ccn": "100244",
+    "hospital_name": "CAPE CORAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_CAPE-CORAL-HOSPITAL_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "2e97bb88-92b2-4b51-a416-2040fe5ff14a",
+    "ccn": "104040",
+    "hospital_name": "CENTERSTONE BRADENTON – HOSPITAL AND ADDICTION CENTER",
+    "address": "",
+    "file_url": "https://centerstone.org/wp-content/uploads/Centerstone-of-Florida-Hospital-Pricing-Effective-2.1.2024.csv",
+    "transparency_page": "https://centerstone.org/locations/florida/"
+  },
+  {
+    "detail_id": "8e4818ef-a44c-44ba-a07b-8eb1e3b3f499",
+    "ccn": "104072",
+    "hospital_name": "CENTRAL FLORIDA BEHAVIORAL HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/204888271_central-florida_standardcharges.csv",
+    "transparency_page": "https://centralfloridabehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "fd4c0728-f771-4e42-90be-aa3c9657d1af",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "1df8e2a6-851e-4b76-a423-6c24f8ee24f0",
+    "ccn": "",
+    "hospital_name": "CLEARSKY REHABILITATION HOSPITAL OF LECANTO",
+    "address": "",
+    "file_url": "https://clearskyhealth.com/cmt/88-0743847_ClearSky%20Rehabilitation%20Hospital%20of%20Lecanto_standardcharges.csv",
+    "transparency_page": "https://clearskyhealth.com/lecanto/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "6ac6be48-343f-4fe9-a3ad-c7a7ac632b28",
+    "ccn": "100105",
+    "hospital_name": "CLEVELAND CLINIC INDIAN RIVER HOSPITAL",
+    "address": "",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/indianriver",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "beb34467-8e06-48c2-a32e-4582af05957f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "745c9b22-799b-4d14-8a60-962ceb356015",
+    "ccn": "",
+    "hospital_name": "CLEVELAND CLINIC MARTIN SOUTH",
+    "address": "",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/martin-north-south-tradition",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "fc94abae-4685-4049-b68f-6f417ef8081f",
+    "ccn": "",
+    "hospital_name": "CLEVELAND CLINIC TRADITION HOSPITAL",
+    "address": "",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/martin-north-south-tradition",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "c3134314-1375-4e26-8573-48f4914d160d",
+    "ccn": "100183",
+    "hospital_name": "CORAL GABLES HOSPITAL",
+    "address": "",
+    "file_url": "https://coralgableshospital.org/pricetransparency/995038459_CoralGablesHospital_standardcharges.csv",
+    "transparency_page": "https://www.coralgableshospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "a9a7183e-1e30-42a6-9344-8558d285a4f1",
+    "ccn": "104080",
+    "hospital_name": "CORAL SHORES BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/463794548_coral-shores_standardcharges.csv",
+    "transparency_page": "https://coralshoresbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "cc0888fc-ccbd-4c7d-87a6-4b6b027458eb",
+    "ccn": "",
+    "hospital_name": "CORNELL BEHAVIORAL HEALTH PAVILION",
+    "address": "",
+    "file_url": "https://www.smh.com/Portals/0/Documents/Financial/596012500_Sarasota-Memorial-Hospital-Main-Campus_standardcharges.csv",
+    "transparency_page": "https://www.smh.com/billchat"
+  },
+  {
+    "detail_id": "d0be8ce4-57c5-4f13-b39c-128924d58225",
+    "ccn": "100258",
+    "hospital_name": "DELRAY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752922687_DelrayMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "5677c439-f384-45af-9a63-31dca5bdaf6c",
+    "ccn": "100175",
+    "hospital_name": "DESOTO MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.dmh.org/_files/ugd/753cbe_2c96444e33b749f897860b37908fa1e8.csv?dn=591205441_desoto-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.dmh.org/chargemaster"
+  },
+  {
+    "detail_id": "ba8b9de5-670b-4559-bcf3-d268d5e4849a",
+    "ccn": "",
+    "hospital_name": "DEVEREUX ADVANCED BEHAVIORAL HEALTH VIERA CAMPUS",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "ed32be1b-b651-486a-b199-783c7768105c",
+    "ccn": "100296",
+    "hospital_name": "DOCTORS HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/43775926_doctors-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/doctors-hospital-patient-pricing"
+  },
+  {
+    "detail_id": "6004056a-9642-42d4-b24b-cbada548f127",
+    "ccn": "101307",
+    "hospital_name": "DOCTORS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "http://doctorsmemorial.org/uploads/2025/01/596031176_holmes-county-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://doctorsmemorial.org/price-transparency/"
+  },
+  {
+    "detail_id": "a1e94a6b-abca-41de-be76-c969e6922d27",
+    "ccn": "101314",
+    "hospital_name": "DOCTORS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://doctorsmemorialhospital.pg.quadax.revenuemasters.com/cdm-files/593122517_doctors-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://doctorsmemorialhospital.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "c5ec98c3-515e-4fb5-b1bc-ff57d44ccc0b",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "f423a4c5-69a5-4eb7-ad73-cdf7a417e93d",
+    "ccn": "104073",
+    "hospital_name": "EMERALD COAST BEHAVIORAL HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/270720873_emerald-coast_standardcharges.csv",
+    "transparency_page": "https://emeraldcoastbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "e60f8ce2-8a4b-4a0e-9df8-b07d7a3290df",
+    "ccn": "103044",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL AT MARTIN HEALTH",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/27-4895765_Encompass%20Health%20Rehabilitation%20Hospital%20an%20affiliate%20of%20Martin%20Health_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/martinrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "46196fa0-b9bf-495c-a7ad-de9dc92b2a1d",
+    "ccn": "103045",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF ALTAMONTE SPRINGS",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/45-2905189_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Altamonte%20Springs_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/altamontespringsrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "31e9588a-ece2-4dd2-b98a-06dc3fdc3cee",
+    "ccn": "103053",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF CAPE CORAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/85-2164241_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Cape%20Coral_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/capecoralrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "8371b2d7-a12b-49b1-833a-0168f7fb6dd9",
+    "ccn": "103055",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF CLERMONT",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/852048497_Encompass-Health-Rehabilitation-Hospital-of-Clermont_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/clermont-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "8e27b327-5d4f-4550-91f2-bd5a5ffdfd73",
+    "ccn": "103070",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF DAYTONA BEACH",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "82fffdaa-90cc-46bb-8fbc-690802fc2cae",
+    "ccn": "103069",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FORT MYERS",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "918f67dc-51c4-4aec-b0ec-482d0729f329",
+    "ccn": "103052",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF JACKSONVILLE",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/852358003_Encompass-Health-Rehabilitation-Hospital-of-Jacksonville_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/jacksonville-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "c7ac47c4-853e-4432-b302-4531f67f8ced",
+    "ccn": "103064",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF KISSIMMEE",
+    "address": "",
+    "file_url": "https://www.encompasshealth.com/cdn/Files/1-price-transparency/862462263_Encompass-Health-Rehabilitation-Hospital-of-Kissimmee_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/kissimmee-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "84dc48ba-a999-4231-989e-acd6f8acf730",
+    "ccn": "103050",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF LAKELAND",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/851599538_Encompass-Health-Rehabilitation-Hospital-of-Lakeland_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/lakeland-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2e9592f0-a695-4d14-91c1-326ceebabd53",
+    "ccn": "103037",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF LARGO",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1134645_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Largo_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/largorehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "7b7f91de-3c18-4816-af37-9163f94a0b82",
+    "ccn": "",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MIAMI",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/27-5253818_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Miami_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/miamirehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "0b667968-c672-4a54-bd07-f84928237f52",
+    "ccn": "103054",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NAPLES",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/851887489_Rehabilitation-Hospital-of-Naples_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/naples-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "9a007bb8-aa62-4b02-aa8d-fe0c2dadc856",
+    "ccn": "103047",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NORTH TAMPA",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/815205937_Encompass-Health-Rehabilitation-Hospital-of-North-Tampa_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/north-tampa-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "53a58c79-aa40-46f6-b3fc-2ebb55514c2c",
+    "ccn": "103043",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF OCALA",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/27-3308405_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Ocala_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/ocalarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "4331b6fb-efd8-46bf-a091-1a9ba1440b04",
+    "ccn": "103040",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF PANAMA CITY",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1119356_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Panama%20City%20_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/panamacityrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "065b8422-a9d9-4241-9966-39e848535c13",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b5845e99-dbc7-4add-b6bb-f5af442c85a0",
+    "ccn": "103031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SARASOTA",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1134650_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Sarasota_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/sarasotarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "d14001ea-f29f-4c8f-b89d-ee17bff30816",
+    "ccn": "103042",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SPRING HILL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1244181_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Spring%20Hill_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/springhillrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "484971ed-609f-4f96-bd30-9063ad251511",
+    "ccn": "103049",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF ST. AUGUSTINE",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/851559447_Encompass-Health-Rehabilitation-Hospital-of-St-Augustine_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/st-augustine-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "e51ec6a5-f1f3-4e7e-b942-f2644bb5d488",
+    "ccn": "103033",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TALLAHASSEE",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1134713_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Tallahassee_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tallahasseerehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "6e162794-62f2-4530-8ac4-24450366c8ba",
+    "ccn": "103032",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TREASURE COAST",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1105921_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Treasure%20Coast_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/treasurecoastrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "7ee568e5-2aa3-40e2-b209-f82453f8f43c",
+    "ccn": "103028",
+    "hospital_name": "ENCOMPASS HEALTH SUNRISE REHABILITATION HOSPITAL OF SUNRISE",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1134714_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Sunrise_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/sunriserehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "d5d8db8a-b496-48b5-9f65-e708636bdd03",
+    "ccn": "",
+    "hospital_name": "FAIR OAKS PAVILION - PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752922687_DelrayMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "97dc815c-74d0-4080-adf7-569c993f0bd7",
+    "ccn": "101312",
+    "hospital_name": "FISHERMEN'S COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/821682066_fishermens-health-inc_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/fishermens-community-hospital-pricing"
+  },
+  {
+    "detail_id": "46e60dc3-337a-47f5-b608-be3392f207cd",
+    "ccn": "100210",
+    "hospital_name": "FLORIDA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://floridamedctr.org/pricetransparency/995054044_FloridaMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://floridamedctr.org/price-transparency/"
+  },
+  {
+    "detail_id": "c1a45d4a-b275-4b3e-b645-caf5f31e59cd",
+    "ccn": "100298",
+    "hospital_name": "FLORIDA STATE HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "5e673c01-7c81-497f-932e-7bebca553a30",
+    "ccn": "104026",
+    "hospital_name": "FORT LAUDERDALE BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/201021229_ft-lauderdale_standardcharges.csv",
+    "transparency_page": "https://ftlauderdalebehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "9c8ef9f2-b591-49b2-ae94-9ebb46e8dc9e",
+    "ccn": "101305",
+    "hospital_name": "GEORGE E WEEMS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.weemsmemorial.com/wp-content/uploads/2024/11/061766026_george-e-weems-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.weemsmemorial.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "b5cba684-622e-48cc-b29e-c3b383218e6b",
+    "ccn": "",
+    "hospital_name": "GLORIA DRUMMAND PHYSICAL REHABILITATION INSTITUTE",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c207a3c3-0a4f-4c2c-b156-622726c56871",
+    "ccn": "",
+    "hospital_name": "GOLISANO CHILDREN'S HOSPITAL OF SOUTHWEST FLORIDA",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_HEALTHPARK-MEDICAL-CENTER_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "99d36a1b-b122-4b5e-80b4-de23f8b1fda6",
+    "ccn": "100287",
+    "hospital_name": "GOOD SAMARITAN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752932824_GoodSamaritanMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "11234f81-9740-419a-b139-23c5feb81e3e",
+    "ccn": "100266",
+    "hospital_name": "GULF BREEZE HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealthcare.pt.panaceainc.com/MRFDownload/baptisthealthcare/glfbreeze",
+    "transparency_page": "https://www.ebaptisthealthcare.org/patientfinancialresources/price-transparency-standard-hospital-charges"
+  },
+  {
+    "detail_id": "e2b1c14f-da82-4022-ba2a-47664a5f87b8",
+    "ccn": "100220",
+    "hospital_name": "GULF COAST MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_GULF-COAST-MEDICAL-CENTER_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "5f7a7867-604b-4664-93ec-2158b5c31f19",
+    "ccn": "",
+    "hospital_name": "GULF COAST TREATMENT CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/561341134_gulf-coast-treatment-center_standardcharges.csv",
+    "transparency_page": "https://gulfcoasttc.com/standard-services/"
+  },
+  {
+    "detail_id": "f22358c1-5e00-4c8f-95af-739054f5970b",
+    "ccn": "100017",
+    "hospital_name": "HALIFAX HEALTH MEDICAL CENTER OF DAYTONA BEACH",
+    "address": "",
+    "file_url": "https://halifax.pt.panaceainc.com/MRFDownload/halifax/halifax-medical-center",
+    "transparency_page": "https://halifaxhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "7e23773e-de6b-4bb9-8ee0-1da2f31f65cb",
+    "ccn": "",
+    "hospital_name": "HALIFAX HEALTH MEDICAL CENTER- PORT ORANGE",
+    "address": "",
+    "file_url": "https://halifax.pt.panaceainc.com/MRFDownload/halifax/halifax-medical-center",
+    "transparency_page": "https://halifaxhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "70a7ad1f-5f67-405e-8126-7c3809e3f00a",
+    "ccn": "100330",
+    "hospital_name": "HALIFAX HEALTH | UF HEALTH - MEDICAL CENTER OF DELTONA",
+    "address": "",
+    "file_url": "https://halifax.pt.panaceainc.com/MRFDownload/halifax/deltona",
+    "transparency_page": "https://halifaxhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "df3e1b84-ad62-4c38-a64e-b46a8dcda85d",
+    "ccn": "",
+    "hospital_name": "HALIFAX PSYCHIATRIC CENTER-NORTH",
+    "address": "",
+    "file_url": "https://halifax.pt.panaceainc.com/MRFDownload/halifax/halifax-medical-center",
+    "transparency_page": "https://halifaxhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "dc6f9bff-f271-4fa9-adf3-d2b4665a576e",
+    "ccn": "",
+    "hospital_name": "HCA FL BREAKFAST POINT ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c64e21dc2f6b44fb859ca2bf595b4993?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "434fa916-54e9-492d-b3f0-b2c9ee364c57",
+    "ccn": "",
+    "hospital_name": "HCA FL CASSELBERRY FSED",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/8820dd5cd9e9486ea3b9d0cd931886fa?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "1900eea6-6604-4ae1-a113-7a7eaca45f9b",
+    "ccn": "",
+    "hospital_name": "HCA FL CITRUS PARK ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d4e00de2aed74040ae4505096501507d?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d76cecd4-62ac-4e97-9253-680f2b192000",
+    "ccn": "100131",
+    "hospital_name": "HCA FLORIDA AVENTURA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d192e506e70f4d0f8bafb442160a5b98?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f498b22e-f905-4031-99d8-f04367a529ec",
+    "ccn": "100256",
+    "hospital_name": "HCA FLORIDA BAYONET POINT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/be1f90605bec4840bbd7a074c96dc0dc?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e6e85110-9501-4d7e-93f2-f078de7985ba",
+    "ccn": "100213",
+    "hospital_name": "HCA FLORIDA BLAKE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/df4c2e8c525a47cb94c5738f9dca8c01?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "a42d4ebc-3814-4df9-8eea-7fde36d7ce46",
+    "ccn": "100243",
+    "hospital_name": "HCA FLORIDA BRANDON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/da7ada4fcdf344feaa01629d02453d40?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ab817984-dcb0-4900-b63a-75c54cf55edc",
+    "ccn": "100254",
+    "hospital_name": "HCA FLORIDA CAPITAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/dfe9649de30e4f149c24e926366dd5b0?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "61d0050e-d3b2-4a53-aa58-2656c48dcc75",
+    "ccn": "100023",
+    "hospital_name": "HCA FLORIDA CITRUS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/7905e95c794d48df81b99f4ecbc0eaa2?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "00787b6d-808f-4e7f-894c-01d0bf916da1",
+    "ccn": "100267",
+    "hospital_name": "HCA FLORIDA ENGLEWOOD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/6b9975432f1842aea4a7423d9f01c39f?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "316fc925-b0a7-46b9-b552-1741090a9728",
+    "ccn": "100236",
+    "hospital_name": "HCA FLORIDA FAWCETT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c3f84e48406c4992a3d977097339d016?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "08e6d56f-ba74-4ca9-af6d-7d8e99e7792e",
+    "ccn": "100223",
+    "hospital_name": "HCA FLORIDA FORT WALTON-DESTIN HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/8a6cc9fb0c204f1a9b52b18a7499abdf?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e151b90f-6115-4f8b-83b6-7da2e42b95fe",
+    "ccn": "",
+    "hospital_name": "HCA FLORIDA GADSDEN EMERGENCY",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "1a81ea3e-8240-4788-8541-f1deed978650",
+    "ccn": "100242",
+    "hospital_name": "HCA FLORIDA GULF COAST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c64e21dc2f6b44fb859ca2bf595b4993?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f38e77a9-ca44-4914-b51b-97273adfa81a",
+    "ccn": "100049",
+    "hospital_name": "HCA FLORIDA HIGHLANDS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/01dd90518f3140a9bd64fdfba6f5b6ae?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f2219120-5a5f-4048-bac3-8b26b6e73e8b",
+    "ccn": "100080",
+    "hospital_name": "HCA FLORIDA JFK HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/77f908b2d9ca4a56b8a7288c4bbeb53e?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "8ab0205f-320f-4e03-b969-5d7828a1f427",
+    "ccn": "100234",
+    "hospital_name": "HCA FLORIDA JFK NORTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/43a0ad5498364989a780a0cab3fd4c32?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b486cb9d-7de2-4185-8550-624eba75eaf2",
+    "ccn": "100209",
+    "hospital_name": "HCA FLORIDA KENDALL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/86e4f5283e8f4259bb79269f5a29b941?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "5fe8f10f-d873-4ed0-a44e-90c618846a59",
+    "ccn": "100156",
+    "hospital_name": "HCA FLORIDA LAKE CITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/9815d6b65ad24608b00ecabfe373a9a4?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "90b774a0-9bd0-479e-853d-103b17b5f708",
+    "ccn": "100161",
+    "hospital_name": "HCA FLORIDA LAKE MONROE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/8820dd5cd9e9486ea3b9d0cd931886fa?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "3c182c33-e629-43c8-957c-6af833f74fba",
+    "ccn": "",
+    "hospital_name": "HCA FLORIDA LAKE TARPON EMERGENCY",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d4e00de2aed74040ae4505096501507d?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "02e6f4f6-a9e6-414d-8708-d910363ce12e",
+    "ccn": "100248",
+    "hospital_name": "HCA FLORIDA LARGO HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/4d5c1965f4b142f48dada015df49e038?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "159f3672-28e8-4954-9b50-984650e1595d",
+    "ccn": "100015",
+    "hospital_name": "HCA FLORIDA LARGO WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/9ee5da97a90841b590bffc73655500cf?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "a17fc2de-3571-4007-9737-dff011aa432b",
+    "ccn": "100246",
+    "hospital_name": "HCA FLORIDA LAWNWOOD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/391a5e99c44440449a4774ea278df53a?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "74a4cb62-2364-4404-9103-016b57ddc560",
+    "ccn": "100107",
+    "hospital_name": "HCA FLORIDA LEHIGH HOSPITAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/87-1999484_HCA-FLORIDA-LEHIGH-HOSPITAL_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e6b1a469-70b6-4ac5-a1e0-eea1b47ad320",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "663836a0-dcdc-4cc9-a40c-b01408aaf165",
+    "ccn": "100179",
+    "hospital_name": "HCA FLORIDA MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/1396930329f94e819830378f9b7036fd?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b1c37f1e-32d1-4cca-a52f-3a067c84fd56",
+    "ccn": "100167",
+    "hospital_name": "HCA FLORIDA MERCY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/bee708d1d87c4ee186d6108f55058c94?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "936d0339-b33a-4b8b-9d30-fb47a50d0a7f",
+    "ccn": "100204",
+    "hospital_name": "HCA FLORIDA NORTH FLORIDA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/cc75972a7232413aa66226b9b75974a0?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "73cf54b6-629d-4176-b03b-2cf01aedad1d",
+    "ccn": "100238",
+    "hospital_name": "HCA FLORIDA NORTHSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/538537adeb794da0a545e259cc4a46f3?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "6e3b7095-20ef-4ed1-9992-15d087e4208d",
+    "ccn": "100189",
+    "hospital_name": "HCA FLORIDA NORTHWEST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/65feb660a4244f4089febfd8dfb3c866?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "147b80fe-de85-420d-aa00-1b003aeb05fd",
+    "ccn": "",
+    "hospital_name": "HCA FLORIDA NORTHWEST REHABILITATION CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/8a6cc9fb0c204f1a9b52b18a7499abdf?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "977f3d3a-dc88-405d-8969-e1bd19c8094c",
+    "ccn": "100264",
+    "hospital_name": "HCA FLORIDA OAK HILL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c3beefff49b34c87834fa1aac0896062?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "29f2f602-4c47-471a-a3c1-2a6775e3137f",
+    "ccn": "100212",
+    "hospital_name": "HCA FLORIDA OCALA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c7f09c36f671474da2e44b2b9a008e9a?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "8ee65be1-3611-4559-90da-fbd9f2acc271",
+    "ccn": "100226",
+    "hospital_name": "HCA FLORIDA ORANGE PARK HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/32b081c08103459ea754d05492d4b3ca?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "df03cc73-836a-485b-8fac-c7fe2cbb0892",
+    "ccn": "100110",
+    "hospital_name": "HCA FLORIDA OSCEOLA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/72c85864a3ff440990e22edf4b59f93f?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d18be18b-224d-440b-b4a5-bdccadcb7f6b",
+    "ccn": "100329",
+    "hospital_name": "HCA FLORIDA OVIEDO MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/1f44b7ebfd1a47f7b2c7f248eb7cf7ba?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f83b1736-7fc2-43ac-8630-dd222bdbb8d5",
+    "ccn": "100269",
+    "hospital_name": "HCA FLORIDA PALMS WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/913ee3c9ba094e648399eda2852154a2?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7b781e44-3ada-4fbd-bf3e-d26affcd4648",
+    "ccn": "100126",
+    "hospital_name": "HCA FLORIDA PASADENA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/b9b9fe3761cb488fbc24a093106c2e5b?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ca338bd5-5a28-4a69-a858-20c45aa7c375",
+    "ccn": "100320",
+    "hospital_name": "HCA FLORIDA POINCIANA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ee2fb563ad1e48c69c51bb653ea17f7a?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "c6631346-81a4-4e76-a0d5-3793a1a720b5",
+    "ccn": "100232",
+    "hospital_name": "HCA FLORIDA PUTNAM HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ac15830197f84ef58908d71bdeeb7141?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "89432667-b9dd-44ab-a664-c7e795739ece",
+    "ccn": "100252",
+    "hospital_name": "HCA FLORIDA RAULERSON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c26ebb8914cf4f3391a41d908df5c7ce?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f805a26c-05fa-414e-ad2f-68f5cc85ba87",
+    "ccn": "100166",
+    "hospital_name": "HCA FLORIDA SARASOTA DOCTORS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/31b172f49e284ccc81570c7097f6fff5?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "51f328ee-01f4-48a6-901d-0ea480c8fe22",
+    "ccn": "100259",
+    "hospital_name": "HCA FLORIDA SOUTH SHORE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/cec6d0aaac0b427683f8fd4dfdc681c1?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "1da4cc28-2bb6-49e2-8571-ef8b1812c30b",
+    "ccn": "100206",
+    "hospital_name": "HCA FLORIDA SOUTH TAMPA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/20c8591e6f234796b8b71cc1ad40f4ce?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "680a0a4f-f87b-48a4-83a5-10b13ed0a3a8",
+    "ccn": "100260",
+    "hospital_name": "HCA FLORIDA ST. LUCIE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/85ad12981a8e418cbd46579db8e7d52b?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "17c3206d-25b9-468a-a71b-4b79e08e7862",
+    "ccn": "100180",
+    "hospital_name": "HCA FLORIDA ST. PETERSBURG HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c1c3e7d4e31a470cb3e85aa550ae0b4d?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b058dd37-b6f1-475d-8954-b736e4f891a8",
+    "ccn": "100191",
+    "hospital_name": "HCA FLORIDA TRINITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d4e00de2aed74040ae4505096501507d?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "c198dea9-9a6d-4935-8dcd-9eddc84ae10b",
+    "ccn": "100054",
+    "hospital_name": "HCA FLORIDA TWIN CITIES HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/e4658922ef794ef8a2f7a29fe0326b61?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "3cbb8d14-1df9-4b09-a6b5-b69de1725e66",
+    "ccn": "100360",
+    "hospital_name": "HCA FLORIDA UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/bdba42b32b9945588c1c483a306b312a?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "9641cb62-86bb-446b-b175-73279e010adb",
+    "ccn": "100231",
+    "hospital_name": "HCA FLORIDA WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/71a4ad834e914c28b1abd650e61aba34?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7e3cc687-951c-47db-b28c-4f49356174ed",
+    "ccn": "",
+    "hospital_name": "HCA FLORIDA WEST MARION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ba18cabb5e9a49a499e84b9c3c2c20d6?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "c48aecdb-4ea7-46cf-8681-87c4a0082c63",
+    "ccn": "100228",
+    "hospital_name": "HCA FLORIDA WESTSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/4a8dad7eff9143f6ae7c8c7f07f0c048?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "505b4597-9766-41c3-859b-be9f20e530f8",
+    "ccn": "100255",
+    "hospital_name": "HCA FLORIDA WEST TAMPA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/33a6895be5bf41d1889f6454136626a8?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "4820b303-9479-4e21-8d9b-5f86b76f3a2b",
+    "ccn": "100224",
+    "hospital_name": "HCA FLORIDA WOODMONT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/7ca62886518b4a06b9b860f24061ab91?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d096fa33-b6dc-4e1a-87cc-59db98ea5ce5",
+    "ccn": "",
+    "hospital_name": "HCA FLORIDA WOODMONT HOSPITAL'S CENTER FOR BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/7ca62886518b4a06b9b860f24061ab91?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f31bece9-3ef4-428e-a56c-aeba2cf4e65f",
+    "ccn": "",
+    "hospital_name": "HCA FL PEA RIDGE ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/71a4ad834e914c28b1abd650e61aba34?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ac9a5065-5440-4303-8f73-00e75f6f9b4c",
+    "ccn": "",
+    "hospital_name": "HCA FL PERDIDO BAY ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/71a4ad834e914c28b1abd650e61aba34?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ed080b8c-088a-4d7b-9b0e-ade3b046a1c5",
+    "ccn": "",
+    "hospital_name": "HCA FL PINE FOREST ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/71a4ad834e914c28b1abd650e61aba34?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "29b89c30-5b7d-4f42-915d-60bc9be0402b",
+    "ccn": "",
+    "hospital_name": "HCA FL PLANTATION ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/4a8dad7eff9143f6ae7c8c7f07f0c048?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "4a20de20-f0ec-43e7-a065-64ee2ee0da24",
+    "ccn": "",
+    "hospital_name": "HCA FL SQ DARWIN ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/85ad12981a8e418cbd46579db8e7d52b?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "187b76b7-00a8-4421-ab51-f8ea92d60d63",
+    "ccn": "",
+    "hospital_name": "HEALTHPARK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_HEALTHPARK-MEDICAL-CENTER_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "52c2a3ef-cf7f-4c13-8c96-664a6d4994ad",
+    "ccn": "101309",
+    "hospital_name": "HENDRY REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/hendry-regional-hospital/596002318_Hendry-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.ezcost.info/Hendry-Regional-Medical-Center"
+  },
+  {
+    "detail_id": "f186c037-e168-4233-a1e8-c61fe9e1c1c7",
+    "ccn": "100053",
+    "hospital_name": "HIALEAH HOSPITAL",
+    "address": "",
+    "file_url": "https://hialeahhosp.org/pricetransparency/995053647_HialeahHospital_standardcharges.csv",
+    "transparency_page": "https://hialeahhosp.org/price-transparency/"
+  },
+  {
+    "detail_id": "22ef6d04-f98a-409d-90b0-c2e46f37ce86",
+    "ccn": "100019",
+    "hospital_name": "HOLMES REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hf.org/sites/default/files/2025-10/590624371_Holmes-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://hf.org/healthcare-home/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "cd313d18-631e-45ba-818f-8d8c746b7ab4",
+    "ccn": "100073",
+    "hospital_name": "HOLY CROSS HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/holycrosshospitalftlauderdale",
+    "transparency_page": "https://www.holy-cross.com/for-patients/billing-and-insurance/get-a-price-estimate#MRF"
+  },
+  {
+    "detail_id": "3e40d7e2-12fb-4dfe-9836-b7f3f96eb573",
+    "ccn": "100125",
+    "hospital_name": "HOMESTEAD HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/650232993_homestead-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/homestead-hospital-pricing"
+  },
+  {
+    "detail_id": "788c8e79-d8d0-41f4-b404-c6137be1651f",
+    "ccn": "",
+    "hospital_name": "JACKSON BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJMHMiamiFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/JacksonMemorial.aspx"
+  },
+  {
+    "detail_id": "9547c77b-d745-41f9-9134-f49169dc0771",
+    "ccn": "100142",
+    "hospital_name": "JACKSON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.jackson-hospital.com/wp-content/uploads/2025/03/596001321_Jackson-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.jackson-hospital.com/patients-visitors/price-transparency/charge-master/"
+  },
+  {
+    "detail_id": "20677d45-cac3-4365-9eb7-093db569b62f",
+    "ccn": "100022",
+    "hospital_name": "JACKSON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJMHMiamiFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/JacksonMemorial.aspx"
+  },
+  {
+    "detail_id": "dc379631-f3ee-467c-ad9d-35bf44dd0add",
+    "ccn": "100114",
+    "hospital_name": "JACKSON NORTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJNMCNorthMiamiBeachFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/JacksonNorth.aspx"
+  },
+  {
+    "detail_id": "23debba1-a78c-4345-b689-e91469fab586",
+    "ccn": "100208",
+    "hospital_name": "JACKSON SOUTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJSCHMiamiFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/JacksonSouth.aspx"
+  },
+  {
+    "detail_id": "85e2dd4b-682b-4003-9e82-483aa7d400d4",
+    "ccn": "",
+    "hospital_name": "JACKSON WEST MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJWMCMIAMIFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/JacksonWest.aspx"
+  },
+  {
+    "detail_id": "ba4a3710-747f-4de0-848f-1828f3f614bf",
+    "ccn": "101315",
+    "hospital_name": "JAY HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealthcare.pt.panaceainc.com/MRFDownload/baptisthealthcare/jay",
+    "transparency_page": "https://www.ebaptisthealthcare.org/patientfinancialresources/price-transparency-standard-hospital-charges"
+  },
+  {
+    "detail_id": "51b9068f-29f4-4e67-83ff-d6d2f9cca7e1",
+    "ccn": "",
+    "hospital_name": "JEROME GOLDEN CENTER FOR BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "7b297ca6-d751-481b-89c2-de61a27ac981",
+    "ccn": "103300",
+    "hospital_name": "JOHN HOPKINS ALL CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/590683252_johns-hopkins-all-children-s-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
+  },
+  {
+    "detail_id": "4597551b-b374-44f3-a5f5-0bc9f8ab220f",
+    "ccn": "100253",
+    "hospital_name": "JUPITER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.jupitermed.com/documents/content/59-1460239_jupiter-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.jupitermed.com/patients-visitors/for-patients/billing-financial-information/hospital-pricing/"
+  },
+  {
+    "detail_id": "f671ef53-f618-4559-ad53-8cbf3381a600",
+    "ccn": "100284",
+    "hospital_name": "KERALTY HOSPITAL MIAMI",
+    "address": "",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/a54e9bab-c2b3-4f54-b35a-04b9f0b8cff6/591201323_KERALTY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=a54e9bab-c2b3-4f54-b35a-04b9f0b8cff6"
+  },
+  {
+    "detail_id": "31f9a66a-7ae7-4699-be3b-8c7c1098c84a",
+    "ccn": "102009",
+    "hospital_name": "KINDRED HOSPITAL-BAY AREA-ST PETERSBURG",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=WFeiVsTmhF*__*csfdyoLy38g*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=WFeiVsTmhF*__*csfdyoLy38g*-*"
+  },
+  {
+    "detail_id": "df6a30b7-22bc-42bd-a1ad-20e3b5b67bbd",
+    "ccn": "102009",
+    "hospital_name": "KINDRED HOSPITAL-BAY AREA-TAMPA",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=VM1hLKUfeGE1PkXHhkdZbQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=VM1hLKUfeGE1PkXHhkdZbQ*-*"
+  },
+  {
+    "detail_id": "fbe020b0-7883-4268-941f-55c8bc460dfa",
+    "ccn": "102013",
+    "hospital_name": "KINDRED HOSPITAL-CENTRAL TAMPA",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=3cjRhXURp*_*QyCXcShChiAA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=3cjRhXURp*_*QyCXcShChiAA*-*"
+  },
+  {
+    "detail_id": "e923c89b-68e3-46c2-981b-175b03cf3d67",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "51672047-54be-45e8-b5eb-fc98c9cbf172",
+    "ccn": "102015",
+    "hospital_name": "KINDRED HOSPITAL-NORTH FLORIDA",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=KUBElqGMAWu*__*zqQq0jykGA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=KUBElqGMAWu*__*zqQq0jykGA*-*"
+  },
+  {
+    "detail_id": "612d8cd2-ea75-4211-b0d3-a84867f1c2d3",
+    "ccn": "102019",
+    "hospital_name": "KINDRED HOSPITAL OCALA",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=9zjolLhJP3DOjhnaqT2bdw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=9zjolLhJP3DOjhnaqT2bdw*-*"
+  },
+  {
+    "detail_id": "fd9d0a18-2771-4edf-a33e-8e288574b979",
+    "ccn": "",
+    "hospital_name": "KINDRED HOSPITAL-SOUTH FLORIDA-CORAL GABLES",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=9G2UoPKGUk*_*kp2*_*upSKFqg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=9G2UoPKGUk*_*kp2*_*upSKFqg*-*"
+  },
+  {
+    "detail_id": "7a408891-53ad-4fe1-ba92-ea1977539334",
+    "ccn": "102010",
+    "hospital_name": "KINDRED HOSPITAL-SOUTH FLORIDA-FT LAUDERDALE",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=p1XZCn7GM0kfzrl6YWYW9w*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=p1XZCn7GM0kfzrl6YWYW9w*-*"
+  },
+  {
+    "detail_id": "faa58147-98e3-4b27-b2ab-e601aa545fc2",
+    "ccn": "106109",
+    "hospital_name": "KINDRED HOSPITAL-SOUTH FLORIDA-HOLLYWOOD",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=gwOBNA*__*bN1wG7VrQ3JEzAw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=gwOBNA*__*bN1wG7VrQ3JEzAw*-*"
+  },
+  {
+    "detail_id": "7d4b4c10-46a6-4195-af67-7c771a11a714",
+    "ccn": "102025",
+    "hospital_name": "KINDRED HOSPITAL THE PALM BEACHES",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=T7G85EMY2ajcl8uR2cZJ9w*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=T7G85EMY2ajcl8uR2cZJ9w*-*"
+  },
+  {
+    "detail_id": "c78d81ee-d6a5-4ab2-88b3-03d82c91b546",
+    "ccn": "",
+    "hospital_name": "LA AMISTAD RESIDENTIAL TREATMENT CENTER",
+    "address": "",
+    "file_url": "https://lamistad.com/wp-content/uploads/2023/06/La-Amistad_42_20190111.xlsx",
+    "transparency_page": "https://lamistad.com/standard-services/"
+  },
+  {
+    "detail_id": "82ede5b4-4de1-41cb-84de-f9b6ce78d916",
+    "ccn": "101303",
+    "hospital_name": "LAKE BUTLER HOSPITAL",
+    "address": "",
+    "file_url": "https://lakebutlerhospital.com/wp-content/uploads/2024/07/593218382_lake-butler-hospital_standardcharges.csv",
+    "transparency_page": "https://lakebutlerhospital.com/patients-visitors/financial-resources/"
+  },
+  {
+    "detail_id": "d9e7b442-b84a-44b9-aca0-f36a29e114e5",
+    "ccn": "100157",
+    "hospital_name": "LAKELAND REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.mylrh.org/wp-content/uploads/2025/04/59-2650456_LakelandRegionalMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://www.mylrh.org/pricetransparency/"
+  },
+  {
+    "detail_id": "2021e0a2-6e71-41b4-8182-c9868154935a",
+    "ccn": "100130",
+    "hospital_name": "LAKESIDE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hcdpbc.pt.panaceainc.com/MRFDownload/hcdpbc/hcdpbc",
+    "transparency_page": "https://www.hcdpbc.org/for-patients/hospital/billing---financial-assistance/billing-information"
+  },
+  {
+    "detail_id": "3c098507-8db9-4de9-9e9f-f26a58377d33",
+    "ccn": "",
+    "hospital_name": "LAKEVIEW CENTER - PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6074a1e1-2b50-4634-a9fd-4069af14f801",
+    "ccn": "100299",
+    "hospital_name": "LAKEWOOD RANCH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/731666433_lakewood-ranch-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.lakewoodranchmedicalcenter.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "36cf3457-58ca-4a80-b64f-8df92359f79a",
+    "ccn": "102032",
+    "hospital_name": "LANDMARK HOSPITAL OF SOUTHWEST FLORIDA",
+    "address": "1500 LEE BLVD, THIRD FLOOR",
+    "file_url": "https://www.landmarkhospitals.com/s/45-4182542_LandmarkHospitals_standardcharges-SouthwestFlorida.CSV",
+    "transparency_page": "https://www.landmarkhospitals.com/price-transparency"
+  },
+  {
+    "detail_id": "70f2c307-d1ef-4bc9-88fb-864a14f99868",
+    "ccn": "100181",
+    "hospital_name": "LARKIN COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLarkinCommunity&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://larkinhealth.com/en/patients-visitors/price-transparency-statement/"
+  },
+  {
+    "detail_id": "cf7c79ad-6a1f-41ca-bb1c-448a9e436329",
+    "ccn": "104079",
+    "hospital_name": "LARKIN COMMUNITY HOSPITAL BEHAVIORAL HEALTH SERVICES",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLCHHSMIAMIFL&type=CDMWithoutLabel&fileType=CSVV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LarkinHollywood.aspx"
+  },
+  {
+    "detail_id": "df6857c5-4508-46d9-a782-34d89b6452c5",
+    "ccn": "100050",
+    "hospital_name": "LARKIN COMMUNITY HOSPITAL PALM SPRINGS CAMPUS",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPSGHHIALEAHFL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LarkinPalmSprings.aspx"
+  },
+  {
+    "detail_id": "24e84db5-f4ec-428b-9c67-0f53375dd934",
+    "ccn": "",
+    "hospital_name": "LEE HEALTH COCONUT POINT",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_LEE-MEMORIAL-HOSPITAL_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "f9725b3f-fc99-4d97-875c-c90306cb35d0",
+    "ccn": "100012",
+    "hospital_name": "LEE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_LEE-MEMORIAL-HOSPITAL_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "139558de-5f0c-42d4-88f0-563d7230a56d",
+    "ccn": "",
+    "hospital_name": "LEE REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.leehealth.org/machine-readable-files-lh/99-2646504_REHAB-HOSPITAL_standardcharges.csv.zip",
+    "transparency_page": "https://www.leehealth.org/billing/estimates-cost/how-much-do-procedures-cost"
+  },
+  {
+    "detail_id": "6a5c31fe-9bfe-466b-822a-a8172ee005a8",
+    "ccn": "104018",
+    "hospital_name": "LIFESTREAM BEHAVIORAL CENTER",
+    "address": "",
+    "file_url": "http://www.lsbc.net/wp-content/uploads/2020/12/Hospital-Charge-Master-LSBC-Website-eff-01-01-2020.pdf",
+    "transparency_page": "https://www.lsbc.net/consumer-information/financial-services/"
+  },
+  {
+    "detail_id": "d7609963-17a0-43ee-b8d6-ba3627409805",
+    "ccn": "100150",
+    "hospital_name": "LOWER KEYS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.lkmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/650905661_lower-keys-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.lkmc.com/pricing-information"
+  },
+  {
+    "detail_id": "5cf3e544-58ac-464b-b055-6aab22141372",
+    "ccn": "101311",
+    "hospital_name": "MADISON COUNTY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://madisoncounty.pg.quadax.revenuemasters.com/cdm-files/592319288_madison-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://madisoncounty.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "29e91f14-1070-4ed5-bcb2-50c795a8b0ed",
+    "ccn": "100035",
+    "hospital_name": "MANATEE HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/232798290_manatee-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://manateememorial.com/patients-visitors/pricing-guide/"
+  },
+  {
+    "detail_id": "0c424dd0-501e-4eef-838b-d5ad49251c19",
+    "ccn": "101313",
+    "hospital_name": "MARINERS HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/591987355_mariners-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/mariners-hospital-pricing"
+  },
+  {
+    "detail_id": "c139e9c4-e54b-4cbe-9662-d91f17810970",
+    "ccn": "100151",
+    "hospital_name": "MAYO CLINIC FLORIDA",
+    "address": "",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/590714831_mayo-clinic-florida_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinic.org/patient-visitor-guide/billing-insurance/price-estimates/chargemaster"
+  },
+  {
+    "detail_id": "e95ab6d8-178f-493a-a7de-e81e4e333538",
+    "ccn": "100265",
+    "hospital_name": "MEASE COUNTRYSIDE HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/590855412_measecountrysidehospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "89bf2abc-510a-43f1-87e5-1e7a304dd98c",
+    "ccn": "100043",
+    "hospital_name": "MEASE DUNEDIN HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/590855412_measedunedinhospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "2b5ae00b-2038-4e58-bb45-25be06a61711",
+    "ccn": "100285",
+    "hospital_name": "MEMORIAL HOSPITAL MIRAMAR",
+    "address": "",
+    "file_url": "https://mhs.pt.panaceainc.com/MRFDownload/mhs/miramar",
+    "transparency_page": "https://www.mhs.net/patients-and-visitors/billing/charges"
+  },
+  {
+    "detail_id": "7097e847-d8e9-4a43-8149-a1a1a9d35718",
+    "ccn": "100230",
+    "hospital_name": "MEMORIAL HOSPITAL PEMBROKE",
+    "address": "",
+    "file_url": "https://mhs.pt.panaceainc.com/MRFDownload/mhs/pembroke",
+    "transparency_page": "https://www.mhs.net/patients-and-visitors/billing/charges"
+  },
+  {
+    "detail_id": "b137f671-a62c-4c54-b1bb-52bb987595a1",
+    "ccn": "100281",
+    "hospital_name": "MEMORIAL HOSPITAL WEST",
+    "address": "",
+    "file_url": "https://mhs.pt.panaceainc.com/MRFDownload/mhs/memorialwest",
+    "transparency_page": "https://www.mhs.net/patients-and-visitors/billing/charges"
+  },
+  {
+    "detail_id": "499193b0-3364-4793-92e6-227a64d9c0ed",
+    "ccn": "100038",
+    "hospital_name": "MEMORIAL REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://mhs.pt.panaceainc.com/MRFDownload/mhs/regional",
+    "transparency_page": "https://www.mhs.net/patients-and-visitors/billing/charges"
+  },
+  {
+    "detail_id": "3ec5a6e1-dc4b-49a7-af0c-38ec9463b5a9",
+    "ccn": "100225",
+    "hospital_name": "MEMORIAL REGIONAL HOSPITAL SOUTH",
+    "address": "",
+    "file_url": "https://mhs.pt.panaceainc.com/MRFDownload/mhs/regional",
+    "transparency_page": "https://www.mhs.net/patients-and-visitors/billing/charges"
+  },
+  {
+    "detail_id": "ae2f0d14-e467-461b-8a52-7415912af0ad",
+    "ccn": "100271",
+    "hospital_name": "MOFFITT CANCER CENTER",
+    "address": "",
+    "file_url": "https://eforms.moffitt.org/Moffittcancercenter_standardcharges/593238634_H.-Lee-Moffitt-Cancer-Center-and-Research-Institute-Hospital,-Inc._standardcharges.json",
+    "transparency_page": "https://www.moffitt.org/patient-family/insurance-financial-information/obtain-a-cost-estimate/"
+  },
+  {
+    "detail_id": "aaa21cb9-1cd2-45df-9060-17bdb16ea066",
+    "ccn": "100127",
+    "hospital_name": "MORTON PLANT HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590624462_mortonplanthospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "48302cbf-2ae1-4d52-ba54-727369c3936a",
+    "ccn": "100063",
+    "hospital_name": "MORTON PLANT NORTH BAY HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/590624462_mortonplantnorthbayhospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "768e684f-03fe-45dd-94cf-7ed9265b3e7c",
+    "ccn": "",
+    "hospital_name": "MORTON PLANT NORTH BAY HOSPITAL- RECOVERY CENTER",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/590624462_mortonplantnorthbayhospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "e9f5d56e-5202-4087-a310-29752130d69c",
+    "ccn": "100034",
+    "hospital_name": "MOUNT SINAI MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.msmc.com/wp-content/uploads/2025/03/590624424_Mount-Sinai-Medical-Center-of-Florida-_standardcharges.csv.zip",
+    "transparency_page": "https://www.msmc.com/patients-visitors/patient-information/price-transparency/"
+  },
+  {
+    "detail_id": "320d933c-85b5-4948-ba93-c675196bc719",
+    "ccn": "100018",
+    "hospital_name": "NCH BAKER DOWNTOWN",
+    "address": "",
+    "file_url": "https://nchmd.org/wp-content/uploads/590694358_naples-community-hospital_standardcharges.json",
+    "transparency_page": "https://nchmd.org/patients-and-visitors/compare-hospital-pricing/"
+  },
+  {
+    "detail_id": "05828cd3-131c-4c81-8d15-61487da20885",
+    "ccn": "",
+    "hospital_name": "NCH NORTH NAPLES HOSPITAL",
+    "address": "",
+    "file_url": "https://nchmd.org/wp-content/uploads/590694358_naples-community-hospital_standardcharges.json",
+    "transparency_page": "https://nchmd.org/patients-and-visitors/compare-hospital-pricing/"
+  },
+  {
+    "detail_id": "33503de4-c816-4a78-8ba1-caf410b4b5b8",
+    "ccn": "103304",
+    "hospital_name": "NEMOURS CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.nemours.org/content/dam/nemours/nemours-org/en/documents/590634433-1245520386_Nemours-Childrens-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.nemours.org/patientfamily/hospital-charges.html"
+  },
+  {
+    "detail_id": "76d87bb6-3384-4eb4-b0db-b9af9c34325c",
+    "ccn": "103301",
+    "hospital_name": "NICKLAUS CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.nicklauschildrens.org/NCH/media/docs/pdf/Finance/590638499_nicklaus-children-_s-hospital_standardcharges.json",
+    "transparency_page": "https://www.nicklauschildrens.org/patient-resources/patient-financial-services/pricing-and-estimates"
+  },
+  {
+    "detail_id": "25e12dd9-958d-4a2e-b4b7-84eb6fa4b561",
+    "ccn": "105621",
+    "hospital_name": "NORTH CAMPUS REHABILITATION & NURSING CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "101bed99-b4a7-4271-a110-addd655b5f9d",
+    "ccn": "100122",
+    "hospital_name": "NORTH OKALOOSA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.northokaloosa.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/650460321_north-okaloosa-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.northokaloosa.com/pricing-information"
+  },
+  {
+    "detail_id": "68ea233b-8d52-462e-9573-48d67821ebc6",
+    "ccn": "104087",
+    "hospital_name": "NORTH PORT BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "f4253f74-a4ba-442a-89b6-2050c017076c",
+    "ccn": "100029",
+    "hospital_name": "NORTH SHORE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://northshoremc.org/pricetransparency/995020733_NorthShoreMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://northshoremc.org/price-transparency/"
+  },
+  {
+    "detail_id": "759e2865-e715-42a5-a4c3-42376feb0d1c",
+    "ccn": "104075",
+    "hospital_name": "NORTH TAMPA BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://www.northtampabehavioralhealth.com/wp-content/uploads/pricing/2025/204/26-1938381%20Ten-Broeck%20Tampa%20LLC_standardcharges.csv",
+    "transparency_page": "https://www.northtampabehavioralhealth.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "0f9939db-a84f-45ff-ad40-728d2a3ecf27",
+    "ccn": "101308",
+    "hospital_name": "NORTHWEST FLORIDA COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://northwestfloridacommunityhospital.pg.quadax.revenuemasters.com/cdm-files/596002711_northwest-florida-community-hospital_standardcharges.csv",
+    "transparency_page": "https://northwestfloridacommunityhospital.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "c3850166-372d-4e03-800a-6c89e556f8f5",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH ADVANCED REHABILITATION INSTITUTE",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "7cb75a0f-59af-4e41-9840-2df74f61abed",
+    "ccn": "102341",
+    "hospital_name": "ORLANDO HEALTH ARNOLD PALMER HOSPITAL FOR CHILDREN",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "cb679b12-f10d-4e46-b8e9-4587f23b4cfe",
+    "ccn": "100032",
+    "hospital_name": "ORLANDO HEALTH BAYFRONT HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=yWCmVQXnWM9SznNXQMvjCg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "6264f074-d836-42b4-8cb7-57e5c2fa24de",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH CANCER INSTITUTE - DOWNTOWN ORLANDO",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "9cdaed28-2d74-45d5-a6c5-123dcc6ab8ff",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH DR P PHILLIPS HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "ab121e0a-1649-4516-905e-cf98688de393",
+    "ccn": "100030",
+    "hospital_name": "ORLANDO HEALTH HEALTH CENTRAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=R*__*SxOuSCwCrcUCJQhmi*_*5A*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "2af589ce-fbd3-44ce-af1e-25055ffdbdcf",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH HORIZON WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=R*__*SxOuSCwCrcUCJQhmi*_*5A*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "7a46e718-8fe8-4605-9a1c-ccbcbb8d307d",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH JEWETT ORTHOPEDIC INSTITUTE DOWNTOWN COMPLEX - ORTHOPEDIC HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "1b7154d0-964f-449c-8fc9-c7c205c3d5c1",
+    "ccn": "100291",
+    "hospital_name": "ORLANDO HEALTH MELBOURNE HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=gd6D*_*ixLi58nftS4kqNqYA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "06ec06de-a4dc-4ca4-977f-befb9f66925a",
+    "ccn": "100006",
+    "hospital_name": "ORLANDO HEALTH REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "b2711324-c3a3-4b9a-8b75-459b69261969",
+    "ccn": "100217",
+    "hospital_name": "ORLANDO HEALTH SEBASTIAN RIVER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=OGU7ualiM9mS6myX0QWCww*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "a4c9f465-9440-49bb-b441-f3ef5c15bde7",
+    "ccn": "100051",
+    "hospital_name": "ORLANDO HEALTH SOUTH LAKE HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=bMxquK2F0SAP1VuYiDuxgw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "152666b1-c509-4b30-add0-99a908c047fb",
+    "ccn": "100263",
+    "hospital_name": "ORLANDO HEALTH SOUTH SEMINOLE HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "c1792fbf-c7c1-4377-ab92-7298f8ff7089",
+    "ccn": "100302",
+    "hospital_name": "ORLANDO HEALTH ST. CLOUD HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=SoRAGcrfU7IdykPOHI4HYg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "40ff1bcf-5c8c-410c-ad91-39eeccc09ade",
+    "ccn": "",
+    "hospital_name": "ORLANDO HEALTH WINNIE PALMER HOSPITAL FOR WOMEN & BABIES",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=r5C56pFicSGYmflCJ5*__*QXg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.orlandohealth.com/patients-and-visitors/patient-financial-resources/financial-information-prior-to-care/pricing-transparency-guide"
+  },
+  {
+    "detail_id": "724025a4-1c23-42e0-86dc-45f1b6b4f726",
+    "ccn": "100316",
+    "hospital_name": "PALM BAY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hf.org/sites/default/files/2025-10/590624371_Palm-Bay-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.hf.org/healthcare-home/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "55f2748f-12ee-49df-bf8e-10d0d2de0d28",
+    "ccn": "100176",
+    "hospital_name": "PALM BEACH GARDENS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/591223933_PalmBeachGardensMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "e1a0b48e-3078-40b5-bbb8-34a5bce56d33",
+    "ccn": "100187",
+    "hospital_name": "PALMETTO GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://palmettogeneral.org/pricetransparency/995002378_PalmettoGeneralHospital_standardcharges.csv",
+    "transparency_page": "https://palmettogeneral.org/price-transparency/"
+  },
+  {
+    "detail_id": "a20791a4-a479-4927-b0c5-bd08495699b3",
+    "ccn": "104082",
+    "hospital_name": "PALM POINT BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/471584533_palm-point_standardcharges.csv",
+    "transparency_page": "https://palmpointbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "7dfc93db-ee27-4e9c-8ab1-003af697f695",
+    "ccn": "",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF JUPITER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10166/853967068_pam-rehabilitation-hospital-of-jupiter-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthRehabilitationHospitalofJupiter/10166"
+  },
+  {
+    "detail_id": "ba3721d0-7504-44c8-8294-2230421ccb8f",
+    "ccn": "",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF TAVARES",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10168/871708365_pam-rehabilitation-hospital-of-tavares-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthRehabilitationHospitalofTavares/10168"
+  },
+  {
+    "detail_id": "5a21fbab-8c5d-4cbe-8cf1-9fbcbb9a0c6d",
+    "ccn": "",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF VENICE",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10812/863413659_pam-rehabilitation-hospital-of-venice-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthRehabilitationHospitalofVenice/10812"
+  },
+  {
+    "detail_id": "c6ab3ad3-67a2-4868-9574-5c6b8fcd818a",
+    "ccn": "102012",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF JACKSONVILLE",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9957/823087954_curahealth-jacksonville-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthSpecialtyHospitalofJacksonville/9957"
+  },
+  {
+    "detail_id": "48a172e1-dcfa-4e3f-b75d-bc6be9d127af",
+    "ccn": "102018",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF SARASOTA",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11106/842670518_pam-specialty-hospital-of-sarasota-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SpecialtyHospitalSarasota/11106"
+  },
+  {
+    "detail_id": "7da594b8-90b1-4497-b9ca-e7b018ad561d",
+    "ccn": "104074",
+    "hospital_name": "PARK ROYAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.parkroyalhospital.com/wp-content/uploads/pricing/2025/209/26-2955988_The-Pavilion-at-HealthPark-%20LLC_standardcharges.csv",
+    "transparency_page": "https://www.parkroyalhospital.com/cms-hpt.txt"
+  },
+  {
+    "detail_id": "116a192c-5388-4c46-91f9-3026dd772539",
+    "ccn": "100028",
+    "hospital_name": "PARRISH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.parrishhealthcare.com/documents/596020427_north-brevard-county-hospital-dist-parrish-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.parrishhealthcare.com/patients-visitors/financial-services/price-transparency/"
+  },
+  {
+    "detail_id": "d0c5f4f1-cc79-4845-aa8a-2f8565110595",
+    "ccn": "",
+    "hospital_name": "PHYSICIANS REGIONAL - COLLIER BOULEVARD",
+    "address": "",
+    "file_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-collier_standardcharges.csv",
+    "transparency_page": "https://www.physiciansregional.com/pricing-information"
+  },
+  {
+    "detail_id": "f5b01bea-2d1e-471f-8a3a-2385ec0f6981",
+    "ccn": "",
+    "hospital_name": "PHYSICIANS REGIONAL - NORTH",
+    "address": "",
+    "file_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-north_standardcharges.csv",
+    "transparency_page": "https://www.physiciansregional.com/pricing-information"
+  },
+  {
+    "detail_id": "a21a4de3-1e26-4ea0-99df-d9ca1bf384f8",
+    "ccn": "100286",
+    "hospital_name": "PHYSICIANS REGIONAL - PINE RIDGE",
+    "address": "",
+    "file_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-pine-ridge_standardcharges.csv",
+    "transparency_page": "https://www.physiciansregional.com/pricing-information"
+  },
+  {
+    "detail_id": "8e3707b9-7391-452e-8378-7c7be81fece7",
+    "ccn": "",
+    "hospital_name": "PINECREST REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752922687_DelrayMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "b5d8d4cc-f58e-4079-9767-45b11a640608",
+    "ccn": "",
+    "hospital_name": "PLUM VILLAGE HEALTH",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "df0aeb0d-18a1-4c32-ab1b-4e1a22b0f311",
+    "ccn": "104070",
+    "hospital_name": "PORT ST LUCIE HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "abf3866c-1c6f-45e8-bbb1-59a64fc12f4f",
+    "ccn": "104016",
+    "hospital_name": "RIVER POINT BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/204865566_river-point_standardcharges.csv",
+    "transparency_page": "https://riverpointbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "6e9d3032-c989-490e-af63-2dae09feff79",
+    "ccn": "",
+    "hospital_name": "SANDY PINES PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "https://sandypineshospital.com/wp-content/uploads/2019/02/sandypines-residential-treatment-center-587-20190206.xlsx",
+    "transparency_page": "https://sandypineshospital.com/standard-services/"
+  },
+  {
+    "detail_id": "a1c3eb52-409b-4e38-9310-a0cb26e17ee9",
+    "ccn": "100124",
+    "hospital_name": "SANTA ROSA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.srmcfl.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/680045270_santa-rosa-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.srmcfl.com/pricing-information"
+  },
+  {
+    "detail_id": "4fc743c0-9868-450d-9f69-dd6cb7224d6f",
+    "ccn": "100087",
+    "hospital_name": "SARASOTA MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.smh.com/Portals/0/Documents/Financial/596012500_Sarasota-Memorial-Hospital-Main-Campus_standardcharges.csv",
+    "transparency_page": "https://www.smh.com/billchat"
+  },
+  {
+    "detail_id": "251199e4-35fc-4b89-a552-1f4536c836c2",
+    "ccn": "100359",
+    "hospital_name": "SARASOTA MEMORIAL HOSPITAL-VENICE CAMPUS",
+    "address": "",
+    "file_url": "https://www.smh.com/Portals/0/Documents/Financial/596012500_Sarasota-Memorial-Hospital-Venice_standardcharges.csv",
+    "transparency_page": "https://www.smh.com/billchat"
+  },
+  {
+    "detail_id": "dd334a36-fc4d-40ad-ac40-c6f21076d4a1",
+    "ccn": "103034",
+    "hospital_name": "SEA PINES REHABILITATION HOSPITAL, AN AFFILIATE OF ENCOMPASS HEALTH",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1134647_sea-pines-rehabilitation-hospital-an-affiliate-of-encompass-health-_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/seapinesrehab/transparency-healthcare/florida-price-transparency"
+  },
+  {
+    "detail_id": "1a793019-d210-418e-9f9a-d6c28573664c",
+    "ccn": "102029",
+    "hospital_name": "SELECT SPECIALITY HOSPITAL OF FORT MYERS",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/83-3307316_Select_Specialty_Hospital-Fort_Myers_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "990f817a-57a6-40d5-a469-5a9ccb889ce1",
+    "ccn": "102031",
+    "hospital_name": "SELECT SPECIALITY HOSPITAL OF MIAMI",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/83-3331871_Select_Specialty_Hospital-Miami_Lakes_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "c907a6b9-a2ba-4355-aeb8-3612332af434",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "28d5869e-a3a3-4112-80a0-5b13e59f5e82",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "d819add8-86c9-4f6a-81f0-9cbc9ff2ed46",
+    "ccn": "102022",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL GAINESVILLE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/06-1713547_Select_Specialty_Hospital-Gainesville_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "b8b20c87-d4d7-437c-a5fb-99083fe1372a",
+    "ccn": "102001",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-MIAMI",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1897325_Select_Specialty_Hospital-Miami_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "ca69fbe6-a879-4e97-9b10-605739b51efb",
+    "ccn": "",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - ORLANDO NORTH",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/37-1426852_Select_Specialty_Hospital-Orlando_North_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "cfad979f-ca95-48c4-a726-ea8f40085d25",
+    "ccn": "102003",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - ORLANDO SOUTH",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/37-1426852_Select_Specialty_Hospital-Orlando_South_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f7247720-f4d9-450d-9c03-2e4883207c7a",
+    "ccn": "102023",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - PALM BEACH",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/03-0508559_Select_Specialty_Hospital-Palm_Beach_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "cc1a20a4-ac1f-4dcb-8382-7c6c431bd80b",
+    "ccn": "102017",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - PANAMA CITY",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/38-3647406_Select_Specialty_Hospital-Panama_City_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "eb573900-4f79-47ec-9cd1-df0832e40e6b",
+    "ccn": "102024",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL PENSACOLA",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/03-0508545_Select_Specialty_Hospital-Pensacola_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "d721c50a-17b6-44a0-b756-b94a00969d08",
+    "ccn": "102020",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - TALLAHASSEE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/56-2314944_Select_Specialty_Hospital-Tallahassee_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "be5af7f2-0bfa-4d56-a071-1136155f2993",
+    "ccn": "",
+    "hospital_name": "SMA HEALTHCARE MARION COUNTY",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "5fbe16de-e89d-42b8-bd61-f942653c5a7b",
+    "ccn": "104049",
+    "hospital_name": "SOUTHERN WINDS HOSPITAL",
+    "address": "",
+    "file_url": "https://southernwindshospital.com/SWH_standardcharges.csv",
+    "transparency_page": "https://southernwindshospital.com/standard-services/"
+  },
+  {
+    "detail_id": "ea6d2f39-c2ff-45f7-a389-8a91e1b91290",
+    "ccn": "100132",
+    "hospital_name": "SOUTH FLORIDA BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/june-2025-files/590594631_southfloridabaptisthospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "a934f2b4-7f36-471a-8e3f-f3c55fc0ad13",
+    "ccn": "",
+    "hospital_name": "SOUTH FLORIDA EVALUATION AND TREATMENT CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "2cdf1429-2d3e-4adb-8434-6ac600d7e80f",
+    "ccn": "104001",
+    "hospital_name": "SOUTH FLORIDA STATE HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b254d4df-e54f-4515-b7ab-ed4209031483",
+    "ccn": "100154",
+    "hospital_name": "SOUTH MIAMI HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/590872594_south-miami-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/doral-hospital-pricing"
+  },
+  {
+    "detail_id": "b65163a6-f6f4-4904-a158-782048f22a45",
+    "ccn": "104057",
+    "hospital_name": "SPRINGBROOK HOSPITAL",
+    "address": "",
+    "file_url": "https://www.springbrookhospital.org/wp-content/uploads/Springbrook-hospital_standardcharges-25.csv",
+    "transparency_page": "https://www.springbrookhospital.org/financial-resources/standard-services/"
+  },
+  {
+    "detail_id": "595722b3-a698-47e4-b019-2ef68409962b",
+    "ccn": "103027",
+    "hospital_name": "ST ANTHONY'S REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.catholichealthservices.org/wp-content/uploads/591945163_StAnthony_standardcharges-4.csv",
+    "transparency_page": "https://www.catholichealthservices.org/rehabilitation/pricing-billing-information/st-anthonys/"
+  },
+  {
+    "detail_id": "b0a2a2ee-b4cf-4674-81d1-9dd553c02417",
+    "ccn": "103026",
+    "hospital_name": "ST CATHERINE'S REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.catholichealthservices.org/wp-content/uploads/591284678_StCatherines_standardcharges-4.csv",
+    "transparency_page": "https://www.catholichealthservices.org/rehabilitation/pricing-billing-information/st-catherines/"
+  },
+  {
+    "detail_id": "710a8b1e-d3d4-40c0-8ce1-33e0363ef279",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c78b14a8-e339-40e4-ae35-706af8740182",
+    "ccn": "",
+    "hospital_name": "ST. JOSEPH'S CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590774199_stjosephshospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "f07fb6e8-ff9a-4ace-b64e-76778101d83c",
+    "ccn": "100075",
+    "hospital_name": "ST JOSEPH'S HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590774199_stjosephshospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "2c65de34-328f-47b2-bd5f-798d9897a2d6",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "5e8d215c-5f52-4e93-8c67-7add7f330b10",
+    "ccn": "",
+    "hospital_name": "ST JOSEPH'S HOSPITAL NORTH",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590774199_stjosephshospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "e2476a35-6d82-46c0-b0d6-9c0b622f483d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a9d6bba6-8f93-46a4-974b-6a8391868a16",
+    "ccn": "100227",
+    "hospital_name": "ST JOSEPH'S WOMEN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590774199_stjosephshospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "fa0011e8-f942-4dfb-864d-7b2e37b87241",
+    "ccn": "100288",
+    "hospital_name": "ST MARY'S MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752932830_StMarysMedicalCenterWestPalmBeach_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "d8adaa6c-d480-4bbf-acb4-0907a01a23af",
+    "ccn": "",
+    "hospital_name": "STUDER FAMILY CHILDREN'S HOSPITAL ASCENSION SACRED HEART",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/590634434_sacred-heart-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "ebbccc56-41f3-4a89-a141-d41f965b8b81",
+    "ccn": "104078",
+    "hospital_name": "SUNCOAST BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/650816927_suncoast_standardcharges.csv",
+    "transparency_page": "https://suncoastbhc.com/standard-services/"
+  },
+  {
+    "detail_id": "e66ad21a-3430-427e-8c15-d7527e872d79",
+    "ccn": "",
+    "hospital_name": "SYLVESTER COMPREHENSIVE CANCER CENTER",
+    "address": "",
+    "file_url": "https://miami.box.com/shared/static/j614690mxb74kv96zrgkszzk8a4vultb.csv",
+    "transparency_page": "https://umiamihealth.org/billing-,-a-,-financial-information/hospital-pricing-information"
+  },
+  {
+    "detail_id": "fa4d4c19-15a6-4b40-8cfa-ec1baaafdba7",
+    "ccn": "100135",
+    "hospital_name": "TALLAHASSEE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tmh.org/sites/default/files/price-transparency/591917016_tallahassee-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.tmh.org/patients-and-visitors/billing-and-financial-assistance-information#standardrates"
+  },
+  {
+    "detail_id": "d183ca06-f5cf-40b9-863e-ddf44de2da4e",
+    "ccn": "100128",
+    "hospital_name": "TAMPA GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tgh.org/-/media/files/patients-and-visitors/593458145_tampa-general-hospital_standardcharges.csv?rev=7c310c7c008b4517a240a5892e37ed20",
+    "transparency_page": "https://www.tgh.org/patients-visitors/billing-insurance/hospital-services-charges#price-transparency"
+  },
+  {
+    "detail_id": "67ef0a43-eeae-4f05-9de8-65530ef1f119",
+    "ccn": "100071",
+    "hospital_name": "TAMPA GENERAL HOSPITAL BROOKSVILLE",
+    "address": "",
+    "file_url": "https://www.tghnorth.org/-/media/files/tgh-north-files/933040761_tampa-general-hospital-brooksville_standardcharges.csv?rev=2d8c87d8d0b7481bb3ee8229087d5c16&hash=094DCBE6291492ABC338EB16C8A4A078",
+    "transparency_page": "https://www.tghnorth.org/patients-visitors/billing-insurance/pricing-information#chargemaster"
+  },
+  {
+    "detail_id": "a57a6691-ebdd-4438-91bc-7ba242b7029b",
+    "ccn": "100249",
+    "hospital_name": "TAMPA GENERAL HOSPITAL CRYSTAL RIVER",
+    "address": "",
+    "file_url": "https://www.tghnorth.org/-/media/files/tgh-north-files/93-3085834_tampa-general-hospital-crystal-river_standardcharges.csv?rev=ed34afd9191341488fe45684872bfa7d&hash=7C088E15BFAD8BB158C086F6AD4645C2",
+    "transparency_page": "https://www.tghnorth.org/patients-visitors/billing-insurance/pricing-information#chargemaster"
+  },
+  {
+    "detail_id": "07a9b4c9-9023-4360-9c56-909bed7236c3",
+    "ccn": "100280",
+    "hospital_name": "TAMPA GENERAL HOSPITAL SPRING HILL",
+    "address": "",
+    "file_url": "https://www.tghnorth.org/-/media/files/tgh-north-files/933040761_tampa-general-hospital-brooksville_standardcharges.csv?rev=2d8c87d8d0b7481bb3ee8229087d5c16&hash=094DCBE6291492ABC338EB16C8A4A078",
+    "transparency_page": "https://www.tghnorth.org/patients-visitors/billing-insurance/pricing-information#chargemaster"
+  },
+  {
+    "detail_id": "c7f17866-cf41-42b1-974a-295324134208",
+    "ccn": "103051",
+    "hospital_name": "TGH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tampageneralrehabhospital.com/docs/irftghrehabilitationhospitallibraries/financials/aug2025/844952844_tampa-rehabilitation-hospital_standardcharges.csv.zip",
+    "transparency_page": "https://www.tampageneralrehabhospital.com/patient-experience/financial-assistance"
+  },
+  {
+    "detail_id": "ba8cd438-b92f-40c3-8fc2-8b33ba1e7091",
+    "ccn": "",
+    "hospital_name": "THE RENFREW CENTER OF FLORIDA",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "da13b182-6fed-47cd-b9d1-eb79386ea71e",
+    "ccn": "104071",
+    "hospital_name": "THE VINES HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/320235544_vines_standardcharges.csv",
+    "transparency_page": "https://thevineshospital.com/standard-services/"
+  },
+  {
+    "detail_id": "ecf5bf4d-6cdf-48a5-a73a-1ee91bbcc5ab",
+    "ccn": "100350",
+    "hospital_name": "UCF LAKE NONA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/fdeb1c9065714253af65e76ad4b957d2?download=true",
+    "transparency_page": "https://www.hcafloridahealthcare.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "a0b7e9c4-5be5-424e-b014-f33a2f4e0365",
+    "ccn": "100001",
+    "hospital_name": "UF HEALTH JACKSONVILLE",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-jax",
+    "transparency_page": "https://ufhealthjax.org/patients-and-visitors/insurance-billing-finance/procedure-cost#standard-charges"
+  },
+  {
+    "detail_id": "ff10943c-2b11-4d37-9bb5-bd6ff974c97c",
+    "ccn": "100084",
+    "hospital_name": "UF HEALTH LEESBURG HOSPITAL",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-lee",
+    "transparency_page": "https://ufhealth.org/locations/uf-health-leesburg-hospital/billing-costs-and-insurance#price-lists-standard-charges"
+  },
+  {
+    "detail_id": "85239487-bf70-4b16-81c6-7df1b262d517",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "0880aef2-0c13-4fdb-8a35-8b36228909b0",
+    "ccn": "",
+    "hospital_name": "UF HEALTH PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-shands",
+    "transparency_page": "https://ufhealth.org/billing-insurance-and-costs/price-transparency-and-patient-billing#price-transparency-price-lists"
+  },
+  {
+    "detail_id": "a1e0ecad-2bbf-4ec5-b286-7582c857ca68",
+    "ccn": "",
+    "hospital_name": "UF HEALTH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/81-3115273_UF_Health_Rehab_Hospital_standardcharges.csv",
+    "transparency_page": "https://rehabhospitals.ufhealth.org/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "d4e6c02b-2529-428c-87ce-aaa444f3546c",
+    "ccn": "",
+    "hospital_name": "UF HEALTH REHABILITATION HOSPITAL - NORTH",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/inpatient-rehabilitation/99-1385271_UF-Health-Rehab-Hospital-North_standardcharges.csv",
+    "transparency_page": "https://rehabhospital.ufhealth.org/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "e4aaf237-cf25-4eaf-9aa4-ae05a215ad6e",
+    "ccn": "100113",
+    "hospital_name": "UF HEALTH SHANDS HOSPITAL",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-shands",
+    "transparency_page": "https://ufhealth.org/billing-insurance-and-costs/price-transparency-and-patient-billing#price-transparency-price-lists"
+  },
+  {
+    "detail_id": "ae7478f7-e708-4a6e-9ead-31dfe6798c87",
+    "ccn": "100290",
+    "hospital_name": "UF HEALTH SPANISH PLAINES HOSPITAL",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-villages",
+    "transparency_page": "https://ufhealth.org/locations/uf-health-spanish-plaines-hospital/billing#price-lists-standard-charges"
+  },
+  {
+    "detail_id": "d62d9a2f-5828-4f8a-9aba-26fe0718ab49",
+    "ccn": "100090",
+    "hospital_name": "UF HEALTH ST. JOHNS",
+    "address": "",
+    "file_url": "https://ufhealth.pt.panaceainc.com/MRFDownload/ufhealth/uf-stjohns",
+    "transparency_page": "https://ufhealth.org/billing-insurance-and-costs/price-transparency"
+  },
+  {
+    "detail_id": "e99ba547-27a2-4e32-9aed-13e0f6d0e6ea",
+    "ccn": "100079",
+    "hospital_name": "UHEALTH TOWER",
+    "address": "",
+    "file_url": "https://miami.box.com/shared/static/j614690mxb74kv96zrgkszzk8a4vultb.csv",
+    "transparency_page": "https://umiamihealth.org/billing-,-a-,-financial-information/hospital-pricing-information"
+  },
+  {
+    "detail_id": "9bab9242-359a-486a-895b-14660e435eca",
+    "ccn": "104076",
+    "hospital_name": "UNIVERSITY BEHAVIORAL CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205202458_university-bh_standardcharges.csv",
+    "transparency_page": "https://universitybehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "62322f60-4704-44aa-8888-e1a6f7d72acf",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "da29c01c-37ca-4aaf-8adf-636d22c29bfa",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "92b7a0c4-d690-4f90-800e-c982d58fe178",
+    "ccn": "104069",
+    "hospital_name": "WEKIVA SPRINGS",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/204865588_wekiva-springs_standardcharges.csv",
+    "transparency_page": "https://wekivacenter.com/standard-services/"
+  },
+  {
+    "detail_id": "8b028633-f21f-47e1-be1f-4857936ab8d7",
+    "ccn": "100275",
+    "hospital_name": "WELLINGTON REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/232306491_wellington-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://wellingtonregional.com/patients-visitors/pricing-guide/"
+  },
+  {
+    "detail_id": "9cff8703-b82f-4e79-aa86-700374b934a9",
+    "ccn": "100268",
+    "hospital_name": "WEST BOCA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752922710_WestBocaMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.palmbeachhealthnetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "abb08893-07eb-4e17-bfdf-d25c5ffa560f",
+    "ccn": "103036",
+    "hospital_name": "WEST GABLES REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/inpatient-rehabilitation/20-2971876_West_Gables_Rehabilitation_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.westgablesrehabhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "8b21a844-a2ca-463c-b169-779d54ac8ebc",
+    "ccn": "100314",
+    "hospital_name": "WEST KENDALL BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Standard-Charges/522438452_west-kendall-baptist-hospital_standardcharges.csv",
+    "transparency_page": "https://baptisthealth.net/locations/hospitals/west-kendall-baptist-hospital-pricing"
+  },
+  {
+    "detail_id": "6217a23e-4e30-4f56-9ce1-c81032711954",
+    "ccn": "100289",
+    "hospital_name": "WESTON HOSPITAL CLEVELAND CLINIC",
+    "address": "",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/weston",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "f8cfe0f3-49bc-4c58-b311-1747344e8215",
+    "ccn": "104063",
+    "hospital_name": "WILLOUGH AT NAPLES HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "3e6ad966-c82b-4978-876f-7393d6e26de4",
+    "ccn": "104017",
+    "hospital_name": "WINDMOOR HEALTHCARE OF CLEARWATER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232922437_windmoor_standardcharges.csv",
+    "transparency_page": "https://windmoor.com/standard-services/"
+  },
+  {
+    "detail_id": "2eff530b-6bf1-450e-84af-07825f33d80b",
+    "ccn": "100052",
+    "hospital_name": "WINTER HAVEN HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590724462_winterhavenhospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "2b90b185-0819-4078-a606-8fc721519dc6",
+    "ccn": "",
+    "hospital_name": "WINTER HAVEN WOMEN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files/april-2025/590724462_winterhavenhospital_standardcharges.csv",
+    "transparency_page": "https://baycare.org/billing-and-insurance"
+  },
+  {
+    "detail_id": "43201830-d4ef-4167-a414-a698dfee879d",
+    "ccn": "",
+    "hospital_name": "WOLFSON CHILDREN'S HOSPITAL MAIN CAMPUS",
+    "address": "",
+    "file_url": "https://baptist-health.app.box.com/s/gw1rg7gztrro0mfws2l3jfr38fgdn1nb",
+    "transparency_page": "https://www.baptistjax.com/patient-info/billing-and-insurance-information/patient-cost-estimate-request-overview/gross-charges"
+  }
+]

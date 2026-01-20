@@ -1,0 +1,986 @@
+[
+  {
+    "detail_id": "e3c60654-eb9d-4a03-aa4c-ccae73aff977",
+    "ccn": "314023",
+    "hospital_name": "ASPEN HILLS HEALTHCARE CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "15ad8673-a65d-4870-9515-c635f18d9250",
+    "ccn": "310064",
+    "hospital_name": "ATLANTICARE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://atlanticare.pt.panaceainc.com/MRFDownload/atlanticare/atlanticare",
+    "transparency_page": "https://www.atlanticare.org/patients-and-visitors/for-patients/billing-and-insurance/hospital-charge-list"
+  },
+  {
+    "detail_id": "2c2e0f41-dd18-41de-b7c8-1a7bcab151a6",
+    "ccn": "",
+    "hospital_name": "ATLANTICARE REGIONAL MEDICAL CENTER - MAINLAND DIVISION",
+    "address": "",
+    "file_url": "https://atlanticare.pt.panaceainc.com/MRFDownload/atlanticare/atlanticare",
+    "transparency_page": "https://www.atlanticare.org/patients-and-visitors/for-patients/billing-and-insurance/hospital-charge-list"
+  },
+  {
+    "detail_id": "c9c625c9-d818-4808-93a8-3a5ef37f7d0d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b3113848-d29c-462b-a5de-99d19981fbbb",
+    "ccn": "310112",
+    "hospital_name": "BAYSHORE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/bmc/221487576-1831197508_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency/"
+  },
+  {
+    "detail_id": "a5c83b33-dbf6-4e49-a755-8911aab2f6ae",
+    "ccn": "310058",
+    "hospital_name": "BERGEN NEW BRIDGE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://bergen.pt.panaceainc.com/MRFDownload/bergen/bergen",
+    "transparency_page": "https://www.newbridgehealth.org/patients-visitors/patient-financial-services/estimate-costs/"
+  },
+  {
+    "detail_id": "22355fa0-cc01-4360-9762-bd9f26381bc5",
+    "ccn": "",
+    "hospital_name": "BRISTOL MYERS SQUIBB CHILDRENS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487243_Robert-Wood-Johnson-University-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/rwj-university-hospital-new-brunswick/billing/charges/"
+  },
+  {
+    "detail_id": "d9d65f5a-33e6-4de7-808e-5354b4773d6c",
+    "ccn": "",
+    "hospital_name": "CAPITAL HEALTH AT DEBORAH - EMERGENCY SERVICES",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10273/223548695-1073516183_capital-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/Capital%20Health%20Medical%20Center-Hopewell,CapitalHealthatDeborah-EmergencyServices,CapitalHealth-Hamilton/10273"
+  },
+  {
+    "detail_id": "5a260f01-00cc-4bdb-8af0-8273c826874b",
+    "ccn": "310021",
+    "hospital_name": "CAPITAL HEALTH – EAST TRENTON",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10274/596012065-1275583726_capital-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CapitalHealthRegionalMedicalCenterandCapitalHealth-East%20Trenton/10274"
+  },
+  {
+    "detail_id": "94dc73ae-fb46-443a-95bc-eedd80eba006",
+    "ccn": "",
+    "hospital_name": "CAPITAL HEALTH - HAMILTON",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10273/223548695-1073516183_capital-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/Capital%20Health%20Medical%20Center-Hopewell,CapitalHealthatDeborah-EmergencyServices,CapitalHealth-Hamilton/10273"
+  },
+  {
+    "detail_id": "89afff2f-2aae-4361-9182-edac60305a89",
+    "ccn": "310044",
+    "hospital_name": "CAPITAL HEALTH - HOPEWELL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10273/223548695-1073516183_capital-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/Capital%20Health%20Medical%20Center-Hopewell,CapitalHealthatDeborah-EmergencyServices,CapitalHealth-Hamilton/10273"
+  },
+  {
+    "detail_id": "97fed6a8-6d14-47d1-8901-b7777c64c477",
+    "ccn": "310092",
+    "hospital_name": "CAPITAL HEALTH REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10274/596012065-1275583726_capital-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CapitalHealthRegionalMedicalCenterandCapitalHealth-East%20Trenton/10274"
+  },
+  {
+    "detail_id": "ce48c97a-50a0-4018-82c7-347cffc2765f",
+    "ccn": "310025",
+    "hospital_name": "CAREPOINT HEALTH - BAYONNE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBMCBAYONNENJ&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://carepointhealth.org/patients-visitors/hospital-charges/"
+  },
+  {
+    "detail_id": "23ead49b-eb7d-47d5-ab91-59824ff865c8",
+    "ccn": "310016",
+    "hospital_name": "CAREPOINT HEALTH-CHRIST HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCHJERSEYCITYNJ&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://carepointhealth.org/patients-visitors/hospital-charges/"
+  },
+  {
+    "detail_id": "42124e88-ab08-4c15-ad3a-248b641c99f5",
+    "ccn": "310040",
+    "hospital_name": "CAREPOINT HEALTH-HOBOKEN UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCHUMHOBOKENNJ&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://carepointhealth.org/patients-visitors/hospital-charges/"
+  },
+  {
+    "detail_id": "241e8409-5345-4a10-aa4d-c4ca3b12f44e",
+    "ccn": "310083",
+    "hospital_name": "CAREWELL HEALTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11331/854153331_carewell-health-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/carewellhealthmedicalcenter/11331"
+  },
+  {
+    "detail_id": "0cb885f8-8e66-4bc7-a097-20412cc8707a",
+    "ccn": "310111",
+    "hospital_name": "CENTRASTATE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/221750190_centrastate-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "7eac4074-b868-42d7-a87d-37c3a4ac9fdd",
+    "ccn": "",
+    "hospital_name": "CHILDRENS HOSPITAL OF NEW JERSEY - NEWARK",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/223452311_newark-beth-israel-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/newark-beth-israel-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "9ea5d6e1-8a36-4a4a-ace0-f7dfcbb6b451",
+    "ccn": "313300",
+    "hospital_name": "CHILDRENS SPECIALIZED HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487148_Childrens-Specialized-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/childrens-specialized-hospital/patients-visitors/billing-financial-and-insurance-information/charges/"
+  },
+  {
+    "detail_id": "6a500688-8ef0-4f2f-a7bc-07395c2a0c32",
+    "ccn": "315239",
+    "hospital_name": "CHILDRENS SPECIALIZED HOSPITAL LONG TERM CARE CENTER – MOUNTAINSIDE",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487148_Childrens-Specialized-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/childrens-specialized-hospital/patients-visitors/billing-financial-and-insurance-information/charges/"
+  },
+  {
+    "detail_id": "7b88b56e-4362-48a5-a119-960e9224f2ed",
+    "ccn": "310017",
+    "hospital_name": "CHILTON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_chilton-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "03c6d470-a31f-4719-82ff-d3724d596d35",
+    "ccn": "310009",
+    "hospital_name": "CLARA MAASS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/221500556_clara-maass-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/clara-maass-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "4efbe861-1907-4f40-807c-1176f24817ee",
+    "ccn": "310041",
+    "hospital_name": "COMMUNITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/223452306_community-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/community-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "e74020a6-62c1-4190-8499-b05abc660771",
+    "ccn": "310076",
+    "hospital_name": "COOPERMAN BARNABAS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/222977312_cooperman-barnabas-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/cooperman-barnabas-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "44dc2059-4659-4582-9932-aa7f99834885",
+    "ccn": "310011",
+    "hospital_name": "COOPER UNIVERSITY HOSPITAL CAPE REGIONAL",
+    "address": "",
+    "file_url": "https://caperegional.pt.panaceainc.com/MRFDownload/caperegional/caperegional",
+    "transparency_page": "https://www.caperegional.com/patients-visitors/billing-insurance#price-transparency"
+  },
+  {
+    "detail_id": "a69caede-dcab-45cc-893a-67684b654298",
+    "ccn": "310031",
+    "hospital_name": "DEBORAH HEART AND LUNG CENTER",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/69b5485bad55c951f8e08688dc034a14/charges/mrf",
+    "transparency_page": "https://demanddeborah.org/patients-and-visitors/patient-resources/financial-information/#price-transparency"
+  },
+  {
+    "detail_id": "fe346622-2401-498f-b12c-f5e5c22588db",
+    "ccn": "313035",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TINTON FALLS",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/631254173encompass-health-rehabilitation-hospital-of-tinton-falls-standard.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tintonfallsrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "91e1fe87-fa3e-427d-8b28-8140a8e7f6a0",
+    "ccn": "313029",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TOMS RIVER",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/63-1105897_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Toms%20River_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tomsriverrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "102f4df0-02b4-4034-b5e7-71019f2bdb3f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a98576e4-d409-43bd-8b16-01a56236b2cf",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "254b5127-12ff-4c6f-9dee-4021ec217415",
+    "ccn": "",
+    "hospital_name": "GORYEB CHILDRENS CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_morristown-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "9a120485-f787-43b7-961d-100286b25cff",
+    "ccn": "314012",
+    "hospital_name": "HACKENSACK MERIDIAN HEALTH CARRIER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/cc/221487576-221714106_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "a2abebc0-c0b3-4f15-9176-32137eca6e5e",
+    "ccn": "310054",
+    "hospital_name": "HACKENSACK MERIDIAN MOUNTAINSIDE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://coc.ardenthealthservices.com/newjersey/20-8489105_Hackensack-Meridian-Mountainside-Medical-Center_standardchanges.csv",
+    "transparency_page": "https://mountainsidemedicalcenter.com/policies-and-disclosures/pricing-transparency/"
+  },
+  {
+    "detail_id": "9eb2f3d1-4b94-42bc-9d7c-d493d5aa59e1",
+    "ccn": "310130",
+    "hospital_name": "HACKENSACK MERIDIAN PASCACK VALLEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://coc.ardenthealthservices.com/newjersey/26-4051248_Hackensack-Meridian-at-Pascack-Valley_standardchanges.csv",
+    "transparency_page": "https://pascackmedicalcenter.com/policies-and-disclosures/pricing-transparency/"
+  },
+  {
+    "detail_id": "36b5f264-0135-4012-b68f-b4d477659287",
+    "ccn": "310001",
+    "hospital_name": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/humc/221487576-1609862036_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency/"
+  },
+  {
+    "detail_id": "2ecd87fe-607c-4546-9b4e-4f97886cb7bf",
+    "ccn": "310115",
+    "hospital_name": "HACKETTSTOWN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_hackettstown-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "6e4f666d-1ee4-41a1-b47d-8990e80c24d9",
+    "ccn": "314021",
+    "hospital_name": "HAMPTON BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232985430_hampton_standardcharges.csv",
+    "transparency_page": "https://hamptonhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "c4a50da5-ece3-46db-9fcf-2a87180e3684",
+    "ccn": "310008",
+    "hospital_name": "HOLY NAME HOSPITAL",
+    "address": "",
+    "file_url": "https://www.holyname.org/HospitalCharges/resources/221487322_holy-name_standardcharges.csv",
+    "transparency_page": "https://www.holyname.org/HospitalCharges/"
+  },
+  {
+    "detail_id": "06a5a3e9-3a2e-45dc-8c59-e223c70628cc",
+    "ccn": "",
+    "hospital_name": "HSS PARAMUS MIDLAND OUTPATIENT CENTER",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1447082003_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "d848df0f-15f0-4710-b2eb-499ab6fcf031",
+    "ccn": "",
+    "hospital_name": "HSS PARAMUS OUTPATIENT CENTER",
+    "address": "140 EAST RIDGEWOOD AVENUE, SUITE 175",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1184038663_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "66147644-9821-48d1-859d-3da57faf79cd",
+    "ccn": "314024",
+    "hospital_name": "HUDSON COUNTY MEADOWVIEW PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "f04f7f6d-e005-44da-a548-7cb2afb7528a",
+    "ccn": "310118",
+    "hospital_name": "HUDSON REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLHCSECAUCUSNJ&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HudsonRegional.aspx"
+  },
+  {
+    "detail_id": "f5bdc0c8-d41e-41d9-ac1f-630b85f5f066",
+    "ccn": "310005",
+    "hospital_name": "HUNTERDON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hhsmedia.org/wp-content/uploads/2025/10/221537688_Hunterdon-Medical-Center_standardcharges.csv.zip",
+    "transparency_page": "https://www.hunterdonhealth.org/patients-and-visitors/know-cost-your-care"
+  },
+  {
+    "detail_id": "04cba0f5-25a2-4e91-8c1b-04e6e662eb50",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "1f38a0c9-aff5-4a00-af0f-9119a1d05306",
+    "ccn": "",
+    "hospital_name": "INSPIRA HEALTH CENTER WOODBURY",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11284/210634484_inspira-health-center-woodbury_standardcharges.csv",
+    "transparency_page": "https://www.inspirahealthnetwork.org/patients-visitors/billing-online-payments/price-transparency"
+  },
+  {
+    "detail_id": "9c1261b5-63df-4a5a-b76c-55c1aff2611d",
+    "ccn": "310069",
+    "hospital_name": "INSPIRA MEDICAL CENTER ELMER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11234/210634484_inspira-medical-center-elmer_standardcharges.csv",
+    "transparency_page": "https://www.inspirahealthnetwork.org/patients-visitors/billing-online-payments/price-transparency"
+  },
+  {
+    "detail_id": "a72261f4-3952-4d88-b688-019b403fbc80",
+    "ccn": "310091",
+    "hospital_name": "INSPIRA MEDICAL CENTER MANNINGTON",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11233/210634484_inspira-medical-center-mannington_standardcharges.csv",
+    "transparency_page": "https://www.inspirahealthnetwork.org/patients-visitors/billing-online-payments/price-transparency"
+  },
+  {
+    "detail_id": "32bb1003-0bb5-4bfb-ba57-3d5d79d68745",
+    "ccn": "",
+    "hospital_name": "INSPIRA MEDICAL CENTER MULLICA HILL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11232/210634484_inspira-medical-center-mullica_standardcharges.csv",
+    "transparency_page": "https://www.inspirahealthnetwork.org/patients-visitors/billing-online-payments/price-transparency"
+  },
+  {
+    "detail_id": "9b09fe3c-f2ba-4108-8b1c-7803eede29bb",
+    "ccn": "310032",
+    "hospital_name": "INSPIRA MEDICAL CENTER VINELAND",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11285/210634484_inspira-medical-center-vineland_standardcharges.csv",
+    "transparency_page": "https://www.inspirahealthnetwork.org/patients-visitors/billing-online-payments/price-transparency"
+  },
+  {
+    "detail_id": "c3e0c78f-3d1b-41c0-aeb4-7a87fa9097ca",
+    "ccn": "310086",
+    "hospital_name": "JEFFERSON CHERRY HILL HOSPITAL",
+    "address": "",
+    "file_url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/221773439_jefferson-cherry-hill-hospital_standardcharges.csv",
+    "transparency_page": "https://www.jeffersonhealth.org/pay-my-bill/charge-description"
+  },
+  {
+    "detail_id": "5ef9ec79-2384-4ab9-84c1-f6aa6ee6c9c8",
+    "ccn": "310086",
+    "hospital_name": "JEFFERSON STRATFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/221773439_jefferson-stratford-hospital_standardcharges.csv",
+    "transparency_page": "https://www.jeffersonhealth.org/pay-my-bill/charge-description"
+  },
+  {
+    "detail_id": "74cd6c6c-70cd-4b87-a824-5a905f35a581",
+    "ccn": "",
+    "hospital_name": "JEFFERSON WASHINGTON TOWNSHIP HOSPITAL",
+    "address": "",
+    "file_url": "https://use2webtechstgpricelist.blob.core.windows.net/pricelist/Complete%20File/221773439_jefferson-washington-township-hospital_standardcharges.csv",
+    "transparency_page": "https://www.jeffersonhealth.org/pay-my-bill/charge-description"
+  },
+  {
+    "detail_id": "75c04ae1-9b75-486c-95f8-515617107880",
+    "ccn": "310074",
+    "hospital_name": "JERSEY CITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/222783298_jersey-city-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/jersey-city-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "f6f3ab18-1799-4b5b-88b7-b1b0c0e36829",
+    "ccn": "310073",
+    "hospital_name": "JERSEY SHORE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/jsumc/221487576-1679680243_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "26ddb3ca-4c4f-4098-86fc-06ed1dca480a",
+    "ccn": "310108",
+    "hospital_name": "JFK JOHNSON REHABILITATION INSTITUTE",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/jri/221487576-1275107344_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency/"
+  },
+  {
+    "detail_id": "7446a9d4-860a-4c78-92fb-1184f2e9a754",
+    "ccn": "310108",
+    "hospital_name": "JFK UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/jfk/221487576-1144894577_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "93abf799-ab9d-4ad2-bf01-bb053e94e8ee",
+    "ccn": "310052",
+    "hospital_name": "JOHNSON REHABILITATION INSTITUTE AT OCEAN",
+    "address": "425 JACK MARTIN BOULEVARD, SECOND FLOOR EAST WING",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/oumc/221487576-1962409987_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "13a6f635-1a3e-4a5c-97f5-1952300ea0a7",
+    "ccn": "313032",
+    "hospital_name": "KESSLER INSTITUTE FOR REHABILITATION",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/22-3486125_Kessler_Institute_for_Rehabilitation-Marlton_standardcharges.csv",
+    "transparency_page": "https://www.kessler-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "7ec9200b-763d-4bad-9630-6cd39fcb196a",
+    "ccn": "",
+    "hospital_name": "KESSLER INSTITUTE FOR REHABILITATION - CHESTER",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/22-3486125_Kessler_Institute_for_Rehabilitation-Chester_standardcharges.csv",
+    "transparency_page": "https://www.kessler-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "e99d94ea-7f55-49fe-b60f-ed4369647c6b",
+    "ccn": "",
+    "hospital_name": "KESSLER INSTITUTE FOR REHABILITATION - SADDLE BROOK",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/22-3486125_Kessler_Institute_for_Rehabilitation-Saddlebrook_standardcharges.csv",
+    "transparency_page": "https://www.kessler-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "748fe1bd-4c20-405b-991d-da3cf1eb1cd7",
+    "ccn": "313025",
+    "hospital_name": "KESSLER INSTITUTE FOR REHABILITATION - WEST ORANGE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/22-3486125_Kessler_Institute_for_Rehabilitation-West_Orange_standardcharges.csv",
+    "transparency_page": "https://www.kessler-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "64a33776-929e-4cdc-89eb-2a6199eee84a",
+    "ccn": "",
+    "hospital_name": "K HOVNANIAN CHILDRENS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/jsumc/221487576-1679680243_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "fcf8c89e-48d6-488e-9b2c-7626c87c420d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "abaff76a-7fcc-4c67-868b-62ff5b2c605c",
+    "ccn": "312020",
+    "hospital_name": "KINDRED HOSPITAL - NEW JERSEY - MORRIS COUNTY",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=yvbe4*_*SHOtnhvaoCPcVRWA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=yvbe4*_*SHOtnhvaoCPcVRWA*-*"
+  },
+  {
+    "detail_id": "dbc1c7ae-02be-40e4-a057-58ceb2e8c4e2",
+    "ccn": "",
+    "hospital_name": "KINDRED HOSPITAL NEW JERSEY - RAHWAY",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=QhR*_*sda6gZGL06hyPP*__*fRA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=QhR*_*sda6gZGL06hyPP*__*fRA*-*"
+  },
+  {
+    "detail_id": "3a5667d6-076b-4a69-af35-44d3c7c88c47",
+    "ccn": "",
+    "hospital_name": "LIGHTHOUSE AT MAYS LANDING",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b364f7bc-014e-410e-94ac-45044e763dab",
+    "ccn": "",
+    "hospital_name": "LTACH CARE ONE AT HUMC PASCACK VALLEY",
+    "address": "250 OLD HOOK ROAD, FOURTH FLOOR",
+    "file_url": "https://www.care-one.com/wp-content/uploads/2023/08/LTACH_Charge_Maste.xlsx",
+    "transparency_page": "https://www.care-one.com/financial-information/"
+  },
+  {
+    "detail_id": "6cb7f893-8221-4ef9-b448-7d43992b9116",
+    "ccn": "",
+    "hospital_name": "LTACH CAREONE AT TRINITAS REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.care-one.com/wp-content/uploads/2023/08/TRMC_Charge_MasterList.xlsx",
+    "transparency_page": "https://www.care-one.com/financial-information/"
+  },
+  {
+    "detail_id": "afc8229e-d21d-49d2-aafa-13450d09dfa1",
+    "ccn": "",
+    "hospital_name": "MARYVILLE ADDICTION TREATMENT CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "83434f9a-bb54-446b-826f-72c62355ea17",
+    "ccn": "312014",
+    "hospital_name": "MATHENY",
+    "address": "",
+    "file_url": "https://matheny.org/wp-content/uploads/2025/02/Matheny_Hospital_Charges-2025.csv",
+    "transparency_page": "https://matheny.org/hospital/"
+  },
+  {
+    "detail_id": "c91b5dac-cc72-4a3e-a37d-b0f3534c04e1",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING BASKING RIDGE",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/16/131924236_memorial-hospital-for-cancer-and-allied-diseases-northern-nj_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "56f39c00-1013-4ade-89dc-40b9f1f9194a",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING BERGEN",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/16/131924236_memorial-hospital-for-cancer-and-allied-diseases-northern-nj_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "d954aa68-2add-4c6b-af54-bfacbdcb34af",
+    "ccn": "",
+    "hospital_name": "MEMORIAL SLOAN KETTERING MONMOUTH",
+    "address": "",
+    "file_url": "https://www.mskcc.org/hpt/11/131924236_memorial-hospital-for-cancer-and-allied-monmouth-nj_standardcharges.json",
+    "transparency_page": "https://www.mskcc.org/insurance-assistance/understanding-cost-your-care-msk/download"
+  },
+  {
+    "detail_id": "9937cf26-e5bb-4975-9114-8f945993f576",
+    "ccn": "310075",
+    "hospital_name": "MONMOUTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/223452412_monmouth-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/monmouth-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "2b54ddab-caef-418f-b321-eb0ec4e2c2f1",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "49f147fd-3c26-4588-81c2-3159ef95ca06",
+    "ccn": "310015",
+    "hospital_name": "MORRISTOWN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_morristown-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "46d33787-1626-411d-8ed5-2265b535d77f",
+    "ccn": "310002",
+    "hospital_name": "NEWARK BETH ISRAEL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/MRF/223452311_newark-beth-israel-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/newark-beth-israel-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "5de46da2-b108-49e3-8dc7-322d9cff0a26",
+    "ccn": "310028",
+    "hospital_name": "NEWTON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_newton-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "f7efdca0-3ff8-407d-8fe1-e80bedf8cfc0",
+    "ccn": "314018",
+    "hospital_name": "NORTHBROOK BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://northbrookbhh.com/wp-content/uploads/2025/10/cms-hpt.csv",
+    "transparency_page": "https://northbrookbhh.com/price-transparency/"
+  },
+  {
+    "detail_id": "e8caea7c-4ae6-466e-a051-380544a37d8d",
+    "ccn": "310052",
+    "hospital_name": "OCEAN UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/oumc/221487576-1962409987_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "285075f1-405b-4d9f-b1cb-282fc362f2e0",
+    "ccn": "",
+    "hospital_name": "OLD BRIDGE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/rbmc/221487576-1770569832_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "dd68f1c0-8759-47a9-a20d-705b4a1be7ad",
+    "ccn": "310051",
+    "hospital_name": "OVERLOOK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ahs.atlantichealth.org/content/dam/atlantichealth-v2/insurance/price-transparency/52-1958352_overlook-medical-center_standardcharges.csv",
+    "transparency_page": "https://ahs.atlantichealth.org/patients-visitors/financial-information/insurance/out-network-insurance.html"
+  },
+  {
+    "detail_id": "26bf17fd-05ff-49e0-9f03-3e76fe43a506",
+    "ccn": "310003",
+    "hospital_name": "PALISADES MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/pmc/221487576-1093736001_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "e13bcc50-2208-4f79-8469-15d59b8d0ead",
+    "ccn": "310010",
+    "hospital_name": "PENN MEDICINE PRINCETON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www1.pennmedicine.org/images/pricing/210635009_Penn-Medicine-Princeton-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.pennmedicine.org/for-patients-and-visitors/patient-information/insurance-and-billing/financial-transparency"
+  },
+  {
+    "detail_id": "0fe69dc4-a635-4ad6-ba36-c622a3bf10a3",
+    "ccn": "312025",
+    "hospital_name": "PERTH AMBOY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/rbmc/221487576-1770569832_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "41fcfdba-7dda-4d2a-9a1f-839e1a2833bb",
+    "ccn": "",
+    "hospital_name": "PRINCETON HOUSE BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://www1.pennmedicine.org/images/pricing/210635009_Penn-Medicine-Princeton-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.pennmedicine.org/for-patients-and-visitors/patient-information/insurance-and-billing/financial-transparency"
+  },
+  {
+    "detail_id": "df95bccb-0421-405f-b381-6d36995d6c78",
+    "ccn": "314019",
+    "hospital_name": "RAMAPO RIDGE BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "d50ea2ab-a813-4f2b-962c-15963eeabde4",
+    "ccn": "310034",
+    "hospital_name": "RIVERVIEW MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hackensackmeridianhealth.org/-/media/project/hmh/hmh/public/files/cdm/20250101/rmc/221487576-1760599336_hackensack-meridian-health_standardcharges.csv",
+    "transparency_page": "https://www.hackensackmeridianhealth.org/en/pay-bill/price-transparency"
+  },
+  {
+    "detail_id": "6b1b9ee0-aea0-44b9-96f8-148d0ad79415",
+    "ccn": "310038",
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487243_Robert-Wood-Johnson-University-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/rwj-university-hospital-new-brunswick/billing/charges/"
+  },
+  {
+    "detail_id": "0cbbf634-6e84-4482-aa9f-c762be0abdb7",
+    "ccn": "310024",
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL AT RAHWAY",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487305_Robert-Wood-Johnson-University-Hospital-Rahway_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/rwj-university-hospital-rahway/billing/charges/"
+  },
+  {
+    "detail_id": "a937a945-3481-4807-aa28-d8db95adedb1",
+    "ccn": "310110",
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL HAMILTON",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/210634572_Robert-Wood-Johnson-University-Hospital-Hamilton_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/rwj-university-hospital-hamilton/billing/charges/"
+  },
+  {
+    "detail_id": "4495279e-5667-46c3-8b06-beef5c387d68",
+    "ccn": "310048",
+    "hospital_name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/221487243_Robert-Wood-Johnson-University-Hospital-Somerset_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/rwj-university-hospital-somerset/billing/charges/"
+  },
+  {
+    "detail_id": "6d2bf6b1-4fd3-4d96-90ca-1b62dbadb1e7",
+    "ccn": "314011",
+    "hospital_name": "RUTGERS HEALTH UNIVERSITY BEHAVIORAL HEALTHCARE",
+    "address": "",
+    "file_url": "https://ubhc.rutgers.edu/documents/About%20Us/221980408_Rutgers-UBHC_standard%20charges.csv",
+    "transparency_page": "https://ubhc.rutgers.edu/about-us/patient-information/patient-financial-information.xml"
+  },
+  {
+    "detail_id": "f600619b-908c-4896-bbaa-0e81dae8f30a",
+    "ccn": "314022",
+    "hospital_name": "RWJBARNABAS HEALTH BEHAVIORAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/222977312_Saint-Barnabas-Behavioral-Health-Center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/treatment-care/mental-health-and-behavioral-health/billing/charges/"
+  },
+  {
+    "detail_id": "2c05b25d-b82f-4709-be58-daa42697eb67",
+    "ccn": "",
+    "hospital_name": "SAINT CLARE’S BEHAVIORAL HEALTH BOONTON",
+    "address": "",
+    "file_url": "https://saintclares.com/wp-content/uploads/2024/12/463483967_SaintClaresHealth_standardcharges.json",
+    "transparency_page": "https://saintclares.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "1a89a295-6afc-4f9f-9958-1cfb0465190c",
+    "ccn": "310067",
+    "hospital_name": "SAINT CLARES DOVER HOSPITAL",
+    "address": "",
+    "file_url": "https://saintclares.com/wp-content/uploads/2024/12/463483967_SaintClaresHealth_standardcharges.json",
+    "transparency_page": "https://saintclares.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "ce9c3697-0005-4435-86de-e1eef2684420",
+    "ccn": "310050",
+    "hospital_name": "SAINT CLARES HOSPITAL - DENVILLE",
+    "address": "",
+    "file_url": "https://saintclares.com/wp-content/uploads/2024/12/463483967_SaintClaresHealth_standardcharges.json",
+    "transparency_page": "https://saintclares.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "da5e4937-bcfa-4f3e-92c0-67d9e33199d0",
+    "ccn": "310019",
+    "hospital_name": "SAINT JOSEPHS UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8073/221487602_st-josephs-university-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/StJosephsHealth/8073"
+  },
+  {
+    "detail_id": "454cad58-88b5-4adc-a4f3-fa73ab8340e7",
+    "ccn": "",
+    "hospital_name": "SAINT LAWRENCE REHABILITATION CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "d35a4c9d-01d6-4861-98ff-fd26e146353f",
+    "ccn": "310096",
+    "hospital_name": "SAINT MICHAELS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://smmcnj.com/wp-content/uploads/2024/12/1568825545_SaintMichaelsMedicalCenter_standardcharges.json",
+    "transparency_page": "https://smmcnj.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "178bb1b5-02db-405b-9875-43e7121b84db",
+    "ccn": "310070",
+    "hospital_name": "SAINT PETERS UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://link.edgepilot.com/s/ba7296d2/YFAwusxNkUe0n1zt6kS38Q?u=https://www.saintpetershcs.com/SaintPeters/media/SaintPeters/221487330_Saint%2520Peters%2520University%2520Hospital_standard%2520charges.csv",
+    "transparency_page": "https://www.saintpetershcs.com/landing-pages/hospital-transparency"
+  },
+  {
+    "detail_id": "a756df20-3d94-446d-940d-8bfe2ecc10c6",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "9b9c068f-525c-4b96-9b73-69e09f80d4bb",
+    "ccn": "312019",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NORTHEAST NEW JERSEY",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/45-0497740_Select_Specialty_Hospital-NE_New_Jersey_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "ea0739d3-a200-4801-a48d-da0066c103a6",
+    "ccn": "310061",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL WILLINGBORO",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/86-1139477_Acuity_Specialty_Hospital-Willingboro_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "6997f18d-151a-42c6-b322-86095ef9ed2b",
+    "ccn": "310047",
+    "hospital_name": "SHORE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://shoremedical.pt.panaceainc.com/MRFDownload/shoremedical/shoremedicalcenter",
+    "transparency_page": "https://www.shoremedicalcenter.org/patients_visitors/patients/insurance"
+  },
+  {
+    "detail_id": "76867771-284b-429c-9f32-e7710d614633",
+    "ccn": "312024",
+    "hospital_name": "SILVER LAKE HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "94c6071f-9ace-4b94-bf56-39d1c11af3c2",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "ce31f122-9e3c-4bdd-a67f-c3bfd46613e1",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "642f8b3a-fc57-4f94-ad0d-5e670d9c91dd",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "53b1431c-8144-46f6-bcd6-db7b04616950",
+    "ccn": "310060",
+    "hospital_name": "ST. LUKE'S HOSPITAL - WARREN CAMPUS",
+    "address": "",
+    "file_url": "https://www.slhn.org/-/media/sluhn/billing/pdf/standard-charges/22-1494454_stlukeswarrenhospital_standardcharges.ashx",
+    "transparency_page": "https://www.slhn.org/billing/patient-billing/price-transparency"
+  },
+  {
+    "detail_id": "b619fd71-43ff-43a9-a353-f9b78bf2283f",
+    "ccn": "310006",
+    "hospital_name": "ST. MARY'S GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://smh-nj.com/wp-content/uploads/2024/12/463499370_StMarysGeneralHospital_standardcharges.json",
+    "transparency_page": "https://smh-nj.com/for-patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "a39f1b70-f6d7-4111-b4fa-708f0bc0cfc2",
+    "ccn": "314001",
+    "hospital_name": "SUMMIT OAKS HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/201021210_summit-oaks_standardcharges.csv",
+    "transparency_page": "https://summitoakshospital.com/standard-services/"
+  },
+  {
+    "detail_id": "a63810a8-011c-4137-9635-fb7bf31978d7",
+    "ccn": "310014",
+    "hospital_name": "THE COOPER UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://request.cooperhealth.org/financial/210634462_CooperUniversityHealthCare_standardcharges.csv?_gl=1*1tkrpgm*_gcl_au*MjE0NTEwMjQ2OC4xNzM2NzY5NDc1*_ga*NzU3OTQzMjc5LjE3MzY3Njk0Nzg.*_ga_Q7FC98J25G*MTczNjc2OTQ3OC4xLjEuMTczNjc2OTQ4Ni4wLjAuMA..",
+    "transparency_page": "https://www.cooperhealth.org/patients-visitors/financial-matters/chargemaster"
+  },
+  {
+    "detail_id": "2a71904e-3406-4e8f-bcfb-b49bfe6eaf8f",
+    "ccn": "310119",
+    "hospital_name": "THE UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.uhnj.org/wp-content/uploads/2025/11/221775306_UniversityHospital_StandardCharges.csv",
+    "transparency_page": "https://www.uhnj.org/patients-visitors/transparency-in-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "3b37cd2a-2b25-43a6-bbaf-bff826290ceb",
+    "ccn": "310012",
+    "hospital_name": "THE VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.valleyhealth.com/sites/default/files/pricing-transparency/221487307--Valley-Health-System--Standard-Charges--06-25-25.csv",
+    "transparency_page": "https://www.valleyhealth.com/hospital-standard-charges"
+  },
+  {
+    "detail_id": "a981c05b-d2bf-490c-996c-b4b71d09eaf9",
+    "ccn": "310027",
+    "hospital_name": "TRINITAS REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/223601678_Trinitas-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/trinitas-regional-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "64de4961-3535-4c3d-9128-5172152e56bb",
+    "ccn": "",
+    "hospital_name": "TRINITAS REGIONAL MEDICAL CENTER – NEW POINT CAMPUS",
+    "address": "",
+    "file_url": "https://www.rwjbh.org/documents/billing/mrf/223601678_Trinitas-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.rwjbh.org/trinitas-regional-medical-center/billing/charges/"
+  },
+  {
+    "detail_id": "e1c987dc-8f75-4ff2-ad63-eaf970fb28c1",
+    "ccn": "",
+    "hospital_name": "VIRTUA MARLTON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.virtua.org/-/media/Project/Virtua-Tenant/Virtua/PDFs/Hospital-Charges-2025-New/210634532_Virtua-West-Jersey-Health-System-Inc_standardcharges.csv",
+    "transparency_page": "https://www.virtua.org/"
+  },
+  {
+    "detail_id": "d4a86156-ea72-4f0c-a6c3-0ededd40ea71",
+    "ccn": "310057",
+    "hospital_name": "VIRTUA MOUNT HOLLY HOSPITAL (BURLINGTON COUNTY)",
+    "address": "",
+    "file_url": "https://www.virtua.org/-/media/Project/Virtua-Tenant/Virtua/PDFs/Hospital-Charges-2025-New/210634562_Virtua-Memorial-Hospital-Burlington-County-Inc_standardcharges.csv",
+    "transparency_page": "https://www.virtua.org/"
+  },
+  {
+    "detail_id": "2acff80a-1b33-4c39-82cd-d486b4ea403a",
+    "ccn": "310029",
+    "hospital_name": "VIRTUA OUR LADY OF LOURDES HOSPITAL",
+    "address": "",
+    "file_url": "https://www.virtua.org/-/media/Project/Virtua-Tenant/Virtua/PDFs/Hospital-Charges-2025-New/210635001_Virtua-Our-Lady-of-Lourdes-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://www.virtua.org/"
+  },
+  {
+    "detail_id": "550f8c28-8247-4bcd-aa7d-5b270484a27f",
+    "ccn": "310022",
+    "hospital_name": "VIRTUA VOORHEES HOSPITAL (WEST JERSEY)",
+    "address": "",
+    "file_url": "https://www.virtua.org/-/media/Project/Virtua-Tenant/Virtua/PDFs/Hospital-Charges-2025-New/210634532_Virtua-West-Jersey-Health-System_standardcharges.csv",
+    "transparency_page": "https://www.virtua.org/"
+  },
+  {
+    "detail_id": "725c0dbd-a51a-4a91-a236-10b1646e5f87",
+    "ccn": "310061",
+    "hospital_name": "VIRTUA WILLINGBORO HOSPITAL",
+    "address": "",
+    "file_url": "https://www.virtua.org/-/media/Project/Virtua-Tenant/Virtua/PDFs/Hospital-Charges-2025-New/Willingboro/223612265_Virtua-Willingboro-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://www.virtua.org/Patients-and-Visitors/Hospital-Charges-and-Estimates"
+  },
+  {
+    "detail_id": "95b7d40f-71a3-40a4-aa17-e2fdf5dc97c1",
+    "ccn": "313302",
+    "hospital_name": "WEISMAN CHILDRENS REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "detail_id": "d1527331-3570-46d0-991b-11ad4efee18c",
+    "ccn": "070024",
+    "hospital_name": "BACKUS HOSPITAL",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060250773_the_william_w_backus_hospital_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "f4ea4772-d848-4f1a-b7a8-671efe2e6eea",
+    "ccn": "070010",
+    "hospital_name": "BRIDGEPORT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bridgeporthospital.org/-/media/Files/YNHHS/sc/06-0646554-Bridgeport-Hospital_standard_charges-2.ashx",
+    "transparency_page": "https://www.bridgeporthospital.org/patients-visitors/billing-insurance/Pricing"
+  },
+  {
+    "detail_id": "16c11acd-31a0-4169-8d29-4cb2cfff4949",
+    "ccn": "",
+    "hospital_name": "BRIDGEPORT HOSPITAL MILFORD CAMPUS",
+    "address": "",
+    "file_url": "https://www.bridgeporthospital.org/-/media/Files/YNHHS/sc/06-0646554-Bridgeport-Hospital_standard_charges-2.ashx",
+    "transparency_page": "https://www.bridgeporthospital.org/patients-visitors/billing-insurance/Pricing"
+  },
+  {
+    "detail_id": "4b53c4f4-a18a-406f-ae54-280b45e5aa5b",
+    "ccn": "070029",
+    "hospital_name": "BRISTOL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7807/060646559_bristol-hospital%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/bristolhospital/7807or"
+  },
+  {
+    "detail_id": "483ce101-d0eb-434f-8f40-db066c58aa76",
+    "ccn": "070011",
+    "hospital_name": "CHARLOTTE HUNGERFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060646678_charlotte_hungerford_hospital_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "8d4835e0-d6f5-4eee-a2d0-d6c7585ffc50",
+    "ccn": "",
+    "hospital_name": "CONNECTICUT CHILDBIRTH & WOMEN'S CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "f8cf593c-d462-4089-ba76-6fd61bc5ae59",
+    "ccn": "073300",
+    "hospital_name": "CONNECTICUT CHILDRENS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.connecticutchildrens.org/sites/default/files/2025-06/060646755_connecticutchildrensmedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.connecticutchildrens.org/patients-families/financial-services/pricing-transparency-and-estimates"
+  },
+  {
+    "detail_id": "a8903f9f-1185-4327-8732-4f448048b0f8",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c5baace8-1067-49d4-90f3-bb094cd5207f",
+    "ccn": "070003",
+    "hospital_name": "DAY KIMBALL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.daykimball.org/_files/public/060646599_day-kimball-healthcare_standardcharges.xlsx",
+    "transparency_page": "https://www.daykimball.org/resources/billing-and-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "0688a357-03df-4d71-85bc-07310666e284",
+    "ccn": "072003",
+    "hospital_name": "GAYLORD HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8046/060646649_gaylord-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GaylordHospital/8046"
+  },
+  {
+    "detail_id": "f9622dd2-ba3a-41eb-af83-19df70a281a2",
+    "ccn": "070018",
+    "hospital_name": "GREENWICH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.greenwichhospital.org/-/media/Files/YNHHS/sc/06-0646659-Greenwich_Hospital_Standard_Charges-1.ashx",
+    "transparency_page": "https://www.greenwichhospital.org/patients-visitors/billing-insurance/Pricing"
+  },
+  {
+    "detail_id": "3b88c438-6326-4e6d-a11f-cb42713c7069",
+    "ccn": "070031",
+    "hospital_name": "GRIFFIN HOSPITAL",
+    "address": "",
+    "file_url": "https://griffinhealth.pt.panaceainc.com/MRFDownload/griffinhealth/griffinhealth",
+    "transparency_page": "https://www.griffinhealth.org/griffin-hospital/billing-insurance/cms-hospital-price-transparency/"
+  },
+  {
+    "detail_id": "3a3eae16-d686-4842-a7e7-e6cd2d4a0b37",
+    "ccn": "070025",
+    "hospital_name": "HARTFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060646668_hartford_hospital_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "5a6ebf92-6bfa-47f7-96c7-305bff8b0db0",
+    "ccn": "070040",
+    "hospital_name": "HEBREW HOME AND HOSPITAL INC",
+    "address": "",
+    "file_url": "https://www.hebrewhealthcare.org/060646672_hebrew-home-and-hospital,-inc_standardcharges.csv",
+    "transparency_page": "https://www.hebrewhealthcare.org/price-transparency"
+  },
+  {
+    "detail_id": "ea0352d6-b758-41eb-817d-47f99b41ac0f",
+    "ccn": "072004",
+    "hospital_name": "HOSPITAL FOR SPECIAL CARE",
+    "address": "",
+    "file_url": "https://secure.claraprice.net/price-transparency/EDXA-1712339327696/machine-readable/060646766_hospital-for-special-care_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/hospital-for-special-care"
+  },
+  {
+    "detail_id": "5ef44e4e-8daf-49f1-aa3a-2b36cf99382f",
+    "ccn": "",
+    "hospital_name": "HSS STAMFORD",
+    "address": "",
+    "file_url": "https://d2cg6hcwj0g0z0.cloudfront.net/131624135-1821402306_ny-society-for-the-relief-of-ruptured-and-crippled-maintaing-the-hospital-for-special-surgery_standardcharges.json",
+    "transparency_page": "https://www.hss.edu/price-transparency.asp"
+  },
+  {
+    "detail_id": "e1a1dc46-17a2-4f1b-99fb-7e4c0f525d5d",
+    "ccn": "070008",
+    "hospital_name": "JOHNSON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/johnsonmemorialhospital",
+    "transparency_page": "https://www.trinityhealthofne.org/for-patients/billing-and-financial-resources/price-estimates-lists"
+  },
+  {
+    "detail_id": "d9e5deac-71bc-431a-9af2-c2bfa83de198",
+    "ccn": "070007",
+    "hospital_name": "LAWRENCE + MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.lmhospital.org/-/media/Files/YNHHS/sc/060646704-LawrenceMemorialHospitalstandardcharges011025.ashx",
+    "transparency_page": "https://www.lmhospital.org/patients-visitors/patients/billing-insurance/Pricing"
+  },
+  {
+    "detail_id": "4af4dbd7-adf5-4736-886e-9a21cc293887",
+    "ccn": "070027",
+    "hospital_name": "MANCHESTER MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7925/812216981_prospect-medical-holdings-manchester_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ManchesterMemorialHospital/7925"
+  },
+  {
+    "detail_id": "1927c527-4571-43b8-b37b-175ecd402b74",
+    "ccn": "074016",
+    "hospital_name": "MASONICARE HEALTH CENTER",
+    "address": "",
+    "file_url": "https://www.masonicare.org/download_file/view/1743/1",
+    "transparency_page": "https://www.masonicare.org/price-transparency"
+  },
+  {
+    "detail_id": "84669727-8187-47ae-934f-8d89ee79f020",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b401600f-e345-4b31-901f-5b5f67f74363",
+    "ccn": "070017",
+    "hospital_name": "MIDSTATE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060646715_midstate_medical_center_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "ae396b19-0eb0-45f5-9cce-cdc02e0cc219",
+    "ccn": "073025",
+    "hospital_name": "MOUNT SINAI REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mountsinai-rehabilitationhospital",
+    "transparency_page": "https://www.trinityhealthofne.org/for-patients/billing-and-financial-resources/price-estimates-lists"
+  },
+  {
+    "detail_id": "8a1148b8-6efb-4049-917f-1d1cd25df8cd",
+    "ccn": "074008",
+    "hospital_name": "NATCHAUG HOSPITAL",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060966963_natchaug_hospital_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "5118bb49-1f00-4fcb-bc69-66cad18f9907",
+    "ccn": "070015",
+    "hospital_name": "NEW MILFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.nuvancehealth.org/sites/default/files/PDF%20Files/Billing%20and%20insurance/Standard%20Charge%20File/January2025/060646597_danbury-hospital_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "9dcc812c-5df3-48f7-8e01-01551e3fbcaf",
+    "ccn": "070034",
+    "hospital_name": "NORWALK HOSPITAL",
+    "address": "",
+    "file_url": "https://www.nuvancehealth.org/-/media/pdf-files/billing-and-insurance/standard-charge-file/january2025/066068853_norwalk-hospital_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "0f8ec227-2efd-4a5c-a270-057e0be188de",
+    "ccn": "070012",
+    "hospital_name": "ROCKVILLE GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7926/812229999_prospect-medical-holdings-rockville_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RockvilleGeneralHospital/7926"
+  },
+  {
+    "detail_id": "07e93d76-2870-489a-a17b-ece636f140a0",
+    "ccn": "070016",
+    "hospital_name": "SAINT MARYS HOSPITAL",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/saintmaryshospital",
+    "transparency_page": "https://www.trinityhealthofne.org/for-patients/billing-and-financial-resources/price-estimates-lists"
+  },
+  {
+    "detail_id": "ad6b2d97-8e26-4f70-89ad-493b94d63876",
+    "ccn": "070004",
+    "hospital_name": "SHARON HOSPITAL",
+    "address": "50 HOSPITAL HILL ROAD, PO BOX 789",
+    "file_url": "https://www.nuvancehealth.org/-/media/pdf-files/billing-and-insurance/standard-charge-file/january-2025/815056290_sharon-hospital_standardcharges.csv",
+    "transparency_page": "https://www.nuvancehealth.org/patients-and-visitors/billing-and-insurance/price-transparency-and-cost-estimator-tools"
+  },
+  {
+    "detail_id": "2ee89743-c0af-4284-934c-aead13e63939",
+    "ccn": "074014",
+    "hospital_name": "SILVER HILL HOSPITAL",
+    "address": "",
+    "file_url": "https://silverhillhospital.org/wp-content/uploads/2025/10/060655139_silverhill_standardcharges-2-2.csv-1.zip",
+    "transparency_page": "https://silverhillhospital.org/resources/#price_transparency"
+  },
+  {
+    "detail_id": "f70c2627-6897-4621-a66b-51bfa39511a2",
+    "ccn": "070006",
+    "hospital_name": "STAMFORD HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "2543fa7f-240e-411c-9adc-276e0c71d924",
+    "ccn": "070002",
+    "hospital_name": "ST FRANCIS HOSPITAL AND MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/saintfrancishospitalandmedicalcenter",
+    "transparency_page": "https://www.trinityhealthofne.org/for-patients/billing-and-financial-resources/price-estimates-lists"
+  },
+  {
+    "detail_id": "52f81edd-dfc3-4c75-ba7f-a7771d145454",
+    "ccn": "070028",
+    "hospital_name": "ST VINCENT'S MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/832550272_st_vincents_medical_center_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "f9657738-a607-466c-8fd6-65f0679399b3",
+    "ccn": "070035",
+    "hospital_name": "THE HOSPITAL OF CENTRAL CONNECTICUT",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060646768_the_hospital_of_central_connecticut_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "8fd5ea81-818f-4f34-8b90-d886df6d193d",
+    "ccn": "070036",
+    "hospital_name": "UCONN JOHN DEMPSEY HOSPITAL",
+    "address": "",
+    "file_url": "https://uconnhealth.pt.panaceainc.com/MRFDownload/uconnhealth/uconnhealth",
+    "transparency_page": "https://www.uconnhealth.org/patients-visitors/patient-resources/billing-costs-insurance/price-transparency"
+  },
+  {
+    "detail_id": "7f99a86a-a9c0-4d90-b333-89423c1024c9",
+    "ccn": "070005",
+    "hospital_name": "WATERBURY HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7914/812181470_prospect-medical-holdings-waterbury_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/WaterburyHospital/7914"
+  },
+  {
+    "detail_id": "bf01db82-02af-4099-8f26-4d655f7a5ee0",
+    "ccn": "070021",
+    "hospital_name": "WINDHAM HOSPITAL",
+    "address": "",
+    "file_url": "https://hartfordhealthcare.org/file%20library/price%20data/060646966_windham_community_memorial_hospital_standardcharges.csv",
+    "transparency_page": "https://hartfordhealthcare.org/patients-visitors/patients/price-transparency"
+  },
+  {
+    "detail_id": "1a7cfbca-19c5-43dc-9bea-2ada0aa9d9ce",
+    "ccn": "070022",
+    "hospital_name": "YALE-NEW HAVEN HOSPITAL",
+    "address": "",
+    "file_url": "https://www.ynhh.org/-/media/Files/YNHHS/sc/06-0646652-Yale_New_Haven_Hospital_Standard_Charges011025.ashx",
+    "transparency_page": "https://www.ynhh.org/patients-visitors/billing-insurance/Pricing"
+  },
+  {
+    "detail_id": "285a2f68-12a3-470d-929b-d3cb35c3865b",
+    "ccn": "070001",
+    "hospital_name": "YALE-NEW HAVEN HOSPITAL SAINT RAPHAEL CAMPUS",
+    "address": "",
+    "file_url": "https://www.ynhh.org/-/media/Files/YNHHS/sc/06-0646652-Yale_New_Haven_Hospital_Standard_Charges011025.ashx",
+    "transparency_page": "https://www.ynhh.org/patients-visitors/billing-insurance/Pricing"
+  }
+]

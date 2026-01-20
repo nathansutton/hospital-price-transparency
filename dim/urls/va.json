@@ -1,0 +1,986 @@
+[
+  {
+    "detail_id": "e0b4f6f7-7457-451c-92ac-c024bbf8aefc",
+    "ccn": "490018",
+    "hospital_name": "AUGUSTA HEALTH-MAIN CAMPUS",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=d6jdJrXuX3vgSYRgOlRq3w*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?ci=tQuNGFUGKfdE3M8txOi1*__*w*-*"
+  },
+  {
+    "detail_id": "75b660d0-6496-4f64-b58c-59a777de0ab9",
+    "ccn": "491300",
+    "hospital_name": "BATH COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://bathhospital.org/wp-content/uploads/2025/07/540505913_bath-county-community-hospital_standardcharges.csv",
+    "transparency_page": "https://bathhospital.org/patient-resources/financial-services/understanding-pricing/"
+  },
+  {
+    "detail_id": "fb3c69b5-9fe9-45d0-800c-8536c1b194fb",
+    "ccn": "",
+    "hospital_name": "BON SECOURS HEALTH CENTER AT HARBOUR VIEW",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/991888617_harbour-view-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "217f20ba-4bd3-4af9-a92e-d97dba2439f4",
+    "ccn": "490041",
+    "hospital_name": "BON SECOURS MARY IMMACULATE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/540548200_mary-immaculate_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "98a545e6-aa4e-4c3b-afcc-4bb65ea14d5a",
+    "ccn": "490017",
+    "hospital_name": "BON SECOURS MARYVIEW MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/540506463_maryview-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "acb9c7b6-4d48-4341-86c9-4c9b722d0f1f",
+    "ccn": "490069",
+    "hospital_name": "BON SECOURS MEMORIAL REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/541744931_memorial-regional_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "f140b920-5d42-4888-826c-708c04048bac",
+    "ccn": "491308",
+    "hospital_name": "BON SECOURS RAPPAHANNOCK GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/237424835_chesapeake-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "e4d27764-8dd2-4502-8bc9-43a94814d608",
+    "ccn": "490094",
+    "hospital_name": "BON SECOURS RICHMOND COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/540647482_richmond_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "61967b61-b59f-4825-ac94-993acc60ba2e",
+    "ccn": "490092",
+    "hospital_name": "BON SECOURS SOUTHAMPTON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/843041473_bon-secours-mercy-health-franklin-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "9146a1c5-60ac-463d-802d-ba576bde3cd1",
+    "ccn": "490097",
+    "hospital_name": "BON SECOURS SOUTHERN VIRGINIA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/843065045_bon-secours-mercy-health-emporia-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "00117837-839b-4714-98d0-4395a91d8d9a",
+    "ccn": "490067",
+    "hospital_name": "BON SECOURS SOUTHSIDE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/843050337_bon-secours-mercy-health-petersburg-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "ff502f92-1f61-4f00-9fdd-293996159d19",
+    "ccn": "490136",
+    "hospital_name": "BON SECOURS ST. FRANCIS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/311716973_bon-secours-st-francis-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "cb357a1b-6388-4f83-b05a-da326a59bdbf",
+    "ccn": "490059",
+    "hospital_name": "BON SECOURS ST MARYS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bonsecours.com/-/media/bon-secours/patients-and-visitors/corporate/pricing/540793767_st-marys_standardcharges.ashx",
+    "transparency_page": "https://www.bonsecours.com/patient-resources/estimate-your-cost"
+  },
+  {
+    "detail_id": "0e06868a-35d2-4a0a-8325-eee1f3e67555",
+    "ccn": "490127",
+    "hospital_name": "BUCHANAN GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bgh.org/docs/540895648_buchanan-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bgh.org/getpage.php?name=Pricing_Transparency&sub=Patients%20and%20Visitors"
+  },
+  {
+    "detail_id": "e07e8234-ad41-4155-b325-cad922943170",
+    "ccn": "490089",
+    "hospital_name": "CARILION FRANKLIN MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/540480606_carilion-franklin-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing"
+  },
+  {
+    "detail_id": "f0d8a84a-50ae-4b37-9185-cfbf34338fdb",
+    "ccn": "491302",
+    "hospital_name": "CARILION GILES COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/540549603_carilion-giles-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing"
+  },
+  {
+    "detail_id": "2fafc56b-baea-42cf-8663-dae26404cd05",
+    "ccn": "490042",
+    "hospital_name": "CARILION NEW RIVER VALLEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/540553805_carilion-new-river-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing"
+  },
+  {
+    "detail_id": "3dcb10f5-33cc-48fe-aecf-1b1ebbb79154",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "de573148-91c7-483f-92ff-457dca73af3c",
+    "ccn": "490024",
+    "hospital_name": "CARILION ROANOKE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/540506332_carilion-roanoke-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing#price-estimates"
+  },
+  {
+    "detail_id": "8bb0fc64-be9c-4e42-8017-668f4e20675a",
+    "ccn": "491304",
+    "hospital_name": "CARILION ROCKBRIDGE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/540568001_carilion-rockbridge-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing#price-estimates"
+  },
+  {
+    "detail_id": "a22f000b-08af-4c29-9417-ece289b146f1",
+    "ccn": "490117",
+    "hospital_name": "CARILION TAZEWELL COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.carilionclinic.org/546074580_carilion-tazewell-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.carilionclinic.org/pricing"
+  },
+  {
+    "detail_id": "a27ffe0e-76ea-44e6-8d71-6efba481eb5f",
+    "ccn": "490088",
+    "hospital_name": "CENTRA BEDFORD MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.centrahealth.com/sites/default/files/2023-12/540566100_BedfordMemorialHospital_standardcharges.csv",
+    "transparency_page": "https://www.centrahealth.com/price-transparency"
+  },
+  {
+    "detail_id": "15e1f04b-3a58-4cc5-8d67-a8aec318f63c",
+    "ccn": "490021",
+    "hospital_name": "CENTRA LYNCHBURG GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.centrahealth.com/sites/default/files/2023-12/540715569_LynchburgGeneralHospital_standardcharges.csv",
+    "transparency_page": "https://www.centrahealth.com/price-transparency"
+  },
+  {
+    "detail_id": "e618c630-65af-4be8-a5b2-f65e4132e6a0",
+    "ccn": "490090",
+    "hospital_name": "CENTRA SOUTHSIDE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.centrahealth.com/sites/default/files/2023-12/540555201_SouthsideCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.centrahealth.com/price-transparency"
+  },
+  {
+    "detail_id": "fd6072d9-2a42-4984-a185-69c5059b9b71",
+    "ccn": "492010",
+    "hospital_name": "CENTRA SPECIALTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.centrahealth.com/sites/default/files/2023-12/204712023_CentraSpecialtyHospital_standardcharges.csv",
+    "transparency_page": "https://www.centrahealth.com/price-transparency"
+  },
+  {
+    "detail_id": "fa3747ce-0525-4126-b7d7-535382e78aad",
+    "ccn": "",
+    "hospital_name": "CENTRA VIRGINIA BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.centrahealth.com/sites/default/files/2023-12/540715569_VirginiaBaptistHospital_standardcharges.csv",
+    "transparency_page": "https://www.centrahealth.com/price-transparency"
+  },
+  {
+    "detail_id": "bd155e4e-38de-4db7-a293-b2108a034b28",
+    "ccn": "490120",
+    "hospital_name": "CHESAPEAKE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://chesapeakeregional.com/sites/default/files/2025-07/237133975_chesapeake-general-hospital_standardcharges.csv",
+    "transparency_page": "https://chesapeakeregional.com/patients-visitors/billing-insurance"
+  },
+  {
+    "detail_id": "4bfc96e2-c40b-4c5c-8420-100ef4f9ef04",
+    "ccn": "",
+    "hospital_name": "CHILDREN'S HOSPITAL OF RICHMOND AT VCU (BROOK ROAD)",
+    "address": "",
+    "file_url": "https://vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcumedicalcenter",
+    "transparency_page": "https://www.vcuhealth.org/locations/vcu-medical-center/price-transparency/"
+  },
+  {
+    "detail_id": "d8542e92-477d-4206-8e57-dcc1fc6c5790",
+    "ccn": "493301",
+    "hospital_name": "CHILDREN'S HOSPITAL OF THE KINGS DAUGHTERS",
+    "address": "",
+    "file_url": "https://www.chkd.org/media/5yhlxvtl/540506321_childrens-hospital-of-the-kings-daughters_standardcharges.csv",
+    "transparency_page": "https://www.chkd.org/patient-family-resources/billing-and-insurance/understanding-medical-costs/price-transparency/"
+  },
+  {
+    "detail_id": "7b646b41-604f-4001-bc62-f31766894263",
+    "ccn": "",
+    "hospital_name": "CHILDREN'S HOSPITAL OF THE KING'S DAUGHTERS - CHILDREN'S PAVILION",
+    "address": "",
+    "file_url": "https://www.chkd.org/media/5yhlxvtl/540506321_childrens-hospital-of-the-kings-daughters_standardcharges.csv",
+    "transparency_page": "https://www.chkd.org/patient-family-resources/billing-and-insurance/understanding-medical-costs/price-transparency/"
+  },
+  {
+    "detail_id": "cc5854d0-641e-4d6f-9179-b92ecbd3ddd3",
+    "ccn": "490060",
+    "hospital_name": "CLINCH VALLEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.clinchvalleyhealth.com/docs/clinchvalleyhealthlibraries/hcl/mrf2q25/541058953_clinch-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.clinchvalleyhealth.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "1383512d-f3ec-4402-95f6-a2b74be33b7f",
+    "ccn": "493300",
+    "hospital_name": "CUMBERLAND HOSPITAL FOR CHILDREN AND ADOLESCENTS",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/020567575_cumberland-hospital_standardcharges.csv",
+    "transparency_page": "https://cumberlandhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "3947e0ac-670d-4736-a7bb-2a5f02143c1b",
+    "ccn": "491303",
+    "hospital_name": "DICKENSON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/770599553_DICKENSON-COMMUNITY-HOSPITAL,-INC._standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "4ef8bf38-91db-4480-a414-420e1b667602",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "65e59c42-f426-4949-a5fa-9c571e1d3bd4",
+    "ccn": "493032",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FREDERICKSBURG",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/20-0949793_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Fredericksburg_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/fredericksburgrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "cd981ac3-9f06-4f0b-a1a7-e13ac940ad27",
+    "ccn": "493033",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NORTHERN VIRGINIA",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/26-1159764_encompass-health-rehabilitation-hospital-of-northern-virginia_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/northernvirginiarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "aee6b413-2527-4663-9527-8592038e2289",
+    "ccn": "493031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF PETERSBURG",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/20-0948362_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Petersburg_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/petersburgrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "d9e326cb-e77c-4d23-83a8-559c4cea15a4",
+    "ccn": "493028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF RICHMOND",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/23-2655290_encompass-health-rehabilitation-hospital-of-richmond_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/richmondrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "7c51ca49-127b-4eee-a8d6-299967616e3d",
+    "ccn": "490023",
+    "hospital_name": "FAUQUIER HOSPITAL",
+    "address": "",
+    "file_url": "https://www.fauquierhealth.org/docs/fauquierhealthlibraries/hcl/mrf2q25/463107896_fauquier-health_standardcharges.csv",
+    "transparency_page": "https://www.fauquierhealth.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "4d72b4cf-3e0f-42aa-a4a9-87fdbb1165aa",
+    "ccn": "490112",
+    "hospital_name": "HCA CHIPPENHAM HOSPITAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/54-1779911_CHIPPENHAM-HOSPITAL_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "13973a3b-f4fa-4cae-907e-96c876795baa",
+    "ccn": "490107",
+    "hospital_name": "HCA RESTON HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/977c855a86684e33923858d0335f1e99?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "6c627966-fca5-4bbb-bbaa-267e791f0a22",
+    "ccn": "490118",
+    "hospital_name": "HENRICO DOCTORS' HOSPITAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113733_HENRICO-DOCTORS-HOSPITAL---FOREST_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d7cd3e48-2a8d-46e0-8ebe-c745ffc59714",
+    "ccn": "490040",
+    "hospital_name": "INOVA ALEXANDRIA HOSPITAL",
+    "address": "",
+    "file_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2025/june-2025/csv/540620889_inova-alexandria-hospital_standardcharges.csv",
+    "transparency_page": "https://www.inova.org/patient-and-visitor-information/hospital-charges"
+  },
+  {
+    "detail_id": "38f5b6d8-1baf-4341-a49f-13bff01662b4",
+    "ccn": "490063",
+    "hospital_name": "INOVA FAIRFAX HOSPITAL",
+    "address": "",
+    "file_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2025/june-2025/csv/540620889_inova-fairfax-hospital_standardcharges.csv",
+    "transparency_page": "https://www.inova.org/patient-and-visitor-information/hospital-charges"
+  },
+  {
+    "detail_id": "87a493d7-7ade-4cbb-b576-77f356fe5de1",
+    "ccn": "490101",
+    "hospital_name": "INOVA FAIR OAKS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2025/june-2025/csv/540620889_inova-fair-oaks-hospital_standardcharges.csv",
+    "transparency_page": "https://www.inova.org/patient-and-visitor-information/hospital-charges"
+  },
+  {
+    "detail_id": "24e8b27d-9f72-4457-8dca-420e5a7edb67",
+    "ccn": "490043",
+    "hospital_name": "INOVA LOUDOUN HOSPITAL",
+    "address": "",
+    "file_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2025/june-2025/csv/540620889_inova-loudoun-hospital_standardcharges.csv",
+    "transparency_page": "https://www.inova.org/patient-and-visitor-information/hospital-charges"
+  },
+  {
+    "detail_id": "59a5e7b5-3b96-48c2-b53a-bbc06dd63c3e",
+    "ccn": "490147",
+    "hospital_name": "INOVA MOUNT VERNON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2025/june-2025/csv/540620889_inova-mount-vernon-hospital_standardcharges.csv",
+    "transparency_page": "https://www.inova.org/patient-and-visitor-information/hospital-charges"
+  },
+  {
+    "detail_id": "1023e145-c5d0-48b0-9ac3-48af0718be55",
+    "ccn": "490053",
+    "hospital_name": "JOHNSTON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/540544705_JOHNSTON-MEMORIAL-HOSPITAL,-INC._standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "e9b8c8b9-4067-4743-bea7-e1a389c1401a",
+    "ccn": "",
+    "hospital_name": "JOHNSTON-WILLIS HOSPITAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/54-1779911_JOHNSTON-WILLIS-HOSPITAL_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "511be8e0-dd00-47d3-bab1-2fdc3c74c471",
+    "ccn": "",
+    "hospital_name": "KEMPSVILLE CENTER FOR BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/541465094_kempsville_standardcharges.csv",
+    "transparency_page": "https://kempsvillecbh.com/standard-services/"
+  },
+  {
+    "detail_id": "701492be-55aa-4f64-bc5b-cae597dd645c",
+    "ccn": "492001",
+    "hospital_name": "LAKE TAYLOR TRANSITIONAL CARE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.laketaylor.org/wp-content/uploads/2024/01/541453192_LakeTaylorTransitionalCareHospital_Standardcharges.csv",
+    "transparency_page": "https://www.laketaylor.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "1f0f06a6-0d2f-40bf-9b0e-895c979f14a8",
+    "ccn": "",
+    "hospital_name": "LAKEVIEW MEDICAL CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "8df41ee0-00cb-4f85-a232-77fe3e453467",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "fa85341d-59d2-4dab-9c4a-5f9d8f9cbf4c",
+    "ccn": "490126",
+    "hospital_name": "LEWISGALE HOSPITAL ALLEGHANY",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/c57687179e044e3da65b154ae7794ea6?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e9dcf14d-0cd5-4a0e-b26d-1ac753e8fb00",
+    "ccn": "490110",
+    "hospital_name": "LEWISGALE HOSPITAL MONTGOMERY",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/fd7e27188e8b4ba9a4dcbe05afed3703?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7f546d9c-d951-4d1a-8bc6-0651d905ded4",
+    "ccn": "490116",
+    "hospital_name": "LEWISGALE HOSPITAL PULASKI",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/bcfb569a9b1c4eba9bfaeb08b1bb2476?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "db3a2ba6-c058-468e-98d2-282ca6502cb7",
+    "ccn": "490048",
+    "hospital_name": "LEWISGALE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/ba27c3b6b7d64073bf70d290161047f0?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "3dfdcaba-dc1f-44b8-a097-2287fd458e50",
+    "ccn": "490114",
+    "hospital_name": "LONESOME PINE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-01/621636465_LONESOME-PINE-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "641e9d3b-056f-40ed-93bc-7c7d45088f2f",
+    "ccn": "490022",
+    "hospital_name": "MARY WASHINGTON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.marywashingtonhealthcare.com/documents/540519577_mary-washington-hospital_standardcharges.csv",
+    "transparency_page": "https://www.marywashingtonhealthcare.com/patients-visitors/cost-estimates/"
+  },
+  {
+    "detail_id": "f4df04dc-a542-447d-b280-1d0cc5382f95",
+    "ccn": "",
+    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT LAKE RIDGE",
+    "address": "",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1396176426_national-rehabilitation-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "d2a1a434-bd95-4006-97a5-bf1989709880",
+    "ccn": "",
+    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT MCLEAN",
+    "address": "",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1508932708_national-rehabilitation-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "eb46c748-3306-43d9-9cff-66570003f52f",
+    "ccn": "",
+    "hospital_name": "NORTH SPRING BEHAVIORAL HEALTHCARE",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/201215130_north-spring-behavioral-healthcare_standardcharges.csv",
+    "transparency_page": "https://northspringleesburg.com/standard-services/"
+  },
+  {
+    "detail_id": "bd982745-f82b-4396-8e2c-2cb1181cd488",
+    "ccn": "490001",
+    "hospital_name": "NORTON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-04/621636465_norton-community-hospital_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "03ea0278-84b2-4f97-b643-3ad989506916",
+    "ccn": "491307",
+    "hospital_name": "PAGE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/540551200_page-memorial-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "66f151e8-3600-4f39-ba45-7b592f89c97f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "546253d7-3c72-41b5-a3e5-7166e53181a5",
+    "ccn": "494022",
+    "hospital_name": "POPLAR SPRINGS HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200959684_poplar-springs_standardcharges.csv",
+    "transparency_page": "https://poplarsprings.com/standard-services/"
+  },
+  {
+    "detail_id": "7124be22-7f86-4c4d-9a0d-5153a589841d",
+    "ccn": "",
+    "hospital_name": "RETREAT DOCTORS' HOSPITAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113733_RETREAT-DOCTORS-HOSPITAL_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "499b1535-2aa6-4981-8d2b-d1a78be54aeb",
+    "ccn": "490143",
+    "hospital_name": "RIVERSIDE DOCTORS' HOSPITAL WILLIAMSBURG",
+    "address": "",
+    "file_url": "https://riverside.pt.panaceainc.com/MRFDownload/riverside/RDHW",
+    "transparency_page": "https://www.riversideonline.com/patients-and-visitors/paying-for-healthcare-services"
+  },
+  {
+    "detail_id": "ac921aee-2932-43c4-ad5e-ea23701835f2",
+    "ccn": "490052",
+    "hospital_name": "RIVERSIDE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://riverside.pt.panaceainc.com/MRFDownload/riverside/RRMC",
+    "transparency_page": "https://www.riversideonline.com/patients-and-visitors/paying-for-healthcare-services"
+  },
+  {
+    "detail_id": "dc90c1eb-92ef-44bc-9eae-dc68c763dcd3",
+    "ccn": "493027",
+    "hospital_name": "RIVERSIDE REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-transparency/inpatient-rehabilitation/82-1270202_Riverside_Rehabilitation_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.riverside-rehabilitation.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "59848f93-579c-4d6b-a573-ad8cb19d5f06",
+    "ccn": "490037",
+    "hospital_name": "RIVERSIDE SHORE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://riverside.pt.panaceainc.com/MRFDownload/riverside/RSMH",
+    "transparency_page": "https://www.riversideonline.com/patients-and-visitors/paying-for-healthcare-services"
+  },
+  {
+    "detail_id": "b714dda6-ad23-45ed-86fb-9b1e55f5f57e",
+    "ccn": "490130",
+    "hospital_name": "RIVERSIDE WALTER REED HOSPITAL",
+    "address": "",
+    "file_url": "https://riverside.pt.panaceainc.com/MRFDownload/riverside/RWRH",
+    "transparency_page": "https://www.riversideonline.com/patients-and-visitors/paying-for-healthcare-services"
+  },
+  {
+    "detail_id": "e6dc2abd-b4d8-4102-b07b-e32efd9c73d4",
+    "ccn": "490002",
+    "hospital_name": "RUSSELL COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-01/620476282_RUSSELL-COUNTY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "163641c4-d6c1-4dc1-9d61-f8bc6683176c",
+    "ccn": "492008",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL HAMPTON ROADS",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/74-3135196_Select_Specialty_Hospital-Hampton_Roads_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "29e331a7-9026-4242-8ed3-5d00bd686ba9",
+    "ccn": "492009",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - RICHMOND",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/37-1494333_Select_Specialty_Hospital_Richmond_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "ca69f7b1-46b0-4763-834e-a8a35088120b",
+    "ccn": "",
+    "hospital_name": "SENTARA BELLEHARBOUR",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaraobicihospitalstandardchargesxlsx-1395273",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "7a640b87-59f8-41bb-88b7-02ea30ac0af0",
+    "ccn": "490093",
+    "hospital_name": "SENTARA CAREPLEX HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaracareplexhospitalstandardchargesxlsx-1395308",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "6e5a9dac-d458-4910-8ff2-3fd72dc18721",
+    "ccn": "490013",
+    "hospital_name": "SENTARA HALIFAX REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentarahalifaxregionalhospitalstandardchargesxlsx-1395297",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "45ede35e-fddf-49c0-8664-c978190fe40f",
+    "ccn": "492007",
+    "hospital_name": "SENTARA HOSPITAL FOR EXTENDED RECOVERY",
+    "address": "600 GRESHAM DRIVE, SUITE 700",
+    "file_url": "https://www.sentara.com/Documents/h/HospitalforExtendedRecoverystandardchargesxlsx-1395257",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "ab1dc13e-6113-4c28-b911-ee3217c6a0f7",
+    "ccn": "",
+    "hospital_name": "SENTARA INDEPENDENCE",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaravirginiabeachgeneralhospitalstandardchargesxlsx-1395265",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "9663038c-d30e-40a3-90ac-0a61b0aefffe",
+    "ccn": "",
+    "hospital_name": "SENTARA LAKE RIDGE",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaranorthernvirginiamedicalcenterstandardchargesxlsx-1395275",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "2c0bda3b-0996-4d74-ab59-f0d996c5cd44",
+    "ccn": "490046",
+    "hospital_name": "SENTARA LEIGH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaraleighhospitalstandardchargesxlsx-1395299",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "7ddc831e-cb9c-441d-b6f7-05de89956653",
+    "ccn": "490077",
+    "hospital_name": "SENTARA MARTHA JEFFERSON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaramarthajeffersonhospitalstandardchargesxlsx-1395290",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "97eb2a35-af76-4f12-9b5a-cf1dfebd9559",
+    "ccn": "",
+    "hospital_name": "SENTARA MARTHA JEFFERSON OUTPATIENT CARE CENTER AT PROFFIT ROAD",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaramarthajeffersonhospitalstandardchargesxlsx-1395290",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "e70c1e61-8bbb-46fd-afbb-7cc77dcb0b97",
+    "ccn": "490007",
+    "hospital_name": "SENTARA NORFOLK GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaranorfolkgeneralhospitalstandardchargesxlsx-1395284",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "e4ce809a-6a7f-405d-b270-c2adb28d9b5e",
+    "ccn": "490113",
+    "hospital_name": "SENTARA NORTHERN VIRGINIA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaranorthernvirginiamedicalcenterstandardchargesxlsx-1395275",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "655f1257-5cca-461b-ae74-04726cfe816d",
+    "ccn": "490044",
+    "hospital_name": "SENTARA OBICI HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaraobicihospitalstandardchargesxlsx-1395273",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "a813574e-9c73-4964-ad74-75b6feb28eb3",
+    "ccn": "",
+    "hospital_name": "SENTARA PORT WARWICK",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaracareplexhospitalstandardchargesxlsx-1395308",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "84af3cff-0b2f-472c-906e-cb140e272f79",
+    "ccn": "490119",
+    "hospital_name": "SENTARA PRINCESS ANNE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentara-princess-anne-hospital_standardcharges",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "56f18972-3567-4bbd-b73f-1ce459ce7b82",
+    "ccn": "490004",
+    "hospital_name": "SENTARA RMH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentararmhmedicalcenterstandardchargesxlsx-1395259",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "1a0b7a7a-592c-447a-9a7d-20b04bb5dda6",
+    "ccn": "490057",
+    "hospital_name": "SENTARA VIRGINIA BEACH GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentaravirginiabeachgeneralhospitalstandardchargesxlsx-1395265",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "94c77dca-6ec7-47c0-9fd1-0a7cde2ef1a6",
+    "ccn": "490066",
+    "hospital_name": "SENTARA WILLIAMSBURG REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.sentara.com/Documents/s/sentarawilliamsburgregionalmedicalcenterstandardchargesxlsx-1395261",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "a654bb8b-ff3c-4a05-b019-8342d3038958",
+    "ccn": "",
+    "hospital_name": "SHELTERING ARMS INSTITUTE",
+    "address": "",
+    "file_url": "https://shelteringarmsinstitute.com/wp-content/uploads/2025/02/Price-Transparency-File-January-2025-SAI.csv",
+    "transparency_page": "https://shelteringarmsinstitute.com/patients-and-visitors/fee-schedule/"
+  },
+  {
+    "detail_id": "4b7bf6f7-27b3-441b-acb1-a5465a126497",
+    "ccn": "496754",
+    "hospital_name": "SHELTERING ARMS REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://shelteringarmsinstitute.com/wp-content/uploads/2025/02/Price-Transparency-File-January-2025-SAI.csv",
+    "transparency_page": "https://shelteringarmsinstitute.com/patients-and-visitors/fee-schedule/"
+  },
+  {
+    "detail_id": "c808d39d-5884-439d-8454-34b78e4a9e80",
+    "ccn": "490038",
+    "hospital_name": "SMYTH COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-01/540794913_SMYTH-COUNTY-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "1d0ebf4b-c2be-4f73-bbf6-283ad2a8765d",
+    "ccn": "490075",
+    "hospital_name": "SOVAH HEALTH DANVILLE",
+    "address": "",
+    "file_url": "https://www.sovahhealth.com/sites/sovah/assets/uploads/MRF2Q25/202028539_sovah-health-danville_standardcharges.csv",
+    "transparency_page": "https://www.sovahhealth.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "ce60c6bc-0cf9-4dd0-8f76-2ed0aede4247",
+    "ccn": "490079",
+    "hospital_name": "SOVAH HEALTH MARTINSVILLE",
+    "address": "",
+    "file_url": "https://www.sovahhealth.com/sites/sovah/assets/uploads/MRF2Q25/202028539_sovah-health-martinsville_standardcharges.csv",
+    "transparency_page": "https://www.sovahhealth.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "85d3bd0f-eaf9-44fc-9277-22b60369fbde",
+    "ccn": "490141",
+    "hospital_name": "SPOTSYLVANIA REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/df7c7870277547c883ececdffbecff57?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ba54d1de-617c-4381-a37f-92ad02e02392",
+    "ccn": "490140",
+    "hospital_name": "STAFFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.marywashingtonhealthcare.com/documents/134316364_stafford-hospital_standardcharges.csv",
+    "transparency_page": "https://www.marywashingtonhealthcare.com/patients-visitors/cost-estimates/"
+  },
+  {
+    "detail_id": "70ca7263-34ba-42f6-b98d-dc0f9ea44509",
+    "ccn": "",
+    "hospital_name": "ST. MARYS HOSPITAL AMBULATORY SURGERY CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "217714c6-d64b-444f-a7ed-78cd561aa235",
+    "ccn": "490145",
+    "hospital_name": "STONESPRINGS HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/b53c3e67cf004d169405281fd6d33db5?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "09df2ae6-761e-4f56-85f4-4940e734d29b",
+    "ccn": "",
+    "hospital_name": "SWIFT CREEK ER",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/54-1779911_CHIPPENHAM-HOSPITAL_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "f7c8ac26-326a-4d34-b011-8befad1a68b8",
+    "ccn": "490084",
+    "hospital_name": "TAPPAHANNOCK HOSPITAL",
+    "address": "",
+    "file_url": "https://urldefense.com/v3/__https:/vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcuhealthtappahannockhospital__;!!JqxBPMk!mOcOmC-wRsyqvW9oP8tVbu46_Pj-TZtfpAN2ZWljc3XQVbpmW8SnXp6J2Phjl4zbQ9y2D-k-Jg2ulasmQvvOh5wx$",
+    "transparency_page": "https://www.vcuhealth.org/tappahannock/billing/price-transparency/"
+  },
+  {
+    "detail_id": "069aaa8b-f1f1-4004-9390-78f38ffb293f",
+    "ccn": "494032",
+    "hospital_name": "THE PAVILION AT WILLIAMSBURG PLACE",
+    "address": "",
+    "file_url": "https://pavilionwp.com/wp-content/uploads/2025/04/54-1416559_The-Pavilion_standardcharges.csv",
+    "transparency_page": "https://pavilionwp.com/standard-services/"
+  },
+  {
+    "detail_id": "3d9aeee9-23c3-49fd-8e19-f81358bae3ae",
+    "ccn": "",
+    "hospital_name": "THE REHABILITATION HOSPITAL OF BRISTOL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/205612001rehabilitation-hospital-of-bristol-a-joint-venture-of-ballad-health-and-encompass-healthsta.csv",
+    "transparency_page": "https://encompasshealth.com/locations/bristolrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "84ff42de-532c-4b39-b228-29287b434673",
+    "ccn": "490020",
+    "hospital_name": "TRICITIES HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/6ec4d6074f5941b7ac009a0dd41b5dd8?download=true",
+    "transparency_page": "https://www.hcavirginia.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "06e02661-17b2-4654-b15f-f8379a604a51",
+    "ccn": "490115",
+    "hospital_name": "TWIN COUNTY REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tcrh.org/docs/ahtwincountyregionalhealthcarelibraries/hcl/mrf2q25/454601843_twin-county-regional_standardcharges.csv",
+    "transparency_page": "https://www.tcrh.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "57432a6d-d8e9-4e73-8d7d-41cd81f666ae",
+    "ccn": "",
+    "hospital_name": "UVA CHILDRENS",
+    "address": "",
+    "file_url": "https://uvahealth.com/sites/default/files/2024-09/546001796_university-of-virginia-medical-center_standardcharges.csv",
+    "transparency_page": "https://uvahealth.com/services/billing-insurance/pricing"
+  },
+  {
+    "detail_id": "b8446d96-d4dc-49f0-96bf-fc975c2ed282",
+    "ccn": "490019",
+    "hospital_name": "UVA CULPEPER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uvahealth.com/sites/default/files/2024-09/540622371_university-of-virginia-culpeper-medical-center_standardcharges.csv",
+    "transparency_page": "https://uvahealth.com/services/billing-insurance/pricing"
+  },
+  {
+    "detail_id": "3999ea16-8603-4038-9b75-840ba653f4b1",
+    "ccn": "493029",
+    "hospital_name": "UVA ENCOMPASS HEALTH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/72-1397571_UVA%20Encompass%20Health%20Rehabilitation%20Hospital_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/uvarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "bc643b25-af00-4b61-be42-d98673ad7380",
+    "ccn": "490144",
+    "hospital_name": "UVA HAYMARKET MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uvahealth.com/sites/default/files/2024-09/540696355_university-of-virginia-haymarket-medical-center_standardcharges_0.csv",
+    "transparency_page": "https://uvahealth.com/services/billing-insurance/pricing"
+  },
+  {
+    "detail_id": "f00dbc32-0fef-4557-96da-07336d785824",
+    "ccn": "490045",
+    "hospital_name": "UVA PRINCE WILLIAM MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://uvahealth.com/sites/default/files/2024-09/540696355_university-of-virginia-prince-william-medical-center_standardcharges_0.csv",
+    "transparency_page": "https://uvahealth.com/services/billing-insurance/pricing"
+  },
+  {
+    "detail_id": "69bbc8c0-7158-4d86-8ba0-0f0e3ef7dfec",
+    "ccn": "490009",
+    "hospital_name": "UVA UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://uvahealth.com/sites/default/files/2024-09/546001796_university-of-virginia-medical-center_standardcharges.csv",
+    "transparency_page": "https://uvahealth.com/services/billing-insurance/pricing"
+  },
+  {
+    "detail_id": "b4f4c80e-55b4-47e3-a663-9423e9b3bc6b",
+    "ccn": "491305",
+    "hospital_name": "VALLEY HEALTH SHENANDOAH MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/540490687_shenandoah-memorial-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "8b3c72db-dd6b-429a-a21a-d32d5b107c1f",
+    "ccn": "490033",
+    "hospital_name": "VALLEY HEALTH WARREN MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/540488103_warren-memorial-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "9d666fc5-08db-4b89-912c-9e7736f45cb8",
+    "ccn": "490005",
+    "hospital_name": "VALLEY HEALTH WINCHESTER MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/540505979_winchester-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "f4609baf-7706-4c4d-a1ab-f07bdf931f27",
+    "ccn": "490098",
+    "hospital_name": "VCU HEALTH COMMUNITY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://urldefense.com/v3/__https:/vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcucommunitymemorialhospital__;!!JqxBPMk!mOcOmC-wRsyqvW9oP8tVbu46_Pj-TZtfpAN2ZWljc3XQVbpmW8SnXp6J2Phjl4zbQ9y2D-k-Jg2ulasmQpq9MSH-$",
+    "transparency_page": "https://www.vcuhealth.org/community-memorial-hospital/patients-and-visitors/patient-resources/billing-and-insurance/price-transparency-and-good-faith-estimate/"
+  },
+  {
+    "detail_id": "247de05d-8843-4644-b7e0-a5e412f96048",
+    "ccn": "490032",
+    "hospital_name": "VCU MEDICAL CENTER MAIN HOSPITAL",
+    "address": "",
+    "file_url": "https://vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcumedicalcenter",
+    "transparency_page": "https://www.vcuhealth.org/locations/vcu-medical-center/price-transparency/"
+  },
+  {
+    "detail_id": "2b2629d5-7e20-4f1f-b6f4-f3d79098f735",
+    "ccn": "",
+    "hospital_name": "VCU MEDICAL CENTER WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcumedicalcenter",
+    "transparency_page": "https://www.vcuhealth.org/locations/vcu-medical-center/price-transparency/"
+  },
+  {
+    "detail_id": "ad3b72bd-8b4b-43cc-ae88-016c311936d3",
+    "ccn": "494025",
+    "hospital_name": "VIRGINIA BEACH PSYCHIATRIC CENTER",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/541414205_va-beach_standardcharges.csv",
+    "transparency_page": "https://vbpcweb.com/standard-services/"
+  },
+  {
+    "detail_id": "612515d4-7d36-46e6-b584-8085a580ab2c",
+    "ccn": "490050",
+    "hospital_name": "VIRGINIA HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://vhchealth.pt.panaceainc.com/MRFDownload/vhchealth/virginiahospitalcenter",
+    "transparency_page": "https://www.vhchealth.org/patients-visitors/billing-financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "b0543434-ec1e-4bd4-a581-5cd0fb1decba",
+    "ccn": "497058",
+    "hospital_name": "WINCHESTER REHABILITATION CENTER",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/540505979_winchester-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "8b70c893-42cf-444a-8be3-11918e698124",
+    "ccn": "490111",
+    "hospital_name": "WYTHE COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wcch.org/sites/wythe/assets/uploads/MRF2Q25/202468795_wythe-county-community_standardcharges.csv",
+    "transparency_page": "https://www.wcch.org/hospital-charges-listing"
+  }
+]

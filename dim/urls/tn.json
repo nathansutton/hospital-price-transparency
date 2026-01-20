@@ -1,0 +1,1314 @@
+[
+  {
+    "detail_id": "31346ae8-6698-4638-8ba0-1cac78e059bf",
+    "ccn": "444030",
+    "hospital_name": "ASCENSION SAINT THOMAS BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.saintthomasbehavioral.com/wp-content/uploads/pricing/2025/546/32-0530876_Cumberland-Behavioral-Health_LLC_standardcharges.csv",
+    "transparency_page": "https://www.saintthomasbehavioral.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "e6f14240-17e0-40c7-8600-99624ea3796e",
+    "ccn": "440148",
+    "hospital_name": "ASCENSION SAINT THOMAS DEKALB",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063289_saint-thomas-dekalb-hospital-llc-_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "c2b5c4a4-e259-4e04-9caf-089564e8db58",
+    "ccn": "447424",
+    "hospital_name": "ASCENSION SAINT THOMAS HICKMAN",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/581737573_saint-thomas-hickman-hospital_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "10b68a40-107e-4adf-89d7-974cedd1fe91",
+    "ccn": "440192",
+    "hospital_name": "ASCENSION SAINT THOMAS HIGHLANDS HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063406_saint-thomas-highlands-hospital-llc-_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "c240099d-d7f7-42c5-a902-cb5576174629",
+    "ccn": "440133",
+    "hospital_name": "ASCENSION SAINT THOMAS MIDTOWN HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620347580-1780778969_saint-thomas-west-hospital_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "6b56747f-95da-484c-bc43-9692c07ec2db",
+    "ccn": "440151",
+    "hospital_name": "ASCENSION SAINT THOMAS RIVER PARK HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063149_saint-thomas-river-park-hospital-llc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "6e2fd659-fe97-4db9-a5f0-a20484edae3d",
+    "ccn": "440053",
+    "hospital_name": "ASCENSION SAINT THOMAS RUTHERFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620475842_saint-thomas-rutherford-hospital_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "8cbabfce-186e-4bc8-83e4-f95bab3b450e",
+    "ccn": "",
+    "hospital_name": "ASCENSION SAINT THOMAS RUTHERFORD WESTLAWN",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620475842_saint-thomas-rutherford-hospital_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "ae4f98d2-8690-433e-9494-94fd15737a72",
+    "ccn": "440200",
+    "hospital_name": "ASCENSION SAINT THOMAS STONES RIVER HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063232_saint-thomas-stones-river-hospital-llc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "7b36023c-431a-4460-9f1e-78ac00a3902c",
+    "ccn": "441303",
+    "hospital_name": "ASCENSION SAINT THOMAS THREE RIVERS",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/261861676_humphreys-county-community-health-services-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "16f9dc58-67bf-43f6-bce0-9701e0b4e5f4",
+    "ccn": "440082",
+    "hospital_name": "ASCENSION SAINT THOMAS WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620347580-1629025648_saint-thomas-west-hospital_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "cac34a64-ffed-4e30-bbb5-cd01a57e3e16",
+    "ccn": "",
+    "hospital_name": "ASCENSION SAINT THOMAS WOMEN'S HOSPITAL AT MIDTOWN",
+    "address": "",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620347580-1780778969_saint-thomas-west-hospital_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "7c0071bf-4478-4a86-aeab-4fcbb33177ef",
+    "ccn": "440048",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/620123940_baptist-memorial-hospital_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "2376a663-e9b2-4c05-807a-2aa0127927a4",
+    "ccn": "440016",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL - CARROLL COUNTY",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/621166050_baptist-memorial-hospitalcarroll-county_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "98b2ecb6-b5a6-46f4-a1ce-ffb616ac284c",
+    "ccn": "440217",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL - COLLIERVILLE",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/620123940_baptist-memorial-hospitalcollierville_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "62ebd60f-aa4b-4d8c-95d1-b1a7ee267f12",
+    "ccn": "440222",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL FOR WOMEN",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/620123940_baptist-memorial-hospital-for-women_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "ea82b8a4-fc4e-491c-818e-1a2e2f9b9893",
+    "ccn": "440131",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL TIPTON",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/621113167_baptist-memorial-hospitaltipton_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "482a081a-62d1-4a85-8510-f15001afda3d",
+    "ccn": "440130",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL UNION CITY",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/621138045_baptist-memorial-hospitalunion-city_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "02144618-d4ae-4b8b-8c49-f14cc73ef457",
+    "ccn": "443034",
+    "hospital_name": "BAPTIST MEMORIAL REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.baptistrehab.com/docs/zirfbaptistmemorialrehabilitationhospitallibraries/aug2025/461613457_baptist-memorial-rehabilitation-hospital_standardcharges.csv",
+    "transparency_page": "https://www.baptistrehab.com/patient-experience/financial-assistance"
+  },
+  {
+    "detail_id": "61c7928f-bcb1-4201-b74b-ed7fb4be6a59",
+    "ccn": "440048",
+    "hospital_name": "BAPTIST MEMORIAL RESTORATIVE CARE HOSPITAL",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/581645396_baptist-memorial-regional-rehabilitation-services-inc_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "3abb7d12-46c2-44db-bf5d-373b77f0f1c4",
+    "ccn": "441323",
+    "hospital_name": "BIG SOUTH FORK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://bigsouthforkmc.com/wp-content/uploads/2025/08/1932646049_Big-South-Fork-Medical_StandardCharges.csv",
+    "transparency_page": "https://bigsouthforkmc.com/patient-resources/pricing-transparency/"
+  },
+  {
+    "detail_id": "b8dc443d-8d70-4fab-9237-ecbd8c7b296d",
+    "ccn": "440012",
+    "hospital_name": "BRISTOL REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-04/621636465_bristol-regional-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "e38c05fc-18cc-4433-b9b2-f5aad9c5ee86",
+    "ccn": "440091",
+    "hospital_name": "CHI MEMORIAL HOSPITAL CHATTANOOGA",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chime/sotg/finance/price-transparency/620532345_chi-memorial-hospital-chattanooga_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "650dfa16-4f13-4fe8-865d-ae5b126b9416",
+    "ccn": "",
+    "hospital_name": "CHI MEMORIAL HOSPITAL HIXSON",
+    "address": "",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chime/sotg/finance/price-transparency/620532345_chi-memorial-hospital-hixson_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "cda12e1b-29dd-4c0c-94c6-686631061703",
+    "ccn": "440057",
+    "hospital_name": "CLAIBORNE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/c85hq7wwf4mx9bqxkthpqsw/464420358_claiborne-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/claiborne/price-estimation/"
+  },
+  {
+    "detail_id": "efb79b4d-2f24-438d-af12-13dd750e1d42",
+    "ccn": "440059",
+    "hospital_name": "COOKEVILLE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.crmchealth.org/626002166_cookeville-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.crmchealth.org/pricing/"
+  },
+  {
+    "detail_id": "aee1c1f9-13e5-40ef-a694-a23b3f369fa6",
+    "ccn": "444027",
+    "hospital_name": "CREEKSIDE BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://creeksidebh.com/wp-content/uploads/2025/04/46-4567667_Creekside-Behavioral-Health_standardcharges.csv",
+    "transparency_page": "https://creeksidebh.com/price-transparency/"
+  },
+  {
+    "detail_id": "6f182067-9009-43cb-b4db-0123c05aa0b4",
+    "ccn": "444025",
+    "hospital_name": "CRESTWYN BEHAVIORAL HEALTH",
+    "address": "",
+    "file_url": "https://www.crestwynbehavioral.com/wp-content/uploads/pricing/2025/429/90-0933893_Crestwyn-Health-Group-LLC_standardcharges.csv",
+    "transparency_page": "https://www.crestwynbehavioral.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "7cc3d2b8-0257-4994-82e3-28949516d616",
+    "ccn": "440009",
+    "hospital_name": "CUMBERLAND MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/385zrqrh3hxz9rcwn8xf6cq8/620790132_cumberland-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/cumberland/price-estimation/"
+  },
+  {
+    "detail_id": "ad1372dd-985a-455b-92f5-59337115bd40",
+    "ccn": "440159",
+    "hospital_name": "DELTA SPECIALTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.deltaspecialtyhospital.com/wp-content/uploads/pricing/2025/188/62-1650705_DMC-Memphis_LLC_standardcharges.csv",
+    "transparency_page": "https://www.deltaspecialtyhospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "0a756c66-28e2-4bba-a587-996a3fb44757",
+    "ccn": "443303",
+    "hospital_name": "EAST TENNESSEE CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.etch.com/app/files/public/06fd0f51-15ed-4ab5-8a33-3db6406ac6dc/Documents/Transparency/ETCH%20Machine%20Readable%20File%207.1.24.csv",
+    "transparency_page": "https://www.etch.com/your-visit/billing-insurance/"
+  },
+  {
+    "detail_id": "fb04f313-4e29-4c68-90ae-1149c61bb544",
+    "ccn": "",
+    "hospital_name": "ENCOMPASS HEALTH PATRICIA NEAL REHABILITATION HOSPITAL FORT SANDERS",
+    "address": "1901 CLINCH AVENUE, 4TH FLOOR",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/850874009-patricia-neal-rehabilitation-hospital-fort-sanders-standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/knoxvillerehab-fortsanders/transparency-healthcare"
+  },
+  {
+    "detail_id": "d9f12f79-437a-4ae3-bf95-32743e8a0588",
+    "ccn": "443032",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF CHATTANOOGA",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/62-1178229_encompass-health-rehabilitation-hospital-of-chattanooga_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/chattanoogarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "7080c665-6b11-4316-8cab-bda2383f486b",
+    "ccn": "443035",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FRANKLIN",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/27-4344918_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Franklin_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/franklinrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "19f4e6ea-7931-4a15-943e-787a44d528c1",
+    "ccn": "443027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF KINGSPORT",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/631028003Rehabilitation%20Hospital%20of%20Kingsport%20a%20joint%20venture%20of%20Ballad%20Health%20and%20Encompasstandard.csv",
+    "transparency_page": "https://encompasshealth.com/locations/kingsportrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "e1135618-7af8-4bd3-abb1-864139efc7b4",
+    "ccn": "443029",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MEMPHIS",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/631107459Encompass%20Health%20Rehabilitation%20Hospital%20of%20Memphis%20a%20partner%20of%20Methodist%20Healthcarestanda.csv",
+    "transparency_page": "https://encompasshealth.com/locations/memphisrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "4738ce3a-f616-40f2-af8e-226e0dbffcfa",
+    "ccn": "443031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NORTH MEMPHIS",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/631107459encompass-health-rehabilitation-hospital-of-north-memphis-a-partner-of-methodist-standard.csv",
+    "transparency_page": "https://encompasshealth.com/locations/northmemphisrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "73e150af-e28d-4e0e-a9c5-44cdb3a9dc4c",
+    "ccn": "440104",
+    "hospital_name": "ERLANGER BARONESS HOSPITAL",
+    "address": "",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/baroness",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "f630a50b-862d-47a9-b554-cde4294275eb",
+    "ccn": "444026",
+    "hospital_name": "ERLANGER BEHAVIORAL HEALTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.erlangerbh.com/wp-content/uploads/pricing/2025/465/81-5407918_Erlanger-Behavioral-Health-LLC_standardcharges.csv",
+    "transparency_page": "https://www.erlangerbh.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "31aee7a9-64ca-4c1b-b166-0dc2a77315a3",
+    "ccn": "441306",
+    "hospital_name": "ERLANGER BLEDSOE",
+    "address": "",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/bledsoe",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "8eec546e-1ef6-4a2d-9ba9-27fe43fe1eb2",
+    "ccn": "",
+    "hospital_name": "ERLANGER EAST HOSPITAL",
+    "address": "",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/baroness",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "5009cdd7-a011-4068-a855-c178c4dc8122",
+    "ccn": "",
+    "hospital_name": "ERLANGER NORTH HOSPITAL",
+    "address": "",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/baroness",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "658f5586-02ed-45a1-bb02-a979a0f8a29a",
+    "ccn": "",
+    "hospital_name": "ERLANGER SEQUATCHIE VALLEY",
+    "address": "",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/bledsoe",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "13a6a262-c2db-4473-a249-1a96e6a5f5e8",
+    "ccn": "440110",
+    "hospital_name": "FORT LOUDOUN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ssl.covhlth.com/coldfusionapplication/JSON/621373691_fort-loudoun-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/fort-loudoun/price-estimation/"
+  },
+  {
+    "detail_id": "e2e19e2c-cb61-4e94-8aa2-8390adf62ba8",
+    "ccn": "440125",
+    "hospital_name": "FORT SANDERS REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/wzhcs5h4vcpbkhv9fxhq7qp/620528340_fort-sanders-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/fort-sanders-regional/price-estimation/"
+  },
+  {
+    "detail_id": "250dfc20-827e-4edb-b47d-79ed80a86684",
+    "ccn": "440184",
+    "hospital_name": "FRANKLIN WOODS COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/620476282_FRANKLIN-WOODS-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "9a2cc2bc-71b1-45ce-9766-27e39cad81f6",
+    "ccn": "440050",
+    "hospital_name": "GREENEVILLE COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/510603966_GREENEVILLE-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "35ab1f19-9272-47b7-93dc-ae4f8b0fa6a6",
+    "ccn": "441313",
+    "hospital_name": "HANCOCK COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/621636465_HANCOCK-COUNTY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "fbca5dfe-5a71-4bc4-b4fb-21dd7027a8c2",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "680bf262-caa2-4ab3-9ea3-9a344ebaf298",
+    "ccn": "440032",
+    "hospital_name": "HAWKINS COUNTY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/621816368_HAWKINS-COUNTY-MEMORIAL-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "057bbefa-79c1-4f38-846f-8f82fe4dcd0b",
+    "ccn": "440008",
+    "hospital_name": "HENDERSON COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://img1.wsimg.com/blobby/go/a965588e-e818-4784-936d-6568b5c0b6b1/downloads/2ca886c4-6a5f-4dbd-99a2-5e3ab7ae0622/421557533_Henderson-County-Community-Hospital_.csv?ver=1754430441868",
+    "transparency_page": "https://henderson.health/price-transparency-1"
+  },
+  {
+    "detail_id": "041916aa-c6d5-4a1e-8a20-e37f761de04a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "aea676d9-2fab-4d13-8c59-e0261e014c88",
+    "ccn": "440003",
+    "hospital_name": "HIGHPOINT HEALTH - SUMNER WITH ASCENSION SAINT THOMAS",
+    "address": "",
+    "file_url": "https://www.highpointhealthsystem.com/sites/highpoint/assets/uploads/MRF2Q25/272618766_sumner-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.highpointhealthsystem.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "a9a9c10d-eab6-42bd-bc77-3fd03a221f72",
+    "ccn": "441301",
+    "hospital_name": "HIGHPOINT HEALTH - TROUSDALE WITH ASCENSION SAINT THOMAS",
+    "address": "",
+    "file_url": "https://www.highpointhealthsystem.com/sites/highpoint/assets/uploads/MRF2Q25/272618876_trousdale-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.highpointhealthsystem.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "faa8cfe8-18c1-4eb6-84c6-464798390ab2",
+    "ccn": "440017",
+    "hospital_name": "HOLSTON VALLEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/621636465_HOLSTON-VALLEY-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "f297f530-12a1-4021-b3d1-bcd4e4b51154",
+    "ccn": "441322",
+    "hospital_name": "HOUSTON COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://img1.wsimg.com/blobby/go/9dfbebe1-148d-4560-8c7b-80a1bb2a2275/downloads/be1e4257-469f-4a98-ab6b-c06b2ae95029/862345211_Houston-County-Community-Hospital_st.csv?ver=1753197075919",
+    "transparency_page": "https://shamrock.health/price-transparency"
+  },
+  {
+    "detail_id": "f23f654e-54d3-43c8-b9b9-370dcda524cd",
+    "ccn": "440176",
+    "hospital_name": "INDIAN PATH COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/620476282_INDIAN-PATH-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "8ca4b337-59b7-42bc-b71e-6e5a75ad5260",
+    "ccn": "440063",
+    "hospital_name": "JOHNSON CITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/620476282_JOHNSON-CITY-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "b27e33f9-4d2d-4c4b-8003-53209a4efbf4",
+    "ccn": "441304",
+    "hospital_name": "JOHNSON COUNTY COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-01/620476282_JOHNSON-COUNTY-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "9b0b27e2-0f1e-41e9-8619-60345c1a82ef",
+    "ccn": "442007",
+    "hospital_name": "KINDRED HOSPITAL - CHATTANOOGA",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=1pvdHjsSZ*__*Id1umlAic8QQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=1pvdHjsSZ*__*Id1umlAic8QQ*-*"
+  },
+  {
+    "detail_id": "fae49fef-1d50-4697-974d-59aa396e7954",
+    "ccn": "444004",
+    "hospital_name": "LAKESIDE BEHAVIORAL HEALTH SYSTEM",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044425_lakeside_standardcharges.csv",
+    "transparency_page": "https://lakesidebhs.com/standard-services/"
+  },
+  {
+    "detail_id": "ffbfda0b-8d22-454b-b728-98a8b84d2e94",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "fd212cbd-9822-4787-96a7-874509d653d6",
+    "ccn": "",
+    "hospital_name": "LE BONHEUR CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.methodisthealth.org/files/financial-assistance/insurance-billing/LeBFullCDM_PriceTransparency_METHODIST_LEBONHEUR_CHILDRENS_HOSP.csv",
+    "transparency_page": "https://www.methodisthealth.org/financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "407d6631-8c23-419b-99d2-268c5ef65920",
+    "ccn": "440081",
+    "hospital_name": "LECONTE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ssl.covhlth.com/coldfusionapplication/JSON/621114867_leconte-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/leconte/price-estimation/"
+  },
+  {
+    "detail_id": "b3e2d9e9-236b-4bb9-976d-a9d8d820cd0e",
+    "ccn": "440102",
+    "hospital_name": "LINCOLN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hhlincolnhealth.org/wp-content/uploads/882472117_hh-health-system-lincoln-inc_standardcharges.csv",
+    "transparency_page": "https://hhlincolnhealth.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "4775830c-0d16-44c5-935b-e421f37887de",
+    "ccn": "440187",
+    "hospital_name": "LIVINGSTON REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=H9YBLIdJLmIpMHghfMTl5w*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=H9YBLIdJLmIpMHghfMTl5w*-*"
+  },
+  {
+    "detail_id": "fff37aef-a196-4242-af63-ff737e2b705c",
+    "ccn": "441305",
+    "hospital_name": "MACON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://maconcommunityhospital.com/wp-content/uploads/2025/01/620988604_macon-community-hospital_standardcharges-2.csv",
+    "transparency_page": "https://maconcommunityhospital.com/"
+  },
+  {
+    "detail_id": "3f3c39de-1b38-4d89-aea1-b4b75dd55a9c",
+    "ccn": "441309",
+    "hospital_name": "MARSHALL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/maury-site-494/media/r/097f9e27491c41bb904cb133bfbea4f7/621590713_marshall-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mauryregional.com/billing-and-insurance/understanding-charges/price-transparency/"
+  },
+  {
+    "detail_id": "5b3005f0-c5e3-4737-8a99-463908e3833f",
+    "ccn": "440073",
+    "hospital_name": "MAURY REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/maury-site-494/media/r/6c3ba5371fd34253b5675e6bf48e9ac2/626002623_maury-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mauryregional.com/billing-and-insurance/understanding-charges/price-transparency/"
+  },
+  {
+    "detail_id": "e09cb3a2-19a6-495b-9c88-046780ce876b",
+    "ccn": "",
+    "hospital_name": "METHODIST LE BONHEUR GERMANTOWN HOSPITAL",
+    "address": "",
+    "file_url": "https://www.methodisthealth.org/files/financial-assistance/insurance-billing/GTwnMLH_MLH_FullCDM_PriceTransparency_METHODIST_LEBONHEUR_GERMANTOWN_HOSP.csv",
+    "transparency_page": "https://www.methodisthealth.org/financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "dcd0307e-1d87-4553-9702-6ff4a4a21f38",
+    "ccn": "440034",
+    "hospital_name": "METHODIST MEDICAL CENTER OF OAK RIDGE",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/4cbhk3wg97scgc5j6w79f4/620636239_methodist-medical-center-of-oak-ridge_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/methodist/price-estimation/"
+  },
+  {
+    "detail_id": "31055cf7-9e8a-4fc4-8053-dfac8bf99f5a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "67f2de19-2d4e-4a8a-8b6d-04fc5cf96636",
+    "ccn": "",
+    "hospital_name": "METHODIST SOUTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.methodisthealth.org/files/financial-assistance/insurance-billing/SouthMLH_MLH_FullCDM_PriceTransparency_METHODIST_SOUTH_HOSPITAL.csv",
+    "transparency_page": "https://www.methodisthealth.org/financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "ee81fcc2-14f7-4dcf-baaf-31ab07700cea",
+    "ccn": "440049",
+    "hospital_name": "METHODIST UNIVERSITY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.methodisthealth.org/files/financial-assistance/insurance-billing/UniversityMLH_MLH_FullCDM_PriceTransparency_METHODIST_UNIVERSITY_HOSPITAL.csv",
+    "transparency_page": "https://www.methodisthealth.org/financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "89eacb7d-d4d4-453f-bb09-68ce4ce3d503",
+    "ccn": "",
+    "hospital_name": "MONROE CARELL JR. CHILDREN'S HOSPITAL AT VANDERBILT",
+    "address": "",
+    "file_url": "https://finance.vumc.org/assets/pub/pt/352528741_vanderbilt-university-medical-center_standardcharges.json",
+    "transparency_page": "https://www.vumc.org/pricetransparency"
+  },
+  {
+    "detail_id": "bc3865e8-1241-430b-b7a6-6258fb6ebf73",
+    "ccn": "440030",
+    "hospital_name": "MORRISTOWN-HAMBLEN HEALTHCARE SYSTEM",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/qg6rvsrbs62q2wx7hkjc6h/620545814_morristown-hamblen-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/morristown-hamblen/price-estimation/"
+  },
+  {
+    "detail_id": "3657f8cb-d7da-4876-a0c8-dfc70798e963",
+    "ccn": "440111",
+    "hospital_name": "NASHVILLE GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://nashvillegeneral-440111.s3.amazonaws.com/62-1383977_METRO-NASHVILLE-GENERAL-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://nashvillegeneral.org/patient-visitor-info/patient-price-information-list"
+  },
+  {
+    "detail_id": "cb04d1c7-a535-4b2d-9f7e-5b51fcdfe3eb",
+    "ccn": "",
+    "hospital_name": "NISWONGER CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/620476282_JOHNSON-CITY-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "86484aeb-326e-425a-b1f6-6c716e3077d0",
+    "ccn": "",
+    "hospital_name": "PARKRIDGE EAST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d51195f9f01c4ccfa2c7429bc92153be?download=true",
+    "transparency_page": "https://www.parkridgehealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "fea07f8f-beca-4559-b460-7167e8b19c17",
+    "ccn": "440156",
+    "hospital_name": "PARKRIDGE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d2ba7ca479e14040a78e2b72ff8b9a87?download=true",
+    "transparency_page": "https://www.parkridgehealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "3c4dbd32-1db4-4fc0-a293-e922891f4266",
+    "ccn": "",
+    "hospital_name": "PARKRIDGE VALLEY ADULT SERVICES",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/d2ba7ca479e14040a78e2b72ff8b9a87?download=true",
+    "transparency_page": "https://www.parkridgehealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "1d4144a7-064f-465d-a254-bb030072a143",
+    "ccn": "",
+    "hospital_name": "PARKRIDGE VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/e8787125a22c43fe81a37fd9bc614f9c?download=true",
+    "transparency_page": "https://www.parkridgehealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7e6704b5-8c5e-48df-a8b2-2fd752875eb7",
+    "ccn": "",
+    "hospital_name": "PARKRIDGE WEST HOSPITAL",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/16d0f3639afd49fc885b1439dc0e6c23?download=true",
+    "transparency_page": "https://www.parkridgehealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "fcd921bd-58bd-4d2e-9bf2-d025005d2186",
+    "ccn": "440173",
+    "hospital_name": "PARKWEST MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/9jtp39jsgw9vgtfr548x6q/581897274_parkwest-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/parkwest/price-estimation/"
+  },
+  {
+    "detail_id": "6b3c3d13-81fe-40ed-83b7-1274700a931e",
+    "ccn": "444010",
+    "hospital_name": "PATHWAYS BEHAVIORAL HEALTH SERVICES",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/62-1604972_Pathways_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "609a15d5-0c66-47ae-9f17-1c6db82a5e14",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "aa59b08d-eacb-4c4f-8155-f499a88c7cc9",
+    "ccn": "",
+    "hospital_name": "PENINSULA HOSPITAL",
+    "address": "",
+    "file_url": "https://cdn.bfldr.com/4E7YGCIE/at/9jtp39jsgw9vgtfr548x6q/581897274_parkwest-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/parkwest/price-estimation/"
+  },
+  {
+    "detail_id": "edc3729c-038e-4113-a74d-d3c3e3c881f0",
+    "ccn": "444023",
+    "hospital_name": "PERIMETER BEHAVIORAL CENTER OF JACKSON",
+    "address": "",
+    "file_url": "https://www.perimeterhealthcare.com/assets/2789/standard_charges_jackson.xlsx",
+    "transparency_page": "https://www.perimeterhealthcare.com/what-to-expect-jackson"
+  },
+  {
+    "detail_id": "43f9c09c-975a-4035-afac-183496fb13fc",
+    "ccn": "444029",
+    "hospital_name": "PINEWOOD SPRINGS",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/6d8533508f614ad6a2fc7a194c0c116d?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e75e277f-1f05-49e7-b83d-142059f552bf",
+    "ccn": "440011",
+    "hospital_name": "PRISMA HEALTH BLOUNT MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://prismahealth.org/getmedia/c55d9f39-dc92-47b3-9abd-a53eab6a17d0/620505512_blount-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://prismahealth.org/patients-and-guests/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "62455473-68e5-486a-aa36-9909d4d45262",
+    "ccn": "443033",
+    "hospital_name": "QUILLEN REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/465144209Quillen%20Rehabilitation%20Hospital%20a%20joint%20venture%20of%20Ballad%20Health%20and%20Encompass%20Health%20stand.csv",
+    "transparency_page": "https://encompasshealth.com/locations/quillenrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "644c4c2c-0b8d-40fd-bf63-c2d56ddf2635",
+    "ccn": "440152",
+    "hospital_name": "REGIONAL ONE HEALTH",
+    "address": "",
+    "file_url": "https://www.regionalonehealth.org/wp-content/uploads/2024/12/621113169_shelby-county-health-care_standardcharges.csv",
+    "transparency_page": "https://www.regionalonehealth.org/estimated-charges-for-services/"
+  },
+  {
+    "detail_id": "a9456de4-81d3-490d-ad0d-955b2a38f90c",
+    "ccn": "442017",
+    "hospital_name": "REGIONAL ONE HEALTH EXTENDED CARE HOSPITAL",
+    "address": "890 MADISON AVENUE, 4TH FLOOR",
+    "file_url": "https://www.regionalonehealth.org/wp-content/uploads/2024/12/208930584_regional-med-extended-care_standardcharges.csv",
+    "transparency_page": "https://www.regionalonehealth.org/estimated-charges-for-services/"
+  },
+  {
+    "detail_id": "b57e97c6-0480-4273-b024-baec8e5ecc8c",
+    "ccn": "441310",
+    "hospital_name": "RHEA MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://rheamedical.org/wp-content/uploads/2025/07/626014528_Rhea-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://rheamedical.org/patients-visitors/price-listing/"
+  },
+  {
+    "detail_id": "ecd8c5f4-a9c5-45c9-b4dc-0c37fbf75204",
+    "ccn": "444003",
+    "hospital_name": "RIDGEVIEW BEHAVIORAL HOSPITAL AND CENTER",
+    "address": "",
+    "file_url": "https://www.ridgeview.com/uploads/620579512_Ridgeview-Psychiatric-Hospital-and-Center%2C-Inc._standardcharges.csv",
+    "transparency_page": "https://www.ridgeview.com/patient-resources/charge-information"
+  },
+  {
+    "detail_id": "863fcab6-502c-4e3f-83d6-401ec9fd8a88",
+    "ccn": "440031",
+    "hospital_name": "ROANE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://ssl.covhlth.com/coldfusionapplication/JSON/680673354_roane-medical-center_standardcharges.json",
+    "transparency_page": "https://www.covenanthealth.com/roane/price-estimation/"
+  },
+  {
+    "detail_id": "291a5135-c515-4fce-b64e-8c9fe3618f1f",
+    "ccn": "444007",
+    "hospital_name": "ROLLING HILLS HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205566098_rolling-hills_standardcharges.csv",
+    "transparency_page": "https://rollinghillshospital.org/standard-services/"
+  },
+  {
+    "detail_id": "2dbd6291-479a-40a8-8a58-87b908815b38",
+    "ccn": "440228",
+    "hospital_name": "SAINT FRANCIS HOSPITAL BARTLETT",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752804737_SaintFrancisHospitalBartlett_standardcharges.json",
+    "transparency_page": "https://www.saintfrancishosp.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "60e8e2dc-8846-4d4e-ba8b-d5655537aa2e",
+    "ccn": "440183",
+    "hospital_name": "SAINT FRANCIS HOSPITAL MEMPHIS",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752522262_SaintFrancisHospitalMemphis_standardcharges.json",
+    "transparency_page": "https://www.saintfrancishosp.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "bcfecc32-b515-4cbf-a821-a9818817e9fa",
+    "ccn": "440218",
+    "hospital_name": "SAINT THOMAS HOSPITAL FOR SPECIALTY SURGERY",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/621772195_StThomasHospitalforSpecialtySurgery_standardcharges.json",
+    "transparency_page": "https://sthspecialtysurgery.com/Hospital-Pricing-Information"
+  },
+  {
+    "detail_id": "ff398bc5-f99f-4b66-afcb-960fb43b2972",
+    "ccn": "442012",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - KNOXVILLE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/62-1684861_Select_Specialty_Hospital-Knoxville_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "bb22f010-1b86-4b4f-bcd0-e9da2b43bc3c",
+    "ccn": "442014",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - MEMPHIS",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1813120_Select_Specialty_Hospital-Memphis_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "2b1c0528-44ce-4297-b269-e128945d64c7",
+    "ccn": "442011",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NASHVILLE",
+    "address": "2000 HAYES STREET, SUITE 500",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1813119_Select_Specialty_Hospital-Nashville_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "eca70c57-bf0f-4328-a47f-2c8afe2322b2",
+    "ccn": "",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NASHVILLE WEST",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1813119_Select_Specialty_Hospital-Nashville_West_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "aeecf979-4ae5-4d15-b6de-e9f61be18ee5",
+    "ccn": "442015",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NORTH KNOXVILLE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/62-1684861_Select_Specialty_Hospital-North_Knoxville_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "dfc8a945-0176-4a98-8001-f1882457c688",
+    "ccn": "442016",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - TRI-CITIES",
+    "address": "1 MEDICAL PARK BOULEVARD, 5TH FLOOR WEST",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1813125_Select_Specialty_Hospital-TriCities_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "b4920b4e-a812-444d-9222-75a06a9793d3",
+    "ccn": "440239",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - WEST TENNESSEE",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/86-3621087_select_specialty_hospital_west_tennessee_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/locations-and-tours/tn/jackson/west-tennessee/"
+  },
+  {
+    "detail_id": "5faf425c-7b3e-41f8-8963-e5975398c352",
+    "ccn": "443025",
+    "hospital_name": "SISKIN HOSPITAL FOR PHYSICAL REHABILITATION",
+    "address": "",
+    "file_url": "https://www.siskinrehab.org/s/SH-Standard-Charges.csv",
+    "transparency_page": "https://www.siskinrehab.org/pricing-transparency"
+  },
+  {
+    "detail_id": "5e57009b-b440-40e4-8548-3d2c67e7ade2",
+    "ccn": "440175",
+    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM LAWRENCEBURG",
+    "address": "1607 S LOCUST AVE,",
+    "file_url": "https://www.southerntnlawrenceburg.com/docs/ahstrhslawrenceburglibraries/hcl/mrf2q25/621762364_strhs-lawrenceburg_standardcharges.csv",
+    "transparency_page": "https://www.southerntnlawrenceburg.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "1605f2f2-2286-4272-9d10-8776400c232f",
+    "ccn": "440020",
+    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM PULASKI",
+    "address": "",
+    "file_url": "https://www.southerntnpulaski.com/docs/ahstrhspulaskilibraries/hcl/mrf2q25/621762382_strhs-pulaski_standardcharges.csv",
+    "transparency_page": "https://www.southerntnpulaski.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "a60d38a8-59ae-49a3-a90e-88fbacea9eb8",
+    "ccn": "",
+    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM SEWANEE",
+    "address": "",
+    "file_url": "https://www.highpointhealthsystem.com/sites/highpoint/assets/uploads/MRF2Q25/621762535_strhs-winchester_standardcharges.csv",
+    "transparency_page": "https://www.highpointhealthsystem.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "ebd45497-20da-4453-8c90-6ccb4a797a59",
+    "ccn": "440058",
+    "hospital_name": "SOUTHERN TENNESSEE REGIONAL HEALTH SYSTEM WINCHESTER",
+    "address": "",
+    "file_url": "https://www.highpointhealthsystem.com/sites/highpoint/assets/uploads/MRF2Q25/621762535_strhs-winchester_standardcharges.csv",
+    "transparency_page": "https://www.highpointhealthsystem.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "6de9ae97-cc11-4111-b709-b217f0e5a3a5",
+    "ccn": "",
+    "hospital_name": "SPENCE AND BECKY WILSON BAPTIST CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/TN/620123940_spence-and-becky-wilson-baptist-childrens-hospital_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "f99bc027-cc34-4f03-bdde-76bba5e4ac68",
+    "ccn": "440068",
+    "hospital_name": "STARR REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.starrregional.com/docs/ahstarrregionalmedicalcenterlibraries/hcl/mrf2q25/621866028_athens--etowah-starr-regional_standardcharges.csv",
+    "transparency_page": "https://www.starrregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "093391c6-40fa-4fcc-aa4d-9a7ed33a7add",
+    "ccn": "445277",
+    "hospital_name": "STARR REGIONAL MEDICAL CENTER ETOWAH",
+    "address": "",
+    "file_url": "https://www.starrregional.com/docs/ahstarrregionalmedicalcenterlibraries/hcl/mrf2q25/621866028_athens--etowah-starr-regional_standardcharges.csv",
+    "transparency_page": "https://www.starrregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "d872d4f0-392f-44a5-a149-4b7bd21e8b41",
+    "ccn": "443302",
+    "hospital_name": "ST. JUDE CHILDREN'S RESEARCH HOSPITAL",
+    "address": "",
+    "file_url": "https://stjude.pt.panaceainc.com/MRFDownload/stjude/stjude",
+    "transparency_page": "https://www.stjude.org/legal/standard-charges.html"
+  },
+  {
+    "detail_id": "0c512d28-e736-4075-bcc4-d54e61d95705",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "bc19aab7-38f2-48fa-84a0-bdb5389304d6",
+    "ccn": "440018",
+    "hospital_name": "SYCAMORE SHOALS HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/sites/default/files/2025-04/620476282_sycamore-shoals-hospital_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  },
+  {
+    "detail_id": "a9a043ec-b2c2-4a1d-b5ed-b3629c6d1229",
+    "ccn": "440035",
+    "hospital_name": "TENNOVA HEALTHCARE - CLARKSVILLE",
+    "address": "",
+    "file_url": "https://www.tennovaclarksville.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/203500835_tennova-healthcare-clarksville_standardcharges.csv",
+    "transparency_page": "https://www.tennovaclarksville.com/pricing-information"
+  },
+  {
+    "detail_id": "b8d28cbc-22de-4e6f-9820-a17933a4f3b2",
+    "ccn": "440033",
+    "hospital_name": "TENNOVA HEALTHCARE - LAFOLLETTE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.tennovalafollette.com/pricing-information"
+  },
+  {
+    "detail_id": "cf2d5541-e243-4b17-a453-4ccbc83f4db1",
+    "ccn": "440153",
+    "hospital_name": "TENNOVA HEALTHCARE - NEWPORT MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.tennovanewport.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528314_tennova-newport-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.tennovanewport.com/pricing-information"
+  },
+  {
+    "detail_id": "267fe932-f42d-4e1d-82d8-83b54b8ddc49",
+    "ccn": "440056",
+    "hospital_name": "TENNOVA JEFFERSON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tennovajefferson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528414_tennova-jefferson-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.tennovajefferson.com/pricing-information"
+  },
+  {
+    "detail_id": "27462904-556e-4d2f-aab6-6beeba5da2ae",
+    "ccn": "440120",
+    "hospital_name": "TENNOVA NORTH KNOXVILLE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.tennovanorthknoxville.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452535623_tennova-north-knoxville-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.tennovanorthknoxville.com/pricing-information"
+  },
+  {
+    "detail_id": "fce056f4-dfa1-4cf1-a44b-b36c7dbcb55a",
+    "ccn": "",
+    "hospital_name": "TENNOVA TURKEY CREEK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.tennovaturkeycreek.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452535623_tennova-turkey-creek-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.tennovaturkeycreek.com/pricing-information"
+  },
+  {
+    "detail_id": "0a53679e-faf5-4216-83d2-29a6d82e0d60",
+    "ccn": "",
+    "hospital_name": "THE CHILDREN'S HOSPITAL AT TRISTAR CENTENNIAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113737_CENTENNIAL-MEDICAL-CENTER_standardcharges.json?si=dpx-pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=vdmkLz8lCE1qb%2BnsaFfL8tcI7Gg6B%2B3s%2Fny3TPZ1kqs%3D",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d097a9f1-e365-452f-9a16-11b30e3ef69b",
+    "ccn": "440015",
+    "hospital_name": "THE UNIVERSITY OF TENNESSEE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://utmedicalcenter.org/sites/default/files/media/standard_prices/311626179_UTMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://www.utmedicalcenter.org/patients-visitors/insurance-billing?price-transparency-modal="
+  },
+  {
+    "detail_id": "2dc5e635-5297-4b00-8d89-08ea6f98cf7d",
+    "ccn": "",
+    "hospital_name": "THE WOMEN'S HOSPITAL AT CENTENNIAL",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113737_CENTENNIAL-MEDICAL-CENTER_standardcharges.json?si=dpx-pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=vdmkLz8lCE1qb%2BnsaFfL8tcI7Gg6B%2B3s%2Fny3TPZ1kqs%3D",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "2d5b9445-4d44-46cf-96b4-0457345ebd52",
+    "ccn": "441311",
+    "hospital_name": "TRISTAR ASHLAND CITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/90c028b4b2ff4b1abf268237de5f50dd?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "9f03a74d-7436-4439-b2c3-590679ae929a",
+    "ccn": "440161",
+    "hospital_name": "TRISTAR CENTENNIAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113737_CENTENNIAL-MEDICAL-CENTER_standardcharges.json?si=dpx-pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=vdmkLz8lCE1qb%2BnsaFfL8tcI7Gg6B%2B3s%2Fny3TPZ1kqs%3D",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7150fa99-fcd2-4336-95e0-8fb6e4376d7c",
+    "ccn": "",
+    "hospital_name": "TRISTAR CENTENNIAL PARTHENON PAVILION",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113737_CENTENNIAL-MEDICAL-CENTER_standardcharges.json?si=dpx-pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=vdmkLz8lCE1qb%2BnsaFfL8tcI7Gg6B%2B3s%2Fny3TPZ1kqs%3D",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "672ef15f-4603-4e3d-b88d-ebdb8ee9ccd4",
+    "ccn": "440194",
+    "hospital_name": "TRISTAR HENDERSONVILLE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/e9b30ee3cb1f42f4946b5e122b908551?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "07c662c9-fae5-40c2-a2da-574c9825c584",
+    "ccn": "440046",
+    "hospital_name": "TRISTAR HORIZON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/52f651596e02412da651c83fd3224f31?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "ff7e26a2-df04-446d-943f-70fff5887d4a",
+    "ccn": "440065",
+    "hospital_name": "TRISTAR NORTHCREST MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/f9f22fadc10a427ea204574e4ffc0ed6?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "740f88d7-24bd-489a-b412-17f1d79d3eb2",
+    "ccn": "",
+    "hospital_name": "TRISTAR PORTLAND ER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/e9b30ee3cb1f42f4946b5e122b908551?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "130a4457-8de2-4468-acf9-c254f5eef4db",
+    "ccn": "440006",
+    "hospital_name": "TRISTAR SKYLINE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/6fa010cf8e894211b7291c04e0765160?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "95ac5be3-3fea-465d-85a0-63f538765457",
+    "ccn": "440197",
+    "hospital_name": "TRISTAR SOUTHERN HILLS MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/4afeffe5b7414bb59bc784ebfb4c5a06?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b508f810-3363-457e-97f4-1575bf3677bd",
+    "ccn": "",
+    "hospital_name": "TRISTAR SPRING HILL ER",
+    "address": "",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1113737_CENTENNIAL-MEDICAL-CENTER_standardcharges.json?si=dpx-pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=vdmkLz8lCE1qb%2BnsaFfL8tcI7Gg6B%2B3s%2Fny3TPZ1kqs%3D",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b77b8574-477d-4837-b2ad-ff5e51b225e3",
+    "ccn": "440227",
+    "hospital_name": "TRISTAR STONECREST MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/deca55957de741d6837f46e0d9b2f259?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "cd87c292-3b80-4bba-9813-46984a248f46",
+    "ccn": "440150",
+    "hospital_name": "TRISTAR SUMMIT MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.hcadam.com/api/public/content/20626bf67a5e4d47a6c60c9ae79f5bae?download=true",
+    "transparency_page": "https://www.tristarhealth.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "b9bdbfc5-36bc-4106-995e-9ba2d378c45e",
+    "ccn": "440231",
+    "hospital_name": "TRUSTPOINT HOSPITAL",
+    "address": "",
+    "file_url": "https://www.trustpointhospital.com/wp-content/uploads/pricing/2025/397/20-5850135%20Trustpoint-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://www.trustpointhospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "79514baf-5286-4050-98d0-2496e0505f29",
+    "ccn": "440007",
+    "hospital_name": "UNITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.unitymedicalmanchester.com/_files/ugd/bf258b_ee1e41238f9b4020b4a649e8d4c75f63.csv?dn=460485169_coffee-medical-group_standardcharges.csv",
+    "transparency_page": "https://www.unitymedicalmanchester.com/price-transparency"
+  },
+  {
+    "detail_id": "ce9f84c8-5a18-493b-bd0a-79ced2b013ac",
+    "ccn": "444019",
+    "hospital_name": "UNITY PSYCHIATRIC CARE - CLARKSVILLE",
+    "address": "",
+    "file_url": "https://unitypsych.com/621527391_UNITY-PSYCHIATRIC-CARE-CLARKSVILLE_standardcharges.json",
+    "transparency_page": "https://unitypsych.com/price-transparency"
+  },
+  {
+    "detail_id": "299ac00f-1ded-4081-88f2-5bce2eb3a1ed",
+    "ccn": "444021",
+    "hospital_name": "UNITY PSYCHIATRIC CARE-COLUMBIA",
+    "address": "",
+    "file_url": "https://unitypsych.com/273256233_UNITY-PSYCHIATRIC-CARE-COLUMBIA_standardcharges.json",
+    "transparency_page": "https://unitypsych.com/price-transparency"
+  },
+  {
+    "detail_id": "30bb4149-1d86-4161-b00a-1a2bad58738d",
+    "ccn": "444005",
+    "hospital_name": "UNITY PSYCHIATRIC CARE-MARTIN",
+    "address": "",
+    "file_url": "https://unitypsych.com/200663250_UNITY-PSYCHIATRIC-CARE-MARTIN_standardcharges.json",
+    "transparency_page": "https://unitypsych.com/price-transparency"
+  },
+  {
+    "detail_id": "f4d62e3e-d976-4007-8543-6fd5037fc8a3",
+    "ccn": "444024",
+    "hospital_name": "UNITY PSYCHIATRIC CARE MEMPHIS",
+    "address": "",
+    "file_url": "https://unitypsych.com/621655497_UNITY-PSYCHIATRIC-CARE-MEMPHIS_standardcharges.json",
+    "transparency_page": "https://unitypsych.com/price-transparency"
+  },
+  {
+    "detail_id": "3bff0cd1-a296-4117-a452-4437a65aa65a",
+    "ccn": "440137",
+    "hospital_name": "VANDERBILT BEDFORD HOSPITAL",
+    "address": "",
+    "file_url": "https://finance.vumc.org/assets/pub/pt/853419620_vanderbilt-bedford-hospital_standardcharges.json",
+    "transparency_page": "https://www.vumc.org/pricetransparency"
+  },
+  {
+    "detail_id": "241374e0-9681-463a-a6aa-825dc86605f1",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "020b6bc0-5ad9-4edd-ac3f-363db853f504",
+    "ccn": "440144",
+    "hospital_name": "VANDERBILT TULLAHOMA-HARTON HOSPITAL",
+    "address": "",
+    "file_url": "https://finance.vumc.org/assets/pub/pt/853420386_vanderbilt-tullahoma-harton-hospital_standardcharges.json",
+    "transparency_page": "https://www.vumc.org/pricetransparency"
+  },
+  {
+    "detail_id": "84ffdf87-1f5e-4c70-bfdd-88f0f23ca4b7",
+    "ccn": "440039",
+    "hospital_name": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://finance.vumc.org/assets/pub/pt/352528741_vanderbilt-university-medical-center_standardcharges.json",
+    "transparency_page": "https://www.vumc.org/pricetransparency"
+  },
+  {
+    "detail_id": "4300848d-9d25-45e4-86ef-05cd58206e38",
+    "ccn": "440193",
+    "hospital_name": "VANDERBILT WILSON COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://finance.vumc.org/assets/pub/pt/352528741_vanderbilt-wilson-county-hospital_standardcharges.json",
+    "transparency_page": "https://www.vumc.org/pricetransparency"
+  },
+  {
+    "detail_id": "a3d553bd-8b5e-46bc-afaa-01d433494340",
+    "ccn": "440185",
+    "hospital_name": "VITRUVIAN HEALTH BRADLEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://vitruvianhealth.com/wp-content/uploads/2025/05/992892769_bradley-medical-center_standardcharges.zip",
+    "transparency_page": "https://vitruvianhealth.com/patients-visitors/patient-resources/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "b8d8610a-e0f7-4e57-90c3-f2b4ad0ceaed",
+    "ccn": "440010",
+    "hospital_name": "WAYNE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/maury-site-494/media/r/33f69402b83e44cbbffa9244fa2a22fa/621605071_wayne-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mauryregional.com/billing-and-insurance/understanding-charges/price-transparency/"
+  },
+  {
+    "detail_id": "b6b27cd5-a5f8-446d-8bd0-0e0cb35ba4cb",
+    "ccn": "441320",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE BOLIVAR GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/62-1624171_BH_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "5f365851-8962-422c-8cd4-a7d1b59ee9af",
+    "ccn": "441316",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE CAMDEN GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/58-1884314_CH_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "a1ea5bcc-9602-4b35-826c-d99b33971d08",
+    "ccn": "440072",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE DYERSBURG HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/82-5179383_DH_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "11f8d71b-e1c1-4ed8-8ef5-496b387db513",
+    "ccn": "440132",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE HENRY COUNTY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/99-4256908-HCH-Standard-Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "e5cf02b0-7982-475b-9983-fcb838706361",
+    "ccn": "440002",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE JACKSON-MADISON COUNTY GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/62-6010402_JH_standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "bf98e4c5-1b1f-4ffd-afc1-b90e83350e90",
+    "ccn": "440060",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE MILAN HOSPITAL CARDIAC REHAB",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/62-1753289_MH_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "7acf081f-5d7c-4432-a425-7d694d4e7231",
+    "ccn": "",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE NORTH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/62-6010402_JH_standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "0d974844-5914-4b47-91f1-4505645e689e",
+    "ccn": "443036",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/475297151West%20Tennessee%20Healthcare%20Rehabilitation%20Hospital%20Jackson%20Encompass%20Heal%20standard.csv",
+    "transparency_page": "https://encompasshealth.com/locations/jacksonrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "f360c9a9-30bf-4433-8002-4d6c9894ef32",
+    "ccn": "443030",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE REHABILITATION HOSPITAL CANE CREEK",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/475297151West%20Tennessee%20Healthcare%20Rehabilitation%20Hospital%20Cane%20Creek%20Encompass%20standard%20charges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/canecreekrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "31195e2b-4363-4ff2-8b0c-64f0e5576c40",
+    "ccn": "440061",
+    "hospital_name": "WEST TENNESSEE HEALTHCARE VOLUNTEER HOSPITAL",
+    "address": "",
+    "file_url": "https://www.wth.org/wp-content/uploads/standard-charges/82-5187448_VH_Standard_Charges.csv",
+    "transparency_page": "https://www.wth.org/financial-assistance-billing/hospital-charges/"
+  },
+  {
+    "detail_id": "ad4c3fe1-4b1d-42d3-80c7-1362aa142e95",
+    "ccn": "440029",
+    "hospital_name": "WILLIAMSON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://williamsonhealth.org/content/uploads/2024/12/621501534_williamson-medical-center_standardcharges.csv",
+    "transparency_page": "https://williamsonhealth.org/patients-and-visitors/patient-information/patient-financial-information/"
+  },
+  {
+    "detail_id": "b95a2c25-771a-499f-ac00-a89472caf3a0",
+    "ccn": "",
+    "hospital_name": "WOODRIDGE PSYCHIATRIC HOSPITAL",
+    "address": "",
+    "file_url": "https://www.balladhealth.org/site-files/620476282_JOHNSON-CITY-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.balladhealth.org/patients-visitors/price-estimator-standard-charges"
+  }
+]

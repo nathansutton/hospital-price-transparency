@@ -1,56 +1,222 @@
-## Hospital Price transparency
+# Hospital Price Transparency
 
-The Centers for Medicare and Medicaid Services recently required hospitals under  [45 CFR §180.50](https://www.federalregister.gov/d/2019-24931/p-1010) to publish a [list of prices](https://www.cms.gov/hospital-price-transparency) on their websites.  They specifically instruct hospitals to make these lists...
-- As a comprehensive machine-readable file with all items and services.   
-- In a display of shoppable services in a consumer-friendly format.  
+[![URL Validation](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/scrape.yml/badge.svg)](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/scrape.yml)
+[![Tests](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/test.yml/badge.svg)](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/test.yml)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-There is a lot of variation in adherence to these policies.  Without strong guidance on formatting from CMS, it is no wonder hospitals are all over the map on formatting.  Many hospitals have complied with the new rules but in ways that are not consumer friendly.  500 Megabytes of JSON data is not a strong start!
+Automated scraper for hospital price transparency data, collecting standardized pricing information from hospitals across (eventually) 50 US states.
 
-[Turquoise Health](https://turquoise.health/) has created a consumer-friendly lookup tool to interactively look up reported prices in different hospital systems. __This repository fills the gap with open data for researchers and data people.__
+## The Problem: Disappearing Data
 
-### Supplied Data
+Hospital price transparency files are required by law, but they're ephemeral. Hospitals update or replace their files without notice, and there's no official archive. When a hospital changes their prices, the old data vanishes. This makes it impossible to:
 
-Each hospital is identified by the NPI.
+- Track how prices change over time
+- Analyze trends in healthcare pricing
+- Hold hospitals accountable to their published rates
+- Research the effects of price transparency regulations
 
-A jsonlines file is create and tracked over time with version control according to the excellent pattern set out by [@simonw](https://github.com/simonw/ca-fires-history/tree/main).
+## The Solution: Git as a Time Machine
+
+This project uses [git-scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)—a technique pioneered by Simon Willison—to create a living archive of hospital pricing data. By committing scraped data to git on a regular schedule, we get:
+
+**Version Control as a Database**
+- Every commit is a snapshot of hospital prices at a point in time
+- `git log data/VT/470011.jsonl` shows the complete price history for a hospital
+- `git diff` reveals exactly what changed between any two dates
+
+**Slowly Changing Dimension (Type 2)**
+- New prices are captured without destroying old data
+- The git history preserves the full timeline
+- You can reconstruct prices as of any historical date using `git checkout`
+
+**Free, Distributed Storage**
+- GitHub hosts the archive at no cost
+- Anyone can fork and maintain their own copy
+- Data survives even if hospitals take down their files
+
+### Example: Tracking Price Changes
+
+```bash
+# See all price changes for a hospital
+git log --oneline data/VT/470011.jsonl
+
+# Compare prices between two dates
+git diff abc123..def456 data/VT/470011.jsonl
+
+# Get prices as they were on a specific date
+git checkout $(git rev-list -n 1 --before="2025-06-01" HEAD) -- data/VT/470011.jsonl
+```
+
+## Overview
+
+The Centers for Medicare and Medicaid Services requires hospitals under [45 CFR §180.50](https://www.federalregister.gov/d/2019-24931/p-1010) to publish [machine-readable price lists](https://www.cms.gov/hospital-price-transparency). This project automates the collection and normalization of this data for research purposes.
+
+**Current Coverage:** 20 states with hospital URLs sourced from [hospitalpricingfiles.org](https://hospitalpricingfiles.org)
+
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/nathansutton/hospital-price-transparency.git
+cd hospital-price-transparency
+
+# Install uv (if not already installed)
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# Install dependencies
+uv sync
+
+# Validate all URLs are accessible
+uv run python scripts/scrape.py --validate-only
+
+# Scrape a single state
+uv run python scripts/scrape.py --state VT
+
+# Scrape all states
+uv run python scripts/scrape.py
+```
+
+## Data Format
+
+Each hospital's data is stored as a JSONL file in `data/{STATE}/{CCN}.jsonl`:
+
+```json
+{"cpt": "99213", "type": "cash", "price": 89.50}
+{"cpt": "99213", "type": "gross", "price": 150.00}
+{"cpt": "99214", "type": "cash", "price": 125.00}
+{"cpt": "99214", "type": "gross", "price": 210.00}
+```
+
+| Field | Description |
+|-------|-------------|
+| `cpt` | CPT/HCPCS procedure code (5 alphanumeric characters) |
+| `type` | Price type: `cash` (self-pay discounted) or `gross` (chargemaster) |
+| `price` | Price in USD |
+
+## CLI Usage
+
+```bash
+# Scrape all states
+uv run python scripts/scrape.py
+
+# Scrape specific state
+uv run python scripts/scrape.py --state NC
+
+# Scrape specific hospital by CCN
+uv run python scripts/scrape.py --ccn 340001
+
+# Validate URLs only (no scraping)
+uv run python scripts/scrape.py --validate-only
+
+# Dry run (fetch and parse but don't save)
+uv run python scripts/scrape.py --dry-run
+
+# Verbose logging
+uv run python scripts/scrape.py -v
+
+# Generate summary from status files
+uv run python scripts/generate_summary.py
+```
+
+## Architecture
 
 ```
-{"cpt":"0031A","cash":12.8,"gross":56.53}
-```
-- __cpt__: the code from the AMA that corresponds to this billed service
-- __gross__: this is often the top line item that the hospital never actually charges  
-- __cash__: this is the self-pay discounted price you would pay without insurance
-
-
-### Ontology
-
-We rely on the excellent work of the [Athena](https://athena.ohdsi.org/) vocabulary to define the ontology of healthcare procedures.  This maps [CPT](https://www.ama-assn.org/practice-management/cpt) and [HCPCS](https://www.cms.gov/Medicare/Coding/MedHCPCSGenInfo) codes into a [common data model](https://github.com/OHDSI/CommonDataModel).
-
-The disadvantage with this normalization is that we exclude the hospital-specific items such as their room and board charges. For example, 'deluxe single' does not confer the same charge in different hospital systems.
-
-
-### Coverage
-
-I am starting in CBSA's in Southern Appalachia.
-- Asheville, NC
-- Johnson City, TN
-- Knoxville, TN
-- Chattanooga, TN
-
-### A word of caution
-
-I took great care to make the data generation process reproducible inside of a docker container. However, I sacrificed some scalability for the name of speed of development. There are some [excellent examples]((https://github.com/vsoch/hospital-chargemaster/blob/master/hospitals.tsv)) how you could scrape your way through this to complete automation. I introduced a manual step of downloading a file and naming it by my generated hospital ID. All other transformations are codified and reproducible in the container.
-
-## Where to go from here
-I will use these data as a launching point to investigate questions around the economics of hospital prices. The New York Times had a great quote in their recent article ['Hospitals and Insurers Didn't Want You to See These Prices. Here's Why'](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html?smid=url-share).
-
-```
-The trade association for insurers said it was "an anomaly" that some insured patients got worse prices than those paying cash.
+hospital-price-transparency/
+├── src/
+│   ├── scrapers/          # Strategy pattern: format-specific scrapers
+│   │   ├── base.py        # Abstract base class
+│   │   ├── cms_json_scraper.py  # CMS standard JSON
+│   │   ├── cms_csv_scraper.py   # CMS standard CSV
+│   │   ├── cms_xlsx_scraper.py  # Excel format
+│   │   └── registry.py    # Factory pattern for scraper selection
+│   ├── normalizers/       # CPT code normalization
+│   ├── utils/             # HTTP client, logging
+│   ├── models.py          # Pydantic data models
+│   └── config.py          # Configuration management
+├── scripts/
+│   ├── scrape.py          # Main CLI entry point
+│   └── generate_summary.py # Status aggregation
+├── dim/
+│   └── urls/              # Hospital URLs by state (*.json)
+├── data/                  # Output: data/{STATE}/{CCN}.jsonl
+├── status/                # Status tracking: status/{STATE}.csv
+└── tests/                 # Unit tests
 ```
 
-__This seems like an excellent question for data people to answer.__
+## How Git-Scraping Works
 
+1. **Daily Schedule**: GitHub Actions runs the validator daily at 8 AM UTC
+2. **URL Validation**: Each state's hospital URLs are checked for accessibility
+3. **Status Tracking**: Results are saved to `status/{STATE}.csv`
+4. **Auto-Commit**: Changes are committed back to the repository
+5. **History Preserved**: Git maintains the complete history of all changes
 
-### Contact
+The scraper itself can be run manually or on your own schedule to capture full price data. Each run creates a new snapshot in git history.
 
-Submit an issue if you find anything inconsistent.  Like all data products, we make assumptions and provide no warrantee.  
+## Coverage
+
+| Region | States |
+|--------|--------|
+| Northeast | CT, MA, NH, NJ, NY, PA, RI, VT |
+| Southeast | AL, DE, FL, GA, KY, MD, NC, SC, TN, VA, WV |
+| Southwest | TX |
+
+## Development
+
+```bash
+# Install dependencies (includes dev tools)
+uv sync
+
+# Run tests
+uv run pytest tests/ -v
+
+# Run type checking
+uv run mypy src/
+
+# Run linter
+uv run ruff check src/
+
+# Format code
+uv run ruff format src/
+```
+
+## Ontology
+
+We use the [OHDSI Athena](https://athena.ohdsi.org/) vocabulary to normalize CPT and HCPCS codes to a common data model. This ensures consistent procedure identification across hospital systems.
+
+**Note:** Hospital-specific items (e.g., room types, facility fees) are excluded as they don't map to standard codes.
+
+## Research Questions
+
+This data enables investigation of healthcare pricing economics:
+
+> "The trade association for insurers said it was 'an anomaly' that some insured patients got worse prices than those paying cash."
+> — [NYT, August 2021](https://www.nytimes.com/interactive/2021/08/22/upshot/hospital-prices.html)
+
+**Open questions:**
+- How often do cash prices beat negotiated insurance rates?
+- What is the variance in prices for common procedures across hospitals?
+- How have prices changed since transparency requirements took effect?
+- Which hospitals have raised or lowered prices since the mandate?
+
+## Related Projects
+
+- [Simon Willison's Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) - The technique this project uses
+- [Turquoise Health](https://turquoise.health/) - Consumer-friendly price lookup tool
+- [OHDSI Athena](https://athena.ohdsi.org/) - Healthcare vocabulary browser
+- [Hospital Chargemaster](https://github.com/vsoch/hospital-chargemaster) - Alternative scraping approach
+
+## License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Run tests (`uv run pytest tests/`)
+5. Submit a pull request
+
+Issues and pull requests welcome!

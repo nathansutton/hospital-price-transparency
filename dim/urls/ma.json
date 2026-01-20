@@ -1,0 +1,914 @@
+[
+  {
+    "detail_id": "f2dc02b9-0c2f-459e-8995-fe586ac60472",
+    "ccn": "220062",
+    "hospital_name": "ADCARE HOSPITAL OF WORCESTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "241c7757-1d78-4308-94c1-f9ac358ac4da",
+    "ccn": "220029",
+    "hospital_name": "ANNA JAQUES HOSPITAL",
+    "address": "",
+    "file_url": "https://ajh.org/832671600_anna-jaques-hospital_standardcharges.json",
+    "transparency_page": "https://ajh.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "05e776f1-c301-4cdc-b108-e5dfec237dae",
+    "ccn": "224013",
+    "hospital_name": "ARBOUR HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232238962_arbour_standardcharges.csv",
+    "transparency_page": "https://arbourhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "3cd6a115-34bc-413a-9460-6590ecb5ab72",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "29321c81-4a24-4aba-94d8-5ad9d6862d87",
+    "ccn": "",
+    "hospital_name": "BALDPATE TREATMENT CENTER",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "3a1afe13-78e4-4080-8739-69226dafa7b7",
+    "ccn": "220016",
+    "hospital_name": "BAYSTATE FRANKLIN MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn1-originals.webdamdb.com/13686_164608648?cache=1761101966&response-content-disposition=inline;filename=042103575_baystate-franklin-medical-center_standardcharges.csv&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTM2ODZfMTY0NjA4NjQ4P2NhY2hlPTE3NjExMDE5NjYmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9MDQyMTAzNTc1X2JheXN0YXRlLWZyYW5rbGluLW1lZGljYWwtY2VudGVyX3N0YW5kYXJkY2hhcmdlcy5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0MTQ0MDB9fX1dfQ__&Signature=mC8IU~9RbkcDRD9WLzDbGglSH5wG3MDbLMWHIGIeheeP-2~6fA5azoWrDWLabk0bKtyq2LDbenofoTR6iOCBGyuJSIfh1XrD4SoQ42HK6rjPh1KuxxNN4dNkrO08BOeI~Y6sFsWoynsdn2r6YUzUduakp5d-KfgLr7O4gFb~Tfg3037z3a6LZvKk5Ydp6QIsCpexA9UMOoqQ0yrymTVuDnMegya4bjZtaKeh2O4T4OLFhJoa~LkBCCSITRATXSdzHKw8llNQOnwwTU3Tu9Y8a66whpLqZzP19nkZIsMl~Gt1iyvYcyZl72rxjvb0sYaQcw8aZrmHr1bq2wA~ZD3AmA__&Key-Pair-Id=APKAI2ASI2IOLRFF2RHA",
+    "transparency_page": "https://www.baystatehealth.org/patients-and-visitors/healthcare-prices-and-billing/hospital-standard-charges"
+  },
+  {
+    "detail_id": "d122b8a3-a5b6-48d6-be92-1879cfe5d3ad",
+    "ccn": "220077",
+    "hospital_name": "BAYSTATE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://cdn1-originals.webdamdb.com/13686_164608649?cache=1761101984&response-content-disposition=inline;filename=1487655064_baystate-medical-center_standardcharges.csv&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTM2ODZfMTY0NjA4NjQ5P2NhY2hlPTE3NjExMDE5ODQmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9MTQ4NzY1NTA2NF9iYXlzdGF0ZS1tZWRpY2FsLWNlbnRlcl9zdGFuZGFyZGNoYXJnZXMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDE0NDAwfX19XX0_&Signature=V188su~~IK~zL5aGOQOG5U3Vmvk33QlZhAz~W5U61OOH5lWdt-qOSARoO0OUZje08L2nw8meR1SrWQL5cD1pynmNHjfLiyguQPsfrUBHC--bCnX5epqt~BDU-SKpOv0PrXLhs-Z93udaOMUfCV3geJtNeGb~tZNloMTmMdsUOKbxX21qXMkk7yfILiv1F-dhAMwv3JR2GKFKgkuvMIXyVj-ySQamjmj-5BWZvDWnPVY2OVX13A5yWppzxSbG8TWWcxl4DOBDFPF60F3GIPv1R9bxUEdcwjsNqkgX~wynSUOpyeLdT~jE5Gt4UoMzuHu5nsGqI4NIVkrMCB3qDKSSaQ__&Key-Pair-Id=APKAI2ASI2IOLRFF2RHA",
+    "transparency_page": "https://www.baystatehealth.org/patients-and-visitors/healthcare-prices-and-billing/hospital-standard-charges"
+  },
+  {
+    "detail_id": "909cf6dc-9483-460c-9e56-e908f9ac480b",
+    "ccn": "220065",
+    "hospital_name": "BAYSTATE NOBLE HOSPITAL",
+    "address": "",
+    "file_url": "https://cdn1-originals.webdamdb.com/13686_164608646?cache=1761101956&response-content-disposition=inline;filename=222537423_baystate-noble-hospital_standardcharges.csv&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTM2ODZfMTY0NjA4NjQ2P2NhY2hlPTE3NjExMDE5NTYmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9MjIyNTM3NDIzX2JheXN0YXRlLW5vYmxlLWhvc3BpdGFsX3N0YW5kYXJkY2hhcmdlcy5jc3YiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0MTQ0MDB9fX1dfQ__&Signature=dPo9BcIcxmadfkmKWBKGtwZ4p2R6HigGi7vYg8m8ziTvtPlDqR0nT6Fj6c6cy0NxMM1u5KnbSPnPiVrOngKtX2eiH0V-SWy0PcO~5ZKwQh0a2hemgbx7Sfw6b-0Vd-fGnCW0He783226F6tMBAs6aqrQLBqhAaVorRekOZ5KGo43IrnOvI8RDsUHsnv-F0T-b5sl3QjLnITaEmsZWnRMHkknaEXojU5fUm8DkEXro83SsXNwznYNPwcXHiMOlNC8aMeRTDyy3Yz~Ymd39R9kapYHuSLY0z2Q5dSQQK1ToO7DWLcEYQJelsK4vRs8PPTrWl~oeZlZq9eyxcWpsH~~eQ__&Key-Pair-Id=APKAI2ASI2IOLRFF2RHA",
+    "transparency_page": "https://www.baystatehealth.org/patients-and-visitors/healthcare-prices-and-billing/hospital-standard-charges"
+  },
+  {
+    "detail_id": "dba6efea-14ee-47c7-8947-0620a8b2b1ea",
+    "ccn": "220030",
+    "hospital_name": "BAYSTATE WING HOSPITAL",
+    "address": "",
+    "file_url": "https://cdn1-originals.webdamdb.com/13686_164608645?cache=1761101951&response-content-disposition=inline;filename=222519813_baystate-wing-hospital-and-medical-centers_standardcharges.csv&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTM2ODZfMTY0NjA4NjQ1P2NhY2hlPTE3NjExMDE5NTEmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9MjIyNTE5ODEzX2JheXN0YXRlLXdpbmctaG9zcGl0YWwtYW5kLW1lZGljYWwtY2VudGVyc19zdGFuZGFyZGNoYXJnZXMuY3N2IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDE0NDAwfX19XX0_&Signature=btMFFQMo6uX09IAPUpP9sFXNUeGsWaq~ZnEME-8m~JGUqLoG2Nzr7y8YhfPD74xe-xakM2EacQQAiBkVk0fluNsDGIWnkIAWLC6Jk-Ky9bvhRsAQi8P5PIObpF3mUrYSDBQuneDY-mBkdO9KVEE2ece4v6fUz74N1D~jZFw~KBFfBlAOhDIy9I-jOH0fKzEjrZ3XSCSY3neyVZrYnorGFeM1YpsqT0QM6dhZ39N835CtFkhZHrfBxySbYyjnM-p0H8hxq0kq0h7xRrAZCFXX~83es-bkxL4mFaEVBRTEd-~z~A9r-3vaS~KbHXRrrokVyc9DznLGsEtp8fkiGNEXLA__&Key-Pair-Id=APKAI2ASI2IOLRFF2RHA",
+    "transparency_page": "https://www.baystatehealth.org/patients-and-visitors/healthcare-prices-and-billing/hospital-standard-charges"
+  },
+  {
+    "detail_id": "d9589c38-dfc9-4256-8556-f42cf5f6da8b",
+    "ccn": "220046",
+    "hospital_name": "BERKSHIRE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://bhs-publicdownload.s3.us-east-1.amazonaws.com/Public/042791396_Berkshire-Medical-Center_StandardCharges.csv",
+    "transparency_page": "https://www.berkshirehealthsystems.org/patient-journey/billing-and-finances/"
+  },
+  {
+    "detail_id": "fb8b8292-70ad-440e-892d-6bb5a7d13e1d",
+    "ccn": "220108",
+    "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL MILTON",
+    "address": "",
+    "file_url": "https://bidmilton.org/042103604_beth-israel-deaconess-hospital-milton-inc_standardcharges.json",
+    "transparency_page": "https://bidmilton.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "fbe01049-5101-467d-a486-96995232d229",
+    "ccn": "220083",
+    "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL NEEDHAM",
+    "address": "",
+    "file_url": "https://bidneedham.org/043229679_beth-israel-deaconess-hospital---needham_standardcharges.json",
+    "transparency_page": "https://bidneedham.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "0e32843a-ac5a-4c5b-923b-376d6d12e10f",
+    "ccn": "220060",
+    "hospital_name": "BETH ISRAEL DEACONESS HOSPITAL PLYMOUTH",
+    "address": "",
+    "file_url": "https://bidplymouth.org/222667354_beth-israel-deaconess-hospital---plymouth_standardcharges.json",
+    "transparency_page": "https://bidplymouth.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "571e5bc5-deb0-4687-b528-b3add3eb93c2",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e6b435fd-a46e-4084-ac59-1de89b21fd0a",
+    "ccn": "220086",
+    "hospital_name": "BETH ISRAEL DEACONESS MEDICAL CENTER - WEST CAMPUS",
+    "address": "",
+    "file_url": "https://www.bidmc.org/042103881_beth-israel-deaconess-medical-center_standardcharges.json",
+    "transparency_page": "https://www.bidmc.org/patient-and-visitor-information/patient-information/your-hospital-bill/price-transparency"
+  },
+  {
+    "detail_id": "53d89688-f8c9-4328-be26-4235fdc5ebd4",
+    "ccn": "220033",
+    "hospital_name": "BEVERLY HOSPITAL",
+    "address": "",
+    "file_url": "https://beverlyhospital.org/042121317_beverly-hospital-corporation_standardcharges.json",
+    "transparency_page": "https://beverlyhospital.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "14dca775-23d2-4c37-ae81-685bd746cf73",
+    "ccn": "",
+    "hospital_name": "BEVERLY HOSPITAL ADDISON GILBERT CAMPUS",
+    "address": "",
+    "file_url": "https://beverlyhospital.org/042121317_beverly-hospital-corporation_standardcharges.json",
+    "transparency_page": "https://beverlyhospital.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "5946f7fd-e156-4c37-8c9d-3d5a011872fb",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "5dfbfc78-3228-48b7-9941-b0b6ee33abba",
+    "ccn": "223302",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Longwood_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "e0aafb57-c026-4b21-82ef-393aa250007a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "0add4c78-284a-4124-bdcf-bb8b45ac8eaf",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL MARTHA ELIOT HEALTH CENTER",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Martha-Eliot_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "4585dcf9-2b47-43dc-81a7-bea496fcd2a5",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL NORTH DARTMOUTH",
+    "address": "500 FAUNCE CORNER ROAD, BUILDING 200",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-North-Dartmouth_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "c6f158de-c804-4370-b8c3-fda1c30a0bd0",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL PEABODY",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Peabody_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "2677a55b-0148-4723-995f-ad4cc4ab9d78",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL WALTHAM",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Waltham_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "5288046b-7bb0-4e1b-a574-75409aec3644",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S HOSPITAL WEYMOUTH",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Weymouth_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "834393c6-6988-452c-a970-7d69e657f5d1",
+    "ccn": "",
+    "hospital_name": "BOSTON CHILDREN'S LEXINGTON",
+    "address": "",
+    "file_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2025/04-2774441_Boston-Childrens-Lexington_StandardCharges.zip",
+    "transparency_page": "https://www.childrenshospital.org/patient-resources/about-boston-childrens/financial-billing-matters/resources-self-service/hospital-services-and-charges"
+  },
+  {
+    "detail_id": "512bf239-953b-469c-a2ef-e7c812a606f0",
+    "ccn": "220031",
+    "hospital_name": "BOSTON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.bmchealthsystem.org/wp-content/uploads/043314093_BostonMedicalCenter_standardcharges.csv.zip",
+    "transparency_page": "https://www.bmchealthsystem.org/pricing-and-estimates"
+  },
+  {
+    "detail_id": "bbc5cd35-baa2-4d0d-80be-ce7c2f08f69a",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a460b382-e0cb-4c89-a466-e90d401d6d2c",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "51513b18-cbd3-4f1e-80bf-eab82cd1d6fa",
+    "ccn": "224022",
+    "hospital_name": "BOURNEWOOD HEALTH SYSTEMS",
+    "address": "",
+    "file_url": "https://www.bournewood.com/wp-content/uploads/2025/09/PRICE_TRANSPARENCY.csv",
+    "transparency_page": "https://www.bournewood.com/resources/price-transparency-payments/"
+  },
+  {
+    "detail_id": "50a6fd99-aace-4961-aa9b-3cdd19ed8080",
+    "ccn": "220119",
+    "hospital_name": "BRIGHAM AND WOMEN'S FAULKNER HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042768256_Brigham-and-Womens-Faulkner-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.brighamandwomensfaulkner.org/patients-and-families/cms-required-hospital-charge-data"
+  },
+  {
+    "detail_id": "faf1c42f-2178-4baa-ae92-91cf4feaa912",
+    "ccn": "220110",
+    "hospital_name": "BRIGHAM AND WOMEN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042312909_Brigham-and-Womens-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.brighamandwomens.org/patients-and-families/patients/insurance-billing-payment/hospital-charge-data"
+  },
+  {
+    "detail_id": "9c3cbd70-355a-4b6e-8f94-12bed1bbdd8e",
+    "ccn": "",
+    "hospital_name": "CAMBRIDGE HEALTH ALLIANCE - SOMERVILLE CAMPUS",
+    "address": "",
+    "file_url": "https://drive.google.com/file/d/1lqSqEXM85fLpCyoSLDcHs2rKxKJP09_z/view?usp=drive_link",
+    "transparency_page": "https://www.challiance.org/patients-visitors/prices"
+  },
+  {
+    "detail_id": "6fa75cae-7481-47fb-8ae7-97b1129ff4e7",
+    "ccn": "220012",
+    "hospital_name": "CAPE COD HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/a16f9943c0c5339d45cf998407ed7372/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/a16f9943c0c5339d45cf998407ed7372/"
+  },
+  {
+    "detail_id": "8be093e5-3b5a-49e2-8d3b-fa0277ae31a4",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "587710ba-c81f-4805-b2e2-acdcd6815203",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "ba8dc513-0959-46a8-913a-5ee935456460",
+    "ccn": "220015",
+    "hospital_name": "COOLEY DICKINSON HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/222617175_Cooley-Dickinson-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.cooleydickinson.org/billing-insurance/cms-required-hospital-charge-data/"
+  },
+  {
+    "detail_id": "4ab9a798-f7cf-4145-a3c4-661068f621ba",
+    "ccn": "220162",
+    "hospital_name": "DANA-FARBER CANCER INSTITUTE",
+    "address": "",
+    "file_url": "https://dfci.widen.net/content/759njv3uoe/original/04-2263040_dana-farber-cancer-institute_standardcharges.json?u=rnuji5&download=true",
+    "transparency_page": "https://www.dana-farber.org/patient-family/becoming-our-patient/insurance-financial-information/charges"
+  },
+  {
+    "detail_id": "d41b4cf9-2148-46aa-8313-fd651ec6205c",
+    "ccn": "220084",
+    "hospital_name": "EMERSON HOSPITAL",
+    "address": "",
+    "file_url": "https://emersonhealth.org/wp-content/uploads/2025/03/EmersonHospital_standardcharges.csv?",
+    "transparency_page": "https://emersonhealth.org/patients-visitors/insurance-financial/standard-charges-and-price-transparency/"
+  },
+  {
+    "detail_id": "a93cbfc9-8314-4dc3-b891-39306a9ec57d",
+    "ccn": "223030",
+    "hospital_name": "ENCOMPASS HEALTH HOSPITAL OF WESTERN MASS",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/04-2987822_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Western%20Massachusetts_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/westernmassrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "d72549b8-71c8-4ecb-9e0b-68dd73f559dc",
+    "ccn": "",
+    "hospital_name": "ENCOMPASS HEALTH NEW ENGLAND REHABILITATION AT BEVERLY",
+    "address": "800 CUMMINGS CENTER, 1ST FL, UNIT147",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/901015581_Encompass-Health-Rehabilitation-Hospital-of-New-England-at-Beverly_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/new-england-rehab-beverly/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "567c6e27-51f1-4aad-b54f-138e8d13b0b3",
+    "ccn": "225777",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION AT LOWELL",
+    "address": "1071 VARNUM AVENUE, GROUND FLOOR",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/901015581-encompass-health-rehabilitation-hospital-of-new-england-at-lowell-standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/newenglandrehab-lowell/transparency-healthcare"
+  },
+  {
+    "detail_id": "70b6a0e2-e532-4611-8db4-0c9edc9d1a36",
+    "ccn": "223026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/901015581_Encompass-Health-Rehabilitation-Hospital-of-New-England_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/new-england-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "34f6158b-61b0-44e1-a419-684404dedce7",
+    "ccn": "223027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF BRAINTREE",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/90-1015323_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Braintree_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/braintreerehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "dc672a03-f28f-45cc-b6f4-197bad97de40",
+    "ccn": "",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF BRAINTREE-FRAMINGHAM",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/901015323_Encompass-Health-Rehabilitation-Hospital-of-Braintree-at-Framingham_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/braintree-rehab-framingham/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "698baa52-158b-44cf-88d8-261deb69acc7",
+    "ccn": "223029",
+    "hospital_name": "FAIRLAWN REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/04-2948290_Fairlawn%20Rehabilitation%20Hospital%20an%20affiliate%20of%20Encompass%20Health%20_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/fairlawnrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "8aebc021-c55d-4c8e-bf7d-fa1f0b66bac8",
+    "ccn": "221302",
+    "hospital_name": "FAIRVIEW HOSPITAL",
+    "address": "",
+    "file_url": "https://bhs-publicdownload.s3.us-east-1.amazonaws.com/Public/042133860_Fairview-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.berkshirehealthsystems.org/patient-journey/billing-and-finances/"
+  },
+  {
+    "detail_id": "914e9755-c611-456c-9071-6b9f95aa84c6",
+    "ccn": "220135",
+    "hospital_name": "FALMOUTH HOSPITAL",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/e5a4e40451be555f35c2ffce7fee51ce/charges/mrf",
+    "transparency_page": "https://www.capecodhealth.org/patients-visitors/paying-for-care/understanding-pricing/estimate-the-cost-of-care/"
+  },
+  {
+    "detail_id": "3ae1ca96-723b-4421-a85f-d6563a7a23ce",
+    "ccn": "220175",
+    "hospital_name": "FRAMINGHAM UNION HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621861200_MetroWestMedicalCenterFramingham_standardcharges.json",
+    "transparency_page": "https://www.mwmc.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "04dc47d9-9c90-4393-8775-2e6f60ba987f",
+    "ccn": "223300",
+    "hospital_name": "FRANCISCAN HOSPITAL FOR CHILDREN",
+    "address": "",
+    "file_url": "https://franciscanchildrens.org/wp-content/uploads/2025/06/042156082_Franciscan_Hospital_for_Children_Standardsharges.csv",
+    "transparency_page": "https://franciscanchildrens.org/standard-charges-shoppable-services/"
+  },
+  {
+    "detail_id": "3357c3f6-c8b5-45b4-907e-da4d7b9d52bf",
+    "ccn": "224021",
+    "hospital_name": "FULLER HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232801395_fuller_standardcharges.csv",
+    "transparency_page": "https://fullerhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "9f11d789-dbc5-4271-a215-10b492b3317e",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "9826c6ab-2576-4dad-9f22-e8dab5b0bddd",
+    "ccn": "222007",
+    "hospital_name": "HEBREW REHABILITATION CENTER",
+    "address": "",
+    "file_url": "https://www.hebrewseniorlife.org/sites/default/files/2024-10/042104298_hebrew-rehabilitation-center-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hebrewseniorlife.org/locations/hebrew-rehabilitation-center/financial-information"
+  },
+  {
+    "detail_id": "2baa5ac3-cf54-4272-836b-989c49ed3f7e",
+    "ccn": "",
+    "hospital_name": "HEBREW REHABILITATION CENTER AT NEWBRIDGE",
+    "address": "",
+    "file_url": "https://www.hebrewseniorlife.org/sites/default/files/2024-10/042104298_hebrew-rehabilitation-center-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hebrewseniorlife.org/locations/hebrew-rehabilitation-center/financial-information"
+  },
+  {
+    "detail_id": "1fe8f4f4-56f4-4993-874a-b8cfeb0b5250",
+    "ccn": "220095",
+    "hospital_name": "HEYWOOD HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/HeywoodHealthcare/042103581_heywood-hospital_standardcharges.json",
+    "transparency_page": "https://mrfs.hyvehealthcare.com/HeywoodHealthcare/"
+  },
+  {
+    "detail_id": "4f9722f7-2d87-459b-b068-600960ebfc06",
+    "ccn": "220024",
+    "hospital_name": "HOLYOKE MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.holyokehealth.com/22-2520073_holyoke-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.holyokehealth.com/patients-visitors/cost-for-care/"
+  },
+  {
+    "detail_id": "293b05c0-1ea7-40cd-9dee-5019b3000bc3",
+    "ccn": "224045",
+    "hospital_name": "HOSPITAL FOR BEHAVIORAL MEDICINE",
+    "address": "",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/1ea81f1b-4f1e-44b3-95f2-98519fe92de6/83-1339862_HospitalforBehavioralMedicine_StandardCharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=1ea81f1b-4f1e-44b3-95f2-98519fe92de6"
+  },
+  {
+    "detail_id": "a640e767-b523-4deb-9f23-7de8ec780b98",
+    "ccn": "224018",
+    "hospital_name": "HRI HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232238958_hri_standardcharges.csv",
+    "transparency_page": "https://hrihospital.com/standard-services-2/"
+  },
+  {
+    "detail_id": "128b1a6d-6616-4b3c-8525-a8ecadaf0556",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "85fa30a6-610b-41c9-9f46-c589c0d4b70f",
+    "ccn": "",
+    "hospital_name": "LAHEY MEDICAL CENTER - PEABODY",
+    "address": "",
+    "file_url": "https://www.lahey.org/042704686_lahey-hospital-medical-center-burlington_standardcharges.json",
+    "transparency_page": "https://www.lahey.org/patients-visitors/billing-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "2d38e979-da4c-4b56-9eb3-fbd989217d90",
+    "ccn": "220070",
+    "hospital_name": "LAWRENCE MEMORIAL HOSPITAL OF MEDFORD",
+    "address": "",
+    "file_url": "https://www.tuftsmedicine.org/sites/default/files/2025-02/042767880_melrosewakefieldhealthcare_standardcharges.csv.zip",
+    "transparency_page": "https://www.tuftsmedicine.org/get-care/cost-estimate"
+  },
+  {
+    "detail_id": "ee4ab832-5107-4f85-80e3-a2a89e11e350",
+    "ccn": "",
+    "hospital_name": "LEONARD MORSE HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621861200_MetroWestMedicalCenterNatick_standardcharges.json",
+    "transparency_page": "https://www.mwmc.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "977a00e7-2005-4604-93eb-55e5169425dd",
+    "ccn": "220063",
+    "hospital_name": "LOWELL GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tuftsmedicine.org/sites/default/files/2025-01/042103590_lowellgeneralhospital_standardcharges.csv.zip",
+    "transparency_page": "https://www.tuftsmedicine.org/get-care/cost-estimate"
+  },
+  {
+    "detail_id": "d93ab622-c7a5-4bd1-bb87-a0566c59ed62",
+    "ccn": "220082",
+    "hospital_name": "LOWELL GENERAL - SAINTS CAMPUS",
+    "address": "",
+    "file_url": "https://www.tuftsmedicine.org/sites/default/files/2025-01/042103590_lowellgeneralhospital_standardcharges.csv.zip",
+    "transparency_page": "https://www.tuftsmedicine.org/get-care/cost-estimate"
+  },
+  {
+    "detail_id": "c92aaaf1-3422-49a5-95d7-25fbcf11f5f1",
+    "ccn": "220049",
+    "hospital_name": "MARLBOROUGH HOSPITAL",
+    "address": "",
+    "file_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/042104693_marlborough-hospital_standardcharges.csv",
+    "transparency_page": "https://www.ummhealth.org/patients-visitors/price-transparency-marlborough"
+  },
+  {
+    "detail_id": "0a1c142e-b329-458b-9a99-ceabaec352b1",
+    "ccn": "221300",
+    "hospital_name": "MARTHA'S VINEYARD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042104691_Marthas-Vineyard-Hospital_StandardCharges.zip",
+    "transparency_page": "https://mvhospital.org/patients_and_visitor/patient-billing/"
+  },
+  {
+    "detail_id": "38dcca4a-c956-441e-96e5-1d2da4a7a6cc",
+    "ccn": "220075",
+    "hospital_name": "MASSACHUSETTS EYE AND EAR INFIRMARY",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042103591_Massachusetts-Eye-and-Ear_StandardCharges.zip",
+    "transparency_page": "https://www.masseyeandear.org/billing/charge-listing"
+  },
+  {
+    "detail_id": "deab2612-d7cb-4d81-9691-b98c8feddd1b",
+    "ccn": "220071",
+    "hospital_name": "MASSACHUSETTS GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042697983_Massachusetts-General-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.massgeneral.org/notices/billing/cms-required-hospital-charge-data"
+  },
+  {
+    "detail_id": "ade54320-3ff2-4972-b40c-3b003d1b6de6",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "c148833f-3896-40f7-8072-2e9b8e778b6d",
+    "ccn": "224007",
+    "hospital_name": "MCLEAN HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042697981_McLean-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.mcleanhospital.org/patients-families/billing-financial-assistance"
+  },
+  {
+    "detail_id": "abca839f-abf8-4cc0-9770-b659a433ad22",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "39bd0f54-c106-4fa1-acd1-1d5d5236d29a",
+    "ccn": "220070",
+    "hospital_name": "MELROSE WAKEFIELD HOSPITAL",
+    "address": "",
+    "file_url": "https://www.tuftsmedicine.org/sites/default/files/2025-02/042767880_melrosewakefieldhealthcare_standardcharges.csv.zip",
+    "transparency_page": "https://www.tuftsmedicine.org/get-care/cost-estimate"
+  },
+  {
+    "detail_id": "7666404a-462d-441a-bed6-497e58dc71da",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e83dfea7-3a4a-4b34-a44c-80231aa0b0cf",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "eb5623d2-d02b-4940-b844-da230bbc739b",
+    "ccn": "220010",
+    "hospital_name": "MERRIMACK HEALTH LAWRENCE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.lawrencegeneral.org/LawrenceGeneral/media/PDF-Docs/042103586_LawerenceGeneralHospital_standardcharges.csv",
+    "transparency_page": "https://www.lawrencegeneral.org/your-visit/billing-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "012c0d9e-fd5f-4f27-b2a4-b7029377dc6a",
+    "ccn": "220080",
+    "hospital_name": "MERRIMACK HEALTH METHUEN HOSPITAL",
+    "address": "",
+    "file_url": "https://holyfamilyhospital.org/994230642_HolyFamilyHospital_standardcharges.csv.zip",
+    "transparency_page": "https://holyfamilyhospital.org/about-us/billing/price-transparency/"
+  },
+  {
+    "detail_id": "3627f44f-a083-4182-a023-31e29b02b647",
+    "ccn": "220090",
+    "hospital_name": "MILFORD REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.milfordregional.org/app/files/public/7ab23dec-7e3c-482d-998f-1da1bfd1c282/04-2103602_Milford-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.milfordregional.org/patients-visitors/patient-financial-services/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "3b00c2cc-2819-4148-8f41-9664335a4450",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "2dc0e4c0-384c-470e-91af-cbfc7d18f28d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "b7869e58-f746-4646-ac3e-520c65952554",
+    "ccn": "220002",
+    "hospital_name": "MOUNT AUBURN HOSPITAL",
+    "address": "",
+    "file_url": "https://mountauburnhospital.org/042103606_mount-auburn-hospital_standardcharges.json",
+    "transparency_page": "https://mountauburnhospital.org/patients-visitors/billing-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "df0c6cee-3197-4e16-bc39-689b16c1d128",
+    "ccn": "220177",
+    "hospital_name": "NANTUCKET COTTAGE HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042103823_Nantucket-Cottage-Hospital_StandardCharges.zip",
+    "transparency_page": "https://nantuckethospital.org/patients-visitors/billing-insurance/cms-required-hospital-charge-data/"
+  },
+  {
+    "detail_id": "90d19a1f-b1b9-492c-8b02-79209a3a73aa",
+    "ccn": "220088",
+    "hospital_name": "NEW ENGLAND BAPTIST HOSPITAL",
+    "address": "",
+    "file_url": "https://nebh.org/042103612_new-england-baptist-hospital_standardcharges.json",
+    "transparency_page": "https://onlinepatientestimation.com/PatientPortal/site/NewEnglandBaptist"
+  },
+  {
+    "detail_id": "b7bb13fb-1b91-41a3-b107-091ddad3a63c",
+    "ccn": "220101",
+    "hospital_name": "NEWTON WELLESLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042103611_Newton-Wellesley-Hospital_StandardCharges.zip",
+    "transparency_page": "https://www.nwh.org/patients-and-visitors/billing-and-records/cms-required-hospital-charge-data"
+  },
+  {
+    "detail_id": "5d103b0d-ed0f-4be2-9226-a993fbb1c8ee",
+    "ccn": "",
+    "hospital_name": "NORTH ADAMS REGIONAL HOSPITAL",
+    "address": "",
+    "file_url": "https://bhs-publicdownload.s3.us-east-1.amazonaws.com/Public/932484732_North-Adams-Regional-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.berkshirehealthsystems.org/patient-journey/billing-and-finances/"
+  },
+  {
+    "detail_id": "a3a4c252-955f-42b3-9586-432abdfee83c",
+    "ccn": "222002",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF STOUGHTON",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9961/812244858_curahealth-stoughton-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthSpecialtyHospitalofStoughton/9961"
+  },
+  {
+    "detail_id": "965bfcd4-3a80-49bf-8a7c-2cd9228078c6",
+    "ccn": "224023",
+    "hospital_name": "PEMBROKE HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233061361_pembroke_standardcharges.csv",
+    "transparency_page": "https://pembrokehospital.com/standard-services/"
+  },
+  {
+    "detail_id": "60908787-dc88-44be-a65d-f5ea1c207bc3",
+    "ccn": "220020",
+    "hospital_name": "SAINT ANNE'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.brownhealth.org/sites/default/files/2025-04/994841947_Saint-Annes-Hospital_standardcharges.zip",
+    "transparency_page": "https://www.brownhealth.org/locations/saint-annes-hospital/patient-cost-estimates"
+  },
+  {
+    "detail_id": "50ea37cb-e2ea-4894-9e75-d9197dc7ed9f",
+    "ccn": "220074",
+    "hospital_name": "SHG CHARLTON MEMORIAL",
+    "address": "",
+    "file_url": "https://www.southcoast.org/wp-content/uploads/222592333_charlton-memorial-hospital_standardcharges.zip",
+    "transparency_page": "https://www.southcoast.org/for-patients-visitors/for-patients/care-charges/"
+  },
+  {
+    "detail_id": "00dc951d-d437-4024-bb6d-455327941c02",
+    "ccn": "220021",
+    "hospital_name": "SHG ST. LUKE'S HOSPITAL",
+    "address": "",
+    "file_url": "https://www.southcoast.org/wp-content/uploads/222592333_st-lukes-hospital_standardcharges.zip",
+    "transparency_page": "https://www.southcoast.org/for-patients-visitors/for-patients/care-charges/"
+  },
+  {
+    "detail_id": "57c6aacf-adc0-487f-9b1b-ed8edb3c1e99",
+    "ccn": "",
+    "hospital_name": "SHG TOBEY HOSPITAL",
+    "address": "",
+    "file_url": "https://www.southcoast.org/wp-content/uploads/222592333_tobey-hospital_standardcharges.zip",
+    "transparency_page": "https://www.southcoast.org/for-patients-visitors/for-patients/care-charges/"
+  },
+  {
+    "detail_id": "9a781ef5-fd4c-4337-9bb4-0c4807fa7523",
+    "ccn": "223304",
+    "hospital_name": "SHRINERS CHILDREN'S BOSTON",
+    "address": "",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/5d6a84d4f230a462dcbfb58cb3d84c2a/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/5d6a84d4f230a462dcbfb58cb3d84c2a"
+  },
+  {
+    "detail_id": "dc3900c8-0193-45a4-a7ea-3a14d6761f2f",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "14661103-9178-4a0d-ba61-42625ab29488",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "cd3610ca-93e7-460b-ad51-67985fe0a05f",
+    "ccn": "220100",
+    "hospital_name": "SOUTH SHORE HOSPITAL",
+    "address": "",
+    "file_url": "https://d18unesthp5g3j.cloudfront.net/www.southshorehealth.org/assets/2025-04/042769210_south-shore-hospital_standardcharges.json?VersionId=PYJ84ydlSZ0Ed_d7JMfHIviVUbJ2Zj1.",
+    "transparency_page": "https://www.southshorehealth.org/patient-resources/billing-insurance/pricing-information"
+  },
+  {
+    "detail_id": "2b384f0e-07f7-44a6-915e-c3fd932beaa8",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6a1c6a24-11b6-47a8-8db4-20480844c22c",
+    "ccn": "",
+    "hospital_name": "SPAULDING REHABILITATION HOSPITAL BOSTON",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/042551124_Spaulding-Rehabilitation-Hospital-Boston_StandardCharges.zip",
+    "transparency_page": "https://spauldingrehab.org/patient-support/insurance-billing/hospital-charge-data"
+  },
+  {
+    "detail_id": "566bb91d-7f26-4713-986b-82f7809db57a",
+    "ccn": "",
+    "hospital_name": "SPAULDING REHABILITATION HOSPITAL CAPE COD",
+    "address": "",
+    "file_url": "https://www.massgeneralbrigham.org/content/dam/mgb-global/en/price-transparency/043071419_Spaulding-Rehabilitation-Hospital-Cape-Cod_StandardCharges.zip",
+    "transparency_page": "https://spauldingrehab.org/patient-support/insurance-billing/hospital-charge-data"
+  },
+  {
+    "detail_id": "e19d6051-8194-4aae-ba69-c34b7356edac",
+    "ccn": "220008",
+    "hospital_name": "STURDY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.sturdyhealth.org/app/files/public/1c200832-86f8-4295-b5a2-038937879590/04-2768252_Sturdy-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.sturdyhealth.org/patients-visitors/billing-insurance/"
+  },
+  {
+    "detail_id": "1c368b22-f64c-4f98-85f8-47574c3b7309",
+    "ccn": "220176",
+    "hospital_name": "ST VINCENT HOSPITAL",
+    "address": "",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621861198_SaintVincentHospital_standardcharges.json",
+    "transparency_page": "https://www.stvincenthospital.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "b7ddf570-d99f-4889-9a32-e8254432da15",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "dcf2c065-30f7-40a5-9940-426caf941faf",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "e67619b9-51a9-42d4-9dee-79dd4019c4ab",
+    "ccn": "220058",
+    "hospital_name": "UMASS MEMORIAL HEALTH ALLIANCE - CLINTON HOSPITAL",
+    "address": "",
+    "file_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/042103555_umass-memorial-healthalliance-clinton-hospital-inc._standardcharges.csv",
+    "transparency_page": "https://www.ummhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "b1b24519-4c65-405c-b47b-50b9393ae9b8",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "6b08465c-bedc-46b6-8740-4a52e53f98fc",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "da6125f4-c79c-4738-a541-63b66a112718",
+    "ccn": "220019",
+    "hospital_name": "UMASS MEMORIAL HOSPITAL - HARRINGTON HOSPITAL",
+    "address": "",
+    "file_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/042103577_umass-memorial-health-harrington-hospital-inc._standardcharges.csv",
+    "transparency_page": "https://www.ummhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "b383b172-2667-4c8a-ab03-6f150b0d91d4",
+    "ccn": "223504",
+    "hospital_name": "UMASS MEMORIAL MEDICAL CENTER - MEMORIAL CAMPUS",
+    "address": "",
+    "file_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/043358564_umass-memorial-medical-center-inc._standardcharges.csv",
+    "transparency_page": "https://www.ummhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "8aa3ae8a-207d-426d-8471-b36764cc2e55",
+    "ccn": "220163",
+    "hospital_name": "UMASS MEMORIAL MEDICAL CENTER - UNIVERSITY CAMPUS",
+    "address": "",
+    "file_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/043358564_umass-memorial-medical-center-inc._standardcharges.csv",
+    "transparency_page": "https://www.ummhealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "ab8b330a-c344-420d-9442-d4f959289e2e",
+    "ccn": "222043",
+    "hospital_name": "VIBRA HOSPITAL OF SOUTHEASTERN MASSACHUSETTS",
+    "address": "",
+    "file_url": "https://vhmass.com/wp-content/uploads/sites/35/2025/09/030501978_vibra-hospital-of-SE-Mass_standardcharges.csv",
+    "transparency_page": "https://vhmass.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "e7f1aab8-48f7-412f-9451-c06654806183",
+    "ccn": "222046",
+    "hospital_name": "VIBRA HOSPITAL OF WESTERN MASS CENTRAL CAMPUS",
+    "address": "",
+    "file_url": "https://vhwmasscentral.com/wp-content/uploads/sites/37/2025/09/462623626_vibra-hospital-of-central-mass_standardcharges.csv",
+    "transparency_page": "https://vhwmasscentral.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "ee6ef37b-d5d9-4b8b-a524-5ae1d80ad596",
+    "ccn": "224038",
+    "hospital_name": "WALDEN BEHAVIORAL CARE",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "17bda1ff-fa03-494f-9e8f-90927ef27201",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "11e8b2b3-bec3-46bf-b018-b0c91c393ffa",
+    "ccn": "222048",
+    "hospital_name": "WHITTIER REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "https://www.whittierhealth.com/wp-content/uploads/2025/10/043158154_WhittierRehabWestboroLTACH_standardcharges2026.csv",
+    "transparency_page": "https://www.whittierhealth.com/about-whittier-health-network/whittier-rehabilitation-hospitals-pricing-transparency/"
+  },
+  {
+    "detail_id": "a7d494e5-0c7e-404c-b2ad-6483900fe6d8",
+    "ccn": "",
+    "hospital_name": "WHITTIER REHABILITATION HOSPITAL BRADFORD",
+    "address": "",
+    "file_url": "https://www.whittierhealth.com/wp-content/uploads/2025/10/510487386_WhittierRehabBradfordLTACH_standardcharges2026.csv",
+    "transparency_page": "https://www.whittierhealth.com/about-whittier-health-network/whittier-rehabilitation-hospitals-pricing-transparency/"
+  },
+  {
+    "detail_id": "3eb3cda9-e2a3-4524-8832-986253e9366f",
+    "ccn": "220105",
+    "hospital_name": "WINCHESTER HOSPITAL",
+    "address": "",
+    "file_url": "https://winchesterhospital.org/042104434_winchester-hospital_standardcharges.json",
+    "transparency_page": "https://winchesterhospital.org/patients-visitors/billing-financial-services/price-transparency"
+  }
+]

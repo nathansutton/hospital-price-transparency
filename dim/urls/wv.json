@@ -1,0 +1,514 @@
+[
+  {
+    "detail_id": "11a58726-1682-4412-a135-ee5c30c18ff6",
+    "ccn": "510062",
+    "hospital_name": "BECKLEY ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/03/520795508_Beckley-ARH-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "5a2bef10-2cdc-41b8-9561-b4b1b3d9e9d4",
+    "ccn": "510008",
+    "hospital_name": "BERKELEY MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550383321_cityhospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "904cefe9-3ed1-4de9-a316-080da2575b4f",
+    "ccn": "511313",
+    "hospital_name": "BOONE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.bmh.org/wp-content/uploads/2025/07/550477361_boone-memorial-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.bmh.org/price-transparency/"
+  },
+  {
+    "detail_id": "484473cf-6cd6-4c96-b2d1-6f39d93f6a99",
+    "ccn": "511308",
+    "hospital_name": "BRAXTON COUNTY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550611919_braxtoncountymemorialhospital_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "8787863f-e383-4ea0-b74e-1463661201a5",
+    "ccn": "511300",
+    "hospital_name": "BROADDUS HOSPITAL",
+    "address": "",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8554/550379108_broaddus-hospital-association-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BroaddusHospital/8554"
+  },
+  {
+    "detail_id": "b6177049-05fd-422b-94fd-aadef5362b21",
+    "ccn": "510055",
+    "hospital_name": "CABELL HUNTINGTON HOSPITAL",
+    "address": "",
+    "file_url": "https://cabellhuntington.org/static/550675666_Cabell-Huntington-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://cabellhuntington.org/customer-service/standard-charges"
+  },
+  {
+    "detail_id": "dcf80708-412c-425e-b173-25f277afe0c0",
+    "ccn": "511317",
+    "hospital_name": "CAMC PLATEAU MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://app.box.com/shared/static/1svcrgrw1d974394fmj4u6apwjvroabr.csv",
+    "transparency_page": "https://www.camc.org/patients-and-visitors/billing-insurance-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "e6789264-1dbe-4cdb-ac58-75b63150e01c",
+    "ccn": "510058",
+    "hospital_name": "CAMDEN CLARK MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/311524546_camdenclarkmemorialhospitalcorporation_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "d7683a86-165f-410d-be5e-64984a2a2d21",
+    "ccn": "510022",
+    "hospital_name": "CHARLESTON AREA MEDICAL CENTER GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://app.box.com/shared/static/y534x7a9gxod71l5foc744p7oayukztk.csv",
+    "transparency_page": "https://www.camc.org/patients-and-visitors/billing-insurance-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "78f38660-8b5d-4d79-984b-ec61b10b979f",
+    "ccn": "510022",
+    "hospital_name": "CHARLESTON AREA MEDICAL CENTER MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://app.box.com/shared/static/y534x7a9gxod71l5foc744p7oayukztk.csv",
+    "transparency_page": "https://www.camc.org/patients-and-visitors/billing-insurance-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "84aff522-de7e-46af-9ddc-a999954c719e",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "4f319b69-be0b-4d68-802a-6213d248f695",
+    "ccn": "",
+    "hospital_name": "CHARLESTON AREA MEDICAL CENTER WOMEN AND CHILDREN'S HOSPITAL",
+    "address": "",
+    "file_url": "https://app.box.com/shared/static/y534x7a9gxod71l5foc744p7oayukztk.csv",
+    "transparency_page": "https://www.camc.org/patients-and-visitors/billing-insurance-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "8b82637d-3087-43a6-b20d-77688a3b5452",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "1b6ea781-a80e-4e7c-ab0e-4dd6d9316a3c",
+    "ccn": "512003",
+    "hospital_name": "CORNERSTONE SPECIALTY HOSPITALS HUNTINGTON",
+    "address": "2900 FIRST AVENUE, 2E",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=j069Xw1cvZyaZPqfxqpO3Q*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=j069Xw1cvZyaZPqfxqpO3Q*-*"
+  },
+  {
+    "detail_id": "342d387e-3523-4fa5-9c3d-f812ef4d03aa",
+    "ccn": "510030",
+    "hospital_name": "DAVIS MEDICAL CENTER",
+    "address": "812 GORMAN AVENUE, PO BOX 1484",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8555/550375433_davis-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DavisMedicalCenter/8555"
+  },
+  {
+    "detail_id": "55fdb00e-a0e5-4e28-a5fb-54afa5b85214",
+    "ccn": "513028",
+    "hospital_name": "ENCOMPASS HEALTH REHAB HOSPITAL OF HUNTINGTON",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/62-1178229_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Huntington_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/huntingtonrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "278f7ae4-833f-4a0a-9745-c3b2678a923c",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a579340f-97ff-4586-a37e-3fbd295fe4c8",
+    "ccn": "",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MORGANTOWN AT BRIDGEPORT",
+    "address": "",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/550670907_Encompass-Health-Rehabilitation-Hospital-of-Morgantown-at-Bridgeport_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/bridgeport-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "5860ed46-5ab2-469c-8393-e157e3c3bc6b",
+    "ccn": "513027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF PARKERSBURG",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/23-2655290_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Parkersburg_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/parkersburgrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "f5ec7af5-e89f-4624-94eb-e0f3e1edd317",
+    "ccn": "513026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF PRINCETON",
+    "address": "",
+    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/23-2655290_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Princeton_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/princetonrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "3b132a3a-5db2-4fc4-9492-d05e9ee54bc8",
+    "ccn": "",
+    "hospital_name": "FAIRMONT MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550643304_westvirginiauniversityhospitalsinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "759d0280-2e2e-4109-a9f0-4d8e4d1e87a0",
+    "ccn": "511307",
+    "hospital_name": "GRAFTON CITY HOSPITAL",
+    "address": "",
+    "file_url": "https://graftoncityhospital.pg.quadax.revenuemasters.com/cdm-files/556000526_grafton-city-hospital_standardcharges.csv",
+    "transparency_page": "https://monhealthmedicalcenter.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "0c113cde-41a4-431e-a0fe-21bdcb1bb8bd",
+    "ccn": "511316",
+    "hospital_name": "GRANT MEMORIAL HOSPITAL",
+    "address": "117 HOSPITAL DRIVE, P O BOX 1019",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/881740605_grantmemorialhospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "d832130c-9143-4bc5-89f8-7fbe13e4f294",
+    "ccn": "510002",
+    "hospital_name": "GREENBRIER VALLEY MEDICAL CENTER",
+    "address": "1320 MAPLEWOOD AVENUE, PO BOX 497",
+    "file_url": "https://app.box.com/shared/static/mccwy2agpps5ere185fo6hg7oiw5wka4.csv",
+    "transparency_page": "https://www.camc.org/patients-and-visitors/billing-insurance-and-financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "b1d3eeda-d34f-4beb-af76-298bb52221ec",
+    "ccn": "511311",
+    "hospital_name": "HAMPSHIRE MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.valleyhealthlink.com/documents/208241398_hampshire-memorial-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.valleyhealthlink.com/patients-visitors/for-patients/billing-information/request-a-patient-cost-estimate/price-transparency/"
+  },
+  {
+    "detail_id": "c0deabf4-f9e3-407f-8905-5b802fa5bc4c",
+    "ccn": "514011",
+    "hospital_name": "HIGHLAND-CLARKSBURG HOSPITAL INC",
+    "address": "",
+    "file_url": "https://www.highlandclarksburghospital.com/_files/ugd/4deb26_c957f80984274f76a1e1ba8a07fb8992.csv?dn=Price%20Transparency%20Machine%20Readable%20File%20of%20Standard%20Charges.csv",
+    "transparency_page": "https://www.highlandclarksburghospital.com/price-transparency"
+  },
+  {
+    "detail_id": "aa1e1d9c-79e1-48b9-9550-2b7cf7596080",
+    "ccn": "514001",
+    "hospital_name": "HIGHLAND HOSPITAL",
+    "address": "",
+    "file_url": "https://highlandhosp.com/wp-content/uploads/2024/12/85-1266867_Highland-Hospital_standardcharges.csv",
+    "transparency_page": "https://highlandhosp.com/price-transparency"
+  },
+  {
+    "detail_id": "e19d6468-529f-4f42-8bde-87220793e88f",
+    "ccn": "511320",
+    "hospital_name": "JACKSON GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550462730_communityhealthassociation_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "79d63353-b824-4f6e-b1d0-22c0ecd81bd1",
+    "ccn": "511319",
+    "hospital_name": "JEFFERSON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550359755_jeffersonmemorialhospital_standarcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "71ca07ac-4ba4-4e24-b958-282cf687cdc9",
+    "ccn": "510001",
+    "hospital_name": "JW RUBY MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550643304_westvirginiauniversityhospitalsinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "cd15e247-84d0-41a2-9361-e0195bd6d212",
+    "ccn": "510048",
+    "hospital_name": "LOGAN REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=ONe08OU5VouZQeeOlB0azA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=ONe08OU5VouZQeeOlB0azA*-*"
+  },
+  {
+    "detail_id": "8de0bab9-f6d4-4aa1-bcaf-bad694847bee",
+    "ccn": "514009",
+    "hospital_name": "MILDRED MITCHELL-BATEMAN HOSPITAL",
+    "address": "",
+    "file_url": "http://www.batemanhospital.org/556000784MildredMitchellBatemanstandardcharges.csv",
+    "transparency_page": "http://www.batemanhospital.org/"
+  },
+  {
+    "detail_id": "a52d18f9-20bf-4d88-b20d-9f95179d5573",
+    "ccn": "511303",
+    "hospital_name": "MINNIE HAMILTON HEALTH CARE CENTER",
+    "address": "",
+    "file_url": "http://machine-readable-files.com/minnie-hamilton-health-care-center/550629032_Minnie-Hamilton-Health-Systems_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Minnie-Hamilton-Health-Care-Center"
+  },
+  {
+    "detail_id": "9d724412-3b92-45ff-8a3a-57fd1279cfdd",
+    "ccn": "",
+    "hospital_name": "MON HEALTH MARION NEIGHBORHOOD HOSPITAL",
+    "address": "",
+    "file_url": "https://marionneighborhoodhospital.pg.quadax.revenuemasters.com/cdm-files/853994078_mon-health-marion-neighborhood-hospital_standardcharges.csv",
+    "transparency_page": "https://marionneighborhoodhospital.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "c227387d-c62a-4751-853d-7afc2248ed17",
+    "ccn": "510024",
+    "hospital_name": "MON HEALTH MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://monhealthmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/237441353_mon-health-medical-center_standardcharges.csv",
+    "transparency_page": "https://monhealthmedicalcenter.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "b5a4943d-ab22-4efa-b70e-bab8bb906d42",
+    "ccn": "510038",
+    "hospital_name": "MON HEALTH STONEWALL JACKSON HOSPITAL",
+    "address": "",
+    "file_url": "https://stonewalljacksonhospital.pg.quadax.revenuemasters.com/cdm-files/550422958_stonewall-jackson-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://stonewalljacksonhospital.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "baab1e4e-0124-4409-821c-7c494899150d",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "95abae0e-ad4a-4c6b-9970-9056b461ec0e",
+    "ccn": "513025",
+    "hospital_name": "PETERSON REHABILITATION HOSPITAL",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "a4f9b312-cc7c-4d28-b960-417616170749",
+    "ccn": "511314",
+    "hospital_name": "POCAHONTAS MEMORIAL HOSPITAL",
+    "address": "150 DUNCAN RD, RR BOX 52 WEST",
+    "file_url": "https://machine-readable-files.com/pocahontas-memorial-hospital/556000381_Pocahontas-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.hospitalpricelists.org/Pocahontas-Memorial-Hospital"
+  },
+  {
+    "detail_id": "f8cb12bd-ca95-4be1-8689-f20043a25ed1",
+    "ccn": "511315",
+    "hospital_name": "POTOMAC VALLEY HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550420956_potomacvalleyhospitalofwvinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "04bd3bfa-4f11-4eab-addb-eeee2b88efad",
+    "ccn": "511312",
+    "hospital_name": "PRESTON MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://prestonmemorialhospital.pg.quadax.revenuemasters.com/cdm-files/311097818_preston-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://prestonmemorialhospital.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "d0142982-8257-4567-97d9-741f2564bcd7",
+    "ccn": "510046",
+    "hospital_name": "PRINCETON COMMUNITY HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550483245_princetoncommunityhospitalassninc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "6f2cf667-f3e5-4475-b0aa-2b807c3316be",
+    "ccn": "510070",
+    "hospital_name": "RALEIGH GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://www.raleighgeneral.com/docs/ahraleighgeneralhospitallibraries/hcl/mrf2q25/550261260_raleigh-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.raleighgeneral.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "d9d0bd0f-351f-4734-9d9f-12fd1cff3349",
+    "ccn": "510013",
+    "hospital_name": "REYNOLDS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550357045_reynoldsmemorialhospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "2479e7c4-e6ff-4bac-a207-ab0a008e557c",
+    "ccn": "514008",
+    "hospital_name": "RIVER PARK HOSPITAL",
+    "address": "",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/202652863_river-park_standardcharges.csv",
+    "transparency_page": "https://riverparkhospital.net/standard-services/"
+  },
+  {
+    "detail_id": "776ce1f1-9f33-405b-8ba5-d4212d3827fa",
+    "ccn": "510012",
+    "hospital_name": "RIVERS HEALTH REGIONAL HEALTH CENTER",
+    "address": "",
+    "file_url": "https://machine-readable-files.com/rivers-health/550440086_Rivers-Health_standardcharges.csv",
+    "transparency_page": "https://www.ezcost.info/rivers-health"
+  },
+  {
+    "detail_id": "aa309a28-6724-4c2d-a24e-0986994ab717",
+    "ccn": "511306",
+    "hospital_name": "ROANE GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://pricetransparency.blob.core.windows.net/roane/550484469_Hospital-Development-Co_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/roane"
+  },
+  {
+    "detail_id": "b11ffa6a-b7f7-4f5b-9c0a-bfb980eb19a4",
+    "ccn": "510031",
+    "hospital_name": "SAINT FRANCIS HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/10/260440674_thomas_memorial_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "4aa1c72a-a077-45cd-9ba2-e394e846c569",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "835d4d2b-5b32-448f-bf95-990874972988",
+    "ccn": "512004",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - MORGANTOWN",
+    "address": "",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/83-3761916_LTACH_Morgantown_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "46437d96-4d15-40c4-83c9-d87167bd0323",
+    "ccn": "512005",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - WEIRTON",
+    "address": "601 COLLIERS WAY, 9TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/36-4575640_Acuity_Specialty_Hospital-Ohio_Valley_Weirton_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "904351bd-a6b8-4ee5-a788-1c77c2e8702a",
+    "ccn": "",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - WHEELING",
+    "address": "500 MEDICAL PARK, 2ND FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/36-4575640_Acuity_Specialty_Hospital-Ohio_Valley_Wheeling_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "38b7aad8-9141-42e5-b117-c2edfbce30ef",
+    "ccn": "511304",
+    "hospital_name": "SISTERSVILLE GENERAL HOSPITAL",
+    "address": "",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=ezKKe3b8wfY6RicI20GCow*-*",
+    "transparency_page": "https://www.mhsystem.org/patient-visitors/price-list/"
+  },
+  {
+    "detail_id": "08b010fe-0a35-49b8-8cf9-459a7a572105",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "90759291-108f-4997-ba16-07ef8267a94d",
+    "ccn": "510007",
+    "hospital_name": "ST MARY'S MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://www.st-marys.org/static/550357050_St-Marys-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.st-marys.org/patients-and-visitors/billing/standard-charges/"
+  },
+  {
+    "detail_id": "6f3de96c-b035-4a50-8b77-1443902cfc95",
+    "ccn": "511310",
+    "hospital_name": "SUMMERS COUNTY ARH HOSPITAL",
+    "address": "",
+    "file_url": "https://www.arh.org/wp-content/uploads/2025/05/520795508_Summers-County-ARH-Hospital.standardcharges.csv",
+    "transparency_page": "https://www.arh.org/price-transparency"
+  },
+  {
+    "detail_id": "b1c74676-16c0-47f8-bfc7-a37b2ba1b2db",
+    "ccn": "511322",
+    "hospital_name": "SUMMERSVILLE REGIONAL MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550650441_westvirginiahealthcarecooperativeinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "4eddae26-f717-4597-8ee0-c2d9c9e42cb0",
+    "ccn": "510029",
+    "hospital_name": "THOMAS MEMORIAL HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/10/260440674_thomas_memorial_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "d68c5ba2-b831-4532-ac9a-d0a4a3652446",
+    "ccn": "510006",
+    "hospital_name": "UNITED HOSPITAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550525724_unitedhospitalcenterinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "0c3317d8-8cc9-40ed-9891-c4ad53c213c8",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "04c6d712-b583-4c09-a441-cf2bff546730",
+    "ccn": "",
+    "hospital_name": "SUBSCRIBE FOR UPDATES",
+    "address": "",
+    "file_url": "",
+    "transparency_page": ""
+  },
+  {
+    "detail_id": "be669ba9-5ef7-41e2-95af-d839f41c52de",
+    "ccn": "510023",
+    "hospital_name": "WEIRTON MEDICAL CENTER",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/01/2.29.24-Weirton-Medical-Center-price-transparency-file.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "45b2ef5b-4b5e-4dbb-aab5-6dc4eba90273",
+    "ccn": "510072",
+    "hospital_name": "WETZEL COUNTY HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/843480493_wetzelcountyhospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "79d9211d-57c8-4ecf-9883-fb6cf2127f53",
+    "ccn": "510050",
+    "hospital_name": "WHEELING HOSPITAL",
+    "address": "",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/550357057_wheelinghospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  }
+]
