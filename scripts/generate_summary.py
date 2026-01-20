@@ -12,8 +12,6 @@ Usage:
 import csv
 import json
 import sys
-from collections import defaultdict
-from datetime import datetime, timezone
 from pathlib import Path
 
 import click
@@ -104,7 +102,16 @@ def write_summary_csv(status_dir: Path, summaries: list[dict]) -> Path:
     # Sort by state code
     summaries = sorted(summaries, key=lambda s: s["state"])
 
-    fieldnames = ["state", "total", "success", "failed", "skipped", "success_rate", "records", "last_run"]
+    fieldnames = [
+        "state",
+        "total",
+        "success",
+        "failed",
+        "skipped",
+        "success_rate",
+        "records",
+        "last_run",
+    ]
 
     with open(summary_file, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -129,7 +136,6 @@ def write_badge_json(status_dir: Path, summaries: list[dict]) -> Path:
     # Compute totals
     total_hospitals = sum(s["total"] for s in summaries)
     total_success = sum(s["success"] for s in summaries)
-    total_records = sum(s["records"] for s in summaries)
 
     overall_rate = (total_success / total_hospitals * 100) if total_hospitals > 0 else 0.0
 
@@ -201,7 +207,9 @@ def main(status_dir: Path | None) -> None:
     click.echo("\n" + "=" * 70)
     click.echo("Summary by State:")
     click.echo("-" * 70)
-    click.echo(f"{'State':<8} {'Total':>8} {'Success':>8} {'Failed':>8} {'Rate':>10} {'Records':>12}")
+    click.echo(
+        f"{'State':<8} {'Total':>8} {'Success':>8} {'Failed':>8} {'Rate':>10} {'Records':>12}"
+    )
     click.echo("-" * 70)
 
     total_hospitals = 0

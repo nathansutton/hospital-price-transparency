@@ -23,7 +23,7 @@ Usage:
 
 import csv
 import sys
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import click
@@ -81,7 +81,7 @@ def write_state_status(
         for hospital, result in results:
             writer.writerow(
                 {
-                    "date": datetime.now(timezone.utc).isoformat(),
+                    "date": datetime.now(UTC).isoformat(),
                     "ccn": hospital.ccn,
                     "hospital": hospital.hospital,
                     "status": result.status.value,
@@ -98,7 +98,9 @@ def write_state_status(
 
 
 @click.command()
-@click.option("--state", "-s", default=None, help="Scrape only hospitals from this state (e.g., VT)")
+@click.option(
+    "--state", "-s", default=None, help="Scrape only hospitals from this state (e.g., VT)"
+)
 @click.option("--ccn", default=None, help="Scrape only the hospital with this CCN")
 @click.option("--validate-only", is_flag=True, help="Only validate URLs, don't scrape")
 @click.option("--dry-run", is_flag=True, help="Fetch and parse but don't save files")

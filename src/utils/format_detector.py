@@ -291,6 +291,7 @@ def analyze_content(
     content_stripped = content_str.strip()
     if content_stripped.startswith("{") or content_stripped.startswith("["):
         import json
+
         try:
             data = json.loads(content_str)
             schema = detect_json_schema(data)

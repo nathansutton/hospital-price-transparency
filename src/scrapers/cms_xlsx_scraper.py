@@ -74,7 +74,7 @@ class CMSStandardXLSXScraper(CMSStandardCSVScraper):
         df = pd.read_excel(
             io.BytesIO(xlsx_bytes),
             sheet_name=0,  # First sheet
-            header=None,   # No header - let parent class handle skiprows
+            header=None,  # No header - let parent class handle skiprows
             dtype=str,
             keep_default_na=False,
             engine="openpyxl",

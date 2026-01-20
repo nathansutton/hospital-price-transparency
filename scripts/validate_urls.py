@@ -24,7 +24,6 @@ from urllib.parse import urljoin, urlparse
 
 import click
 import pandas as pd
-import requests
 from bs4 import BeautifulSoup
 
 # Add project root to path for imports
@@ -95,7 +94,7 @@ def main(
             }
 
             if accessible:
-                click.echo(f"  ✓ File URL: OK")
+                click.echo("  ✓ File URL: OK")
             else:
                 click.echo(f"  ✗ File URL: {status_msg}")
 
@@ -105,7 +104,7 @@ def main(
                     result["parent_accessible"] = parent_ok
 
                     if parent_ok:
-                        click.echo(f"  → Parent URL: OK")
+                        click.echo("  → Parent URL: OK")
 
                         # Try to discover updated file URL
                         if discover:
@@ -129,7 +128,9 @@ def main(
     total = len(df)
 
     click.echo("=" * 60)
-    click.echo(f"Summary: {accessible_count}/{total} URLs accessible ({accessible_count/total*100:.1f}%)")
+    click.echo(
+        f"Summary: {accessible_count}/{total} URLs accessible ({accessible_count / total * 100:.1f}%)"
+    )
 
     failed = df[~df["url_accessible"]]
     if not failed.empty:
@@ -164,7 +165,7 @@ def discover_file_url(
 
         # Parse the original URL to understand what we're looking for
         original_parsed = urlparse(original_url)
-        original_filename = Path(original_parsed.path).name.lower()
+        _ = Path(original_parsed.path).name.lower()  # For future use
 
         # Look for links that might be the price file
         candidates = []

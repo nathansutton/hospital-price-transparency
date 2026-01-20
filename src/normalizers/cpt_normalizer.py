@@ -133,7 +133,9 @@ class CPTNormalizer:
         if rename and gross_col and cash_col and cpt_col:
             df["gross"] = df[gross_col]
             df["cash"] = df[cash_col]
-            df["concept_code"] = df[cpt_col].apply(lambda x: self.strip_leading_zero(str(x).strip()))
+            df["concept_code"] = df[cpt_col].apply(
+                lambda x: self.strip_leading_zero(str(x).strip())
+            )
             df["vocabulary_id"] = "cpt"
 
         # Ensure required columns exist

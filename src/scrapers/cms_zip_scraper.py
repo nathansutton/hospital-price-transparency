@@ -51,16 +51,10 @@ class CMSStandardZIPScraper(CMSStandardCSVScraper):
         # Extract CSV from ZIP
         with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
             # Find CSV files in the archive
-            csv_files = [
-                name for name in zf.namelist()
-                if name.lower().endswith('.csv')
-            ]
+            csv_files = [name for name in zf.namelist() if name.lower().endswith(".csv")]
 
             if not csv_files:
-                raise ValueError(
-                    f"No CSV file found in ZIP archive. "
-                    f"Contents: {zf.namelist()}"
-                )
+                raise ValueError(f"No CSV file found in ZIP archive. Contents: {zf.namelist()}")
 
             # Use the first CSV file (most archives have only one)
             csv_filename = csv_files[0]
@@ -74,7 +68,7 @@ class CMSStandardZIPScraper(CMSStandardCSVScraper):
 
             # Extract and decode the CSV
             csv_bytes = zf.read(csv_filename)
-            csv_text = csv_bytes.decode('utf-8')
+            csv_text = csv_bytes.decode("utf-8")
 
             self.logger.debug(
                 "csv_extracted",

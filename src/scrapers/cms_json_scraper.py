@@ -275,12 +275,14 @@ class CMSStandardJSONScraper(BaseScraper):
                         continue
                     codes_seen.add(key)
 
-                    records.append({
-                        "vocabulary_id": vocab_id,
-                        "concept_code": code,
-                        "gross": gross,
-                        "cash": cash,
-                    })
+                    records.append(
+                        {
+                            "vocabulary_id": vocab_id,
+                            "concept_code": code,
+                            "gross": gross,
+                            "cash": cash,
+                        }
+                    )
             except Exception as e:
                 parse_errors += 1
                 if parse_errors <= 10:  # Log first 10 errors
@@ -299,8 +301,10 @@ class CMSStandardJSONScraper(BaseScraper):
             unique_codes=len(codes_seen),
         )
 
-        return pd.DataFrame(records) if records else pd.DataFrame(
-            columns=["vocabulary_id", "concept_code", "gross", "cash"]
+        return (
+            pd.DataFrame(records)
+            if records
+            else pd.DataFrame(columns=["vocabulary_id", "concept_code", "gross", "cash"])
         )
 
 
@@ -309,4 +313,5 @@ class HyveCMSJSONScraper(CMSStandardJSONScraper):
 
     Uses the same CMS 2.0 format as CMSStandardJSONScraper.
     """
+
     pass  # Same implementation as parent

@@ -61,8 +61,6 @@ class ScraperConfig(BaseModel):
         return self.dim_dir / "CONCEPT.csv.gz"
 
 
-
-
 def _parse_row_to_config(row_dict: dict) -> HospitalConfig:
     """Parse a row dict into a HospitalConfig.
 

@@ -60,7 +60,9 @@ class CMSStandardCSVScraper(BaseScraper):
 
         # Normalize column names: strip whitespace around pipes and lowercase
         # CMS 3.0 uses "code | 1 | type" while 2.0 uses "code|1|type"
-        df.columns = [col.replace(" | ", "|").replace("| ", "|").replace(" |", "|") for col in df.columns]
+        df.columns = [
+            col.replace(" | ", "|").replace("| ", "|").replace(" |", "|") for col in df.columns
+        ]
 
         self.logger.debug("csv_columns", columns=list(df.columns)[:20])
 
@@ -107,16 +109,20 @@ class CMSStandardCSVScraper(BaseScraper):
             # Create a record for each valid code
             for code, code_type in codes:
                 vocab_id = "cpt" if code_type in ("CPT", "CPT4") else "hcpcs"
-                records.append({
-                    "vocabulary_id": vocab_id,
-                    "concept_code": code,
-                    "gross": gross,
-                    "cash": cash,
-                })
+                records.append(
+                    {
+                        "vocabulary_id": vocab_id,
+                        "concept_code": code,
+                        "gross": gross,
+                        "cash": cash,
+                    }
+                )
 
         self.logger.debug("cms_csv_parsed", records=len(records))
-        return pd.DataFrame(records) if records else pd.DataFrame(
-            columns=["vocabulary_id", "concept_code", "gross", "cash"]
+        return (
+            pd.DataFrame(records)
+            if records
+            else pd.DataFrame(columns=["vocabulary_id", "concept_code", "gross", "cash"])
         )
 
 
@@ -125,4 +131,5 @@ class TennovaCMSCSVScraper(CMSStandardCSVScraper):
 
     Tennova files follow the CMS standard CSV format.
     """
+
     pass  # Same implementation as parent
