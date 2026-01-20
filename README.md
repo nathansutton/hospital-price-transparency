@@ -1,7 +1,7 @@
 # Hospital Price Transparency
 
-[![URL Validation](https://github.com/YOUR_USERNAME/hospital-price-transparency/actions/workflows/scrape.yml/badge.svg)](https://github.com/YOUR_USERNAME/hospital-price-transparency/actions/workflows/scrape.yml)
-[![Tests](https://github.com/YOUR_USERNAME/hospital-price-transparency/actions/workflows/test.yml/badge.svg)](https://github.com/YOUR_USERNAME/hospital-price-transparency/actions/workflows/test.yml)
+[![URL Validation](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/scrape.yml/badge.svg)](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/scrape.yml)
+[![Tests](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/test.yml/badge.svg)](https://github.com/nathansutton/hospital-price-transparency/actions/workflows/test.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -58,7 +58,7 @@ The Centers for Medicare and Medicaid Services requires hospitals under [45 CFR 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/hospital-price-transparency.git
+git clone https://github.com/nathansutton/hospital-price-transparency.git
 cd hospital-price-transparency
 
 # Install uv (if not already installed)

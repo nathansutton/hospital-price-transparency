@@ -7,7 +7,7 @@ import logging
 import sys
 from datetime import datetime
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal, cast
 
 import structlog
 
@@ -98,7 +98,7 @@ def get_logger(name: str | None = None, **initial_context: Any) -> structlog.std
     logger = structlog.get_logger(name)
     if initial_context:
         logger = logger.bind(**initial_context)
-    return logger
+    return cast(structlog.stdlib.BoundLogger, logger)
 
 
 class ScrapeLogContext:
@@ -125,7 +125,7 @@ class ScrapeLogContext:
         exc_type: type[BaseException] | None,
         exc_val: BaseException | None,
         exc_tb: Any,
-    ) -> bool:
+    ) -> Literal[False]:
         duration = (datetime.now() - self.start_time).total_seconds() if self.start_time else 0
 
         if exc_val is not None:

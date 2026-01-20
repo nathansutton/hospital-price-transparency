@@ -10,10 +10,6 @@ from typing import Any
 
 import pandas as pd
 
-from ..config import ScraperConfig
-from ..models import HospitalConfig
-from ..normalizers import CPTNormalizer
-from ..utils.http_client import RetryHTTPClient
 from ..utils.logger import get_logger
 from .base import BaseScraper
 
@@ -89,18 +85,19 @@ class CMSStandardJSONScraper(BaseScraper):
     # Valid CPT/HCPCS code type identifiers
     VALID_CODE_TYPES = {"CPT", "CPT4", "HCPCS", "CPT-4", "HCPC"}
 
-    def fetch_data(self) -> dict:
+    def fetch_data(self) -> dict[Any, Any]:
         """Fetch JSON data from the URL."""
-        return self.http_client.get_json(self.hospital_config.file_url)
+        result = self.http_client.get_json(self.hospital_config.file_url)
+        return dict(result) if isinstance(result, dict) else {}
 
-    def _get_first_match(self, data: dict, fields: list[str], default=None):
+    def _get_first_match(self, data: dict[str, Any], fields: list[str], default: Any = None) -> Any:
         """Get the first matching field value from a dict."""
         for field in fields:
             if field in data:
                 return data[field]
         return default
 
-    def _find_charges_array(self, data: dict | list) -> list:
+    def _find_charges_array(self, data: dict[str, Any] | list[Any]) -> list[Any]:
         """Find the main charges array in the data structure.
 
         Handles various data structures:
@@ -113,18 +110,18 @@ class CMSStandardJSONScraper(BaseScraper):
             if data and isinstance(data[0], dict):
                 # If first item looks like a charge item, use it
                 if any(f in data[0] for f in self.CODE_INFO_FIELDS + ["code", "description"]):
-                    return data
+                    return list(data)
                 # Otherwise, might be a wrapper - check first item
                 for field in self.CHARGE_ARRAY_FIELDS:
                     if field in data[0]:
-                        return data[0][field]
-            return data
+                        return list(data[0][field])
+            return list(data)
 
         if isinstance(data, dict):
             # Try direct field access
             for field in self.CHARGE_ARRAY_FIELDS:
                 if field in data and isinstance(data[field], list):
-                    return data[field]
+                    return list(data[field])
 
             # Try nested access (e.g., data.charges.items)
             for field in self.CHARGE_ARRAY_FIELDS:
@@ -132,7 +129,7 @@ class CMSStandardJSONScraper(BaseScraper):
                     nested = data[field]
                     for inner_field in self.CHARGE_ARRAY_FIELDS:
                         if inner_field in nested and isinstance(nested[inner_field], list):
-                            return nested[inner_field]
+                            return list(nested[inner_field])
 
         return []
 
@@ -235,7 +232,7 @@ class CMSStandardJSONScraper(BaseScraper):
 
         return gross, cash
 
-    def parse_data(self, raw_data: dict | list) -> pd.DataFrame:
+    def parse_data(self, raw_data: bytes | str | dict | list) -> pd.DataFrame:
         """Parse CMS standard JSON format (v2.0) with field variation handling.
 
         Args:
@@ -244,6 +241,8 @@ class CMSStandardJSONScraper(BaseScraper):
         Returns:
             DataFrame with vocabulary_id, concept_code, gross, cash columns
         """
+        if not isinstance(raw_data, (dict, list)):
+            raise ValueError(f"Expected dict or list, got {type(raw_data).__name__}")
         charges = self._find_charges_array(raw_data)
 
         if not charges:

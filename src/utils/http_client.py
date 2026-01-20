@@ -190,7 +190,7 @@ class RetryHTTPClient:
         return pd.read_csv(
             io.StringIO(response.text),
             skiprows=skiprows,
-            dtype=dtype,
+            dtype=dtype,  # type: ignore[arg-type]
             keep_default_na=keep_default_na,
         )
 

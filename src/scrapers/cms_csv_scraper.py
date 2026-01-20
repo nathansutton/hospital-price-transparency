@@ -10,10 +10,6 @@ import io
 
 import pandas as pd
 
-from ..config import ScraperConfig
-from ..models import HospitalConfig
-from ..normalizers import CPTNormalizer
-from ..utils.http_client import RetryHTTPClient
 from ..utils.logger import get_logger
 from .base import BaseScraper
 
@@ -40,7 +36,7 @@ class CMSStandardCSVScraper(BaseScraper):
         response = self.http_client.get(self.hospital_config.file_url)
         return response.text
 
-    def parse_data(self, raw_data: str) -> pd.DataFrame:
+    def parse_data(self, raw_data: bytes | str | dict | list) -> pd.DataFrame:
         """Parse CMS standard CSV format (v2.0).
 
         Args:
@@ -49,6 +45,10 @@ class CMSStandardCSVScraper(BaseScraper):
         Returns:
             DataFrame with vocabulary_id, concept_code, gross, cash columns
         """
+        if isinstance(raw_data, bytes):
+            raw_data = raw_data.decode("utf-8")
+        if not isinstance(raw_data, str):
+            raise ValueError(f"Expected str or bytes, got {type(raw_data).__name__}")
         # Read with header row at row 2 (0-indexed)
         df = pd.read_csv(
             io.StringIO(raw_data),

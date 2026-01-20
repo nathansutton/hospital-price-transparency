@@ -6,7 +6,6 @@ automatic scraper selection at scale.
 
 import re
 from enum import Enum
-from typing import Any
 from urllib.parse import urlparse
 
 from ..models import DataFormat

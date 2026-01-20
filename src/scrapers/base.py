@@ -66,7 +66,7 @@ class BaseScraper(ABC):
         pass
 
     @abstractmethod
-    def parse_data(self, raw_data: bytes | str | dict) -> pd.DataFrame:
+    def parse_data(self, raw_data: bytes | str | dict | list) -> pd.DataFrame:
         """Parse raw data into a DataFrame with required columns.
 
         The returned DataFrame must have at minimum:

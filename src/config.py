@@ -6,9 +6,7 @@ with state-organized directory structure.
 """
 
 import json
-import re
 from pathlib import Path
-from typing import Literal
 
 import pandas as pd
 from pydantic import BaseModel, Field
@@ -24,9 +22,9 @@ class ScraperConfig(BaseModel):
 
     # Paths
     project_root: Path = Field(default_factory=lambda: Path(__file__).parent.parent)
-    data_dir: Path = Field(default=None)
-    dim_dir: Path = Field(default=None)
-    logs_dir: Path = Field(default=None)
+    data_dir: Path | None = Field(default=None)
+    dim_dir: Path | None = Field(default=None)
+    logs_dir: Path | None = Field(default=None)
 
     # HTTP settings
     http_timeout: int = Field(default=60, description="HTTP request timeout in seconds")
@@ -48,6 +46,7 @@ class ScraperConfig(BaseModel):
     @property
     def urls_dir(self) -> Path:
         """Path to the directory containing state URL JSON files."""
+        assert self.dim_dir is not None  # Set in model_post_init
         return self.dim_dir / "urls"
 
     @property
@@ -58,6 +57,7 @@ class ScraperConfig(BaseModel):
     @property
     def concept_csv_path(self) -> Path:
         """Path to CONCEPT.csv.gz (OHDSI Athena vocabulary)."""
+        assert self.dim_dir is not None  # Set in model_post_init
         return self.dim_dir / "CONCEPT.csv.gz"
 
 
@@ -178,6 +178,7 @@ def load_hospital_configs_from_urls(
     Returns:
         List of validated HospitalConfig objects
     """
+    assert config.dim_dir is not None  # Set in model_post_init
     urls_dir = config.dim_dir / "urls"
     if not urls_dir.exists():
         logger.warning("urls_dir_not_found", path=str(urls_dir))
@@ -293,6 +294,7 @@ def get_output_path(config: ScraperConfig, hospital: HospitalConfig) -> Path:
     Returns:
         Path to the output JSONL file
     """
+    assert config.data_dir is not None  # Set in model_post_init
     if hospital.state and hospital.ccn:
         state_dir = config.data_dir / hospital.state.upper()
         state_dir.mkdir(parents=True, exist_ok=True)

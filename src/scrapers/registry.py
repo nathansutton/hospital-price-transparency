@@ -8,7 +8,6 @@ matching to route to appropriate scrapers since IDN info isn't available.
 """
 
 import re
-from typing import Type
 
 from ..config import ScraperConfig
 from ..models import DataFormat, HospitalConfig
@@ -39,7 +38,7 @@ class ScraperRegistry:
     """
 
     # CCN-specific scrapers (for individual hospital overrides)
-    CCN_SCRAPERS: dict[str, Type[BaseScraper]] = {
+    CCN_SCRAPERS: dict[str, type[BaseScraper]] = {
         # Add CCN-specific overrides here, e.g.:
         # "440039": CustomScraperForVanderbilt,
     }
@@ -47,7 +46,7 @@ class ScraperRegistry:
     # URL provider-based scrapers (for URLs from hospitalpricingfiles.org)
     # Maps URL pattern (substring or regex) to (scraper_class, is_regex)
     # Checked in order - first match wins
-    URL_PROVIDER_SCRAPERS: list[tuple[str, Type[BaseScraper], bool]] = [
+    URL_PROVIDER_SCRAPERS: list[tuple[str, type[BaseScraper], bool]] = [
         # ClaraPrice endpoints serve JSON
         (r"claraprice\.net.*machine-readable", CMSStandardJSONScraper, True),
         # Craneware API endpoints serve CMS CSV (not JSON!)
@@ -81,7 +80,7 @@ class ScraperRegistry:
     ]
 
     # IDN-specific scrapers
-    IDN_SCRAPERS: dict[str, Type[BaseScraper]] = {
+    IDN_SCRAPERS: dict[str, type[BaseScraper]] = {
         "Covenant Health": HyveCMSJSONScraper,
         "Memorial": CMSStandardJSONScraper,
         "Tennova Healthcare": TennovaCMSCSVScraper,
@@ -90,7 +89,7 @@ class ScraperRegistry:
     }
 
     # Explicit scraper type name -> class mapping
-    SCRAPER_TYPES: dict[str, Type[BaseScraper]] = {
+    SCRAPER_TYPES: dict[str, type[BaseScraper]] = {
         "CMSStandardJSONScraper": CMSStandardJSONScraper,
         "CMSStandardCSVScraper": CMSStandardCSVScraper,
         "CMSStandardXLSXScraper": CMSStandardXLSXScraper,
@@ -100,7 +99,7 @@ class ScraperRegistry:
     }
 
     # Format-based fallback scrapers
-    FORMAT_SCRAPERS: dict[DataFormat, Type[BaseScraper]] = {
+    FORMAT_SCRAPERS: dict[DataFormat, type[BaseScraper]] = {
         DataFormat.CSV: CMSStandardCSVScraper,  # CMS 2.0/3.0 format (most common)
         DataFormat.JSON: CMSStandardJSONScraper,  # Default JSON handler for scale
         DataFormat.XLSX: CMSStandardXLSXScraper,  # Excel format (behavioral health)
@@ -108,7 +107,7 @@ class ScraperRegistry:
     }
 
     @classmethod
-    def _get_url_provider_scraper(cls, file_url: str) -> Type[BaseScraper] | None:
+    def _get_url_provider_scraper(cls, file_url: str) -> type[BaseScraper] | None:
         """Check URL against known provider patterns.
 
         Args:
@@ -132,7 +131,7 @@ class ScraperRegistry:
         return None
 
     @classmethod
-    def get_scraper_class(cls, hospital_config: HospitalConfig) -> Type[BaseScraper] | None:
+    def get_scraper_class(cls, hospital_config: HospitalConfig) -> type[BaseScraper] | None:
         """Get the appropriate scraper class for a hospital.
 
         Priority order:
@@ -240,7 +239,7 @@ class ScraperRegistry:
         )
 
     @classmethod
-    def register_ccn_scraper(cls, ccn: str, scraper_class: Type[BaseScraper]) -> None:
+    def register_ccn_scraper(cls, ccn: str, scraper_class: type[BaseScraper]) -> None:
         """Register a custom scraper for a specific CCN.
 
         Args:
@@ -252,7 +251,7 @@ class ScraperRegistry:
         logger.info("registered_ccn_scraper", ccn=ccn, scraper=scraper_class.__name__)
 
     @classmethod
-    def register_idn_scraper(cls, idn: str, scraper_class: Type[BaseScraper]) -> None:
+    def register_idn_scraper(cls, idn: str, scraper_class: type[BaseScraper]) -> None:
         """Register a custom scraper for an IDN.
 
         Args:
@@ -264,7 +263,7 @@ class ScraperRegistry:
 
     @classmethod
     def register_format_scraper(
-        cls, data_format: DataFormat, scraper_class: Type[BaseScraper]
+        cls, data_format: DataFormat, scraper_class: type[BaseScraper]
     ) -> None:
         """Register a scraper for a data format.
 
@@ -279,7 +278,7 @@ class ScraperRegistry:
 
     @classmethod
     def register_url_provider_scraper(
-        cls, pattern: str, scraper_class: Type[BaseScraper], is_regex: bool = False
+        cls, pattern: str, scraper_class: type[BaseScraper], is_regex: bool = False
     ) -> None:
         """Register a scraper for a URL provider pattern.
 
