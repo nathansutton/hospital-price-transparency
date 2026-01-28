@@ -105,16 +105,18 @@ def find_failed_entries(
             if state_filter and failed_ccns[ccn]["state"] != state_filter.upper():
                 continue
 
-            entries.append({
-                "file": url_file,
-                "state": state,
-                "index": i,
-                "ccn": ccn,
-                "hospital_name": hospital.get("hospital_name", ""),
-                "old_url": hospital.get("file_url", ""),
-                "transparency_page": hospital.get("transparency_page", ""),
-                "error_message": failed_ccns[ccn]["error_message"],
-            })
+            entries.append(
+                {
+                    "file": url_file,
+                    "state": state,
+                    "index": i,
+                    "ccn": ccn,
+                    "hospital_name": hospital.get("hospital_name", ""),
+                    "old_url": hospital.get("file_url", ""),
+                    "transparency_page": hospital.get("transparency_page", ""),
+                    "error_message": failed_ccns[ccn]["error_message"],
+                }
+            )
 
     return entries
 
@@ -138,9 +140,7 @@ def scrape_transparency_page(url: str, timeout: float = 30.0) -> str | None:
         return None
 
     try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-        }
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         response = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
         response.raise_for_status()
 
@@ -164,7 +164,9 @@ def scrape_transparency_page(url: str, timeout: float = 30.0) -> str | None:
                 continue
 
             # Priority 2: Sitecore CDN (Encompass)
-            if "edge.sitecorecloud.io" in href_lower and (".csv" in href_lower or ".json" in href_lower):
+            if "edge.sitecorecloud.io" in href_lower and (
+                ".csv" in href_lower or ".json" in href_lower
+            ):
                 found_links.append((href, 2))
                 continue
 
@@ -206,7 +208,9 @@ def validate_url(url: str, timeout: float = 15.0) -> tuple[bool, int | None]:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
             "Range": "bytes=0-1024",  # Only fetch first 1KB
         }
-        response = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True, stream=True)
+        response = requests.get(
+            url, headers=headers, timeout=timeout, allow_redirects=True, stream=True
+        )
         # 200 or 206 (partial content) both indicate success
         return response.status_code in (200, 206), response.status_code
     except Exception:
@@ -327,7 +331,9 @@ def main():
                     results["fixed"].append(result_entry)
                 else:
                     if not args.json:
-                        print(f"  ✗ Found URL but validation failed (HTTP {status_code}): {new_url[:60]}...")
+                        print(
+                            f"  ✗ Found URL but validation failed (HTTP {status_code}): {new_url[:60]}..."
+                        )
                     result_entry["new_url"] = new_url
                     result_entry["status"] = "validation_failed"
                     result_entry["error"] = f"URL validation failed (HTTP {status_code})"

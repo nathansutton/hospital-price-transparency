@@ -22,12 +22,62 @@ sys.path.insert(0, str(project_root))
 
 # Valid US state codes
 VALID_STATES = {
-    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
-    "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
-    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
-    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
-    "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
-    "DC", "PR", "VI", "GU", "AS", "MP",  # Territories
+    "AL",
+    "AK",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "FL",
+    "GA",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "WY",
+    "DC",
+    "PR",
+    "VI",
+    "GU",
+    "AS",
+    "MP",  # Territories
 }
 
 
@@ -147,13 +197,15 @@ def compute_state_status(
             failed += 1
             records = 0
 
-        rows.append({
-            "ccn": ccn,
-            "hospital": hospital_name,
-            "status": status,
-            "file_url": file_url,
-            "records": records if records > 0 else "",
-        })
+        rows.append(
+            {
+                "ccn": ccn,
+                "hospital": hospital_name,
+                "status": status,
+                "file_url": file_url,
+                "records": records if records > 0 else "",
+            }
+        )
 
     total = len(url_configs)
     success_rate = (success / total * 100) if total > 0 else 0.0

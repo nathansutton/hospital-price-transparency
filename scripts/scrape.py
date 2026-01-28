@@ -173,7 +173,9 @@ def _worker_process(
                 reason=f"No scraper for format: {hospital.type}",
                 ccn=hospital.ccn,
             )
-            result_queue.put((hospital, result, f"- Skipped: No scraper for format {hospital.type}"))
+            result_queue.put(
+                (hospital, result, f"- Skipped: No scraper for format {hospital.type}")
+            )
             return
 
         if dry_run:
@@ -190,7 +192,9 @@ def _worker_process(
                 duration_seconds=duration,
                 ccn=hospital.ccn,
             )
-            result_queue.put((hospital, result, f"+ Dry run: {len(normalized)} records (not saved)"))
+            result_queue.put(
+                (hospital, result, f"+ Dry run: {len(normalized)} records (not saved)")
+            )
             return
 
         # Full scrape
@@ -417,7 +421,9 @@ def main(
 
     else:
         # Parallel processing with process pool
-        click.echo(f"\nProcessing {len(hospitals)} hospitals with {parallel} workers (timeout: {timeout}s)...")
+        click.echo(
+            f"\nProcessing {len(hospitals)} hospitals with {parallel} workers (timeout: {timeout}s)..."
+        )
         click.echo("Using multiprocessing - stuck workers will be killed.\n")
 
         # Use a semaphore to limit concurrent processes
@@ -449,8 +455,14 @@ def main(
 
                     # Compact output for parallel mode
                     status_char = message[0] if message else "?"
-                    hospital_name = hospital.hospital[:30] + "..." if len(hospital.hospital) > 30 else hospital.hospital
-                    click.echo(f"[{completed}/{len(hospitals)}] {status_char} {hospital.ccn} ({hospital_name})")
+                    hospital_name = (
+                        hospital.hospital[:30] + "..."
+                        if len(hospital.hospital) > 30
+                        else hospital.hospital
+                    )
+                    click.echo(
+                        f"[{completed}/{len(hospitals)}] {status_char} {hospital.ccn} ({hospital_name})"
+                    )
 
                     # Track result by state
                     state_key = hospital.state.upper()
@@ -459,7 +471,9 @@ def main(
                     results_by_state[state_key].append((hospital, result))
 
                 except Exception as e:
-                    click.echo(f"[{completed}/{len(hospitals)}] ! {original_hospital.ccn} Error: {e}")
+                    click.echo(
+                        f"[{completed}/{len(hospitals)}] ! {original_hospital.ccn} Error: {e}"
+                    )
                     result = ScrapeResult.failure(
                         hospital_npi=original_hospital.hospital_npi,
                         file_url=original_hospital.file_url,

@@ -104,9 +104,9 @@ def format_issue_body(group: dict) -> str:
 **Category:** `{category}`
 **Error Type:** `{error_type}`
 **Domain:** `{domain}`
-**Affected States:** {', '.join(sorted(states))}
+**Affected States:** {", ".join(sorted(states))}
 **Auto-Fix Confidence:** {confidence:.0%}
-**Auto-Fixable:** {'Yes' if auto_fixable else 'No'}
+**Auto-Fixable:** {"Yes" if auto_fixable else "No"}
 
 ### Affected Hospitals ({len(failures)})
 
@@ -195,9 +195,7 @@ def get_labels_for_category(category: str) -> list[str]:
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Create GitHub issues for scrape failures"
-    )
+    parser = argparse.ArgumentParser(description="Create GitHub issues for scrape failures")
     parser.add_argument(
         "--input",
         type=Path,
@@ -265,7 +263,8 @@ def main():
 
     if args.auto_fixable_only:
         groups = [
-            g for g in groups
+            g
+            for g in groups
             if g["confidence"] >= 0.7 and g["category"] in ("url-update", "registry-update")
         ]
 

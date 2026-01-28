@@ -20,6 +20,7 @@ from urllib.parse import urlparse
 @dataclass
 class Failure:
     """Individual scrape failure record."""
+
     ccn: str
     hospital: str
     state: str
@@ -32,6 +33,7 @@ class Failure:
 @dataclass
 class FailureGroup:
     """Group of related failures for issue creation."""
+
     group_id: str
     error_type: str
     domain: str
@@ -163,21 +165,21 @@ def group_failures(failures: list[Failure]) -> list[FailureGroup]:
         # Use first failure to determine category
         sample = failures[0]
         category, confidence = categorize_failure(
-            sample.error_type,
-            sample.error_message,
-            sample.file_url
+            sample.error_type, sample.error_message, sample.file_url
         )
 
         group_id = f"{error_type}:{domain}".replace(".", "-").replace("/", "-")
 
-        result.append(FailureGroup(
-            group_id=group_id,
-            error_type=error_type,
-            domain=domain,
-            category=category,
-            confidence=confidence,
-            failures=failures,
-        ))
+        result.append(
+            FailureGroup(
+                group_id=group_id,
+                error_type=error_type,
+                domain=domain,
+                category=category,
+                confidence=confidence,
+                failures=failures,
+            )
+        )
 
     # Sort by count (descending) then category
     result.sort(key=lambda g: (-len(g.failures), g.category))
@@ -201,9 +203,7 @@ def analyze_all_states(status_dir: Path) -> list[FailureGroup]:
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Analyze scrape failures from status CSV files"
-    )
+    parser = argparse.ArgumentParser(description="Analyze scrape failures from status CSV files")
     parser.add_argument(
         "--status-dir",
         type=Path,

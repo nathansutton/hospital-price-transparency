@@ -89,10 +89,7 @@ class CMSStandardCSVScraper(BaseScraper):
 
         # Check if this is actually a ZIP file despite the URL
         content_type = response.headers.get("content-type", "").lower()
-        is_zip_content = (
-            "zip" in content_type
-            or response.content[:4] == ZIP_MAGIC
-        )
+        is_zip_content = "zip" in content_type or response.content[:4] == ZIP_MAGIC
 
         if is_zip_content:
             self.logger.info(
@@ -107,9 +104,7 @@ class CMSStandardCSVScraper(BaseScraper):
         # Check if server returned HTML instead of CSV (common error page or redirect)
         content_type = response.headers.get("content-type", "").lower()
         if "text/html" in content_type:
-            raise ValueError(
-                f"Server returned HTML instead of CSV (Content-Type: {content_type})"
-            )
+            raise ValueError(f"Server returned HTML instead of CSV (Content-Type: {content_type})")
 
         # Try multiple encodings - servers often lie about encoding
         # Many hospital files are ISO-8859-1 but served as UTF-8
@@ -119,7 +114,7 @@ class CMSStandardCSVScraper(BaseScraper):
                 text = raw_bytes.decode(encoding)
                 # Quick sanity check - valid CSV should have printable chars
                 # in first line (header row)
-                first_line = text.split('\n')[0][:100] if text else ''
+                first_line = text.split("\n")[0][:100] if text else ""
 
                 # Check for HTML content (error pages, redirects, JavaScript apps)
                 first_lower = first_line.lower()
@@ -129,7 +124,7 @@ class CMSStandardCSVScraper(BaseScraper):
                     )
 
                 # Check for garbage characters (control chars except \t)
-                if not any(ord(c) < 32 and c not in '\t\r\n' for c in first_line):
+                if not any(ord(c) < 32 and c not in "\t\r\n" for c in first_line):
                     return text
             except UnicodeDecodeError:
                 continue
@@ -280,9 +275,7 @@ class CMSStandardCSVScraper(BaseScraper):
                             pass
 
                 # Cash/discounted price columns
-                if cash is None and any(
-                    x in col_lower for x in ["cash", "discounted", "self_pay"]
-                ):
+                if cash is None and any(x in col_lower for x in ["cash", "discounted", "self_pay"]):
                     try:
                         cash = float(str(val).replace(",", "").replace("$", ""))
                     except (ValueError, TypeError):
@@ -302,7 +295,9 @@ class CMSStandardCSVScraper(BaseScraper):
 
         return records
 
-    def _read_csv_chunked(self, file_path: Path, skiprows: int, delimiter: str) -> Iterator[pd.DataFrame]:
+    def _read_csv_chunked(
+        self, file_path: Path, skiprows: int, delimiter: str
+    ) -> Iterator[pd.DataFrame]:
         """Read a large CSV file in chunks.
 
         Args:
@@ -451,7 +446,8 @@ class CMSStandardCSVScraper(BaseScraper):
                 # Replace all embedded newlines (CR, CRLF variations) with space
                 # keeping only actual line terminators
                 import re
-                normalized = re.sub(r'\r\n|\r|\n(?=[^,\n]*,)', ' ', raw_data)
+
+                normalized = re.sub(r"\r\n|\r|\n(?=[^,\n]*,)", " ", raw_data)
                 df = pd.read_csv(
                     io.StringIO(normalized),
                     skiprows=skiprows,

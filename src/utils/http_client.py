@@ -138,10 +138,7 @@ class RetryHTTPClient:
 
         # Google Drive: /file/d/{ID}/view... -> /uc?export=download&confirm=t&id={ID}
         # The confirm=t bypasses the virus scan warning for small files
-        gdrive_match = re.match(
-            r"https://drive\.google\.com/file/d/([^/]+)/view",
-            url
-        )
+        gdrive_match = re.match(r"https://drive\.google\.com/file/d/([^/]+)/view", url)
         if gdrive_match:
             file_id = gdrive_match.group(1)
             transformed = f"https://drive.google.com/uc?export=download&confirm=t&id={file_id}"
@@ -150,7 +147,9 @@ class RetryHTTPClient:
 
         return url
 
-    def _handle_google_drive_virus_scan(self, response: requests.Response, file_id: str) -> requests.Response:
+    def _handle_google_drive_virus_scan(
+        self, response: requests.Response, file_id: str
+    ) -> requests.Response:
         """Handle Google Drive virus scan warning page for large files.
 
         For files > ~100MB, Google Drive shows a virus scan warning and requires
@@ -409,6 +408,7 @@ class RetryHTTPClient:
         except Exception:
             # Clean up on error
             import os
+
             os.close(fd)
             os.unlink(temp_path)
             raise

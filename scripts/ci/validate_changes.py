@@ -165,9 +165,7 @@ def validate_manifest(manifest: dict) -> list[str]:
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Validate proposed changes before creating a PR"
-    )
+    parser = argparse.ArgumentParser(description="Validate proposed changes before creating a PR")
     parser.add_argument(
         "--manifest",
         type=Path,

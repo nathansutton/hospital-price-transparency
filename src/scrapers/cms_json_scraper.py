@@ -309,6 +309,7 @@ class CMSStandardJSONScraper(BaseScraper):
                     self.logger.warning("streaming_json_no_path_found")
                     f.seek(0)
                     import json
+
                     data = json.load(f)
                     return self.parse_data(data)
 

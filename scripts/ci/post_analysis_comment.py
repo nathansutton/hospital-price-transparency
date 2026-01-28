@@ -40,12 +40,12 @@ def run_claude_analysis(issue_details: dict, prompt_file: Path) -> str | None:
 
 ## Issue to Analyze
 
-**Title:** {issue_details['title']}
+**Title:** {issue_details["title"]}
 
 **Body:**
-{issue_details['body']}
+{issue_details["body"]}
 
-**Current Labels:** {', '.join(label['name'] for label in issue_details.get('labels', []))}
+**Current Labels:** {", ".join(label["name"] for label in issue_details.get("labels", []))}
 
 ---
 
@@ -64,7 +64,8 @@ Please analyze this scrape failure issue and provide your assessment following t
             "claude",
             "--print",
             "--dangerously-skip-permissions",
-            "-p", str(prompt_path),
+            "-p",
+            str(prompt_path),
         ],
         capture_output=True,
         text=True,
