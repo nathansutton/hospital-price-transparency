@@ -1,0 +1,641 @@
+[
+  {
+    "detail_id": "c0c5a3d6-c9a7-43fb-b2d5-58766b16d516",
+    "ccn": "160001",
+    "hospital_name": "UNITYPOINT HEALTH MARSHALLTOWN",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7948/815034179_unitypoint-health-marshalltown_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-Marshalltown/7948or"
+  },
+  {
+    "detail_id": "5b16d7ce-4cce-45a4-92d5-e25e19daadcb",
+    "ccn": "160013",
+    "hospital_name": "UNITYPOINT HEALTH TRINITY MUSCATINE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7958/420680337_unity-healthcare_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-TrinityMuscatine/7958or"
+  },
+  {
+    "detail_id": "f97790a5-5078-4615-8f60-3397b427513a",
+    "ccn": "160029",
+    "hospital_name": "UI HEALTH CARE MEDICAL CENTER DOWNTOWN",
+    "file_url": "https://www.healthcare.uiowa.edu/marcom/uihc/billing/426004813_state-university-of-iowa_standardcharges.json.gz",
+    "transparency_page": "https://uihc.org/patient-financial-resources"
+  },
+  {
+    "detail_id": "e757ab9e-4d06-4ba3-8a81-97cf41e744a5",
+    "ccn": "160030",
+    "hospital_name": "MARY GREELEY MEDICAL CENTER",
+    "file_url": "https://mgmc.pt.panaceainc.com/MRFDownload/marygreeley/marygreeley",
+    "transparency_page": "https://www.mgmc.org/patients-visitors/billing-financial/price-transparency/"
+  },
+  {
+    "detail_id": "647fdfa4-2d5d-4f85-9a14-d041c6abc11f",
+    "ccn": "160032",
+    "hospital_name": "MERCYONE NEWTON MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/421470935_mercy-medical-center-newton_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "f0b0facc-0941-4e2a-aed6-feaff1a4f391",
+    "ccn": "160033",
+    "hospital_name": "GENESIS MEDICAL CENTER-DAVENPORT",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/genesishealth-east",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "cd6e7957-425d-43e1-8d7d-b023b88ad791",
+    "ccn": "160040",
+    "hospital_name": "MERCYONE CEDAR FALLS MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/420758901_sartori-memorial-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "be4db1c5-5c67-4924-b172-4b5c9e19dbf6",
+    "ccn": "160045",
+    "hospital_name": "UNITYPOINT HEALTH ST. LUKE'S HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7955/420504780_st-luke%27s-methodist-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-St.LukesHospital/7955or"
+  },
+  {
+    "detail_id": "3b65f909-f648-4922-aabf-c444ec29f82c",
+    "ccn": "160047",
+    "hospital_name": "METHODIST JENNIE EDMUNDSON",
+    "file_url": "https://bestcare.org/sites/default/files/2025-10/420680355_Jennie-Edmundson-Memorial-Hospital_standardcharges.zip",
+    "transparency_page": "https://bestcare.org/patient-resources/billing-and-insurance/patient-estimates-and-pricing"
+  },
+  {
+    "detail_id": "8787485a-16a1-4264-82a1-1c1dd99e6445",
+    "ccn": "160057",
+    "hospital_name": "SOUTHEAST IOWA REGIONAL MEDICAL CENTER",
+    "file_url": "https://greatriver.pt.panaceainc.com/MRFDownload/greatriver/great-river-health",
+    "transparency_page": "https://www.greatriverhealth.org/family-planning/"
+  },
+  {
+    "detail_id": "e9085b2d-8738-4abd-9286-fa6f0f7edd09",
+    "ccn": "160058",
+    "hospital_name": "UNIVERSITY OF IOWA HOSPITAL & CLINICS",
+    "file_url": "https://www.healthcare.uiowa.edu/marcom/uihc/billing/426004813_state-university-of-iowa_standardcharges.json.gz",
+    "transparency_page": "https://uihc.org/patient-financial-resources"
+  },
+  {
+    "detail_id": "811c61f4-5657-4e20-b747-d65f2ec12360",
+    "ccn": "160064",
+    "hospital_name": "MERCYONE NORTH IOWA",
+    "file_url": "https://hpt.trinity-health.org/311373080_mercy-health-services-iowa-corp_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "74f11232-c81f-4a9b-9bd1-ad286a5731ef",
+    "ccn": "160067",
+    "hospital_name": "MERCYONE WATERLOO MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/421264647_covenant-medical-center-inc_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "47f3b00d-7429-48a7-a0a1-703fb663eaba",
+    "ccn": "160069",
+    "hospital_name": "MERCYONE DUBUQUE",
+    "file_url": "https://hpt.trinity-health.org/421437483_mercy-medical-center-dubuque_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "1be82724-ada0-490c-b198-ba28088f4c61",
+    "ccn": "160079",
+    "hospital_name": "MERCY CEDAR RAPIDS",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMCCEDARRAPIDSIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Cedar_Rapids_V3.aspx"
+  },
+  {
+    "detail_id": "fe4a40fd-3812-45d8-b833-606f0f10563e",
+    "ccn": "160080",
+    "hospital_name": "MERCYONE CLINTON",
+    "file_url": "https://hpt.trinity-health.org/421336618_mercy-medical-center-clinton-inc_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "a1ab28ab-2aed-440f-91f4-5c804bb6b96f",
+    "ccn": "160082",
+    "hospital_name": "UNITYPOINT HEALTH IOWA METHODIST MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7946/420680452_central-iowa-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-IowaMethodistMedicalCenter/7946"
+  },
+  {
+    "detail_id": "628d6e20-62d2-4181-99f4-5f277eb2cbd6",
+    "ccn": "160083",
+    "hospital_name": "MERCYONE DES MOINES MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/420680448-1508964883_catholic-health-initiatives-iowa-corp_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "4b9f8a96-8530-46b0-bbda-6644c873c637",
+    "ccn": "160089",
+    "hospital_name": "OTTUMWA REGIONAL HEALTH CENTER",
+    "file_url": "https://www.ottumwaregionalhealth.com/docs/ahottumwaregionalhealthcenterlibraries/hcl/mrf3q25/272200283_ottumwa-regional-health-center_standardcharges.csv",
+    "transparency_page": "https://www.ottumwaregionalhealth.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "9059bad3-655f-4b35-85e4-7eb37371cc6d",
+    "ccn": "160104",
+    "hospital_name": "UNITYPOINT HEALTH TRINITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7956/362739299-1124110820_trinity-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-TrinityBettendorf/7956or"
+  },
+  {
+    "detail_id": "e0872002-cc9b-4862-9706-2655cfdd9eb9",
+    "ccn": "160110",
+    "hospital_name": "UNITYPOINT HEALTH ALLEN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7942/420698265_allen-memorial-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-AllenHospital/7942or"
+  },
+  {
+    "detail_id": "ea95f0f0-4863-4c1f-b3be-6ecf75efa3ce",
+    "ccn": "160112",
+    "hospital_name": "SPENCER HOSPITAL",
+    "file_url": "https://www.spencerhospital.org/webres/File/Pricing/426005883_spencer-municipal-hospital_standardcharges%20(6).csv",
+    "transparency_page": "https://www.spencerhospital.org/patients-visitors/patients/price-transparency/"
+  },
+  {
+    "detail_id": "37dcd057-d561-4c67-a551-f56f60901356",
+    "ccn": "160117",
+    "hospital_name": "UNITYPOINT HEALTHCARE FINLEY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7943/420680354_the-finley-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-FinleyHospital/7943"
+  },
+  {
+    "detail_id": "25b978ad-ac60-4668-bc74-34961d78ad0d",
+    "ccn": "160124",
+    "hospital_name": "LAKES REGIONAL HEALTHCARE",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "89a6c54b-9d41-4d2c-b9c6-e6d5431eceda",
+    "ccn": "160146",
+    "hospital_name": "UNITYPOINT HEALTH ST. LUKE'S",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7954/421019872_northwest-iowa-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-St.LukesRegionalMedicalCenter/7954or"
+  },
+  {
+    "detail_id": "f4c14764-c7d6-4c7b-93db-3d45bdc21a7e",
+    "ccn": "160147",
+    "hospital_name": "UNITYPOINT HEALTH GRINNELL REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7944/420933383_grinnell-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-GrinnellRegionalMedicalCenter/7944"
+  },
+  {
+    "detail_id": "6dd53aff-bd48-4a5f-9320-a4db99406f13",
+    "ccn": "160153",
+    "hospital_name": "UNITYPOINT HEALTH ST. LUKE'S DOWNTOWN",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7954/421019872_northwest-iowa-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-St.LukesRegionalMedicalCenter/7954or"
+  },
+  {
+    "detail_id": "c8ff5b76-6b78-4050-823e-329fccb8d786",
+    "ccn": "161301",
+    "hospital_name": "IOWA SPECIALTY HOSPITAL - BELMOND",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBelmondMedCenter&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Belmond_V2.aspx"
+  },
+  {
+    "detail_id": "9325c723-3b38-42c0-a2fd-5548615dc84b",
+    "ccn": "161302",
+    "hospital_name": "IOWA SPECIALTY HOSPITAL-CLARION",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWMCCLARIONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Clarion_V2.aspx"
+  },
+  {
+    "detail_id": "7a68a343-1a21-4fb3-9513-c03147775cef",
+    "ccn": "161303",
+    "hospital_name": "GRUNDY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://grundycounty.unitypoint.org/media/393efd55aec6430c9c0ca7b6e444d955/426006485_grundy-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://grundycounty.unitypoint.org/for-patients/payment-insurance/patient-charges-and-costs"
+  },
+  {
+    "detail_id": "012b60a3-d931-4f03-b59d-654ccf4d6019",
+    "ccn": "161304",
+    "hospital_name": "CHI HEALTH MERCY CORNING",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-2025/420782518_chi-health-mercy-corning_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "8863f36c-529d-4fde-bf00-4466c74609f6",
+    "ccn": "161305",
+    "hospital_name": "POCAHONTAS COMMUNITY HOSPITAL",
+    "file_url": "https://www.pocahontashospital.org/wp-content/uploads/2025/11/420932838_Pocahontas-Community-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.pocahontashospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "119c8f76-a6f0-45bf-ac9a-b48612e645b6",
+    "ccn": "161306",
+    "hospital_name": "UNITYPOINT HEALTH JONES REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7947/421487967_st-luke%27sjones-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-JonesRegionalMedicalCenter/7947or"
+  },
+  {
+    "detail_id": "81d9bbc3-bac7-4cc0-9681-cce6ce4f7d85",
+    "ccn": "161307",
+    "hospital_name": "HANCOCK COUNTY HEALTH SYSTEM",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCMHBRITTIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HancockCounty_V2.aspx"
+  },
+  {
+    "detail_id": "2001122d-bd6b-43c4-b632-bea5f571c7c4",
+    "ccn": "161308",
+    "hospital_name": "FRANKLIN GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFGHHAMPTONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Franklin_V2.aspx"
+  },
+  {
+    "detail_id": "a88620c5-8262-42f5-adea-59c17d69d9ec",
+    "ccn": "161310",
+    "hospital_name": "ADAIR COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbACMHDGREENFIELDIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Adair_V2.aspx"
+  },
+  {
+    "detail_id": "46d1d38b-10ce-4566-8365-3c6a491e57d0",
+    "ccn": "161311",
+    "hospital_name": "HAWARDEN REGIONAL HEALTHCARE",
+    "file_url": "https://www.hawardenregionalhealthcare.com/s/426005851_HawardenRegionalHealthcare_standardcharges.csv",
+    "transparency_page": "https://www.hawardenregionalhealthcare.com/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "0728c72c-c614-4ad3-ad38-43a91010ae9c",
+    "ccn": "161312",
+    "hospital_name": "GUTTENBERG MUNICIPAL HOSPITAL",
+    "file_url": "https://guttenberghospital.org/426038728_Guttenberg-Municipal-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.guttenberghospital.org/patients-visitors/hospital-charge-estimator/"
+  },
+  {
+    "detail_id": "c79bad0f-cdfa-4925-89e3-6a005ba49aa0",
+    "ccn": "161313",
+    "hospital_name": "GENESIS MEDICAL CENTER-DEWITT",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/genesishealth-cah",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "2c8b75a4-0f02-41f1-8fce-c6d746c919f5",
+    "ccn": "161314",
+    "hospital_name": "GUTHRIE COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGCHGUTHRIECENTERIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Guthrie_V2.aspx"
+  },
+  {
+    "detail_id": "f3b30465-2972-496c-b026-b8471ae13828",
+    "ccn": "161316",
+    "hospital_name": "GUNDERSEN PALMER LUTHERAN HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-palmer",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "9980929a-23ab-453e-97a3-36cd00ca258d",
+    "ccn": "161317",
+    "hospital_name": "COMPASS MEMORIAL HEALTHCARE",
+    "address": "300 W MAY STREET, BOX 228",
+    "file_url": "https://www.compassmemorial.org/docs/426023437_Compass-Memorial-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.compassmemorial.org/"
+  },
+  {
+    "detail_id": "40da6803-63b6-403d-bade-66d54b32da36",
+    "ccn": "161318",
+    "hospital_name": "VETERANS MEMORIAL HOSPITAL",
+    "file_url": "https://www.veteransmemorialhospital.com/files/vmh_medical_clinic_waukon_standard_charges_63030.csv",
+    "transparency_page": "https://www.veteransmemorialhospital.com/patients_visitors/billing/"
+  },
+  {
+    "detail_id": "9436caec-ad07-4370-a5f5-c300d1ba73e2",
+    "ccn": "161319",
+    "hospital_name": "MERCYONE ELKADER MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/420818642_central-community-hospital_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "86cf2847-11cb-4ab3-9d85-f9f22b6f67f8",
+    "ccn": "161322",
+    "hospital_name": "DALLAS COUNTY HOSPITAL",
+    "file_url": "https://www.dallascohospital.org/sites/default/files/426037739_dallas-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.dallascohospital.org/cost-estimator"
+  },
+  {
+    "detail_id": "9dcc41a6-e228-4d13-8397-e1964cd7654e",
+    "ccn": "161323",
+    "hospital_name": "MITCHELL COUNTY REGIONAL HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCRHOSAGEIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mitchell_County.aspx"
+  },
+  {
+    "detail_id": "43d794a0-531b-4ea6-b931-c82c15e0af96",
+    "ccn": "161324",
+    "hospital_name": "GEORGE C GRAPE COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGCHHAMBURGIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/GeorgeGrape.aspx"
+  },
+  {
+    "detail_id": "c59e4d63-c21a-4dae-87a9-754c1f49550e",
+    "ccn": "161325",
+    "hospital_name": "GREENE COUNTY MEDICAL CENTER",
+    "file_url": "https://www.gcmchealth.com/filesimages/PriceTransparency/426037888_Greene-County-Medical-Center_StandardCharges.csv",
+    "transparency_page": "https://www.gcmchealth.com/patients/pricetransparency"
+  },
+  {
+    "detail_id": "299c9511-51a7-4b13-b2ef-c53be036a46c",
+    "ccn": "161327",
+    "hospital_name": "DAVIS COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbDCHBLOOMFIELDIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/DavisCounty.aspx"
+  },
+  {
+    "detail_id": "64bb90d7-bb59-48af-89d4-4b6dd0591db0",
+    "ccn": "161328",
+    "hospital_name": "REGIONAL HEALTH SERVICES OF HOWARD COUNTY",
+    "file_url": "https://rhshc.com/wp-content/uploads/2024/11/421021780_regional-health-services-of-howard-county_standardcharges.csv",
+    "transparency_page": "https://rhshc.com/patients-visitors/for-patients/financial-responsibility-and-price-estimates/price-transparency/"
+  },
+  {
+    "detail_id": "57871c6e-52d9-461c-be09-e13f25837335",
+    "ccn": "161329",
+    "hospital_name": "JACKSON COUNTY REGIONAL HEALTH CENTER",
+    "file_url": "https://jcrhc.org/wp-content/uploads/426037868_jackson-county-regional-health-center_standardcharges.csv",
+    "transparency_page": "https://jcrhc.org/price-transparency/"
+  },
+  {
+    "detail_id": "13d33723-1be4-43ab-aa71-c9e6d77d7a25",
+    "ccn": "161330",
+    "hospital_name": "AUDUBON COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbACMHAUDUBONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.acmhhosp.org/price-transparency/"
+  },
+  {
+    "detail_id": "50ffa12a-420c-4b81-a356-d4f89aa98c94",
+    "ccn": "161331",
+    "hospital_name": "MERCYONE NEW HAMPTON",
+    "file_url": "https://hpt.trinity-health.org/311568151_mercy-medical-center-new-hampton_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "2155ce28-4b64-4784-9bea-6b08dd870a21",
+    "ccn": "161332",
+    "hospital_name": "MANNING REGIONAL HEALTHCARE CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMRHCMANNINGIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Manning_V2.aspx"
+  },
+  {
+    "detail_id": "a0bb74a8-5ee7-4fdf-9105-344f45b8b087",
+    "ccn": "161333",
+    "hospital_name": "STORY COUNTY MEDICAL CENTER",
+    "file_url": "https://www.storymedical.org/filesimages/charge-masters/426037754_Story-County-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.storymedical.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "2f78d703-1f89-493e-88ec-8cb65cfe7fc0",
+    "ccn": "161336",
+    "hospital_name": "HEGG HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b781e1eb-5429-4443-89b3-4457b7992d00",
+    "ccn": "161337",
+    "hospital_name": "VAN BUREN COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbVBCHKEOSAUQUAIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://vbch.org/services/patient/financial/"
+  },
+  {
+    "detail_id": "c3c0614d-3291-4673-b3c4-331bf10f5870",
+    "ccn": "161339",
+    "hospital_name": "WAVERLY HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWHCWAVERLYIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Waverly_V2.aspx"
+  },
+  {
+    "detail_id": "822ddd76-4c46-412a-ba58-c180b46681e0",
+    "ccn": "161340",
+    "hospital_name": "DECATUR COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbDCHLEONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/DecaturCounty_V2.aspx"
+  },
+  {
+    "detail_id": "d0eac892-7ed2-4697-a429-8b2b19569840",
+    "ccn": "161341",
+    "hospital_name": "LUCAS COUNTY HEALTH CENTER",
+    "file_url": "https://www.lchcia.com/wp-content/uploads/2025/04/PRICE-TRANSPARENCY-FILE-2025.csv",
+    "transparency_page": "https://www.lchcia.com/for-patients/price-transparency/"
+  },
+  {
+    "detail_id": "59376730-1df7-4260-93b9-f96613406e9f",
+    "ccn": "161343",
+    "hospital_name": "REGIONAL MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/acdb3a51286ee4c85247c4fa1712961d/charges/mrf",
+    "transparency_page": "https://www.regmedctr.org/patients-visitors/pricing-transparency/"
+  },
+  {
+    "detail_id": "1fb313ce-db14-4ec3-9b60-10a60a6645a6",
+    "ccn": "161344",
+    "hospital_name": "WASHINGTON COUNTY HOSPITAL",
+    "address": "400 EAST POLK, PO BOX 909",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWCHAWASHINGTONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Washington_County.aspx"
+  },
+  {
+    "detail_id": "64c02edf-81de-4a12-8df1-ee55a58efd7c",
+    "ccn": "161345",
+    "hospital_name": "OSCEOLA REGIONAL HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "9e6dd1e1-0790-499d-86e3-c12e187c4e3c",
+    "ccn": "161346",
+    "hospital_name": "SIOUX CENTER HEALTH AVERA",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "9c4a70c7-09e2-4fbd-8a40-7f1ed2657791",
+    "ccn": "161353",
+    "hospital_name": "KOSSUTH REGIONAL HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKRHCALGONAIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kossuth_V2.aspx"
+  },
+  {
+    "detail_id": "2bba0989-fa89-4ec9-9c88-9bc506c2af47",
+    "ccn": "161355",
+    "hospital_name": "KNOXVILLE HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKnoxvilleIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Knoxville_V2.aspx"
+  },
+  {
+    "detail_id": "fb071a91-9f7e-4dbb-93a5-89233f7fda8f",
+    "ccn": "161356",
+    "hospital_name": "HENRY COUNTY HEALTH CENTER",
+    "file_url": "https://greatriver.pt.panaceainc.com/MRFDownload/greatriver/henrycounty",
+    "transparency_page": "https://www.greatriverhealth.org/patients-visitors/billing-financial-services/price-transparency/"
+  },
+  {
+    "detail_id": "9951e988-3ec7-4f61-abcc-668167127e7f",
+    "ccn": "161357",
+    "hospital_name": "PALO ALTO COUNTY HOSPITAL",
+    "file_url": "https://pachs.com/wp-content/uploads/420455510_Palo-Alto-County-Hospital_StandardCharges.csv",
+    "transparency_page": "https://pachs.com/patients-visitors/billing-insurance/#price-estimates"
+  },
+  {
+    "detail_id": "ded5d86b-d953-4bac-94f7-e52fe6872b37",
+    "ccn": "161358",
+    "hospital_name": "WAYNE COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWCHCORYDONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Wayne_County.aspx"
+  },
+  {
+    "detail_id": "a800cce4-44b7-4c53-8ad2-088f4d0bee7e",
+    "ccn": "161359",
+    "hospital_name": "BURGESS HEALTH CENTER",
+    "file_url": "https://www.burgesshc.org/wp-content/uploads/2025/01/420859940_Burgess_StandardCharges.csv",
+    "transparency_page": "https://www.burgesshc.org/new-patients/price-transparency/"
+  },
+  {
+    "detail_id": "222b2ced-da83-4b24-975c-3cf43a8bba74",
+    "ccn": "161360",
+    "hospital_name": "ORANGE CITY AREA HEALTH SYSTEM",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOCAHORANGECITYIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/OrangeCity_V2.aspx"
+  },
+  {
+    "detail_id": "0c0943f6-fda9-476f-a8a4-6a19a6ccd936",
+    "ccn": "161361",
+    "hospital_name": "VAN DIEST MEDICAL CENTER",
+    "file_url": "https://pricetransparency.healthcare/van-diest-medical-center/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/van-diest-medical-center/charges/"
+  },
+  {
+    "detail_id": "f136c980-6e39-4ae4-a9f4-3429ab97316e",
+    "ccn": "161362",
+    "hospital_name": "CHEROKEE REGIONAL MEDICAL CENTER",
+    "file_url": "https://cherokeermc.org/download/420707096_sioux-valley-memorial-hospital-association_standardcharges-6/?tmstv=1764045378",
+    "transparency_page": "https://cherokeermc.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "6913094e-ec15-489b-a54e-036e0da04cea",
+    "ccn": "161363",
+    "hospital_name": "MONTGOMERY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=7eed21b4b6892fee3239bc677deed8474eef32f00c7fe9fd76920a0bdc451d9e",
+    "transparency_page": "https://www.mcmh.org/patients-visitors/billing/healthcare-price-transparency/downloadable-price-list"
+  },
+  {
+    "detail_id": "7a7f0c74-686d-4904-9251-6fb8c2dbad2f",
+    "ccn": "161364",
+    "hospital_name": "JEFFERSON COUNTY HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJCHFAIRFIELDIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Jefferson_County_V2.aspx"
+  },
+  {
+    "detail_id": "106f52fa-2251-423e-b773-e366a0ee635f",
+    "ccn": "161366",
+    "hospital_name": "SHENANDOAH MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbShenandoah&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Shenandoah_V2.aspx"
+  },
+  {
+    "detail_id": "6c08f583-81f7-4227-8174-2b7e833b5704",
+    "ccn": "161367",
+    "hospital_name": "PELLA REGIONAL HEALTH CENTER",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/pella-regional-site-473/media/r/fc47e3743bf747449b97dbe8d7f65fd5/42-0842204_pellahealthcenter_standardcharges.csv",
+    "transparency_page": "https://www.pellahealth.org/patients-visitors/billing-information/price-transparency/"
+  },
+  {
+    "detail_id": "eb2b7540-397d-4429-bc4f-0c79d4f83355",
+    "ccn": "161368",
+    "hospital_name": "FLOYD VALLEY HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "6eac1e29-39f5-4356-ba64-06d76d081eea",
+    "ccn": "161369",
+    "hospital_name": "CRAWFORD COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCCMHDENISONIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Crawford_V2.aspx"
+  },
+  {
+    "detail_id": "f01cda1d-38f2-46e6-9904-0fef647134f5",
+    "ccn": "161370",
+    "hospital_name": "LORING HOSPITAL",
+    "file_url": "https://www.loringhospital.org/filesimages/421418132_Loring-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.loringhospital.org/patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "12cd54c4-243b-458c-afd0-c477082d9ed3",
+    "ccn": "161371",
+    "hospital_name": "WINNESHIEK MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbWMCDECORAHIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Winneshiek_V2.aspx"
+  },
+  {
+    "detail_id": "5b9bade1-c8c7-4983-8bc3-41748caf2fad",
+    "ccn": "161373",
+    "hospital_name": "RINGGOLD COUNTY HOSPITAL",
+    "file_url": "https://www.rchmtayr.org/wp-content/uploads/sites/250/426037738_Ringgold-County-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.rchmtayr.org/price-transparency/"
+  },
+  {
+    "detail_id": "d131c1d9-2620-46db-a30c-dd500b7b574d",
+    "ccn": "161374",
+    "hospital_name": "MYRTUE MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMCHARLANIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Myrtue_V2.aspx"
+  },
+  {
+    "detail_id": "8c9766d3-1ce2-4b7d-8de3-611408ce4beb",
+    "ccn": "161376",
+    "hospital_name": "CASS HEALTH",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCassCountyMemorial%20&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Cass_V3.aspx"
+  },
+  {
+    "detail_id": "4d280d8a-3a27-4c14-932c-fc1b87b137df",
+    "ccn": "161377",
+    "hospital_name": "MERCYONE CENTERVILLE MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/420680308_st-josephs-mercy-hospital-centerville_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "061d9388-9b5d-4cc4-9322-580d4bf23d1b",
+    "ccn": "161378",
+    "hospital_name": "MERCYONE DYERSVILLE MEDICAL CENTER",
+    "file_url": "https://hpt.trinity-health.org/202552602_mercy-medical-center-dyersville_standardcharges.zip",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "a9e95aa1-b781-4ecd-9a03-21380e2b4559",
+    "ccn": "161379",
+    "hospital_name": "MAHASKA HEALTH",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMHPOSKALOOSAIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mahaska_V2.aspx"
+  },
+  {
+    "detail_id": "028cc0f1-4d1e-4ab9-9696-65a46a538e7b",
+    "ccn": "161380",
+    "hospital_name": "HANSEN FAMILY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbEMHIOWAFALLSIA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hansen_Family_Hospital.aspx"
+  },
+  {
+    "detail_id": "89ce42b6-97c4-47d4-a5ed-f66bfb6cdc6e",
+    "ccn": "161381",
+    "hospital_name": "SANFORD SHELDON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8369/460388596_sanford-sheldon-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordSheldonMedicalCenter/8369"
+  },
+  {
+    "detail_id": "9c7dcc88-678d-409b-bfb4-83accf0e3aac",
+    "ccn": "162001",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-QUAD CITIES",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/01-0804233_Select_Specialty_Hospital-Quad_Cities_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "e4c3585b-1e32-4080-a94f-168a303c1d1d",
+    "ccn": "163027",
+    "hospital_name": "UNIVERSITY OF IOWA HEALTH NETWORK REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/831261306_University-of-Iowa-Health-Network-Rehabilitation-Hospital-a-venture-with-Encompass-Health_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/coralville-rehab/financial-information/price-transparency"
+  }
+]

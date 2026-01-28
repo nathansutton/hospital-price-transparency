@@ -3608,6 +3608,7 @@
 {"cpt":"90746","type":"gross","price":0.01}
 {"cpt":"90747","type":"gross","price":0.01}
 {"cpt":"90750","type":"gross","price":0.01}
+{"cpt":"90750","type":"gross","price":592.65}
 {"cpt":"90756","type":"gross","price":0.01}
 {"cpt":"91300","type":"gross","price":0.01}
 {"cpt":"91301","type":"gross","price":0.01}
@@ -4382,7 +4383,7 @@
 {"cpt":"J7613","type":"gross","price":1.89}
 {"cpt":"J7620","type":"cash","price":4.12}
 {"cpt":"J7620","type":"gross","price":8.23}
-{"cpt":"J7644","type":"gross","price":0.01}
+{"cpt":"J7644","type":"gross","price":0.99}
 {"cpt":"J7674","type":"cash","price":256.36}
 {"cpt":"J7674","type":"gross","price":512.71}
 {"cpt":"J8999","type":"cash","price":4.05}

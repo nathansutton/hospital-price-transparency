@@ -1,122 +1,93 @@
 [
   {
-    "detail_id": "b528441b-b4b3-4d4b-aac4-69e04da9de64",
-    "ccn": "470011",
-    "hospital_name": "BRATTLEBORO MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10714/030107300_brattleboro-memorial-hospital_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrattleboroMemorialHospital/10714"
-  },
-  {
-    "detail_id": "2ad336a3-45db-48ec-a7f7-5fa4dac3c906",
-    "ccn": "474001",
-    "hospital_name": "BRATTLEBORO RETREAT",
-    "address": "",
-    "file_url": "https://www.brattlebororetreat.org/wp-content/uploads/2025/05/2024-2025-Price-Transparency-Disclosure.csv",
-    "transparency_page": "https://www.brattlebororetreat.org/price-transparency"
-  },
-  {
     "detail_id": "af2980e1-988d-4b20-9754-20945e74eef4",
     "ccn": "470001",
     "hospital_name": "CENTRAL VERMONT MEDICAL CENTER",
-    "address": "",
     "file_url": "https://www.cvmc.org/sites/default/files/documents/222547186_Central-Vermont-Medical-Center_standardcharges.csv",
     "transparency_page": "https://www.cvmc.org/patients-visitors/patient-financial-services/price-transparency"
-  },
-  {
-    "detail_id": "19925fd1-e972-4dd0-a5f0-ee5f0d0c8885",
-    "ccn": "471305",
-    "hospital_name": "COPLEY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.copleyvt.org/030179423_Copley-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.copleyvt.org/for-patients-and-visitors/billing-and-insurance/"
-  },
-  {
-    "detail_id": "96568855-3529-4265-aeab-a9abeefcbc38",
-    "ccn": "471301",
-    "hospital_name": "GIFFORD MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://giffordhealthcare.org/wp-content/uploads/2025/11/030179418_gifford-medical-center_standardcharges.csv",
-    "transparency_page": "https://giffordhealthcare.org/patients/billing/"
-  },
-  {
-    "detail_id": "7a3ce657-f301-433c-b9fe-07c3b523ef16",
-    "ccn": "471300",
-    "hospital_name": "GRACE COTTAGE HOSPITAL",
-    "address": "",
-    "file_url": "https://secure.claraprice.net/price-transparency/5f6520a384/machine-readable",
-    "transparency_page": "https://secure.claraprice.net/price-transparency/grace-cottage"
-  },
-  {
-    "detail_id": "5a699782-dbcf-4a15-ba20-97e6c04c5cea",
-    "ccn": "471302",
-    "hospital_name": "MOUNT ASCUTNEY HOSPITAL & HEALTH CENTER",
-    "address": "",
-    "file_url": "https://secure.claraprice.net/price-transparency/5fcd5b479a/machine-readable",
-    "transparency_page": "https://secure.claraprice.net/price-transparency/mt-ascutney"
-  },
-  {
-    "detail_id": "13965dc4-373e-41f8-9e96-c605d726eca2",
-    "ccn": "471304",
-    "hospital_name": "NORTH COUNTRY HOSPITAL",
-    "address": "",
-    "file_url": "https://northcountryhospital.org/wp-content/uploads/030185556_north-country-hospital_standardcharges.csv",
-    "transparency_page": "https://northcountryhospital.org/financial-services/"
-  },
-  {
-    "detail_id": "4b6f3436-ac35-468e-b756-8039dfbf6b1a",
-    "ccn": "471303",
-    "hospital_name": "NORTHEASTERN VERMONT REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://nvrh.org/wp-content/uploads/2025/06/036013761_NORTHEASTERN-VERMONT-Regional-Hospital_standardcharges.csv",
-    "transparency_page": "https://nvrh.org/patients-visitors/billing-financial/"
-  },
-  {
-    "detail_id": "9461a5b0-7193-4219-bc91-06f11c5c145d",
-    "ccn": "470024",
-    "hospital_name": "NORTHWESTERN MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://pricetransparency.blob.core.windows.net/northwesternmedical/03-0278425_Northwestern-Medical-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
-    "transparency_page": "https://pricetransparency.accureg.net/NorthwesternMedical"
-  },
-  {
-    "detail_id": "8eed2b30-3f9d-43d5-bb92-9cf0cf5c1e0e",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
   },
   {
     "detail_id": "56139678-6cf3-4f56-9bdb-0fd185471809",
     "ccn": "470005",
     "hospital_name": "RUTLAND REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.rrmc.org/app/files/public/47f0fe40-cd79-42f2-bd09-793a36563ae6/Patient%20and%20Visitors/030183483_RutlandRegionalMedicalCenter_standardcharges.csv",
+    "file_url": "https://www.rrmc.org/app/files/public/47f0fe40-cd79-42f2-bd09-793a36563ae6/030183483_RutlandRegionalMedicalCenter_standardcharges.csv",
     "transparency_page": "https://www.rrmc.org/patient-visitors/billing-insurance/pricing-estimates/"
+  },
+  {
+    "detail_id": "b528441b-b4b3-4d4b-aac4-69e04da9de64",
+    "ccn": "470011",
+    "hospital_name": "BRATTLEBORO MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10714/030107300_brattleboro-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BrattleboroMemorialHospital/10714"
   },
   {
     "detail_id": "56f60a7d-cf7b-45a4-ae6d-d6b2fcba6787",
     "ccn": "470012",
     "hospital_name": "SOUTHWESTERN VERMONT MEDICAL CENTER",
-    "address": "",
     "file_url": "https://svhealthcare.org/222563241_Southwestern-Vermont-Medical-Center-Inc._standardcharges.csv",
     "transparency_page": "https://svhealthcare.org/patients-visitors/billing-insurance"
+  },
+  {
+    "detail_id": "9461a5b0-7193-4219-bc91-06f11c5c145d",
+    "ccn": "470024",
+    "hospital_name": "NORTHWESTERN MEDICAL CENTER",
+    "file_url": "https://pricetransparency.blob.core.windows.net/northwesternmedical/03-0278425_Northwestern-Medical-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/NorthwesternMedical"
+  },
+  {
+    "detail_id": "7a3ce657-f301-433c-b9fe-07c3b523ef16",
+    "ccn": "471300",
+    "hospital_name": "GRACE COTTAGE HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/5f6520a384/machine-readable",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/grace-cottage"
+  },
+  {
+    "detail_id": "96568855-3529-4265-aeab-a9abeefcbc38",
+    "ccn": "471301",
+    "hospital_name": "GIFFORD MEDICAL CENTER",
+    "file_url": "https://giffordhealthcare.org/wp-content/uploads/2025/11/030179418_gifford-medical-center_standardcharges.csv",
+    "transparency_page": "https://giffordhealthcare.org/patients/billing/"
+  },
+  {
+    "detail_id": "5a699782-dbcf-4a15-ba20-97e6c04c5cea",
+    "ccn": "471302",
+    "hospital_name": "MOUNT ASCUTNEY HOSPITAL & HEALTH CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/5fcd5b479a/machine-readable",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/mt-ascutney"
+  },
+  {
+    "detail_id": "4b6f3436-ac35-468e-b756-8039dfbf6b1a",
+    "ccn": "471303",
+    "hospital_name": "NORTHEASTERN VERMONT REGIONAL HOSPITAL",
+    "file_url": "https://nvrh.org/wp-content/uploads/2025/06/036013761_NORTHEASTERN-VERMONT-Regional-Hospital_standardcharges.csv",
+    "transparency_page": "https://nvrh.org/patients-visitors/billing-financial/"
+  },
+  {
+    "detail_id": "13965dc4-373e-41f8-9e96-c605d726eca2",
+    "ccn": "471304",
+    "hospital_name": "NORTH COUNTRY HOSPITAL",
+    "file_url": "https://northcountryhospital.org/wp-content/uploads/030185556_north-country-hospital_standardcharges.csv",
+    "transparency_page": "https://northcountryhospital.org/financial-services/"
+  },
+  {
+    "detail_id": "19925fd1-e972-4dd0-a5f0-ee5f0d0c8885",
+    "ccn": "471305",
+    "hospital_name": "COPLEY HOSPITAL",
+    "file_url": "https://www.copleyvt.org/030179423_Copley-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.copleyvt.org/for-patients-and-visitors/billing-and-insurance/"
   },
   {
     "detail_id": "5d01b23a-acb0-428b-bd72-b7692e1c8800",
     "ccn": "471306",
     "hospital_name": "SPRINGFIELD HOSPITAL",
-    "address": "",
     "file_url": "https://secure.claraprice.net/price-transparency/XGDZ-1751991682610/machine-readable",
     "transparency_page": "https://secure.claraprice.net/price-transparency/springfield-hospital-vt"
   },
   {
-    "detail_id": "0f98b3bc-3d52-4a8e-9675-59c9d3319eea",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
+    "detail_id": "2ad336a3-45db-48ec-a7f7-5fa4dac3c906",
+    "ccn": "474001",
+    "hospital_name": "BRATTLEBORO RETREAT",
+    "file_url": "https://www.brattlebororetreat.org/wp-content/uploads/2025/05/2024-2025-Price-Transparency-Disclosure.csv",
+    "transparency_page": "https://www.brattlebororetreat.org/price-transparency"
   }
 ]

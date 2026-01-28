@@ -1,0 +1,114 @@
+[
+  {
+    "detail_id": "710aec4c-1813-467a-a46a-6e9a36113bf2",
+    "ccn": "020001",
+    "hospital_name": "PROVIDENCE ALASKA MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/alaska/live/920016429_providence-alaska-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "7f1bb0e9-7ca3-472d-b081-dc45c3d35e91",
+    "ccn": "020006",
+    "hospital_name": "MAT-SU REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.matsuregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/721563402_mat-su-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.matsuregional.com/pricing-information"
+  },
+  {
+    "detail_id": "475ac089-14f8-4054-829f-c9d2979c3e49",
+    "ccn": "020008",
+    "hospital_name": "BARTLETT REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBRHJUNEAUAK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Bartlett.aspx"
+  },
+  {
+    "detail_id": "d7e81a3f-e41d-4d66-af27-d2dd8fa6d48a",
+    "ccn": "020012",
+    "hospital_name": "FAIRBANKS MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFMHFAIRBANKSAK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Fairbanks_V2.aspx"
+  },
+  {
+    "detail_id": "1eb8ffcb-fecc-4f54-9b99-bbd286e3f1f4",
+    "ccn": "020018",
+    "hospital_name": "YUKON KUSKOKWIM DELTA REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Yukon_V2.aspx",
+    "transparency_page": "https://www.ykhc.org/"
+  },
+  {
+    "detail_id": "972cf962-bdc8-4b77-82d3-e1a8d4378913",
+    "ccn": "021301",
+    "hospital_name": "PROVIDENCE VALDEZ MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/alaska/live/830412123_providence-valdez-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "5378f6a9-b0a6-4430-a51b-b4cad6119541",
+    "ccn": "021302",
+    "hospital_name": "PROVIDENCE SEWARD MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/alaska/live/611442487_providence-seward-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "3922b18b-558e-4790-8d75-6ff6b08bfd92",
+    "ccn": "021304",
+    "hospital_name": "PETERSBURG MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMCPETERSBURGAK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Petersburg_V3.aspx"
+  },
+  {
+    "detail_id": "99502aba-0ca2-4804-b479-507fa6afea11",
+    "ccn": "021306",
+    "hospital_name": "PROVIDENCE KODIAK ISLAND MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/alaska/live/911784793_providence-kodiak-island-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "5a199ac3-422d-41b7-93d4-8d98110f48d1",
+    "ccn": "021308",
+    "hospital_name": "NORTON SOUND REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNSRHNOMEAK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Norton_Sound.aspx"
+  },
+  {
+    "detail_id": "b94536f4-b46f-46d1-a35c-6e94467f8333",
+    "ccn": "021309",
+    "hospital_name": "BRISTOL BAY AREA HEALTH CORPORATION KANAKANAK HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Kanakanak_V3.aspx",
+    "transparency_page": "https://bbahc.org/Transparency"
+  },
+  {
+    "detail_id": "0b9b2f32-be14-40a7-9fdc-04081d2f3e8b",
+    "ccn": "021310",
+    "hospital_name": "MANIILAQ HEALTH SERVICES",
+    "file_url": "https://mdsave-system.s3.amazonaws.com/master/temp/TransparencyMandate/maniilaq_2025_chargemaster.csv",
+    "transparency_page": "https://maniilaq.mdsave.com/"
+  },
+  {
+    "detail_id": "8ffa4cb9-ee64-4d54-b51b-80c3a6d69a59",
+    "ccn": "021311",
+    "hospital_name": "PEACEHEALTH KETCHIKAN MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/35472f5e6e8e794401d33a8102726ca0/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "df3b0e63-c585-4263-9068-0f3537891005",
+    "ccn": "021313",
+    "hospital_name": "SOUTH PENINSULA HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSPHHOMERAK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SouthPeninsula_V2.aspx"
+  },
+  {
+    "detail_id": "993adcc1-ed89-4722-b0e4-64f6b65a11e5",
+    "ccn": "022001",
+    "hospital_name": "PROVIDENCE ST. ELIAS SPECIALTY HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/alaska/live/260115489_st-elias-specialty-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "a6246be1-86f5-4744-a273-1919dc59e9b6",
+    "ccn": "024001",
+    "hospital_name": "NORTH STAR BEHAVIORAL HEALTH",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/721539530_northstar_standardcharges.csv",
+    "transparency_page": "https://northstarbehavioral.com/standard-services/"
+  }
+]

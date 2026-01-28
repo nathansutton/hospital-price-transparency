@@ -1,0 +1,206 @@
+[
+  {
+    "detail_id": "b748493d-243b-40a8-ba74-77027067b7ea",
+    "ccn": "320002",
+    "hospital_name": "CHRISTUS ST. VINCENT REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/850106941_stvincentregionalmedicalcenter_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "b83886ac-0b79-4fd2-9130-86581a27d48d",
+    "ccn": "320006",
+    "hospital_name": "EASTERN NEW MEXICO MEDICAL CENTER",
+    "file_url": "https://www.enmmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/742870118_eastern-new-mexico-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.enmmc.com/pricing-information"
+  },
+  {
+    "detail_id": "229d89fe-05b4-4252-a732-21fa53e1ec08",
+    "ccn": "320009",
+    "hospital_name": "LOVELACE MEDICAL CENTER",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/85-0327237_Lovelace-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/price-transparency"
+  },
+  {
+    "detail_id": "2af9670f-886e-4207-b823-8fc7fca3a089",
+    "ccn": "320017",
+    "hospital_name": "LOVELACE WOMENS HOSPITAL",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/85-0327237_Lovelace-Womens-Hospital_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/price-transparency"
+  },
+  {
+    "detail_id": "57b5978c-264c-4d7d-b2c8-4b798199367a",
+    "ccn": "320018",
+    "hospital_name": "MEMORIAL MEDICAL CENTER",
+    "file_url": "https://www.mmclc.org/docs/ahmemorialmedicalcenterlibraries/hcl/mrf2q25/270085482_memorial-medical-center-las-cruces_standardcharges.csv",
+    "transparency_page": "https://www.mmclc.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "f0b0c835-0fea-47bf-ac3c-887e91d9ad4f",
+    "ccn": "320021",
+    "hospital_name": "PRESBYTERIAN HOSPITAL",
+    "file_url": "https://onbaseext.phs.org/PEL/DisplayDocument?ContentID=PEL_00954557",
+    "transparency_page": "https://www.phs.org/tools-resources/patient/standard-charges"
+  },
+  {
+    "detail_id": "860a9c90-f79d-4912-ad3f-c57874d97e15",
+    "ccn": "320022",
+    "hospital_name": "PLAINS REGIONAL MEDICAL CENTER CLOVIS",
+    "file_url": "https://onbaseext.phs.org/PEL/DisplayDocument?ContentID=PEL_00954558",
+    "transparency_page": "https://www.phs.org/tools-resources/patient/standard-charges"
+  },
+  {
+    "detail_id": "d7e21ffd-2fec-4ca7-8338-652d8df4da17",
+    "ccn": "320038",
+    "hospital_name": "REHOBOTH MCKINLEY CHRISTIAN HEALTH CARE SERVICES",
+    "file_url": "https://secure.claraprice.net/price-transparency/ANSH-1701370906574/machine-readable/850313268_rehoboth-mckinley-christian-health-care-services_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/rehoboth-mckinley-nm"
+  },
+  {
+    "detail_id": "049f3699-7178-43ff-96f6-aa66151804e6",
+    "ccn": "320067",
+    "hospital_name": "GUADALUPE COUNTY HOSPITAL",
+    "file_url": "https://www.gchnm.org/s/856000220_Guadalupe-County-Hospital_standardcharges-final.csv",
+    "transparency_page": "https://www.gchnm.org/"
+  },
+  {
+    "detail_id": "11e96f48-d07e-47d6-ab5a-b3ccd5c23e2d",
+    "ccn": "320074",
+    "hospital_name": "LOVELACE WESTSIDE HOSPITAL",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/85-0327237_Lovelace_Westside_Hospital_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/price-transparency"
+  },
+  {
+    "detail_id": "275308e5-5f5b-4a39-854b-0b118ee00e6f",
+    "ccn": "320083",
+    "hospital_name": "HEART HOSPITAL OF NEW MEXICO",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/85-0327237_Lovelace-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/price-transparency"
+  },
+  {
+    "detail_id": "c9c27d63-fbec-4b17-ae1a-3c3a3405bbd7",
+    "ccn": "320085",
+    "hospital_name": "MOUNTAIN VIEW REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.mountainviewregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/752905434_mountainview-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mountainviewregional.com/pricing-information"
+  },
+  {
+    "detail_id": "7fce67ee-316b-4e76-8231-1aad16cdd567",
+    "ccn": "320086",
+    "hospital_name": "LOVELACE REGIONAL HOSPITAL ROSWELL",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/85-0327237_Lovelace-Regional-Hospital-Roswell_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/price-transparency"
+  },
+  {
+    "detail_id": "b176d782-8cac-4107-a395-ef25080404c5",
+    "ccn": "320087",
+    "hospital_name": "CHRISTUS ST. VINCENT ORTHOPAEDIC SPECIALTY CLINIC",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/850106941_stvincentregionalmedicalcenter_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "f2d976e7-31f3-4718-bbe4-279224d24fe8",
+    "ccn": "320090",
+    "hospital_name": "PRESBYTERIAN SANTA FE MEDICAL CENTER",
+    "file_url": "https://onbaseext.phs.org/PEL/DisplayDocument?ContentID=PEL_00954559",
+    "transparency_page": "https://www.phs.org/tools-resources/patient/standard-charges"
+  },
+  {
+    "detail_id": "d62df898-ee67-4578-aaa2-3ae1433baacc",
+    "ccn": "321302",
+    "hospital_name": "DR DAN C TRIGG MEMORIAL HOSPITAL",
+    "file_url": "https://onbaseext.phs.org/PEL/DisplayDocument?ContentID=PEL_00954561",
+    "transparency_page": "https://www.phs.org/tools-resources/patient/standard-charges"
+  },
+  {
+    "detail_id": "909b9ada-c989-459b-9382-dd920e4170b9",
+    "ccn": "321305",
+    "hospital_name": "NOR LEA DISTRICT HOSPITAL",
+    "file_url": "https://machine-readable-files.com/nor-lea-hospital-district/850278235_Nor-Lea-Hospital-District_standardcharges.csv",
+    "transparency_page": "https://hospitalpricelists.org/Nor-Lea-Hospital-District"
+  },
+  {
+    "detail_id": "3507079f-5249-4fd9-ba9e-045491f7ff22",
+    "ccn": "321306",
+    "hospital_name": "LINCOLN COUNTY MEDICAL CENTER",
+    "file_url": "https://onbaseext.phs.org/PEL/DisplayDocument?ContentID=PEL_00954562",
+    "transparency_page": "https://www.phs.org/tools-resources/patient/standard-charges"
+  },
+  {
+    "detail_id": "c6e8f9fb-2712-4b7d-b2bf-ed2cc35ca8a1",
+    "ccn": "321307",
+    "hospital_name": "MINERS COLFAX MEDICAL CENTER",
+    "file_url": "https://minershosp.slicedhealth.io/pricer/85-0323546_MinersColfaxMedicalCenter_standardcharges.CSV",
+    "transparency_page": "https://www.minershosp.com/price-transparency/"
+  },
+  {
+    "detail_id": "fdaa7f7d-3846-4a9d-a34a-6bfb62277451",
+    "ccn": "321308",
+    "hospital_name": "CIBOLA GENERAL HOSPITAL",
+    "file_url": "https://cibolahospital.com/wp-content/uploads/sites/257/2025/12/850141285_cibola-general-hospital_standardcharges.csv",
+    "transparency_page": "https://cibolahospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "08014c90-1238-49e2-bba9-c6c5b0044078",
+    "ccn": "321309",
+    "hospital_name": "MIMBRES MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMHDEMINGNM&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mimbres.aspx"
+  },
+  {
+    "detail_id": "ef637bf0-8e86-4b7d-8501-5ba2f83490c7",
+    "ccn": "321311",
+    "hospital_name": "GILA REGIONAL MEDICAL CENTER",
+    "file_url": "http://machine-readable-files.com/gila-medical-center/856000321_Gila-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://hospitalpricelists.org/Gila-Medical-Center"
+  },
+  {
+    "detail_id": "f700345f-d21a-49c7-a5e7-0dd1b6d7a75d",
+    "ccn": "322002",
+    "hospital_name": "KINDRED HOSPITAL - ALBUQUERQUE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=OC*__*g5zGZDVTLbrwoe0Ne*__*Q*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=OC*__*g5zGZDVTLbrwoe0Ne*__*Q*-*"
+  },
+  {
+    "detail_id": "0bfeb43c-957c-4d41-8cef-f3f35bb35aab",
+    "ccn": "323028",
+    "hospital_name": "LOVELACE UNM REHABILITATION HOSPITAL",
+    "file_url": "https://coc.ardenthealthservices.com/newmexico/81-5326294_Lovelace-Rehabilition-Hospital_standardcharges.csv",
+    "transparency_page": "https://lovelace.com/policies-and-disclosures/price-transparency/"
+  },
+  {
+    "detail_id": "c59caf65-284d-4dee-bc45-5e1d22aa7ee5",
+    "ccn": "323032",
+    "hospital_name": "REHABILITATION HOSPITAL OF SOUTHERN NEW MEXICO",
+    "file_url": "https://rhsnm.ernesthealth.com/wp-content/uploads/sites/24/2024/12/201563733_Rehabilitation-Hospital-of-Southern-New-Mexico_standard-charges.csv",
+    "transparency_page": "https://rhsnm.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "b42449fe-0397-4dbc-b894-fe86c9cf3eea",
+    "ccn": "323033",
+    "hospital_name": "CLEARSKY REHABILITATION HOSPITAL OF RIO RANCHO",
+    "file_url": "https://clearskyhealth.com/cmt/84-5065073_Clearsky%20Rehabilitation%20Hospital%20of%20Rio%20Rancho_standardcharges.csv",
+    "transparency_page": "https://clearskyhealth.com/riorancho/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "b37f2d68-efd2-4aad-9ac1-84f7581d73ee",
+    "ccn": "324010",
+    "hospital_name": "MESILLA VALLEY HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/202612295_mesilla-valley_standardcharges.csv",
+    "transparency_page": "https://mesillavalleyhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "04f4872e-1161-49f8-9814-b292f4d4e257",
+    "ccn": "324012",
+    "hospital_name": "PEAK BEHAVIORAL HEALTH SERVICES",
+    "file_url": "https://peakbehavioral.com/wp-content/uploads/2025/04/80-0895526_Peak-Behavioral-Health_standardcharges.csv",
+    "transparency_page": "https://peakbehavioral.com/price-transparency/"
+  },
+  {
+    "detail_id": "33a1468e-5591-480d-8b21-4c3f2c1ed87a",
+    "ccn": "324013",
+    "hospital_name": "HAVEN BEHAVIORAL HOSPITAL OF ALBUQUERQUE",
+    "address": "5400 GIBSON BOULEVARD SE, 4TH FLOOR",
+    "file_url": "https://www.havenalbuquerque.com/wp-content/uploads/sites/6/2024/12/900822423_Haven-Behavioral-Hospital-of-Albuquerque_standardcharges.csv",
+    "transparency_page": "https://www.havenalbuquerque.com/price-transparency/"
+  }
+]

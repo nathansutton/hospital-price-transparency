@@ -1,0 +1,1270 @@
+[
+  {
+    "detail_id": "0a4cc571-a167-4d71-97ef-211423379e4c",
+    "ccn": "360001",
+    "hospital_name": "MERCY HOSPITAL ANDERSON",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310537085_mercy-health-anderson-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "9bf45783-4a75-4c73-bc71-7f8290bfdc76",
+    "ccn": "360002",
+    "hospital_name": "UH SAMARITAN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7892/340714535-1902882939_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SamaritanMedicalCenter/7892"
+  },
+  {
+    "detail_id": "485aa99e-600a-4539-af90-c7d9734f3295",
+    "ccn": "360003",
+    "hospital_name": "UC HEALTH UNIVERSITY OF CINCINNATI MEDICAL CENTER",
+    "file_url": "https://www.uchealth.com/content/dam/uchealth/json-files/311479038_University-of-Cincinnati-Medical-Center_StandardCharges.json",
+    "transparency_page": "https://www.uchealth.com/financial/price-transparency/"
+  },
+  {
+    "detail_id": "4933d7c7-06f0-426a-91be-d3b4e0c9b312",
+    "ccn": "360006",
+    "hospital_name": "RIVERSIDE METHODIST HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_riverside_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "2dec2e12-4965-4102-85db-99396103c9cd",
+    "ccn": "360008",
+    "hospital_name": "SOUTHERN OHIO MEDICAL CENTER",
+    "file_url": "https://pricetransparency.healthcare/southern-ohio-medical-center/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/southern-ohio-medical-center/charges/"
+  },
+  {
+    "detail_id": "e56c81c1-1ded-41dc-be60-928dd3dd8bd0",
+    "ccn": "360009",
+    "hospital_name": "LIMA MEMORIAL HEALTH SYSTEM",
+    "file_url": "https://www.limamemorial.org/media/urffq5bs/344434676_lima-memorial-health-system_standardcharges.json",
+    "transparency_page": "https://www.limamemorial.org/patient-resources/patient-price-information/"
+  },
+  {
+    "detail_id": "eecee94c-92a7-47ff-8a63-8406b4240f97",
+    "ccn": "360010",
+    "hospital_name": "CLEVELAND CLINIC UNION HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/union",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "a5b85e95-58f4-455b-a39b-064e7e5bb6e9",
+    "ccn": "360011",
+    "hospital_name": "MARION GENERAL HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-1070887_marion_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "356c002c-2f9e-41db-8692-8cec86ebd25c",
+    "ccn": "360012",
+    "hospital_name": "MOUNT CARMEL ST ANN'S HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mountcarmel-stanns",
+    "transparency_page": "https://www.mountcarmelhealth.com/for-patients/billing-and-insurance/pricing-information/price-estimates"
+  },
+  {
+    "detail_id": "122a73db-0927-450c-bf59-83f5a2b94398",
+    "ccn": "360013",
+    "hospital_name": "WILSON MEMORIAL HOSPITAL",
+    "file_url": "https://8589329.fs1.hubspotusercontent-na1.net/hubfs/8589329/Wilson%20Health%20CMS%20Price%20Transparency%2012.6.24%20-%20CSV%20CD-1.csv",
+    "transparency_page": "https://www.wilsonhealth.org/patients-visitors/patient-price-information"
+  },
+  {
+    "detail_id": "f4ca9b7d-8fc2-40ac-87a2-81998f92348d",
+    "ccn": "360014",
+    "hospital_name": "O'BLENESS MEMORIAL HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4446959_obleness_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "d378c1e5-c980-4320-924c-5c363afc169c",
+    "ccn": "360016",
+    "hospital_name": "MERCY HEALTH - THE JEWISH HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/271408630_jewish-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "bb402686-de01-48fe-b7cf-38419d5c23d8",
+    "ccn": "360017",
+    "hospital_name": "GRANT MEDICAL CENTER",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_grant_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator/"
+  },
+  {
+    "detail_id": "7f833cfb-999e-4768-b1bb-09df884bbfa2",
+    "ccn": "360020",
+    "hospital_name": "SUMMA HEALTH SYSTEMS - AKRON CAMPUS",
+    "file_url": "https://www.summahealth.org/-/media/project/summahealth/website/page-content/patients-visitors/insurance-billing/261375072_summa-health-system_standardcharges.json",
+    "transparency_page": "https://www.summahealth.org/patientvisitor/insuranceandbilling/cms-price-transparency"
+  },
+  {
+    "detail_id": "5a34b9fd-b7fa-45f4-b596-12a447543312",
+    "ccn": "360025",
+    "hospital_name": "FIRELANDS REGIONAL MEDICAL CENTER",
+    "file_url": "https://stmlfirelandsncus001.blob.core.windows.net/public/341401659_firelands-regional-health-system_standard%20charges.csv",
+    "transparency_page": "https://www.firelands.com/patients-guests/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "69458f61-3f73-4f65-84b6-46bb560e7555",
+    "ccn": "360026",
+    "hospital_name": "KETTERING HEALTH GREENE MEMORIAL",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/310809436_1255317848_greene-memorial-hospital-inc_standardcharges.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "f4fff10d-dad9-405c-ad1d-716102b045d2",
+    "ccn": "360029",
+    "hospital_name": "WOOD COUNTY HOSPITAL",
+    "file_url": "https://www.woodcountyhospital.org/media/izwhu2l4/344440884_wood-county_standardcharges.zip",
+    "transparency_page": "https://www.woodcountyhospital.org/patients-visitors/billing-and-insurance/services-pricing/"
+  },
+  {
+    "detail_id": "bfb08cd3-93e0-4499-ad40-0be171d98e3f",
+    "ccn": "360032",
+    "hospital_name": "GRAND LAKE HEALTH SYSTEM",
+    "file_url": "https://grandlakehealth.org/wp-content/uploads/2025/05/341623770_joint-township-district-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.grandlakehealth.org/patients-and-visitors/information-center/patient-price-list-hospitalstandardcharges.html"
+  },
+  {
+    "detail_id": "5c6420ec-04b8-4a00-a35e-73e0f4ddfec1",
+    "ccn": "360035",
+    "hospital_name": "MOUNT CARMEL EAST",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mountcarmel-east",
+    "transparency_page": "https://www.mountcarmelhealth.com/for-patients/billing-and-insurance/pricing-information/price-estimates"
+  },
+  {
+    "detail_id": "42af2512-20f3-4f37-8811-e1b95be5f767",
+    "ccn": "360036",
+    "hospital_name": "WOOSTER COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWCHWOOSTEROH&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.woosterhospital.org/patients-visitors/for-patients/package-pricing/#downloadable-resources"
+  },
+  {
+    "detail_id": "3440ebec-ed96-49ed-b17c-bd869128eb2b",
+    "ccn": "360039",
+    "hospital_name": "GENESIS HOSPITAL",
+    "file_url": "https://genesisgenericblob.blob.core.windows.net/price-transparency/311480941_Genesis-Healthcare-System_standardcharges.csv",
+    "transparency_page": "https://genesishcs.org/patients/billing-insurance/price-list"
+  },
+  {
+    "detail_id": "3472438c-d5c1-4c8d-8df1-0ee9544e64cd",
+    "ccn": "360040",
+    "hospital_name": "KNOX COMMUNITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=WJKzY1WfxL9tY*__*rvbuKxvw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=WJKzY1WfxL9tY*__*rvbuKxvw*-*"
+  },
+  {
+    "detail_id": "e3d83fcf-2406-40cd-b010-818a44c0e7a1",
+    "ccn": "360041",
+    "hospital_name": "UH PARMA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7897/340827442-1164481677_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ParmaMedicalCenter/7897"
+  },
+  {
+    "detail_id": "07feccc3-c91e-438c-ba37-69f6a150837c",
+    "ccn": "360044",
+    "hospital_name": "WAYNE HOSPITAL",
+    "file_url": "https://pricetransparency-cdn.azureedge.net/wayneohepic/34-4428598_Wayne-Healthcare_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/wayneoh"
+  },
+  {
+    "detail_id": "18e8b110-8ce7-45b4-afc2-7108036bf190",
+    "ccn": "360046",
+    "hospital_name": "MCCULLOUGH-HYDE MEMORIAL HOSPITAL",
+    "file_url": "https://apps.trihealth.com/static/pricing/310650283_MCCULLOUGH-HYDEMEMORIALHOSPITALINC_STANDARDCHARGES.csv",
+    "transparency_page": "https://www.trihealth.com/patients-and-visitors/billing-and-insurance/pricing-estimates"
+  },
+  {
+    "detail_id": "69b4066f-723d-43c2-a104-802e886087e3",
+    "ccn": "360054",
+    "hospital_name": "HOLZER GALLIPOLIS",
+    "file_url": "https://www.holzer.org/app/files/public/3b275ac3-ee65-4dd6-8651-62fb1b5f5f7a/01-2025_314379491_holzer-medical-center-gallipolis_standard-charges.csv",
+    "transparency_page": "https://www.holzer.org/patients-visitors/billing-insurance-pricing/price-transparency/"
+  },
+  {
+    "detail_id": "0bcdf8ae-e7e6-46e7-9839-6db03aea2197",
+    "ccn": "360056",
+    "hospital_name": "MERCY HEALTH - FAIRFIELD HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310538532_mercy-health-fairfield-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "d7db7437-85c6-4936-afa7-56891f89ff77",
+    "ccn": "360058",
+    "hospital_name": "MERCER COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=UQsnF1xuEdRnE*__*SX6YfSwA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=UQsnF1xuEdRnE*__*SX6YfSwA*-*"
+  },
+  {
+    "detail_id": "391abf36-3f57-4880-a2d8-8bb3b9ffe93f",
+    "ccn": "360064",
+    "hospital_name": "ST ELIZABETH YOUNGSTOWN HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/340505560-1548296106_mercy-health-youngstown-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "909117c4-0801-431a-acce-9c29ff4dcc7f",
+    "ccn": "360065",
+    "hospital_name": "FISHER-TITUS MEDICAL CENTER",
+    "file_url": "https://ft-data.org/wp-content/uploads/2025/08/Financial-Documents_2025-344430716_Fisher-Titus-Medical-Center_standardcharges-4.xls",
+    "transparency_page": "https://www.fishertitus.org/rights-and-policies/price-transparency"
+  },
+  {
+    "detail_id": "2b757a2a-7c10-4ea0-883f-617c743f2a27",
+    "ccn": "360066",
+    "hospital_name": "MERCY HEALTH - ST. RITA'S MEDICAL CENTER",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/341105619_mercy-health-st-ritas-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "94d7e32e-8d1c-465d-9397-008f72045cae",
+    "ccn": "360068",
+    "hospital_name": "PROMEDICA TOLEDO HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/344428256_toledo-hospital_standardcharges.csv?rev=9238059af3494eb6a22b24b62846d309&hash=32AAFD04B4CB935E839F120672AA990C",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "8753a175-0cc1-44b0-b556-265e74cb608e",
+    "ccn": "360070",
+    "hospital_name": "CLEVELAND CLINIC MERCY HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/mercy",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "adb3f6dd-a4e3-4d16-b893-33890f557655",
+    "ccn": "360072",
+    "hospital_name": "FAIRFIELD MEDICAL CENTER",
+    "file_url": "https://www.fmchealth.org/app/uploads/2025/09/310645626_fairfield-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.fmchealth.org/patients-visitors/billing-financial-assistance/"
+  },
+  {
+    "detail_id": "f985c924-daee-49c2-9771-3da6d564ba44",
+    "ccn": "360074",
+    "hospital_name": "PROMEDICA FLOWER HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/344428256_promedica-flower-hospital_standardcharges.csv?rev=4f279fef42344e5ba75bbeec6e52a7c4&hash=2D1F8241E9C7972C2E8ADA581BE47DE8",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "06698d1f-b750-43aa-8a4a-417956d954ae",
+    "ccn": "360075",
+    "hospital_name": "UH GEAUGA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7902/341924226-1669562864_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GeaugaMedicalCenter/7902"
+  },
+  {
+    "detail_id": "94feef9e-21da-4712-bbd3-3b73a40c8295",
+    "ccn": "360076",
+    "hospital_name": "ATRIUM MEDICAL CENTER",
+    "file_url": "https://www.premierhealth.com/docs/default-source/default-document-library/31-1079309_atrium-medical-center_standardcharges.json",
+    "transparency_page": "https://www.premierhealth.com/patient-and-visitor-guide/patient-guide/costs-and-insurance/pricing"
+  },
+  {
+    "detail_id": "c9f6e545-800b-4807-a8ed-e6f3f1a999f2",
+    "ccn": "360077",
+    "hospital_name": "FAIRVIEW HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/fairview",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "28c408d3-0283-4902-a97e-72776dd3497a",
+    "ccn": "360078",
+    "hospital_name": "UH PORTAGE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7891/461382538-1043641897_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PortageMedicalCenter/7891"
+  },
+  {
+    "detail_id": "43ac9b1d-ba1f-4f14-9be7-ec0db05cadaf",
+    "ccn": "360081",
+    "hospital_name": "MERCY HEALTH - ST CHARLES HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/344428250-1891458303_mercy-health-st-vincent-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "438bdb1b-4eeb-4fd3-b9c3-7319752d92f0",
+    "ccn": "360082",
+    "hospital_name": "EUCLID HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/euclid",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "03aed3ab-c286-4c6c-8f6a-7f87dceb2ee0",
+    "ccn": "360084",
+    "hospital_name": "AULTMAN HOSPITAL",
+    "file_url": "https://aultman.org/pricing-transparency/2025/1356366991_aultman-hospital_standardcharges.json",
+    "transparency_page": "https://aultman.org/home/patients-and-visitors/insurance-and-billing/pricing#/"
+  },
+  {
+    "detail_id": "57240bbe-0f19-490f-a6aa-be15af1fa6e9",
+    "ccn": "360085",
+    "hospital_name": "OHIO STATE UNIVERSITY WEXNER MEDICAL CENTER",
+    "file_url": "https://wexnermedical.osu.edu/Files/31-1340739_OHIO-STATE-UNIVERSITY-HOSPITALS_standardcharges.csv.zip",
+    "transparency_page": "https://wexnermedical.osu.edu/patient-and-visitor-guide/patient-pricing-lists"
+  },
+  {
+    "detail_id": "187ce86a-6489-4489-911d-e93ab16f93dc",
+    "ccn": "360086",
+    "hospital_name": "MERCY HEALTH - SPRINGFIELD REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310785684-1144286402_community-mercy-health-partners_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "f8200448-6b5b-4d39-81d3-8bcb4d6057b9",
+    "ccn": "360087",
+    "hospital_name": "CLEVELAND CLINIC LUTHERAN HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/lutheran",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "aae8dd9c-1799-4f1a-8783-ca7d9a0cf07f",
+    "ccn": "360089",
+    "hospital_name": "MERCY TIFFIN HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/344431174_mercy-health-tiffin-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "ccda5e9a-7fa7-47e6-8bdd-86cc439cd97e",
+    "ccn": "360091",
+    "hospital_name": "CLEVELAND CLINIC MEDINA HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/medina",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "3e95263b-8379-4f64-b52d-5162c9b6cc6b",
+    "ccn": "360092",
+    "hospital_name": "MEMORIAL HOSPITAL OF UNION COUNTY",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/3db6d9983f7ff0556c8777f0755ff297/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/3db6d9983f7ff0556c8777f0755ff297/"
+  },
+  {
+    "detail_id": "8078974f-c130-4eb9-ad1c-fd4660f366ab",
+    "ccn": "360095",
+    "hospital_name": "BLANCHARD VALLEY HOSPITAL",
+    "file_url": "https://machine-readable-files.com/blanchard-valley-health-system/341369963_Blanchard-Valley-Health-System_standardcharges.csv",
+    "transparency_page": "https://www.bvhealthsystem.org/patient-and-visitor-information/im-a-patient/price-transparency"
+  },
+  {
+    "detail_id": "afdc6993-3dff-4cc2-80c3-735910fa9a59",
+    "ccn": "360096",
+    "hospital_name": "EAST LIVERPOOL CITY HOSPITAL",
+    "file_url": "https://elch.org/wp-content/uploads/2024/12/340714583_EastLiverpoolCityHospital_standardcharges.json",
+    "transparency_page": "https://elch.org/patients-visitors/insurance-financial-info/"
+  },
+  {
+    "detail_id": "c7654939-51e6-417e-ab6c-45cddef3f7a8",
+    "ccn": "360098",
+    "hospital_name": "UH TRIPOINT MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11435/341425870-1972689172_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/LakeWestMedicalCenter/11435"
+  },
+  {
+    "detail_id": "06d1baed-0d6e-45e4-b7e6-e1e88c5c9cc4",
+    "ccn": "360107",
+    "hospital_name": "BELLEVUE HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/c613116363b1f751ff3998f05d64003f/charges/mrf",
+    "transparency_page": "https://www.bellevuehospital.com/price-transparency"
+  },
+  {
+    "detail_id": "bd1a1800-6e25-4005-b7da-7e57424a925b",
+    "ccn": "360109",
+    "hospital_name": "COSHOCTON REGIONAL MEDICAL CENTER",
+    "file_url": "https://coshoctonhospital.org/wp-content/uploads/2024/12/320506896_CoshoctonRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://coshoctonhospital.org/for-patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "5d09cafb-73f3-415a-bb69-2486fcc3690a",
+    "ccn": "360112",
+    "hospital_name": "MERCY HEALTH ST VINCENT MEDICAL CENTER",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/344428250-1467493551_mercy-health-st-vincent-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "07bcae64-00ec-43aa-b94f-ed40e47395c4",
+    "ccn": "360118",
+    "hospital_name": "OHIOHEALTH MANSFIELD HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-0714456_mansfield_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "ef1d0b83-840f-426a-8edf-dbb8a1f56134",
+    "ccn": "360121",
+    "hospital_name": "PARKVIEW BRYAN HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/341048666_parkview-bryan-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "ba15ff31-82cb-4109-ba19-be570f41b8fd",
+    "ccn": "360123",
+    "hospital_name": "UH ST JOHN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7893/341260978-1841264868_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/StJohnMedicalCenter/7893"
+  },
+  {
+    "detail_id": "67d988be-75dc-4d3e-87cb-5c4f1b955d2c",
+    "ccn": "360125",
+    "hospital_name": "ASHTABULA COUNTY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7982/340726081_ashtabula-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ashtabulamedicalcenter/7982or"
+  },
+  {
+    "detail_id": "96808fb1-478e-443c-9c1e-a98ba7e6d838",
+    "ccn": "360131",
+    "hospital_name": "AULTMAN ALLIANCE COMMUNITY HOSPITAL",
+    "file_url": "https://aultman.org/pricing-transparency/2025/1942385794_alliance-community-hospital_standardcharges.json",
+    "transparency_page": "https://aultman.org/home/patients-and-visitors/insurance-and-billing/pricing#/"
+  },
+  {
+    "detail_id": "d75d2e26-7220-4eec-a34e-87877ca9090d",
+    "ccn": "360132",
+    "hospital_name": "KETTERING HEALTH HAMILTON",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/310536662_1104867167_fort-hamilton-hospital_standardcharges-1.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "77fa1075-ab44-4c05-9d02-ea6cfc481e2f",
+    "ccn": "360133",
+    "hospital_name": "KETTERING HEALTH DAYTON",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/310564121_1053339507_dayton-osteopathic-hospital_standardcharges.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "30cb9d2e-132a-4924-a182-ce5c9b228d82",
+    "ccn": "360134",
+    "hospital_name": "GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://apps.trihealth.com/static/pricing/310537486_THEGOODSAMARITANHOSPITAL_STANDARDCHARGES.csv",
+    "transparency_page": "https://www.trihealth.com/patients-and-visitors/billing-and-insurance/pricing-estimates"
+  },
+  {
+    "detail_id": "0809f2d5-729c-4e0b-bce2-06057550d904",
+    "ccn": "360137",
+    "hospital_name": "UH CLEVELAND MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7901/341567805-1043397292_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ClevelandMedicalCenter/7901"
+  },
+  {
+    "detail_id": "d7a81660-68af-4dcd-8edf-3ccae78fd136",
+    "ccn": "360143",
+    "hospital_name": "MARYMOUNT HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/marymount",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "19d22225-d4ad-4fcd-99a0-68cb00749086",
+    "ccn": "360144",
+    "hospital_name": "SOUTH POINTE HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/southpointe",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "99365bfe-eebc-4366-b39c-f1ae7ecc05dd",
+    "ccn": "360145",
+    "hospital_name": "UH ELYRIA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7903/340714612-1841299039_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ElyriaMedicalCenter/7903"
+  },
+  {
+    "detail_id": "5af8cf95-2c02-40e1-8f1d-2b8ae6820e68",
+    "ccn": "360147",
+    "hospital_name": "MARIETTA MEMORIAL HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=WrIdhNNIFG4M*__*3EC7cPFcg*-*",
+    "transparency_page": "https://www.mhsystem.org/patient-visitors/price-list/"
+  },
+  {
+    "detail_id": "43fece28-5bc5-45de-8fab-4b1c2b9b93b4",
+    "ccn": "360148",
+    "hospital_name": "POMERENE HOSPITAL",
+    "file_url": "https://irp.cdn-website.com/94898d03/files/uploaded/311518658_pomerene-hospital_standardcharges.csv",
+    "transparency_page": "https://www.pomerenehospital.org/financial-services#PricingInformation"
+  },
+  {
+    "detail_id": "51fe2362-b155-4540-9608-c63a3bb12530",
+    "ccn": "360150",
+    "hospital_name": "WESTERN RESERVE HOSPITAL",
+    "file_url": "https://machine-readable-files.com/western-reserve-hospital/263536780_Western-Reserve-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Western-Reserve-Hospital/"
+  },
+  {
+    "detail_id": "89c70e03-a4c4-42c9-9804-95896e9618b9",
+    "ccn": "360152",
+    "hospital_name": "DOCTORS HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_doctors_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "300a0d35-0669-4f4e-bdc2-eef8fcd08d23",
+    "ccn": "360155",
+    "hospital_name": "SOUTHWEST GENERAL HEALTH CENTER",
+    "file_url": "https://southwestgeneral.pt.panaceainc.com/MRFDownload/southwestgeneral/southwestgeneral",
+    "transparency_page": "https://www.swgeneral.com/financial-tools/price-transparency/"
+  },
+  {
+    "detail_id": "85c4f844-6508-4d6c-a71f-b0c3ebba3cde",
+    "ccn": "360163",
+    "hospital_name": "THE CHRIST HOSPITAL",
+    "file_url": "https://www.thechristhospital.com/stfiles/31-0538525_TheChristHospitalHealthNetwork_StandardCharges.csv",
+    "transparency_page": "https://www.thechristhospital.com/patient-resources/patient-financial-services/pricing-and-estimates/price-list-and-cost"
+  },
+  {
+    "detail_id": "7d80738f-52a6-4a33-b156-2887743cfd09",
+    "ccn": "360170",
+    "hospital_name": "BERGER HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/38-4105653_berger_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "dba4c57b-ab2c-4316-b770-b0bd4dc93c58",
+    "ccn": "360172",
+    "hospital_name": "MERCY HEALTH - LORAIN HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/340714704_mercy-health-regional-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "71528554-2821-407f-afbc-7bfe7e490f62",
+    "ccn": "360174",
+    "hospital_name": "UPPER VALLEY MEDICAL CENTER",
+    "file_url": "https://www.premierhealth.com/docs/default-source/default-document-library/31-0537095_upper-valley-medical-center_standardcharges.json?sfvrsn=a2e45a04_6",
+    "transparency_page": "https://www.premierhealth.com/patient-and-visitor-guide/patient-guide/costs-and-insurance/pricing"
+  },
+  {
+    "detail_id": "2c6a55a2-2daf-4cdf-876c-fc950b291015",
+    "ccn": "360175",
+    "hospital_name": "CLINTON MEMORIAL HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=BVXrSlFOamIvIZGuL*_*owXg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=BVXrSlFOamIvIZGuL*_*owXg*-*"
+  },
+  {
+    "detail_id": "646dcfb5-2a04-4144-9a18-a54dd4fa9afa",
+    "ccn": "360180",
+    "hospital_name": "CLEVELAND CLINIC MAIN CAMPUS",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/clevelandclinic",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "28cf0b62-651b-4355-ad6e-345fe3af07a2",
+    "ccn": "360185",
+    "hospital_name": "SALEM REGIONAL MEDICAL CENTER",
+    "file_url": "https://drive.google.com/file/d/1lfMZeZB57wbsNwK1LGXe7fl-LuTEhW4-/view?usp=sharing",
+    "transparency_page": "https://www.salemregional.com/patient-visitor-info/financial-assistance"
+  },
+  {
+    "detail_id": "b9b241d5-b955-449f-ae39-42f7c2612ea5",
+    "ccn": "360189",
+    "hospital_name": "MADISON HEALTH",
+    "file_url": "https://www.madison-health.com/content/uploads/2024/06/166189498_Madison-Health_standardcharges.csv",
+    "transparency_page": "https://www.madison-health.com/price-transparency/"
+  },
+  {
+    "detail_id": "101ccad5-088b-4fc8-96f5-627b08ae3181",
+    "ccn": "360203",
+    "hospital_name": "SOUTHEASTERN OHIO REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/38-4391798_southeastern_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/billing-insurance/pre-visit-financial-checklist/healthcare-estimates-and-pricing"
+  },
+  {
+    "detail_id": "7d9f30d4-42ad-40d3-b859-6779db6c60da",
+    "ccn": "360210",
+    "hospital_name": "GRADY MEMORIAL HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4379436_grady_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "104cb945-f55e-495e-bd2f-1cb563218587",
+    "ccn": "360211",
+    "hospital_name": "TRINITY MEDICAL CENTER EAST",
+    "file_url": "https://trinityhealth.com/340875691_trinity-east_standardcharges.json",
+    "transparency_page": "https://trinityhealth.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "9391d94f-89cd-49a6-8f18-d6a712eb6cb0",
+    "ccn": "360211",
+    "hospital_name": "TRINITY MEDICAL CENTER WEST",
+    "file_url": "https://trinityhealth.com/340875691_trinity-west_standardcharges.json",
+    "transparency_page": "https://trinityhealth.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "5f18dc28-f77f-4179-a1db-a0f2f1c9820b",
+    "ccn": "360230",
+    "hospital_name": "HILLCREST HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/hillcrest-mentor",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "bd25c063-f2f6-4939-bf14-f4b291da2617",
+    "ccn": "360234",
+    "hospital_name": "MERCY HEALTH - WEST HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/311091597_mercy-health-west-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "389762af-af3c-4838-9595-4c71e4bdbb6b",
+    "ccn": "360236",
+    "hospital_name": "MERCY HEALTH - CLERMONT HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310830955_mercy-health-clermont-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "82fc4641-47fb-44a9-9957-877cdff32686",
+    "ccn": "360239",
+    "hospital_name": "KETTERING HEALTH MIAMISBURG",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/310621866_1316966518_kettering-medical-center-_standardcharges.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "eb63b798-dcd1-4329-b28d-e54cb3043c58",
+    "ccn": "360242",
+    "hospital_name": "THE JAMES CANCER HOSPITAL AND SOLOVE RESEARCH INSTITUTE",
+    "file_url": "https://wexnermedical.osu.edu/files/31-1322863_JAMES-CANCER-HOSPITAL_standardcharges.csv.zip",
+    "transparency_page": "https://wexnermedical.osu.edu/patient-and-visitor-guide/patient-pricing-lists"
+  },
+  {
+    "detail_id": "315cb417-4964-4257-a9f3-7394e6772251",
+    "ccn": "360245",
+    "hospital_name": "GLENBEIGH HOSPITAL OF ROCK CREEK",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9927/341789783_glenbeigh_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GlenbeighHospitalofRockCreek/9927"
+  },
+  {
+    "detail_id": "e9234a9d-5aa0-413f-ac8b-ffa339afdeac",
+    "ccn": "360259",
+    "hospital_name": "PROMEDICA BAY PARK HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/341883132_baypark-community-hospital_standardcharges.csv?rev=fee2861333414be9977090ba2584b8b0&hash=7577FB137BB5580A29B99A1B7F8AE1F4",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "136e8325-b6d2-4f47-bf8f-8ab0e763dfab",
+    "ccn": "360262",
+    "hospital_name": "MERCY ST ANNE HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/344428250-1063175578_mercy-health-st-vincent-medical-center-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "e9915176-cc08-42e7-9314-1035b0559600",
+    "ccn": "360263",
+    "hospital_name": "INSTITUTE FOR ORTHOPEDIC SURGERY",
+    "address": "801 MEDICAL DRIVE, SUITE B",
+    "file_url": "https://ioshospital.slicedhealth.io/pricer/34-1848147-1952385221_InstituteforOrthopaedicSurgery_standardcharges.CSV",
+    "transparency_page": "https://ioshospital.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "2cc61e17-1247-4618-9d80-9f1c047cbdd1",
+    "ccn": "360266",
+    "hospital_name": "MOUNT CARMEL NEW ALBANY HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mountcarmel-newalbany-surgicalhospital",
+    "transparency_page": "https://www.mountcarmelhealth.com/for-patients/billing-and-insurance/pricing-information/price-estimates"
+  },
+  {
+    "detail_id": "84eb9cb7-2eda-4229-803e-765488657adc",
+    "ccn": "360270",
+    "hospital_name": "MERCY HEALTH - DEFIANCE HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/020701635_mercy-health-defiance-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "614974ca-7268-4661-84b9-0dc3d857457f",
+    "ccn": "360276",
+    "hospital_name": "ST ELIZABETH BOARDMAN HEALTH CENTER",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/340505560-1790868982_mercy-health-youngstown-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "9cd9c81a-3737-4175-9164-2b94c729784c",
+    "ccn": "360348",
+    "hospital_name": "DUBLIN METHODIST HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4394942_dublin_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "2d197bfd-9ed5-4828-be08-0af524e020af",
+    "ccn": "360351",
+    "hospital_name": "CCOC HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCCOCAKRONOH&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Crystal_Clinic.aspx"
+  },
+  {
+    "detail_id": "987e6b10-cd94-4c29-ad64-ae8a9d0fd909",
+    "ccn": "360352",
+    "hospital_name": "SURGICAL HOSPITAL AT SOUTHWOODS",
+    "file_url": "https://www.southwoodshealth.com/wp-content/uploads/2025/10/421562638_surgery-center-at-southwoods_standardcharges.csv",
+    "transparency_page": "https://www.southwoodshealth.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "9aa83e5e-a73d-4c6f-aca1-e38e74b3fcda",
+    "ccn": "360354",
+    "hospital_name": "UC HEALTH WEST CHESTER HOSPITAL",
+    "file_url": "https://www.uchealth.com/content/dam/uchealth/json-files/311588499_West-Chester-Hospital_StandardCharges.json",
+    "transparency_page": "https://www.uchealth.com/financial/price-transparency/"
+  },
+  {
+    "detail_id": "a869a995-cf3b-4934-8202-aaed80ff414a",
+    "ccn": "360355",
+    "hospital_name": "OHIO VALLEY SURGICAL HOSPITAL",
+    "file_url": "https://clariti-health.com/csp/clariti/machinereadable/v2/205882991_Ohio-Valley-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.ovsurgical.com/"
+  },
+  {
+    "detail_id": "d1fbd4a8-3ce5-4c04-8151-8322bbb71068",
+    "ccn": "360358",
+    "hospital_name": "DILEY RIDGE MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/dileyridge",
+    "transparency_page": "https://www.mountcarmelhealth.com/for-patients/billing-and-insurance/pricing-information/price-estimates"
+  },
+  {
+    "detail_id": "9f3310fb-9133-4e1f-ad03-b0a1f15b1d21",
+    "ccn": "360359",
+    "hospital_name": "UH AHUJA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7890/264827222-1609189604_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/AhujaMedicalCenter/7890"
+  },
+  {
+    "detail_id": "b66a98ba-aa98-461b-b54e-7ea976ff68cb",
+    "ccn": "360360",
+    "hospital_name": "SOIN MEDICAL CENTER",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/270712680_1760764849_beavercreek-medical-center_standardcharges.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "1488cc7d-8afd-4c9f-b0c9-bdf40f0dccbc",
+    "ccn": "360361",
+    "hospital_name": "KINGS DAUGHTERS MEDICAL CENTER OHIO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7805/453215312_portsmouth-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/Kingsdaughtermedicalcenterohio/7805"
+  },
+  {
+    "detail_id": "fee82a32-b3a5-42a5-becd-f85fb32f23c8",
+    "ccn": "360365",
+    "hospital_name": "AVITA ONTARIO",
+    "file_url": "https://avitahealth.org/?sdm_process_download=1&download_id=2723",
+    "transparency_page": "https://avitahealth.org/your-bill/#pricing-information"
+  },
+  {
+    "detail_id": "ee7c7fbc-5b90-4325-a48a-5a4738342b29",
+    "ccn": "360367",
+    "hospital_name": "UH BEACHWOOD MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11434/371848577-1841789427_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BeachwoodMedicalCenter/11434"
+  },
+  {
+    "detail_id": "6e142280-f857-4a41-a129-499f2dc62ba3",
+    "ccn": "360368",
+    "hospital_name": "KETTERING HEALTH TROY",
+    "file_url": "https://ketteringhealth.org/wp-content/uploads/2024/12/310621866_1023587045_kettering-medical-center_standardcharges.json",
+    "transparency_page": "https://ketteringhealth.org/billing-insurance/patient-pricing/"
+  },
+  {
+    "detail_id": "3305fe0a-c6fd-4f61-808b-a772901ebf37",
+    "ccn": "361303",
+    "hospital_name": "LODI HOSPITAL",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/akron-lodi",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "940cdc8c-78e6-4574-9bff-8bf5791389a1",
+    "ccn": "361304",
+    "hospital_name": "ADENA GREENFIELD MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10270/310993422_greenfield-area-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/AdenaGreenfieldMedicalCenter/10270"
+  },
+  {
+    "detail_id": "ebfccb7d-0222-4f20-9de4-5f1367a58ad2",
+    "ccn": "361306",
+    "hospital_name": "MERCY HEALTH - ALLEN HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/340864230_mercy-health-allen-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "b550179d-1656-41e1-b490-c9ba04966465",
+    "ccn": "361307",
+    "hospital_name": "UH GENEVA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7899/340714461-1225128432_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GenevaMedicalCenter/7899"
+  },
+  {
+    "detail_id": "f2a1ac64-ee5c-40c9-b4ea-39289d1ea723",
+    "ccn": "361308",
+    "hospital_name": "UH CONNEAUT MEDICAL CENTER",
+    "address": "158 WEST MAIN ROAD, PO BOX 648",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7900/340714550-1902996119_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ConneautMedicalCenter/7900"
+  },
+  {
+    "detail_id": "fe6292e9-c6bc-427a-87d2-c880b2052581",
+    "ccn": "361309",
+    "hospital_name": "HENRY COUNTY HOSPITAL",
+    "file_url": "https://www.henrycountyhospital.org/documents/344477047_henry-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henrycountyhospital.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "72bf923c-9214-4e3a-9a3d-7295763ca2f2",
+    "ccn": "361310",
+    "hospital_name": "MERCY WILLARD HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/341577110_mercy-health-willard-hospital-llc_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "d2e0a6af-d774-4ea1-b393-2b07e84e44d1",
+    "ccn": "361311",
+    "hospital_name": "HARRISON COMMUNITY HOSPITAL",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/341571750_harrisoncommunityhospitalinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "8f410851-8576-4b74-b8f4-d678abe9325c",
+    "ccn": "361312",
+    "hospital_name": "MERCY HEALTH - URBANA HOSPITAL",
+    "file_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310785684-1144286352_community-mercy-health-partners_standardcharges.ashx",
+    "transparency_page": "https://www.mercy.com/pay-a-bill/estimate-your-cost"
+  },
+  {
+    "detail_id": "f6e776cd-d891-409b-9e31-02f016a1339a",
+    "ccn": "361313",
+    "hospital_name": "MORROW COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCHMOUNTGILEADOH&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.ohiohealth.com/billing-insurance/pre-visit-financial-checklist/healthcare-estimates-and-pricing"
+  },
+  {
+    "detail_id": "2659892e-3be0-463d-b547-96185f4a4fc9",
+    "ccn": "361314",
+    "hospital_name": "MAGRUDER HOSPITAL",
+    "file_url": "https://www.magruderhospital.com/app/files/public/c84cb3db-a3a4-49f5-be48-cdef7525a5be/MH_standard_charges_0824.csv",
+    "transparency_page": "https://www.magruderhospital.com/patients-visitors/financial-information/price-transparency/"
+  },
+  {
+    "detail_id": "24902507-7a7a-4833-95d4-f5d4726e4006",
+    "ccn": "361315",
+    "hospital_name": "HARDIN MEMORIAL HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/31-4440479_hardin_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "168b7fb8-aeac-461b-82c0-478f7ffcd6e9",
+    "ccn": "361318",
+    "hospital_name": "PROMEDICA FOSTORIA COMMUNITY HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/340898745_fostoria-hospital-association_standardcharges.csv?rev=fc4ad97456694c61b96c250a60df1cbd&hash=5D53625837D01130221F7A6A1F2B7D58",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "0c92a1be-5520-4e03-92be-98f8b51d6ebd",
+    "ccn": "361319",
+    "hospital_name": "SELBY GENERAL HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=DXt*_*6qxjbTP0X5gWKEWi4w*-*",
+    "transparency_page": "https://www.mhsystem.org/patient-visitors/price-list/"
+  },
+  {
+    "detail_id": "33b38d91-0b9c-4e8c-8855-b2e061426310",
+    "ccn": "361320",
+    "hospital_name": "HOLZER MEDICAL CENTER JACKSON",
+    "file_url": "https://www.holzer.org/app/files/public/3b275ac3-ee65-4dd6-8651-62fb1b5f5f7a/01-2025_314379491_holzer-medical-center-gallipolis_standard-charges.csv",
+    "transparency_page": "https://www.holzer.org/patients-visitors/billing-insurance-pricing/price-transparency/"
+  },
+  {
+    "detail_id": "d232f79f-f419-40b1-bff0-da2f08475065",
+    "ccn": "361322",
+    "hospital_name": "BLUFFTON HOSPITAL",
+    "address": "139 GARAU STREET, PO BOX 48",
+    "file_url": "https://machine-readable-files.com/bluffton-hospital/3344429941_Bluffton-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.bvhealthsystem.org/patient-and-visitor-information/im-a-patient/price-transparency"
+  },
+  {
+    "detail_id": "9d0bb748-7f30-41bf-b4f0-c37e092f2716",
+    "ccn": "361323",
+    "hospital_name": "AULTMAN ORRVILLE HOSPITAL",
+    "file_url": "https://aultman.org/pricing-transparency/2025/1891718375_aultman-orrville-hospital_standardcharges.json",
+    "transparency_page": "https://aultman.org/home/patients-and-visitors/insurance-and-billing/pricing#/"
+  },
+  {
+    "detail_id": "7da8d9d2-b1dd-4e32-ba8c-b16b674aef7f",
+    "ccn": "361324",
+    "hospital_name": "OHIOHEALTH SHELBY HOSPITAL",
+    "file_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/34-0714456_shelby_standardcharges.zip",
+    "transparency_page": "https://www.ohiohealth.com/patients-and-visitors/prepare-for-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "a7051718-8995-49b1-99bd-56d193019492",
+    "ccn": "361325",
+    "hospital_name": "AVITA GALION COMMUNITY HOSPITAL",
+    "file_url": "https://avitahealth.org/?sdm_process_download=1&download_id=2722",
+    "transparency_page": "https://avitahealth.org/your-bill/#pricing-information"
+  },
+  {
+    "detail_id": "b83634fe-fc65-4a5d-9951-bbbd91a80eed",
+    "ccn": "361326",
+    "hospital_name": "ADAMS COUNTY REGIONAL MEDICAL CENTER",
+    "file_url": "https://acrmc.com/wp-content/uploads/2025/03/81-2817266_Adams-County-Regional-Medical-Center_standardcharges-1.zip",
+    "transparency_page": "https://acrmc.com/price-transparency/"
+  },
+  {
+    "detail_id": "b4be4aea-8a17-45e0-b5d9-edd4e2b7e52d",
+    "ccn": "361328",
+    "hospital_name": "PROMEDICA DEFIANCE REGIONAL HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/344446484_defiance-hospital-inc_standardcharges.csv?rev=7fc40feab59840bea4f0e7a4a6d40a97&hash=804A406D8F28A4BC293B3C454398DF4B",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "ade5edd8-24e3-4aa8-a38c-fecfa29b2aa1",
+    "ccn": "361330",
+    "hospital_name": "HOCKING VALLEY COMMUNITY HOSPITAL",
+    "file_url": "https://www.hvch.org/wp-content/uploads/2024/11/310733259_hocking_valley_health-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hvch.org/price-transparency/"
+  },
+  {
+    "detail_id": "a966a429-8fa0-4765-9278-3faf867b5b41",
+    "ccn": "361331",
+    "hospital_name": "ADENA FAYETTE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10269/852985806_adena-fayette-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/AdenaFayetteMedicalCenter/10269"
+  },
+  {
+    "detail_id": "12d32c77-05c3-4630-ac84-db3a4b605d0a",
+    "ccn": "361332",
+    "hospital_name": "HIGHLAND DISTRICT HOSPITAL",
+    "file_url": "https://highlanddistricthospital.pg.quadax.revenuemasters.com/cdm-files/310653685_highland-district-hospital_standardcharges.csv",
+    "transparency_page": "https://highlanddistricthospital.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "dd520e86-1fa3-4f42-9579-1dc659604ef7",
+    "ccn": "361333",
+    "hospital_name": "FULTON COUNTY HEALTH CENTER",
+    "file_url": "https://fultoncountyhealthcenter.org/wp-content/uploads/2024/09/344428214-fulton-county-health-center_standardcharges.json",
+    "transparency_page": "https://fultoncountyhealthcenter.org/price-transparency/"
+  },
+  {
+    "detail_id": "27b5015d-3d32-455a-949a-1787b8d45c64",
+    "ccn": "361334",
+    "hospital_name": "ADENA PIKE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10271/311072406_pike-health-services-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/AdenaPikeMedicalCenter/10271"
+  },
+  {
+    "detail_id": "9fd6d17e-fb95-452b-b20e-0c93bb20fc94",
+    "ccn": "362016",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - CANTON",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/43-1742017_Select_Specialty_Hospital-Canton_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "24e00078-4dbd-4716-a975-ddf730328c09",
+    "ccn": "362019",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-CINCINNATI",
+    "address": "2139 AUBURN AVE, 3RD FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/31-1574892_Select_Specialty_Hospital-Cincinnati_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "abd8075f-c073-4e89-b07a-7c50eb132e1b",
+    "ccn": "362020",
+    "hospital_name": "KINDRED HOSPITAL LIMA",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=kD2v25sUJscA7xkM4mFaig*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=kD2v25sUJscA7xkM4mFaig*-*"
+  },
+  {
+    "detail_id": "b39dba5a-55ab-48bf-ba46-b5820e234967",
+    "ccn": "362022",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-COLUMBUS VICTORIAN VILLAGE",
+    "address": "1087 DENNISON AVENUE, 2ND FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1816235_Select_Specialty_Hospital-Columbus_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "0cc6ae3c-adff-4d0d-80e8-35153d6bcf7f",
+    "ccn": "362026",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - CLEVELAND FAIRHILL",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/81-1476363_Select_Specialty_Hospital-Cleveland_Fairhill_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f7dcc766-8db5-4c2e-a9cb-4f165190e2f0",
+    "ccn": "362028",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF MIAMISBURG",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10976/842771356_pam-specialty-hospital-of-dayton-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SpecialtyHospitalDayton/10976"
+  },
+  {
+    "detail_id": "33f405ac-11c1-4b5e-b74e-8358245f9a2f",
+    "ccn": "362029",
+    "hospital_name": "REGENCY HOSPITAL OF CLEVELAND EAST",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/20-5457719_Regency_Hospital_of_Cleveland_East_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f6a551d2-0f6a-47cc-accd-6bfa2ba9b325",
+    "ccn": "362031",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL SOUTHEAST OHIO",
+    "address": "2000 TAMARACK ROAD, 2ND FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/03-0508537_Select_Specialty_Hospital-Southeast_Ohio_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "7c035560-dfe6-40bb-9231-5c13296aa0f6",
+    "ccn": "362033",
+    "hospital_name": "KINDRED HOSPITAL DAYTON",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=vyQlI3JD*__*m6ZSckXyNt0iQ*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=vyQlI3JD*__*m6ZSckXyNt0iQ*-*"
+  },
+  {
+    "detail_id": "be2b7c05-4730-4936-a66e-db2ad551f30d",
+    "ccn": "362036",
+    "hospital_name": "REGENCY HOSPITAL OF TOLEDO",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/20-3802570_Regency_Hospital_of_Toledo_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f323acb1-6068-4da7-8dbc-b1a87d08f8bd",
+    "ccn": "362040",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - BOARDMAN",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/88-1391845_Select_Specialty_Hospital-Boardman_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f8a835c5-dfab-47fd-9e1e-635003878df2",
+    "ccn": "363034",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF CINCINNATI",
+    "file_url": "https://www.encompasshealth.com/cdn/Files/1-price-transparency/451441844_Encompass-Health-Rehabilitation-Hospital-of-Cincinnati_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/cincinnati-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2ed4ea97-c8b6-45ec-8d43-ed8a2be8e79f",
+    "ccn": "363037",
+    "hospital_name": "OHIOHEALTH REHABILITATION HOSPITAL",
+    "address": "1087 DENNISON AVENUE, 4TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/46-2458436_OhioHealth_Rehabilitation_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.ohiohealth-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "de5a3193-46bb-4278-bcc1-14baa6e96bf2",
+    "ccn": "363038",
+    "hospital_name": "CLEVELAND CLINIC REHABILITATION HOSPITAL AVON",
+    "file_url": "https://my.clevelandclinic.org/-/scassets/files/org/patients-visitors/hospital-standard-charge-files/471069448_cleveland-clinic-rehabilitation-hospital-avon_standardcharges.csv?la=en",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "b688bd04-2742-4112-bef7-2abea49658e9",
+    "ccn": "363040",
+    "hospital_name": "REHABILITATION HOSPITAL OF NORTHWEST OHIO",
+    "file_url": "https://rhno.ernesthealth.com/wp-content/uploads/sites/22/2024/12/464161868_Rehabilitation-Hospital-of-Northwest-Ohio_Standard-Charges.csv",
+    "transparency_page": "https://rhno.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "b210c416-44eb-455a-96f0-095331cf2675",
+    "ccn": "363041",
+    "hospital_name": "TRIHEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/46-5646557_Trihealth_Rehabilitation_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.trihealthrehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "2b33cc20-5da0-497b-b1d5-0e5a88eb7170",
+    "ccn": "363042",
+    "hospital_name": "MOUNT CARMEL REHABILITATION HOSPITAL",
+    "file_url": "https://www.encompasshealth.com/cdn/Files/1-price-transparency/474200156_Mount-Carmel-Rehabilitation-Hospital-an-affiliate-of-Encompass-Health_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/mountcarmelrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "10aad5ea-b202-4a86-bf26-0c5cd28db174",
+    "ccn": "363043",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TOLEDO",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/843719357_Encompass-Health-Rehabilitation-Hospital-of-Toledo_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/toledorehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "0dbf972a-2efb-47a0-9da5-ddd3f4285e0f",
+    "ccn": "363044",
+    "hospital_name": "OHIOHEALTH REHABILITATION HOSPITAL - DUBLIN",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/inpatient-rehabilitation/46-2458436_ohiohealth_rehabilitation_hospital_dublin_standardcharges.csv",
+    "transparency_page": "https://www.ohiohealth-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "be9ed665-055c-4196-8f82-03f5a96bc296",
+    "ccn": "363300",
+    "hospital_name": "CINCINNATI CHILDREN'S HOSPITAL BURNET CAMPUS",
+    "file_url": "https://www.cincinnatichildrens.org/-/media/Cincinnati-Childrens/Home/patient-resources/billing/hospital-pricing/310833936_children_s-hospital-medical-center_standardcharges_06-2025.csv",
+    "transparency_page": "https://www.cincinnatichildrens.org/patient-resources/billing/hospital-pricing"
+  },
+  {
+    "detail_id": "e5ab9baa-527a-4e51-8ce3-34237e543207",
+    "ccn": "363302",
+    "hospital_name": "UH RAINBOW BABIES & CHILDREN'S HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12952/341567805-1518042175_university-hospitals-health-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RainbowBabiesAndChildrensHospital/12952"
+  },
+  {
+    "detail_id": "05a6ea74-1125-48a8-8856-f15a49d84930",
+    "ccn": "363303",
+    "hospital_name": "AKRON CHILDREN'S HOSPITAL",
+    "file_url": "https://akronchildrens.pt.panaceainc.com/MRFDownload/akronchildrens/akronchildrenshospital",
+    "transparency_page": "https://www.akronchildrens.org/pages/Price-Transparency.html"
+  },
+  {
+    "detail_id": "3f05cacd-c610-4333-9eee-b5cc9b975b30",
+    "ccn": "363304",
+    "hospital_name": "CLEVELAND CLINIC CHILDREN'S HOSPITAL FOR REHAB",
+    "address": "2801 MARTIN LUTHER KING, JR DRIVE",
+    "file_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/childrens",
+    "transparency_page": "https://my.clevelandclinic.org/patients/billing-finance/comprehensive-hospital-charges"
+  },
+  {
+    "detail_id": "5def5366-abc5-4e0c-b3fb-7d515ad24925",
+    "ccn": "363306",
+    "hospital_name": "DAYTON CHILDREN'S HOSPITAL",
+    "file_url": "https://www.childrensdayton.org/sites/default/files/Price_Transparency_FY26.xlsb",
+    "transparency_page": "https://www.childrensdayton.org/patients-visitors/you-arrive/pricing-and-cost-estimation"
+  },
+  {
+    "detail_id": "e7f83a8c-c4ae-4595-9fe6-a18161d65820",
+    "ccn": "363308",
+    "hospital_name": "SHRINERS CHILDREN'S OHIO",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/d26214fc143b21623e16bbfb44452aee/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/d26214fc143b21623e16bbfb44452aee"
+  },
+  {
+    "detail_id": "fa84cc54-9480-4af6-a5d2-15949f0f99b0",
+    "ccn": "363309",
+    "hospital_name": "NATIONWIDE CHILDREN'S HOSPITAL",
+    "file_url": "https://nationwidechildrens.pt.panaceainc.com/MRFDownload/nationwidechildrens/nationwidechildrens",
+    "transparency_page": "https://www.nationwidechildrens.org/your-visit/billing-and-insurance/pay-my-bill/price-information-list"
+  },
+  {
+    "detail_id": "019eed51-ba4a-48c8-a89a-e372b6216c93",
+    "ccn": "364029",
+    "hospital_name": "WINDSOR LAURELWOOD CENTER FOR BEHAVORIAL MEDICINE",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/201870446_windsor-laurelwood_standardcharges.csv",
+    "transparency_page": "https://windsorlaurelwood.com/standard-services/"
+  },
+  {
+    "detail_id": "44e36ba5-014e-4d97-bdaf-d976d4e02727",
+    "ccn": "364036",
+    "hospital_name": "ARROWHEAD BEHAVIORAL HEALTH",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/270608044_arrowhead_standardcharges.csv",
+    "transparency_page": "https://arrowheadbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "375bcefd-b2da-4291-affa-4678f8e9f304",
+    "ccn": "364038",
+    "hospital_name": "BELMONT PINES HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658523_belmont-pines_standardcharges.csv",
+    "transparency_page": "https://belmontpines.com/standard-services/"
+  },
+  {
+    "detail_id": "7f52c0e3-3216-4fdc-9ab5-12b5b280aa0a",
+    "ccn": "364041",
+    "hospital_name": "OHIO HOSPITAL FOR PSYCHIATRY",
+    "file_url": "https://www.ohiohospitalforpsychiatry.com/wp-content/uploads/pricing/2025/206/02-06794868_Ohio-Hospital-for-Psychiatry_standardcharges.csv",
+    "transparency_page": "https://www.ohiohospitalforpsychiatry.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "ac0ff3d3-16a4-4326-9be9-67035e281cee",
+    "ccn": "364044",
+    "hospital_name": "LINDNER CENTER OF HOPE",
+    "file_url": "https://lindnercenterofhope.org/wp-content/uploads/2025/03/13-434374_LCOH_standardcharges.csv",
+    "transparency_page": "https://lindnercenterofhope.org/new-patient-forms/#1619556541347-719cafe8-b902"
+  },
+  {
+    "detail_id": "554a4734-0962-4810-b1ed-2ce84473904c",
+    "ccn": "364047",
+    "hospital_name": "RIDGEVIEW BEHAVIORAL HOSPITAL",
+    "file_url": "https://ridgeviewhospital.net/wp-content/uploads/Ridgeview-behavioral-hospital_standardcharges-25.csv",
+    "transparency_page": "https://ridgeviewhospital.net/financial-resources/standard-services/"
+  },
+  {
+    "detail_id": "bc8d58b3-8668-4384-b03c-b4e476e3c4fd",
+    "ccn": "364048",
+    "hospital_name": "HAVEN BEHAVIORAL SENIOR CARE OF DAYTON",
+    "file_url": "https://www.havenofdayton.com/wp-content/uploads/sites/5/2024/12/352429122_Haven-Behavioral-Hospital-of-Dayton_Standard-Charges.csv",
+    "transparency_page": "https://www.havenofdayton.com/price-transparency/"
+  },
+  {
+    "detail_id": "f22c1404-43ee-4f98-8112-1ef7e66c36b2",
+    "ccn": "364049",
+    "hospital_name": "COLUMBUS SPRINGS DUBLIN",
+    "file_url": "https://columbussprings.com/docs/bhcolumbusspringslibraries/dec2025/452712112_columbus-springs-dublin_standardcharges.csv",
+    "transparency_page": "https://columbussprings.com/resources/accepted-insurance/#payment-billing"
+  },
+  {
+    "detail_id": "7648db90-eca8-4ecd-883d-673cf3b3f8fe",
+    "ccn": "364050",
+    "hospital_name": "ACCESS HOSPITAL DAYTON",
+    "file_url": "https://www.accesshospital.com/wp-content/uploads/2024/01/272523410_AccessHospitalDayton_standardcharges.csv",
+    "transparency_page": "https://www.accesshospital.com/price-transparency"
+  },
+  {
+    "detail_id": "0ef2dbf6-f730-4bba-9e3b-05ec7e1a2417",
+    "ccn": "364051",
+    "hospital_name": "BECKETT SPRINGS",
+    "file_url": "https://beckettsprings.com/docs/bhbeckettspringslibraries/sept2025/383879820_beckett-springs_standardcharges.csv",
+    "transparency_page": "https://beckettsprings.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "a4505c04-338c-4498-8a89-f46aa426b4f5",
+    "ccn": "364052",
+    "hospital_name": "CLEARVISTA BEHAVIORAL HEALTH LORAIN",
+    "file_url": "https://newvistahealth.com/wp-content/uploads/2025/08/MRF-Clear-View-Vista-Health-and-Wellness-updated.csv",
+    "transparency_page": "https://newvistahealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "486b8da5-d559-4cca-abb9-7ada671baca4",
+    "ccn": "364053",
+    "hospital_name": "HIGHLAND SPRINGS HOSPITAL",
+    "file_url": "https://highlandspringshealth.com/docs/bhhighlandspringslibraries/dec2025/611746887-highland_springs-standardcharges.csv",
+    "transparency_page": "https://highlandspringshealth.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "1ed5af84-4cd8-4bd6-a8d4-6e175f7c1c5d",
+    "ccn": "364054",
+    "hospital_name": "GENERATIONS BEHAVIORAL HEALTH HOSPITAL - GENEVA",
+    "file_url": "https://generationsbehavioralhealth.com/wp-content/uploads/2025/09/pt-machine-readable-file-geneva-2025.csv",
+    "transparency_page": "https://generationsbehavioralhealth.com/services/generations-behavioral-health-geneva/"
+  },
+  {
+    "detail_id": "9a9b15ab-b2d8-476a-8ab5-08ed8e7c0eae",
+    "ccn": "364055",
+    "hospital_name": "SOJOURN AT SENECA",
+    "file_url": "https://www.sojournseneca.com/_files/ugd/37a198_10ec2412cd774ad79a0135492e8d2677.csv?dn=sjourn_standard_charges.csv",
+    "transparency_page": "https://www.sojournseneca.com/price-transparency"
+  },
+  {
+    "detail_id": "92895437-6fc3-4e87-8175-8ca5496e1db8",
+    "ccn": "364056",
+    "hospital_name": "ASSURANCE HEALTH CINCINNATI",
+    "file_url": "https://assurancehealthsystem.com/32-0466432_assurance-health-cincinnati-llc__standardcharges.csv",
+    "transparency_page": "https://assurancehealthsystem.com/price-transparency"
+  },
+  {
+    "detail_id": "bd908dc4-02d2-4e58-b4d8-0e09d20d7776",
+    "ccn": "364057",
+    "hospital_name": "BLUE RIDGE VISTA BEHAVIORAL HOSPITAL",
+    "file_url": "https://newvistahealth.com/wp-content/uploads/2025/08/MRF-Blue-Ridge-Vista-Health-and-Wellness-updated.csv",
+    "transparency_page": "https://newvistahealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "6aace5c3-2d51-4d97-9197-569db6066d24",
+    "ccn": "364059",
+    "hospital_name": "ASSURANCE HEALTH HUDSON",
+    "file_url": "https://assurancehealthsystem.com/61-1807112_assurance-health-hudson-llc__standardcharges.csv",
+    "transparency_page": "https://assurancehealthsystem.com/price-transparency"
+  },
+  {
+    "detail_id": "1aa777b5-8de9-4982-8626-6bc9d5200615",
+    "ccn": "364060",
+    "hospital_name": "GENERATIONS BEHAVIORAL HEALTH-YOUNGSTOWN",
+    "file_url": "https://generationsbehavioralhealth.com/wp-content/uploads/2025/09/pt-machine-readable-file-youngstown-2025.csv",
+    "transparency_page": "https://generationsbehavioralhealth.com/services/generations-behavioral-health-youngstown/"
+  },
+  {
+    "detail_id": "70c2614d-02db-4a9e-a02e-647c9a24d4ae",
+    "ccn": "364061",
+    "hospital_name": "RIVERVISTA BEHAVIORAL HOSPITAL",
+    "file_url": "https://newvistahealth.com/wp-content/uploads/2025/08/MRF-River-Vista-Health-and-Wellness-updated.csv",
+    "transparency_page": "https://newvistahealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "3ba633ff-edaa-48dd-97d2-ffbd2560854b",
+    "ccn": "364062",
+    "hospital_name": "MOUNT CARMEL BEHAVIORAL HEALTHCARE",
+    "file_url": "https://www.mountcarmelbehavioralhealth.com/wp-content/uploads/pricing/2025/515/82-2226975_Mount-Carmel-Behavioral-Healthcare-LLC_standardcharges_1.csv",
+    "transparency_page": "https://www.mountcarmelbehavioralhealth.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "a2e7e654-38c2-4840-a4a8-0707daf179bb",
+    "ccn": "364065",
+    "hospital_name": "GLENWOOD BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://www.glenwoodbehavioral.com/wp-content/uploads/pricing/2025/545/83-2008794_Mt.-Airy-Development-LLC_standardcharges_1.csv",
+    "transparency_page": "https://www.glenwoodbehavioral.com/admissions/insurance-payment/price-transparency/"
+  }
+]

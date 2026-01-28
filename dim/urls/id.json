@@ -1,0 +1,240 @@
+[
+  {
+    "detail_id": "e896f569-41f5-4b43-8726-28ae9a6d7f12",
+    "ccn": "130003",
+    "hospital_name": "ST. JOSEPH REGIONAL MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=HEe7rvjeIIxdn6QxdPT9Hg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=HEe7rvjeIIxdn6QxdPT9Hg*-*"
+  },
+  {
+    "detail_id": "e6dcd78d-227a-4772-8378-c4fe5fb73d5b",
+    "ccn": "130006",
+    "hospital_name": "ST. LUKE'S BOISE MEDICAL CENTER",
+    "file_url": "https://stlukesonline.file.core.windows.net/stlukesonline-files/820161600-1770586794_St-Lukes-Regional-Medical-Center-LTD_standardcharges.csv?sv=2022-11-02&ss=f&srt=o&sp=rl&se=2026-07-12T19:20:00Z&st=2024-07-12T19:20:00Z&sip=0.0.0.0-255.255.255.255&spr=https&sig=FGacPqS12iM%2B02qiSmRIfavnfLx8l7R64K%2B5yDAzofo%3D",
+    "transparency_page": "https://stlukesonline.org/en/patients-visitors/billing-and-insurance/price-estimates/price-transparency/"
+  },
+  {
+    "detail_id": "c4d620b5-ceb1-4c31-b634-56349a587e3c",
+    "ccn": "130018",
+    "hospital_name": "EASTERN IDAHO REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/b9cb52db87014bbb931bed44b4477432?download=true",
+    "transparency_page": "https://www.eirmc.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "a01fa524-1b29-417d-a1fd-943290d8a5fb",
+    "ccn": "130025",
+    "hospital_name": "MADISON MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/d21636a85e43647a836d7449da69027c/charges/mrf",
+    "transparency_page": "https://madisonhealth.org/fair-pricing-act/"
+  },
+  {
+    "detail_id": "4e67684a-a186-4e1c-a073-23b7d35bdb65",
+    "ccn": "130049",
+    "hospital_name": "KOOTENAI HEALTH",
+    "file_url": "https://www.kh.org/wp-content/uploads/2025/01/820380784_kootenai-health_standardcharges.csv",
+    "transparency_page": "https://www.kh.org/pay-my-bill/price-estimates/price-transparency/"
+  },
+  {
+    "detail_id": "60329498-ac87-4f50-8330-0c0d200d5b0c",
+    "ccn": "130063",
+    "hospital_name": "TREASURE VALLEY HOSPITAL",
+    "file_url": "https://cdn.sanity.io/files/rlbzokv7/production/063a7fda12ee958c90577c83cec3c34abe54407c.csv",
+    "transparency_page": "https://treasurevalleyhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "f7c82092-ffff-405f-8b2c-b4babcdd67ff",
+    "ccn": "130066",
+    "hospital_name": "NORTHWEST SPECIALTY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/33488c24df4126089b1f834cd2834046/charges/mrf",
+    "transparency_page": "https://northwestspecialtyhospital.com/patient-pricing-information/"
+  },
+  {
+    "detail_id": "9a384f63-ea73-4f1c-bfe8-0287b60d7c44",
+    "ccn": "130071",
+    "hospital_name": "ST. LUKE'S NAMPA MEDICAL CENTER",
+    "file_url": "https://stlukesonline.file.core.windows.net/stlukesonline-files/821162805_St-Lukes-Nampa-Medical-Center-LTD_standardcharges.csv?sv=2022-11-02&ss=f&srt=o&sp=rl&se=2026-07-12T19:20:00Z&st=2024-07-12T19:20:00Z&sip=0.0.0.0-255.255.255.255&spr=https&sig=FGacPqS12iM%2B02qiSmRIfavnfLx8l7R64K%2B5yDAzofo%3D",
+    "transparency_page": "https://www.stlukesonline.org/resources/before-your-visit/price-estimates/price-transparency"
+  },
+  {
+    "detail_id": "95d51f91-0e7b-48f0-a229-efe876443c19",
+    "ccn": "130073",
+    "hospital_name": "GROVE CREEK MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGCMCBLACKFOOTID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Grove_Creek_V2.aspx"
+  },
+  {
+    "detail_id": "a5470e76-6794-4af4-beeb-35678c787532",
+    "ccn": "130074",
+    "hospital_name": "IDAHO FALLS COMMUNITY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/a53e6fb0bce8c74027ff7983218bbdec/charges/mrf",
+    "transparency_page": "https://www.idahofallscommunityhospital.com/patients-and-visitors/cost-estimator/"
+  },
+  {
+    "detail_id": "c998a807-c1cc-45ab-a520-23c5131bde1a",
+    "ccn": "131301",
+    "hospital_name": "BOUNDARY COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBCHBONNERSFERRYID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Boundary_V2.aspx"
+  },
+  {
+    "detail_id": "422bf8ab-5528-46cd-8aaf-4df376a98c65",
+    "ccn": "131304",
+    "hospital_name": "POWER COUNTY HOSPITAL DISTRICT",
+    "file_url": "https://www.pchd.net/wp-content/uploads/2024/08/826000431_power-county-hospital-district-_standardcharges.csv",
+    "transparency_page": "https://www.pchd.net/notices-releases/"
+  },
+  {
+    "detail_id": "ea868d43-de40-4be1-854a-f6d10610fddc",
+    "ccn": "131305",
+    "hospital_name": "STEELE MEMORIAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSteeleMemorial&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Steele_V3.aspx"
+  },
+  {
+    "detail_id": "751aab37-b52a-4abd-9238-4701c1fab13c",
+    "ccn": "131307",
+    "hospital_name": "WEISER MEMORIAL HOSPITAL",
+    "file_url": "https://www.weisermemorialhospital.org/files/finance/826001139_weiser-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.weisermemorialhospital.org/price-transparency"
+  },
+  {
+    "detail_id": "8c2053c9-5635-4bd7-bc8e-933f6bea7c47",
+    "ccn": "131309",
+    "hospital_name": "CARIBOU MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHSODASPRINGSID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Caribou_V2.aspx"
+  },
+  {
+    "detail_id": "ade427e0-0b58-4c0e-9a66-00cf808999b6",
+    "ccn": "131310",
+    "hospital_name": "ST. LUKE'S JEROME MEDICAL CENTER",
+    "file_url": "https://stlukesonline.file.core.windows.net/stlukesonline-files/562570686-1366874877_St-Lukes-Magic-Valley-Regional-Medical-Center-LTD_standardcharges.csv?sv=2022-11-02&ss=f&srt=o&sp=rl&se=2026-07-12T19:20:00Z&st=2024-07-12T19:20:00Z&sip=0.0.0.0-255.255.255.255&spr=https&sig=FGacPqS12iM%2B02qiSmRIfavnfLx8l7R64K%2B5yDAzofo%3D",
+    "transparency_page": "https://www.stlukesonline.org/resources/before-your-visit/price-estimates/price-transparency"
+  },
+  {
+    "detail_id": "b2063102-8d9d-4007-add0-fff84ab8e05d",
+    "ccn": "131311",
+    "hospital_name": "ST. LUKE'S ELMORE MEDICAL CENTER",
+    "file_url": "https://stlukesonline.file.core.windows.net/stlukesonline-files/820161600-1699013565_St-Lukes-Regional-Medical-Center-LTD_standardcharges.csv?sv=2022-11-02&ss=f&srt=o&sp=rl&se=2026-07-12T19:20:00Z&st=2024-07-12T19:20:00Z&sip=0.0.0.0-255.255.255.255&spr=https&sig=FGacPqS12iM%2B02qiSmRIfavnfLx8l7R64K%2B5yDAzofo%3D",
+    "transparency_page": "https://www.stlukesonline.org/resources/before-your-visit/price-estimates/price-transparency"
+  },
+  {
+    "detail_id": "17c2aed6-caaf-4761-8162-5ad72c03adad",
+    "ccn": "131313",
+    "hospital_name": "TETON VALLEY HEALTH",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTetonValley&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Teton_V2.aspx"
+  },
+  {
+    "detail_id": "eef093ce-a38e-4876-8061-7d7c4f0f285a",
+    "ccn": "131314",
+    "hospital_name": "SHOSHONE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7852/826003924-1043215437_shoshone-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ShoshoneMedicalCenter/7852"
+  },
+  {
+    "detail_id": "2d5552e3-7748-4f44-ae34-4f0910c9d37c",
+    "ccn": "131315",
+    "hospital_name": "SYRINGA HOSPITAL & CLINICS",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSGH0GRANGEVILLEID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Syringa_V3.aspx?sub=Patient%20Tools"
+  },
+  {
+    "detail_id": "08b973b3-ed71-404d-b645-159bf24ce4f3",
+    "ccn": "131317",
+    "hospital_name": "BENEWAH COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBCHSAINTMARIESID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Benewah_Community.aspx"
+  },
+  {
+    "detail_id": "8884fbb6-483d-4178-974a-e2cf7ae38677",
+    "ccn": "131318",
+    "hospital_name": "VALOR HEALTH",
+    "file_url": "https://estimate.valorhealth.org/files/826000422_ValorHealth_standardcharges.csv",
+    "transparency_page": "https://estimate.valorhealth.org/"
+  },
+  {
+    "detail_id": "dfd2be3d-bcd4-4761-add1-204e35fe1004",
+    "ccn": "131321",
+    "hospital_name": "ST. MARY'S HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSMHCCottonwoodID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/StMarys_V2.aspx"
+  },
+  {
+    "detail_id": "91879a1e-9a63-4536-ba07-089c5e5ba116",
+    "ccn": "131322",
+    "hospital_name": "FRANKLIN COUNTY MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/franklin-county-medical-center/826003449_Franklin-County-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/franklin-county-medical-center"
+  },
+  {
+    "detail_id": "c77931db-bc7f-430e-a01d-22c7b8bec5aa",
+    "ccn": "131323",
+    "hospital_name": "ST. LUKE'S WOOD RIVER MEDICAL CENTER",
+    "file_url": "https://stlukesonline.file.core.windows.net/stlukesonline-files/841421665_St-Lukes-Wood-River-Medical-Center-LTD_standardcharges.csv?sv=2022-11-02&ss=f&srt=o&sp=rl&se=2026-07-12T19:20:00Z&st=2024-07-12T19:20:00Z&sip=0.0.0.0-255.255.255.255&spr=https&sig=FGacPqS12iM%2B02qiSmRIfavnfLx8l7R64K%2B5yDAzofo%3D",
+    "transparency_page": "https://www.stlukesonline.org/resources/before-your-visit/price-estimates/price-transparency"
+  },
+  {
+    "detail_id": "abd44c4d-7c6e-498b-8703-5e7a616d65c2",
+    "ccn": "131324",
+    "hospital_name": "LOST RIVERS MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLRMCARCOID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LostRivers_V3.aspx"
+  },
+  {
+    "detail_id": "c88cae5e-9bd2-4aa5-b10d-ac21c09d364d",
+    "ccn": "131326",
+    "hospital_name": "INTERMOUNTAIN HEALTH CASSIA REGIONAL HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_cassia-regional-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/cassia-regional-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "97476f2f-af44-4510-b4d4-0a4dbd83c8e9",
+    "ccn": "131327",
+    "hospital_name": "GRITMAN MEDICAL CENTER",
+    "file_url": "https://www.gritman.org/wp-content/uploads/GMC-standardcharges.csv",
+    "transparency_page": "https://www.gritman.org/patients-visitors/billing-information/hospital-price-transparency/price-lists/"
+  },
+  {
+    "detail_id": "687d5c5d-f436-45d5-93e4-bb81362d6e73",
+    "ccn": "131328",
+    "hospital_name": "BONNER GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBGHSSANDPOINTID&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Bonner_V2.aspx"
+  },
+  {
+    "detail_id": "02d676c9-4800-4fd0-b193-438b8a231dd1",
+    "ccn": "132002",
+    "hospital_name": "VIBRA HOSPITAL OF BOISE",
+    "file_url": "https://vhboise.com/wp-content/uploads/sites/24/2025/09/462349174_vibra-hospital-of-boise_standardcharges.csv",
+    "transparency_page": "https://vhboise.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "e914da52-0580-4b7d-b562-39bb5de8438f",
+    "ccn": "133027",
+    "hospital_name": "REHABILITATION HOSPITAL OF THE NORTHWEST",
+    "file_url": "https://ernesthealth.com/wp-content/uploads/2025/01/pricing/Rehabilitation%20Hospital%20of%20the%20Northwest/461337794_Rehabilitation-Hospital-of-the-Northwest_Standard-Charges.json",
+    "transparency_page": "https://rhn.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "47d8a7ac-8293-4990-a9d8-17d5fa6f5213",
+    "ccn": "133028",
+    "hospital_name": "SAINT ALPHONSUS REGIONAL REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/824272202_Saint-Alphonsus-Regional-Rehabilitation-Hospital-an-affiliate-of-Encompass-Health_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/boise-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2a1bdc6a-db0c-4d70-b006-2a7f6d3322ca",
+    "ccn": "134002",
+    "hospital_name": "INTERMOUNTAIN HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658493_intermountain_standardcharges.csv",
+    "transparency_page": "https://intermountainhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "b3598405-0065-42a9-a83e-d1ad36dbcebe",
+    "ccn": "134009",
+    "hospital_name": "LIFEWAYS HOSPITAL",
+    "file_url": "https://www.lifeways.org/wp-content/uploads/2026/01/2025-Customer-Shoppable-List-machine-readable.csv",
+    "transparency_page": "https://www.lifeways.org/price-transparency/"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "detail_id": "045a6730-3857-4bb3-bfc6-6205b1900fd5",
+    "ccn": "120001",
+    "hospital_name": "QUEENS MEDICAL CENTER",
+    "file_url": "https://www.queens.org/wp-content/uploads/990073524_queens-medical-center_standardcharges-2.csv",
+    "transparency_page": "https://www.queens.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "5567c90d-346a-467e-878f-606fa545c767",
+    "ccn": "120004",
+    "hospital_name": "THE QUEENS MEDICAL CENTER WAHIAWA",
+    "file_url": "https://www.queens.org/wp-content/uploads/990073524_queens-medical-center-wahiawa-general-hospital_standardcharges-1.csv",
+    "transparency_page": "https://www.queens.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "f411be48-8d21-480c-bd9e-e79b0e67db60",
+    "ccn": "120005",
+    "hospital_name": "HILO BENIOFF MEDICAL CENTER",
+    "file_url": "https://www.hbmc.org/wp-content/uploads/2024/07/94-3282424_hilo_medical-center_standardcharges.csv",
+    "transparency_page": "https://www.hbmc.org/standard-charges/"
+  },
+  {
+    "detail_id": "d9da1bd4-80b7-488c-bb04-295d84774b71",
+    "ccn": "120014",
+    "hospital_name": "WILCOX MEMORIAL HOSPITAL",
+    "file_url": "https://www.hawaiipacifichealth.org/standardcharges/990074365_Wilcox-Medical-Center_standardcharges.json",
+    "transparency_page": "https://www.hawaiipacifichealth.org/wilcox/patient-visitors/understanding-bills/"
+  },
+  {
+    "detail_id": "5f9258cd-1cdc-4141-ad8a-54f8b658d1b2",
+    "ccn": "120022",
+    "hospital_name": "STRAUB BENIOFF MEDICAL CENTER",
+    "file_url": "https://www.hawaiipacifichealth.org/standardcharges/912151670_Straub-Benioff-Medical-Center_standardcharges.json",
+    "transparency_page": "https://www.hawaiipacifichealth.org/straub/patient-visitors/understanding-bills/"
+  },
+  {
+    "detail_id": "b2a4f5d1-3149-4b17-b6fd-22e9e831657d",
+    "ccn": "120026",
+    "hospital_name": "PALI MOMI MEDICAL CENTER",
+    "file_url": "https://www.hawaiipacifichealth.org/standardcharges/990274038_Pali-Momi-Medical-Center_standardcharges.json",
+    "transparency_page": "https://www.hawaiipacifichealth.org/pali-momi/patient-visitors/understanding-bills/"
+  },
+  {
+    "detail_id": "805df589-5cf7-4744-a755-e5ba11212901",
+    "ccn": "120027",
+    "hospital_name": "THE QUEEN'S MEDICAL CENTER - WEST OAHU",
+    "file_url": "https://www.queens.org/wp-content/uploads/990073524_queens-medical-center-west-oahu_standardcharges-2.csv",
+    "transparency_page": "https://www.queens.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "4ac9dabb-52fa-41a5-aab1-3c0d4fc5db17",
+    "ccn": "121305",
+    "hospital_name": "LANAI COMMUNITY HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/maui-health-site-309/media/r/1804f4bca2e04b1e81befcb4375e7864/811559375-lanaicommunityhospital-standardcharges.csv",
+    "transparency_page": "https://www.mauihealth.org/patients-and-visitors/billing-information/price-transparency/"
+  },
+  {
+    "detail_id": "0128be90-e972-4c0c-9dce-5acd9ad52a44",
+    "ccn": "121306",
+    "hospital_name": "SAMUEL MAHELONA MEMORIAL HOSPITAL",
+    "file_url": "https://www.hhsc.org/standardcharge/smmh/99-0262217_Samuel-Mahelona-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://kauai.hhsc.org/price-transparency/"
+  },
+  {
+    "detail_id": "af92c455-d38b-4055-802c-b9250edad2fa",
+    "ccn": "121307",
+    "hospital_name": "HALE HO'OLA HAMAKUA",
+    "file_url": "https://www.halehoolahamakua.org/wp-content/uploads/sites/9/2024/07/99-0262226_Hale-Ho'ala%20Hamakua_standardcharges.csv",
+    "transparency_page": "https://www.halehoolahamakua.org/standard-charges/"
+  },
+  {
+    "detail_id": "b73b846e-ff69-4249-838b-125f5971e54b",
+    "ccn": "121308",
+    "hospital_name": "KULA HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/maui-health-site-309/media/r/0baf0545cbc949bbb068fdca815b804a/811559375-kulahospital-standardcharges-08062025.csv",
+    "transparency_page": "https://www.mauihealth.org/patients-and-visitors/billing-information/price-transparency/"
+  },
+  {
+    "detail_id": "96ac3383-e9c2-45d2-9dff-521568cacf8d",
+    "ccn": "122001",
+    "hospital_name": "LEAHI HOSPITAL",
+    "file_url": "https://www.hhsc.org/standardcharge/leahi/99-0293974_Leahi-Hospital_standardcharges.csv",
+    "transparency_page": "https://leahi.hhsc.org/price-transparency/"
+  },
+  {
+    "detail_id": "9c8b593b-740a-49ca-83e5-cda57bdb6222",
+    "ccn": "123025",
+    "hospital_name": "REHABILITATION HOSPITAL OF THE PACIFIC",
+    "file_url": "https://www.rehabhospital.org/sites/default/files/documents/510160156_rehab-hospital-of-the-pacific_standardcharges-1_0.csv",
+    "transparency_page": "https://www.rehabhospital.org/price-transparency"
+  },
+  {
+    "detail_id": "08d5baef-e64e-45a2-b3e9-9a164d40f995",
+    "ccn": "123301",
+    "hospital_name": "SHRINERS HOSPITAL FOR CHILDREN",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/b30d36f52101153d5f1bc9b69f73ddb9/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/b30d36f52101153d5f1bc9b69f73ddb9"
+  },
+  {
+    "detail_id": "6f56fb00-cbea-4c8e-a5a2-72589dc0ea61",
+    "ccn": "124001",
+    "hospital_name": "THE QUEEN\u2019S MEDICAL CENTER \u2013 KAHI MOHALA",
+    "file_url": "https://www.queens.org/wp-content/uploads/990073524_queens-medical-center-kahi-mohala_standardcharges-2.csv",
+    "transparency_page": "https://www.queens.org/pricing-transparency/"
+  }
+]

@@ -1,0 +1,757 @@
+[
+  {
+    "detail_id": "fedb48d3-c698-46fc-8641-e3ea9ac454e5",
+    "ccn": "021305",
+    "hospital_name": "WRANGELL MEDICAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AK"
+  },
+  {
+    "detail_id": "d9bacae4-bdb1-4cf1-bf75-085e1b3c9d35",
+    "ccn": "021312",
+    "hospital_name": "SAMUEL SIMMONDS MEMORIAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AK"
+  },
+  {
+    "detail_id": "77c54594-d77d-48d1-9d8a-e18350bacced",
+    "ccn": "021314",
+    "hospital_name": "MT. EDGECUMBE MEDICAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AK"
+  },
+  {
+    "detail_id": "be273794-047c-484b-b407-02766869643c",
+    "ccn": "010051",
+    "hospital_name": "GREENE COUNTY HEALTH SYSTEM",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AL"
+  },
+  {
+    "detail_id": "8e0ca27d-3d2f-4177-a2db-be528c89c238",
+    "ccn": "010125",
+    "hospital_name": "LAKELAND COMMUNITY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AL"
+  },
+  {
+    "detail_id": "ffa73376-9918-4013-b76b-f48acd452f61",
+    "ccn": "014016",
+    "hospital_name": "THE SANCTUARY AT THE WOODLANDS",
+    "address": "1910 CHEROKEE AVENUE, SW",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AL"
+  },
+  {
+    "detail_id": "57e59c91-b6e0-477a-b595-425ae343c2ed",
+    "ccn": "040085",
+    "hospital_name": "PROGRESSIVE HEALTH OF HELENA",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AR"
+  },
+  {
+    "detail_id": "845818d6-7905-40ee-9426-28d4d45177c7",
+    "ccn": "030073",
+    "hospital_name": "TUBA CITY REGIONAL HEALTH CARE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "AZ"
+  },
+  {
+    "detail_id": "4550ffa8-0842-46de-8f80-57399fdfa643",
+    "ccn": "050697",
+    "hospital_name": "PATIENTS' HOSPITAL OF REDDING",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "fe23b411-31d9-400f-a62a-3e3a2e1d83e0",
+    "ccn": "050704",
+    "hospital_name": "MISSION COMMUNITY HOSPITAL - PANORAMA CAMPUS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "5e395036-50a6-49c7-a5bb-53c8ba6bc60c",
+    "ccn": "055298",
+    "hospital_name": "FALLBROOK HOSP DISTRICT SKILLED NURSING FACILITY",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "fb78ce20-ca17-4c9a-bfed-967c9eefbb35",
+    "ccn": "055493",
+    "hospital_name": "MIDTOWN OAKS POST-ACUTE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "ae0b33ef-78a5-4f9f-89ec-d0590204fe1f",
+    "ccn": "100121",
+    "hospital_name": "KAISER MENTAL HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "64b9574e-0d5c-4dab-bcf0-e973cc60f450",
+    "ccn": "327883",
+    "hospital_name": "PARK BRIDGE REHABILITATION AND WELLNESS CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "CA"
+  },
+  {
+    "detail_id": "c1a45d4a-b275-4b3e-b645-caf5f31e59cd",
+    "ccn": "100298",
+    "hospital_name": "FLORIDA STATE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "FL"
+  },
+  {
+    "detail_id": "2cdf1429-2d3e-4adb-8434-6ac600d7e80f",
+    "ccn": "104001",
+    "hospital_name": "SOUTH FLORIDA STATE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "FL"
+  },
+  {
+    "detail_id": "f8cfe0f3-49bc-4c58-b311-1747344e8215",
+    "ccn": "104063",
+    "hospital_name": "WILLOUGH AT NAPLES HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "FL"
+  },
+  {
+    "detail_id": "25e12dd9-958d-4a2e-b4b7-84eb6fa4b561",
+    "ccn": "105621",
+    "hospital_name": "NORTH CAMPUS REHABILITATION & NURSING CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "FL"
+  },
+  {
+    "detail_id": "969cdcd2-ffae-4c65-bb1f-f0d2252f73db",
+    "ccn": "111306",
+    "hospital_name": "EFFINGHAM HEALTH SYSTEM",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "GA"
+  },
+  {
+    "detail_id": "b581d46f-9244-45df-856b-565d1e462ffa",
+    "ccn": "144010",
+    "hospital_name": "CHICAGO READ MENTAL HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IL"
+  },
+  {
+    "detail_id": "f1061d00-b05b-4bcb-a039-d8f6c8cd2009",
+    "ccn": "144016",
+    "hospital_name": "ALTON MENTAL HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IL"
+  },
+  {
+    "detail_id": "7226754f-a8cb-4015-a3ed-6ddb4a792885",
+    "ccn": "150166",
+    "hospital_name": "PINNACLE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IN"
+  },
+  {
+    "detail_id": "240864da-114d-4af2-9c9b-f652559d4d33",
+    "ccn": "151078",
+    "hospital_name": "MERIDIAN HEALTH SERVICES",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IN"
+  },
+  {
+    "detail_id": "ad149fc8-47f0-4d49-97ce-712f11ac0e85",
+    "ccn": "154014",
+    "hospital_name": "BOWEN CENTER HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IN"
+  },
+  {
+    "detail_id": "bc299cf4-d136-4618-8e78-224b4a3b7b67",
+    "ccn": "154021",
+    "hospital_name": "RADIANT HEALTH",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IN"
+  },
+  {
+    "detail_id": "85edbf19-24df-46de-8c52-84b8996f3287",
+    "ccn": "154054",
+    "hospital_name": "HARSHA BEHAVIORAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "IN"
+  },
+  {
+    "detail_id": "af071811-7425-457b-8de5-8312e51a6a90",
+    "ccn": "170194",
+    "hospital_name": "ASCENTIST HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "KS"
+  },
+  {
+    "detail_id": "15e6a8ca-3bd2-4079-aa56-b08cdc3d49b5",
+    "ccn": "170199",
+    "hospital_name": "MISH HOSPITAL AND CLINICS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "KS"
+  },
+  {
+    "detail_id": "ab706d5c-c8d1-40a1-995b-46dfb68e33cd",
+    "ccn": "171318",
+    "hospital_name": "SEDAN CITY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "KS"
+  },
+  {
+    "detail_id": "7581db1c-f0f2-48b8-9ab3-20d8cc78ae0c",
+    "ccn": "171365",
+    "hospital_name": "HANOVER HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "KS"
+  },
+  {
+    "detail_id": "9922bcb1-abc8-4141-96de-882d552921b3",
+    "ccn": "190145",
+    "hospital_name": "LASALLE GENERAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "65b6b21c-914b-4ffa-8b68-358e0604f20f",
+    "ccn": "190184",
+    "hospital_name": "CITIZENS MEDICAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "59d4de53-ad1a-40d6-adf6-caa37d135034",
+    "ccn": "190251",
+    "hospital_name": "SURGICAL SPECIALTY CENTER OF BATON ROUGE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "d0a90fda-5591-45a5-9dc7-31d28e0ef78a",
+    "ccn": "192010",
+    "hospital_name": "INTENSIVE SPECIALTY HOSPITAL - SHREVEPORT CAMPUS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "3a9f367c-7769-4d5a-a178-00348b4041d2",
+    "ccn": "193069",
+    "hospital_name": "STERLINGTON REHABILITATION HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "04cb6a73-0d5b-47f1-bfab-6caa588b9b62",
+    "ccn": "193080",
+    "hospital_name": "SPECIALTY REHABILITATION HOSPITAL OF COUSHATTA",
+    "address": "1110 RINGGOLD AVE, STE B",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "9f1c7026-efc6-4392-b8b8-bc578b3780d4",
+    "ccn": "194079",
+    "hospital_name": "RED RIVER BEHAVIORAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "b27b56f7-f136-4d03-b98c-4b34df556096",
+    "ccn": "194094",
+    "hospital_name": "PHYSICIANS BEHAVIORAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "274ed202-f1e0-457f-bc06-b19b368458a5",
+    "ccn": "194100",
+    "hospital_name": "CURAHEALTH NEW ORLEANS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "adcde367-da25-4e3f-90a1-d22e01b80e1c",
+    "ccn": "194107",
+    "hospital_name": "BATON ROUGE BEHAVIORAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "131c8263-54f9-46cb-8701-b1be137339c1",
+    "ccn": "194115",
+    "hospital_name": "REGIONS BEHAVIORAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "e1aef3d6-3754-4de3-8883-4508391eb392",
+    "ccn": "194117",
+    "hospital_name": "UNIVERSAL BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "LA"
+  },
+  {
+    "detail_id": "f2dc02b9-0c2f-459e-8995-fe586ac60472",
+    "ccn": "220062",
+    "hospital_name": "ADCARE HOSPITAL OF WORCESTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MA"
+  },
+  {
+    "detail_id": "ee6ef37b-d5d9-4b8b-a524-5ae1d80ad596",
+    "ccn": "224038",
+    "hospital_name": "WALDEN BEHAVIORAL CARE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MA"
+  },
+  {
+    "detail_id": "94f4afbb-9e58-45d5-9118-70fef1e00810",
+    "ccn": "231308",
+    "hospital_name": "MUNISING MEMORIAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MI"
+  },
+  {
+    "detail_id": "6c0d5e23-c120-4282-ba98-7531cd432791",
+    "ccn": "234040",
+    "hospital_name": "SAMARITAN CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MI"
+  },
+  {
+    "detail_id": "e68153df-2418-4617-aa27-94f64ca86bde",
+    "ccn": "235075",
+    "hospital_name": "SPECTRUM HEALTH REHAB AND NURSING CENTER - FULLER AVENUE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MI"
+  },
+  {
+    "detail_id": "713e9995-9bd0-45ba-abc3-4893f97a36f6",
+    "ccn": "250017",
+    "hospital_name": "PROGRESSIVE HEALTH OF HOUSTON",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "118ec463-1d30-4e05-99ee-067701c1777f",
+    "ccn": "250036",
+    "hospital_name": "GEORGE REGIONAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "6dfc7fdd-1ac2-49d2-ac04-2bb57e3727b6",
+    "ccn": "250061",
+    "hospital_name": "YALOBUSHA GENERAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "d822349a-0794-40bb-ac01-fa02ea619c57",
+    "ccn": "250127",
+    "hospital_name": "CHOCTAW HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "c000020c-92df-4921-8ef3-d2b105b14f47",
+    "ccn": "250779",
+    "hospital_name": "ALLIANCE HEALTHCARE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "09af7ffb-0215-4adc-8b5a-25699de78ac3",
+    "ccn": "251320",
+    "hospital_name": "CLAIBORNE COUNTY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "3c7d488d-dda0-4c03-b5ef-9d47009c59ee",
+    "ccn": "251329",
+    "hospital_name": "GREENE COUNTY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "70c41db3-e387-4c17-b3ed-f01cd858701f",
+    "ccn": "251338",
+    "hospital_name": "SHARKEY-ISSAQUENA COMMUNITY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MS"
+  },
+  {
+    "detail_id": "d75d6398-5102-4e64-8424-876010e596ba",
+    "ccn": "271302",
+    "hospital_name": "DAHL MEMORIAL HEALTHCARE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MT"
+  },
+  {
+    "detail_id": "79d5677f-5c77-423c-bb3c-ea56ed2fc49a",
+    "ccn": "271305",
+    "hospital_name": "MCCONE COUNTY HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MT"
+  },
+  {
+    "detail_id": "2325a8cc-b461-4ddb-9572-56f69d5e2ef8",
+    "ccn": "271310",
+    "hospital_name": "GARFIELD COUNTY HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "MT"
+  },
+  {
+    "detail_id": "01be8fa3-620a-4b77-8596-40705c6d58c6",
+    "ccn": "344029",
+    "hospital_name": "GOOD HOPE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NC"
+  },
+  {
+    "detail_id": "98f1a90b-90aa-4806-8b02-538da67a2017",
+    "ccn": "345431",
+    "hospital_name": "BRYAN HEALTH AND REHABILITATION",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NC"
+  },
+  {
+    "detail_id": "cd065075-7413-4d08-8d05-b1af8e73a10b",
+    "ccn": "351307",
+    "hospital_name": "SMP HEALTH ST. ANDREW\u2019S",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "ND"
+  },
+  {
+    "detail_id": "d03b797f-8847-4087-a6f0-ea255ae5f755",
+    "ccn": "351312",
+    "hospital_name": "NORTHWOOD DEACONESS HEALTH CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "ND"
+  },
+  {
+    "detail_id": "3ba6e7db-1d1b-4f15-9a82-92c050a013b4",
+    "ccn": "351313",
+    "hospital_name": "SOUTHWEST HEALTHCARE SERVICES",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "ND"
+  },
+  {
+    "detail_id": "eb5beb3e-6d9f-4586-b067-15997c649ea4",
+    "ccn": "351327",
+    "hospital_name": "SMP HEALTH ST. ALOISIUS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "ND"
+  },
+  {
+    "detail_id": "0ccaeb29-e830-4f2a-b201-24c07a6ab1ef",
+    "ccn": "280059",
+    "hospital_name": "TWELVE CLANS UNITY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NE"
+  },
+  {
+    "detail_id": "2bbf5d60-2be2-489f-86e3-5c822c3cb8ed",
+    "ccn": "281330",
+    "hospital_name": "WARREN MEMORIAL HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NE"
+  },
+  {
+    "detail_id": "76867771-284b-429c-9f32-e7710d614633",
+    "ccn": "312024",
+    "hospital_name": "SILVER LAKE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NJ"
+  },
+  {
+    "detail_id": "95b7d40f-71a3-40a4-aa17-e2fdf5dc97c1",
+    "ccn": "313302",
+    "hospital_name": "WEISMAN CHILDRENS REHABILITATION HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NJ"
+  },
+  {
+    "detail_id": "df95bccb-0421-405f-b381-6d36995d6c78",
+    "ccn": "314019",
+    "hospital_name": "RAMAPO RIDGE BEHAVIORAL HEALTH",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NJ"
+  },
+  {
+    "detail_id": "e3c60654-eb9d-4a03-aa4c-ccae73aff977",
+    "ccn": "314023",
+    "hospital_name": "ASPEN HILLS HEALTHCARE CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NJ"
+  },
+  {
+    "detail_id": "66147644-9821-48d1-859d-3da57faf79cd",
+    "ccn": "314024",
+    "hospital_name": "HUDSON COUNTY MEADOWVIEW PSYCHIATRIC HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NJ"
+  },
+  {
+    "detail_id": "5efe5e61-ddbc-44b8-95c7-fc4428beb70d",
+    "ccn": "323026",
+    "hospital_name": "NEW MEXICO REHABILITATION CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NM"
+  },
+  {
+    "detail_id": "68958ffb-3cab-4320-95f7-72f049b293d6",
+    "ccn": "294016",
+    "hospital_name": "DESERT WINDS HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NV"
+  },
+  {
+    "detail_id": "2975e153-b87e-4058-8f4b-a239af192716",
+    "ccn": "330411",
+    "hospital_name": "UNITY SPECIALTY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NY"
+  },
+  {
+    "detail_id": "5eee5009-638f-48c6-8bee-fad0d0bf3323",
+    "ccn": "334009",
+    "hospital_name": "NEW YORK PSYCHIATRIC INSTITUTE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NY"
+  },
+  {
+    "detail_id": "1fb5638f-c82c-4c9d-a8b9-01ac64bf9457",
+    "ccn": "334022",
+    "hospital_name": "BRYLIN HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NY"
+  },
+  {
+    "detail_id": "46c3866e-287a-48de-ada3-8a03ed6b1da9",
+    "ccn": "335197",
+    "hospital_name": "MONROE COMMUNITY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "NY"
+  },
+  {
+    "detail_id": "4a67fd45-fed3-47a7-aebb-5e2bee858df7",
+    "ccn": "361300",
+    "hospital_name": "PAULDING COUNTY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "18c5c9fd-fd8d-4acc-8ade-8a9cafd31bfb",
+    "ccn": "362015",
+    "hospital_name": "GRACE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "1d998baf-5ac3-4821-abb5-bd9b79b7e908",
+    "ccn": "362038",
+    "hospital_name": "ADVANCED SPECIALTY HOSPITAL OF TOLEDO",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "b9530f77-e57b-47b3-81ff-9764129dde01",
+    "ccn": "364058",
+    "hospital_name": "SUN BEHAVIORAL COLUMBUS",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "e577a207-a2ce-4876-93ab-8fa84b7e49e7",
+    "ccn": "365101",
+    "hospital_name": "SPRING CREEK NURSING & REHABILITATION CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "2948c570-77a8-4010-9408-e9c30261912d",
+    "ccn": "365853",
+    "hospital_name": "GREENBRIAR HEALTHCARE CENTER",
+    "address": "8064 SOUTH AVENUE, SUITE ONE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OH"
+  },
+  {
+    "detail_id": "441f386b-6712-4b76-9191-ed48ec934487",
+    "ccn": "370172",
+    "hospital_name": "CHOCTAW NATION INDIAN HOSPITAL (TALIHINA)",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "OK"
+  },
+  {
+    "detail_id": "5fc27c28-22c3-44ee-9f43-23387f4d4be8",
+    "ccn": "390278",
+    "hospital_name": "EAGLEVILLE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "PA"
+  },
+  {
+    "detail_id": "c5c57d6f-c531-4f87-ba95-5bed4d3276e8",
+    "ccn": "394033",
+    "hospital_name": "MONTGOMERY COUNTY EMERGENCY SERVICE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "PA"
+  },
+  {
+    "detail_id": "62bc4967-1bb3-41f7-a21a-e36a2cc99d16",
+    "ccn": "394047",
+    "hospital_name": "KIDSPEACE HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "PA"
+  },
+  {
+    "detail_id": "769ce1fe-b361-4819-ae90-81ab629d726c",
+    "ccn": "424011",
+    "hospital_name": "PATRICK B HARRIS PSYCHIATRIC HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "SC"
+  },
+  {
+    "detail_id": "4c5e4283-398a-4690-8ef9-ca2b4802f4bd",
+    "ccn": "424013",
+    "hospital_name": "TRI-COUNTY COMMISSION ON ALCOHOL AND DRUG ABUSE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "SC"
+  },
+  {
+    "detail_id": "dce8e021-9c87-48fa-89ba-3a4f7d7c2b80",
+    "ccn": "433300",
+    "hospital_name": "CHILDREN'S SPECIALTY HOSPITAL AT LIFESCAPE",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "SD"
+  },
+  {
+    "detail_id": "21f355e0-1adc-49b7-b200-ec5c7158f2aa",
+    "ccn": "450044",
+    "hospital_name": "UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "TX"
+  },
+  {
+    "detail_id": "490aa472-3783-4ba8-a0b5-86e311b1c5f4",
+    "ccn": "460049",
+    "hospital_name": "TOSH - THE ORTHOPEDIC SPECIALTY HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "UT"
+  },
+  {
+    "detail_id": "0cf95639-17f6-457b-b321-904551d8f254",
+    "ccn": "464012",
+    "hospital_name": "MARIAN CENTER",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "UT"
+  },
+  {
+    "detail_id": "95abae0e-ad4a-4c6b-9970-9056b461ec0e",
+    "ccn": "513025",
+    "hospital_name": "PETERSON REHABILITATION HOSPITAL",
+    "file_url": "",
+    "transparency_page": "",
+    "state": "WV"
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "detail_id": "611d53c2-afc1-43c6-8ef1-e5975e17e8d3",
+    "ccn": "260001",
+    "hospital_name": "MERCY HOSPITAL JOPLIN",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/270814858_mercy-hospital-joplin_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "89c1a8ed-0992-42ff-b49c-906367e6ce2b",
+    "ccn": "260005",
+    "hospital_name": "SSM HEALTH ST JOSEPH HEALTH CENTER -SAINT CHARLES",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=dMTdTRnP5Lut4neQ4vbLFA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "7053f86a-5032-4964-ace0-cd617303ff5b",
+    "ccn": "260006",
+    "hospital_name": "MOSAIC MEDICAL CENTER - ST. JOSEPH",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12744/440545289-1437259694_heartland-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mymlc.com/Main/Location/st-joseph-mo/mosaic-life-care-at-st.-joseph-medical-center/main-medical-center/medical-bills-made-easy/price-and-quality-transparency/"
+  },
+  {
+    "detail_id": "f3648595-31f1-4b14-8d94-b15b32e7bde1",
+    "ccn": "260011",
+    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL - JEFFERSON CITY",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=u3eEjNYEVJu53n9qmm*_**__*Hw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "e51be676-ffd3-489c-9728-feb2e4707f92",
+    "ccn": "260017",
+    "hospital_name": "PHELPS HEALTH HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/cb9e47700cd0ea2b82d3695d1feeabbf/charges/mrf",
+    "transparency_page": "https://phelpshealth.org/patients-visitors/patient-financial-assistance/standard-charges"
+  },
+  {
+    "detail_id": "e79372d9-410d-474c-a7a1-8ec2f9336547",
+    "ccn": "260022",
+    "hospital_name": "NORTHEAST REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.nermc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/364395800_northeast-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.nermc.com/pricing-information"
+  },
+  {
+    "detail_id": "b2521b0a-3658-4c2e-a923-1a5a49afe9f2",
+    "ccn": "260023",
+    "hospital_name": "MERCY HOSPITAL JEFFERSON",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430687077_mercy-hospital-jefferson_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "c44a159e-1c91-488e-965d-555903ac6886",
+    "ccn": "260024",
+    "hospital_name": "TEXAS COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.tcmh.org/wp-content/uploads/2023/05/CHARGEMASTER-2023_01_01.csv",
+    "transparency_page": "https://www.tcmh.org/patients-visitors/billing/standard-charges/"
+  },
+  {
+    "detail_id": "3a058c70-d758-437d-acdb-886c2f48a71f",
+    "ccn": "260025",
+    "hospital_name": "HANNIBAL REGIONAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8042/430662495_hannibal-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/HannibalRegionalHospital/8042"
+  },
+  {
+    "detail_id": "3d323281-be81-4890-bc2f-9fcb47adf76c",
+    "ccn": "260032",
+    "hospital_name": "BARNES-JEWISH HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/6/237309937_BarnesJewishHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "a83ba0d3-09f2-4afd-86ec-52d615c98622",
+    "ccn": "260034",
+    "hospital_name": "BATES COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7803/436052772_bates-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/batescountymemorialhospital/7803"
+  },
+  {
+    "detail_id": "baf896e5-aa9b-4cfc-94e5-cc9e8ad80038",
+    "ccn": "260040",
+    "hospital_name": "COX MEDICAL CENTER SOUTH",
+    "file_url": "https://cdn.coxhealth.com/documents/440577118_Cox-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.coxhealth.com/patients-and-visitors/pricing/"
+  },
+  {
+    "detail_id": "91664c64-71b5-447e-9fae-21e9d320c1d1",
+    "ccn": "260040",
+    "hospital_name": "COX NORTH HOSPITAL",
+    "file_url": "https://cdn.coxhealth.com/documents/440577118_Cox-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.coxhealth.com/patients-and-visitors/pricing/"
+  },
+  {
+    "detail_id": "fb00cbf9-719a-45f5-9405-bfb614f77f9f",
+    "ccn": "260047",
+    "hospital_name": "CAPITAL REGION MEDICAL CENTER",
+    "file_url": "https://www.muhealth.org/sites/default/files/finance/436003859_university-of-missouri-health-care_standardcharges.csv",
+    "transparency_page": "https://www.muhealth.org/billing/pricing"
+  },
+  {
+    "detail_id": "77889fd1-579e-412a-9fc8-fae413f355af",
+    "ccn": "260048",
+    "hospital_name": "UNIVERSITY HEALTH TRUMAN MEDICAL CENTER",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/truman-site-261/media/r/e2765435767a4973b7ea84e274c09ef4/440661018_health-science-district-_standardcharges.csv",
+    "transparency_page": "https://www.universityhealthkc.org/patients-visitors/billing-information/understanding-costs/"
+  },
+  {
+    "detail_id": "1c5f3873-abee-4fba-b60c-d2dd53fc4158",
+    "ccn": "260050",
+    "hospital_name": "MOSAIC MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12746/832249459_heartland-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MosaicMedicalCenterMaryville/12746"
+  },
+  {
+    "detail_id": "9afeb2dd-52a2-4c28-9183-8d52cb1c1444",
+    "ccn": "260059",
+    "hospital_name": "MERCY HOSPITAL LEBANON",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431767432_mercy-hospital-lebanon_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "63cef1c4-d1bb-4b73-bae7-7db24a4e4f27",
+    "ccn": "260061",
+    "hospital_name": "NEVADA REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.nrmchealth.com/pricing-transparency-mrf-url",
+    "transparency_page": "https://www.nrmchealth.com/pricing-transparency"
+  },
+  {
+    "detail_id": "ce133960-0a31-48b7-9960-fa2eaee7af7c",
+    "ccn": "260062",
+    "hospital_name": "SAINT LUKE'S NORTH HOSPITAL - BARRY ROAD",
+    "file_url": "https://www.saintlukeskc.org/hpt/41/440565393_SaintLukesNorthHospitalSmithville_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "5f431396-e5ab-4f8d-877e-ad4a786b9e30",
+    "ccn": "260062",
+    "hospital_name": "SAINT LUKE'S NORTH HOSPITAL - SMITHVILLE",
+    "file_url": "https://www.saintlukeskc.org/hpt/41/440565393_SaintLukesNorthHospitalSmithville_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "bf811e00-ee13-42b3-b178-11222e475e48",
+    "ccn": "260065",
+    "hospital_name": "MERCY HOSPITAL SPRINGFIELD",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/440552485_mercy-hospital-springfield_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "ae3d0f52-79f7-4cdc-b102-28263d9d9c47",
+    "ccn": "260070",
+    "hospital_name": "PEMISCOT COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://pemiscotmhs.pg.revenuemasters.com/cdm-files/436004544_pemiscot-memorial-health-system_standardcharges.csv",
+    "transparency_page": "https://pemiscotmhs.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "4ca0f78c-2409-4d69-b49d-9224accbf481",
+    "ccn": "260074",
+    "hospital_name": "MOBERLY REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.moberlyregionalmedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431651906_moberly-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.moberlyregionalmedicalcenter.com/pricing-information"
+  },
+  {
+    "detail_id": "97be9389-94b6-4ad2-b595-55fc71dd5ece",
+    "ccn": "260077",
+    "hospital_name": "KINDRED HOSPITAL ST LOUIS SOUTH",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=0WF*__*Q7UOiK4Dox6OzkxdYw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=0WF*__*Q7UOiK4Dox6OzkxdYw*-*"
+  },
+  {
+    "detail_id": "2a4d0bb8-5ef3-44a8-b38a-b382f547a223",
+    "ccn": "260077",
+    "hospital_name": "MERCY HOSPITAL SOUTH",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430980256_mercy-hospital-south_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "27989022-1298-40d5-867b-98a4c766ec86",
+    "ccn": "260078",
+    "hospital_name": "OZARKS MEDICAL CENTER",
+    "file_url": "https://www.ozarkshealthcare.com/app/files/public/b5c4bc68-9382-4718-b559-cf768eb352c4/OZH-Price-Transparency-2025-v2.csv",
+    "transparency_page": "https://www.ozarkshealthcare.com/patient-financial-services/billing--insurance/cost-of-care/"
+  },
+  {
+    "detail_id": "491310d0-a7c7-41ca-9e64-84b571f35602",
+    "ccn": "260081",
+    "hospital_name": "SSM HEALTH ST. CLARE HOSPITAL - FENTON",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Z5XkiXJtDaa7TXO9crU8FQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "5d31c959-d5fa-414e-b1c0-da529fc456df",
+    "ccn": "260085",
+    "hospital_name": "ST. JOSEPH MEDICAL CENTER",
+    "file_url": "https://stjosephkc.com/wp-content/uploads/2025/12/471669781_StJosephMedicalCenter_standardcharges.json",
+    "transparency_page": "https://stjosephkc.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "c46c4196-ea10-4a76-afda-c5f2ad2e5ab6",
+    "ccn": "260091",
+    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL ST LOUIS",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=UfzUSw4QbckhzHPU5zCCZQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "015606a0-8b89-4120-898b-6ab252b25aac",
+    "ccn": "260094",
+    "hospital_name": "COX MEDICAL CENTER BRANSON",
+    "file_url": "https://cdn.coxhealth.com/documents/440584290_Cox-Medical-Center-Branson_standardcharges.csv",
+    "transparency_page": "https://www.coxhealth.com/patients-and-visitors/pricing/"
+  },
+  {
+    "detail_id": "68f6399c-e935-4fe4-a4f1-0fef23070345",
+    "ccn": "260097",
+    "hospital_name": "WESTERN MISSOURI MEDICAL CENTER",
+    "file_url": "https://wmmc.com/wp-content/uploads/2024/11/440665266_western-missouri-medical-center_standardcharges.csv",
+    "transparency_page": "https://wmmc.com/price-transparency/"
+  },
+  {
+    "detail_id": "b9b52487-69fa-4295-b2f0-f4a53eea162e",
+    "ccn": "260102",
+    "hospital_name": "UNIVERSITY HEALTH LAKEWOOD MEDICAL CENTER",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/truman-site-261/media/r/7cca13e1fb3044b28cc97016e6977233/440661018_lakewood-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.universityhealthkc.org/patients-visitors/billing-information/understanding-costs/"
+  },
+  {
+    "detail_id": "d4552fc6-fbfd-45d3-9c63-edffd9d478b3",
+    "ccn": "260104",
+    "hospital_name": "SSM HEALTH DEPAUL HOSPITAL - ST. LOUIS",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Fx*__*FnWj49rRBL9vbtOleEQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "5d9d52f0-64af-47c2-9aab-02dc9e2e02e8",
+    "ccn": "260105",
+    "hospital_name": "SSM HEALTH ST. LOUIS UNIVERSITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Oj8ea*_*I2NcxLEEhEW69AuQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "789539cb-e4b5-4bca-b519-ad43af7c12dd",
+    "ccn": "260108",
+    "hospital_name": "MISSOURI BAPTIST MEDICAL CENTER",
+    "file_url": "https://www.bjc.org/hpt/31/430652656_MissouriBaptistMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "31dd63f1-beb5-4d34-9c0e-d3026f142536",
+    "ccn": "260110",
+    "hospital_name": "MERCY HOSPITAL SOUTHEAST",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430654874_mercy-hospital-southeast_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "e02ff30c-59ce-460c-90a4-135e98627499",
+    "ccn": "260113",
+    "hospital_name": "MISSOURI DELTA MEDICAL CENTER",
+    "file_url": "https://app.vestacare.com/download/csv/43-0633449_missourideltamedicalcenter_standardcharges.csv",
+    "transparency_page": "https://app.vestacare.com/patientportal/#pt?mp=mdmc"
+  },
+  {
+    "detail_id": "a87a4c66-4e47-44c0-97d1-44371ab0357d",
+    "ccn": "260119",
+    "hospital_name": "POPLAR BLUFF REGIONAL MEDICAL CENTER - OAK GROVE",
+    "file_url": "https://www.pbrmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431238701_poplar-bluff-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.pbrmc.com/pricing-information"
+  },
+  {
+    "detail_id": "5ee6c1af-1a21-4350-969b-486d1ce2f009",
+    "ccn": "260137",
+    "hospital_name": "FREEMAN HOSPITAL WEST",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=6jfsMTxTRHjVyzbY3hcASw*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?ci=LIPBmUR35JN0Gka3hlnyRA*-*"
+  },
+  {
+    "detail_id": "ed411727-2126-48b7-b442-6c994d686f79",
+    "ccn": "260138",
+    "hospital_name": "SAINT LUKE'S HOSPITAL KANSAS CITY",
+    "file_url": "https://www.saintlukeskc.org/hpt/21/440545297_SaintLukesHospitalofKansasCity_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "69810d0f-4202-49cd-b037-93b72a8dfd74",
+    "ccn": "260141",
+    "hospital_name": "UNIVERSITY HOSPITAL",
+    "file_url": "https://www.muhealth.org/sites/default/files/finance/436003859_university-of-missouri-health-care_standardcharges.csv",
+    "transparency_page": "https://www.muhealth.org/billing/pricing"
+  },
+  {
+    "detail_id": "927ddbd3-1b09-4a56-82b1-b0c0df83665a",
+    "ccn": "260142",
+    "hospital_name": "FITZGIBBON HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbfitzgibbonHospital&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Fitzgibbon_V3.aspx"
+  },
+  {
+    "detail_id": "6fc4367a-dcb9-4ff5-b984-170f9585c5cd",
+    "ccn": "260162",
+    "hospital_name": "BARNES-JEWISH WEST COUNTY HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/16/431527130_BarnesJewishWestCountyHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "a45dcf96-2a3e-466a-9e88-2a3974c28262",
+    "ccn": "260163",
+    "hospital_name": "PARKLAND HEALTH CENTER-FARMINGTON",
+    "file_url": "https://www.bjc.org/hpt/41/431332368_ParklandHealthCenter_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "8408ade1-8bd9-430c-9eb0-76e0f66baf40",
+    "ccn": "260175",
+    "hospital_name": "GOLDEN VALLEY MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/e541183863a90b1bd92e5225829d0ea9/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/e541183863a90b1bd92e5225829d0ea9/"
+  },
+  {
+    "detail_id": "da51bac4-a12e-40ea-9d17-addbb0378406",
+    "ccn": "260177",
+    "hospital_name": "LIBERTY HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/liberty-hospital-site-248/media/r/c9165d988fe84abdbe48cff884fb61c5/431684627_liberty-hospital_standardcharges-august.csv",
+    "transparency_page": "https://www.libertyhospital.org/patients-and-visitors/financial-assistanceinfo/price-transparency/"
+  },
+  {
+    "detail_id": "643ef092-b234-4101-a4e8-3ccba24426c7",
+    "ccn": "260179",
+    "hospital_name": "ST. LUKE'S HOSPITAL",
+    "file_url": "https://www.stlukes-stl.com/content/dam/stlukes/resources/PricingTransparencyStLukesHospital-2439-20250320231941.csv",
+    "transparency_page": "https://www.stlukes-stl.com/pay/price-estimator"
+  },
+  {
+    "detail_id": "d2e7c02a-e443-4c53-8f36-abc8a6a51047",
+    "ccn": "260180",
+    "hospital_name": "CHRISTIAN HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/21/436057893_ChristianHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "53fae429-bc73-4a06-ac70-ad3975cf8320",
+    "ccn": "260186",
+    "hospital_name": "LAKE REGIONAL HEALTH SYSTEM",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/lakeregional-site-338/media/r/03498bfa98144cf58d2f8efa49f9d9b4/237339737_lake-regional-health-system_standardcharges.csv",
+    "transparency_page": "https://www.lakeregional.com/patients-and-visitors/patients/billing-and-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "fd55da59-25ba-4c84-9245-ce3c5b9a80e1",
+    "ccn": "260191",
+    "hospital_name": "BARNES-JEWISH ST. PETERS HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/11/431452426_BarnesJewishStPetersHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "0afe57db-8af3-44ef-a52d-6ce3c744fb23",
+    "ccn": "260193",
+    "hospital_name": "ST. MARY'S MEDICAL CENTER",
+    "file_url": "https://stmaryskc.com/wp-content/uploads/2025/12/472264005_StMarysMedicalCenter_standardcharges.json",
+    "transparency_page": "https://stmaryskc.com/financial-assistance/"
+  },
+  {
+    "detail_id": "170cc119-9d49-4d1d-9d26-5dd0de5740f7",
+    "ccn": "260195",
+    "hospital_name": "CITIZENS MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/70a2f3e86bcb0aa7bc3459a5555265ca/charges/mrf",
+    "transparency_page": "https://www.citizensmemorial.com/patients-and-visitors/pricing-transparency.html"
+  },
+  {
+    "detail_id": "7401fcef-e778-4a6a-9491-38737ecda265",
+    "ccn": "260198",
+    "hospital_name": "SSM HEALTH ST. JOSEPH HOSPITAL-WENTZVILLE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=I9EbX*__*v9zUT24F6pmGjdHg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "eda6d339-9b4d-489a-90f7-80deac1da251",
+    "ccn": "260200",
+    "hospital_name": "SSM HEALTH REHABILITATION HOSPITAL - LAKE SAINT LOUIS",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/26-3694972_SSM_Select_Rehab_Lake_St_Louis_standardcharges.csv",
+    "transparency_page": "https://www.ssm-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "77b071a7-82a7-4c45-aea9-131ce4365d13",
+    "ccn": "260200",
+    "hospital_name": "SSM HEALTH ST. JOSEPH HOSPITAL - LAKE SAINT LOUIS",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=O5oUAG4tejFgDnF2IIIqVQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "bb548379-25f0-4136-aca4-997e562aa0e5",
+    "ccn": "260216",
+    "hospital_name": "SAINT LUKE'S EAST HOSPITAL",
+    "file_url": "https://www.saintlukeskc.org/hpt/16/562488077_SaintLukesEastHospital_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "6298217c-d70b-48c1-8e53-e650f6068375",
+    "ccn": "260219",
+    "hospital_name": "PROGRESS WEST HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/46/412140764_ProgressWestHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "d8ac7092-7bd3-48d3-9d15-023e0b0b2c27",
+    "ccn": "261301",
+    "hospital_name": "ELLETT MEMORIAL HOSPITAL",
+    "file_url": "https://ellettmemorial.com/_common/documents/patients/431903362_ellett-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://ellettmemorial.com/patients-visitors/pricing-transparency.html"
+  },
+  {
+    "detail_id": "ac3eefb2-622e-45f8-a998-e1e8db9fcd52",
+    "ccn": "261302",
+    "hospital_name": "MADISON MEDICAL CENTER",
+    "file_url": "https://madisonmedicalcenter.net/431445493_Madison%20Medical%20Center_standardcharges.json",
+    "transparency_page": "https://madisonmedicalcenter.net/price-transparency-initiative-charges-listing/"
+  },
+  {
+    "detail_id": "644fc732-a454-473f-a55c-37599fe2599d",
+    "ccn": "261303",
+    "hospital_name": "COMMUNITY HOSPITAL FAIRFAX",
+    "file_url": "https://fairfaxmed.com/wp-content/uploads/2024/11/Standard-Charges-Download-2024-10-24.csv",
+    "transparency_page": "https://fairfaxmed.com/price-transparency/"
+  },
+  {
+    "detail_id": "36c13af0-7a48-4115-8985-791decb8f785",
+    "ccn": "261305",
+    "hospital_name": "PUTNAM COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://715aec82-78c7-4cfd-9819-25bb620d49bb.usrfiles.com/ugd/715aec_c15931e3b009470b91f60267a3023e5a.csv",
+    "transparency_page": "https://www.pcmhosp.com/"
+  },
+  {
+    "detail_id": "58ff537f-cb67-4f68-9ebd-8a2be484ef4c",
+    "ccn": "261306",
+    "hospital_name": "SULLIVAN COUNTY MEMORIAL HOSPITAL",
+    "file_url": "http://scmhospital.org/wp-content/uploads/2022/04/SCMH_Chargemaster_updated_April_2_2021.csv",
+    "transparency_page": "https://scmhospital.org/charges-for-hospital-services/"
+  },
+  {
+    "detail_id": "a9c16ca6-7fdc-43eb-8163-1fcffffb95bf",
+    "ccn": "261307",
+    "hospital_name": "PERSHING MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/pershing-memorial-hospital/430715842_Pershing-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.ezcost.info/pershing-memorial-hospital"
+  },
+  {
+    "detail_id": "2b40aa3b-46c6-490e-8403-de8a87595e0f",
+    "ccn": "261308",
+    "hospital_name": "WASHINGTON COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://wcmhosp.slicedhealth.io/pricer/43-0795215-1194838821_WashingtonCountyMemorialHospital_standardcharges.CSV",
+    "transparency_page": "https://wcmhosp.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "91354842-b277-4f23-91cc-bfa2bcd5b877",
+    "ccn": "261309",
+    "hospital_name": "WRIGHT MEMORIAL HOSPITAL",
+    "file_url": "https://www.saintlukeskc.org/hpt/36/431707306_WrightMemorialHospital_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "850a67de-e74e-4286-b11b-27b807ab5b1a",
+    "ccn": "261310",
+    "hospital_name": "SCOTLAND COUNTY HOSPITAL",
+    "file_url": "https://scmohospital.net/wp-content/uploads/2025/12/430915648-1083624647_scotland-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://scmohospital.net/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "66d8c604-b785-4c68-a181-048b399302dc",
+    "ccn": "261311",
+    "hospital_name": "MERCY HOSPITAL PERRY",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431741457_mercy-hospital-perry_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "dcc3d1b2-73f6-4d99-b298-612be895095a",
+    "ccn": "261312",
+    "hospital_name": "HARRISON COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7846/431530883_harrison-county-community-hospital-district_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/harrisoncountycommunityhospital/7846"
+  },
+  {
+    "detail_id": "2ed0e835-4e70-4434-bc1a-1943dde8db8d",
+    "ccn": "261313",
+    "hospital_name": "SAMARITAN HOSPITAL",
+    "file_url": "https://live.cdmpi.org/Security/CDMPortalAuth/6a0c905a-f393-4e63-a95e-8d546a25aa13",
+    "transparency_page": "https://www.smhmo.org/patient-info/financial-assistanceprice-transparency"
+  },
+  {
+    "detail_id": "231db562-9571-4407-8c40-2c300cffbf86",
+    "ccn": "261314",
+    "hospital_name": "HERMANN AREA DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHADHHERMANNMO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hermann_V2.aspx"
+  },
+  {
+    "detail_id": "ef9fdcab-8e7d-499d-9a0c-51ab81c94762",
+    "ccn": "261315",
+    "hospital_name": "PARKLAND HEALTH CENTER-BONNE TERRE",
+    "file_url": "https://www.bjc.org/hpt/41/431332368_ParklandHealthCenter_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "ee5631cc-07b2-4d8d-bb7a-50d0d633d7f6",
+    "ccn": "261317",
+    "hospital_name": "MERCY HOSPITAL CASSVILLE",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431936699_mercy-hospital-cassville_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "20fe0efa-a463-4b14-a138-6b2720016c8f",
+    "ccn": "261318",
+    "hospital_name": "SALEM MEMORIAL DISTRICT HOSPITAL",
+    "file_url": "https://smdh.slicedhealth.io/pricer/43-6110058_SalemMemorialDistrictHospital_StandardCharges.csv",
+    "transparency_page": "https://smdh.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "ab3599ce-19fd-4f37-9184-37790bcff974",
+    "ccn": "261319",
+    "hospital_name": "MERCY HOSPITAL LINCOLN",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/472219204_mercy-hospital-lincoln_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "689f9b1b-5000-4ea0-8ece-598bf3356336",
+    "ccn": "261320",
+    "hospital_name": "LAFAYETTE REGIONAL HEALTH CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/1aff4dd8cf7a46a7b7873bc95a0315cd?download=true",
+    "transparency_page": "https://hcamidwest.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "8165af4b-06e2-443a-967f-6c17a7279ef6",
+    "ccn": "261321",
+    "hospital_name": "HEDRICK MEDICAL CENTER",
+    "file_url": "https://www.saintlukeskc.org/hpt/11/431735565_HedrickMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "b4b0b939-61fc-4b96-a047-7bd7198115c2",
+    "ccn": "261322",
+    "hospital_name": "EXCELSIOR SPRINGS HOSPITAL",
+    "file_url": "https://machine-readable-files.com/excelsior-springs-hospital/431080811_Excelsior-Springs-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Excelsior-Springs-Hospital"
+  },
+  {
+    "detail_id": "a5f1fccf-c66f-4d82-8942-93437a541c4a",
+    "ccn": "261324",
+    "hospital_name": "CASS REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7984/440665664_cass-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/cassregionalmedicalcenter/7984"
+  },
+  {
+    "detail_id": "c4dd82f6-f57a-47e7-b1ce-b23a6c71652c",
+    "ccn": "261325",
+    "hospital_name": "COX BARTON COUNTY HOSPITAL",
+    "file_url": "https://cdn.coxhealth.com/documents/823300758_Cox-Barton-County-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.coxhealth.com/patients-and-visitors/pricing/"
+  },
+  {
+    "detail_id": "cae2aab0-7e08-467f-87c1-f3326a0afb70",
+    "ccn": "261327",
+    "hospital_name": "RAY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://rayhealthcare.org/wp-content/uploads/2022/09/PRICE_TRANSPARENCY.xlsx",
+    "transparency_page": "https://rayhealthcare.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "950d5399-d2b7-4e06-9464-85190b8b24b3",
+    "ccn": "261328",
+    "hospital_name": "MOSAIC MEDICAL CENTER ALBANY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12745/440580870_heartland-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MosaicMedicalCenterAlbany/12745"
+  },
+  {
+    "detail_id": "bcd4fea4-1b2a-4a6e-add4-4ca6c44d04e3",
+    "ccn": "261329",
+    "hospital_name": "COX MONETT HOSPITAL",
+    "file_url": "https://cdn.coxhealth.com/documents/431656689_Cox-Monett-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.coxhealth.com/patients-and-visitors/pricing/"
+  },
+  {
+    "detail_id": "6c2b6ce0-125a-4ca5-8fdc-f2a193c86790",
+    "ccn": "261330",
+    "hospital_name": "STE GENEVIEVE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://genevievecountymemorialhospital.pg.quadax.revenuemasters.com/cdm-files/430915730_ste-genevieve-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://genevievecountymemorialhospital.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "105c17b4-fc71-4804-81aa-2858ccaf5b57",
+    "ccn": "261331",
+    "hospital_name": "FREEMAN NEOSHO HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=kRmBnD6aD0e*_*NlViyBseoA*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?ci=LIPBmUR35JN0Gka3hlnyRA*-*"
+  },
+  {
+    "detail_id": "9df38dd6-c673-469b-990f-fa984e09cb55",
+    "ccn": "261332",
+    "hospital_name": "CARROLL COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.carrollcountyhospital.org/Content/Uploads/carrollcountyhospital.org/files/440629397_Carroll-County-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.carrollcountyhospital.org/patients/pricing-transparency"
+  },
+  {
+    "detail_id": "8580b0ac-fe66-47c3-83aa-8f32285187cb",
+    "ccn": "261333",
+    "hospital_name": "PIKE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.pcmh-mo.org/wp-content/uploads/2021/02/FINAL-PCMH-Standard-Charges.csv",
+    "transparency_page": "https://www.pcmh-mo.org/financial-assistance/"
+  },
+  {
+    "detail_id": "01306801-a8b0-43ce-9a29-bae441c549a3",
+    "ccn": "261335",
+    "hospital_name": "MERCY ST. FRANCIS HOSPITAL",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/440607149_mercy-st.-francis-hospital_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "42d06e36-fe58-46ba-bdec-2042bb419591",
+    "ccn": "261336",
+    "hospital_name": "IRON COUNTY MEDICAL CENTER",
+    "file_url": "https://icmedcenter.slicedhealth.io/pricer/20-0889615_IronCountyMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://icmedcenter.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "347e2d16-051e-42ea-9861-49a9647c6f5d",
+    "ccn": "261337",
+    "hospital_name": "MISSOURI BAPTIST HOSPITAL SULLIVAN",
+    "file_url": "https://www.bjc.org/hpt/36/431459495_MissouriBaptistSullivanHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "ba910b52-453c-4862-974a-da95bf68e497",
+    "ccn": "261338",
+    "hospital_name": "MERCY HOSPITAL CARTHAGE",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/453808607_mercy-hospital-carthage_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "faa787d3-c275-4baf-95a5-b429e0fc3361",
+    "ccn": "262013",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-ST. LOUIS",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/43-1726282_Select_Specialty_Hospital-St_Louis_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "b281397f-b4b3-46bd-9c59-9db989782cfc",
+    "ccn": "262017",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL SPRINGFIELD",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/65-0366469_Select_Specialty_Hospital-Springfield_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "b057d178-8081-4710-93fe-81164864b405",
+    "ccn": "262018",
+    "hospital_name": "KINDRED HOSPITAL NORTHLAND",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=1TxoABwrghB7t5j*__*4rjDMA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=1TxoABwrghB7t5j*__*4rjDMA*-*"
+  },
+  {
+    "detail_id": "bb25405b-74a8-4771-9ba1-bf5055951090",
+    "ccn": "263028",
+    "hospital_name": "THE REHABILITATION INSTITUTE OF ST. LOUIS",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631254288_The-Rehabilitation-Institute-of-St-Louis-an-affiliation-of-BJC-HealthCare-and-Encompass-Health_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/rehab-institute-stl/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "56ac5d05-650c-44ba-b65f-3a801e8c72ae",
+    "ccn": "263029",
+    "hospital_name": "MERCY REHABILITATION HOSPITAL ST. LOUIS",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/364579024_mercy-rehabilitation-hospital-st-louis_standardcharges.csv",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "b7060cb0-f8c5-4f87-af87-73c2a8a6a6fb",
+    "ccn": "263030",
+    "hospital_name": "ST. LUKE'S REHABILITATION HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10983/261207854_st-lukes-rehabilitation-hospital-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMSt.LukesRehabilitation/10983"
+  },
+  {
+    "detail_id": "da6460fc-9256-45a3-a722-12e54635419b",
+    "ccn": "263032",
+    "hospital_name": "MERCY REHABILITATION HOSPITAL SPRINGFIELD",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461163875_mercy-rehabilitation-hospital-springfield_standardcharges.csv",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "2a8b2b64-28a1-4dae-b1ec-2d18558b7ed7",
+    "ccn": "263034",
+    "hospital_name": "MERCY REHABILITATION HOSPITAL SOUTH",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/844372720_mercy-rehabilitation-hospital-south_standardcharges.csv",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "0c4f9e52-477c-4178-b6be-aeb016adb0d7",
+    "ccn": "263300",
+    "hospital_name": "SSM HEALTH CARDINAL GLENNON CHILDREN'S MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=oExWW6GEphI226iT5wl0wQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "b30b9edc-18cc-488f-8f43-3eef6ca1672b",
+    "ccn": "263301",
+    "hospital_name": "ST. LOUIS CHILDREN'S HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/51/430654870_StLouisChildrensHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "38bea8b2-b777-46a9-9937-ead5772d8798",
+    "ccn": "263302",
+    "hospital_name": "CHILDREN'S MERCY HOSPITAL",
+    "file_url": "https://www.childrensmercy.org/siteassets/media-documents-for-depts-section/documents-for-your-visit/billing-and-insurance/440605373_childrens-mercy-hospital-kansas_standardcharges.csv",
+    "transparency_page": "https://www.childrensmercy.org/your-visit/billing-and-insurance/understanding-health-care-costs/"
+  },
+  {
+    "detail_id": "b60a2116-7d74-4edf-929f-0ed6f244d1c9",
+    "ccn": "263303",
+    "hospital_name": "RANKEN JORDAN A PEDIATRIC BRIDGE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8493/430666765_ranken-jordan-home-for-convalescent-crippled-children_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RankenJordanPediatricBridgeHospital/8493"
+  },
+  {
+    "detail_id": "6373a50e-1305-4c2e-9a69-391b4b911654",
+    "ccn": "263304",
+    "hospital_name": "SHRINERS CHILDREN'S ST. LOUIS",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/3dcccbedd70608f376ba25fc12104532/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/3dcccbedd70608f376ba25fc12104532"
+  },
+  {
+    "detail_id": "e20cd724-faa5-452e-a49f-84fb3dbeec02",
+    "ccn": "264020",
+    "hospital_name": "ROYAL OAKS HOSPITAL",
+    "file_url": "https://compasshealthnetwork.org/wp-content/uploads/2025/09/30-0255522_RoyalOaksHospital_standardcharges-FY-26.xlsx",
+    "transparency_page": "https://compasshealthnetwork.org/locations/royal-oaks-hospital/"
+  },
+  {
+    "detail_id": "8e343d15-afea-4eba-894c-0670f273c61e",
+    "ccn": "264024",
+    "hospital_name": "LAKELAND BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://www.lakelandbehavioralhealth.com/wp-content/uploads/pricing/2025/195/58-22919156_Lakeland-Hospital-Acquisition-LLC-standard%20charges.csv",
+    "transparency_page": "https://www.lakelandbehavioralhealth.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "ba6eb98c-b2a6-4634-85fb-7e933d1b7945",
+    "ccn": "264031",
+    "hospital_name": "OSAGE BEACH CENTER FOR BEHAVIORAL HEALTH",
+    "file_url": "https://nhccare.com/wp-content/uploads/2025/09/45-4962137_Osage-Beach-Center-For-Behavioral-Health-LLC_mrf.csv",
+    "transparency_page": "https://nhccare.com/osage-beach-price-transparency/"
+  },
+  {
+    "detail_id": "c1ff8d8d-68b7-425a-91c5-dc6232dbb8f4",
+    "ccn": "264033",
+    "hospital_name": "PERIMETER BEHAVIORAL HOSPITAL OF SPRINGFIELD",
+    "file_url": "https://www.perimeterhealthcare.com/springfield/v200_tall_springfield131.csv",
+    "transparency_page": "https://www.perimeterhealthcare.com/springfield-what-to-expect"
+  },
+  {
+    "detail_id": "5e39d51a-197c-49c2-a007-cb4f3f585a95",
+    "ccn": "267160",
+    "hospital_name": "FREEMAN HOSPITAL EAST",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=6jfsMTxTRHjVyzbY3hcASw*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?ci=LIPBmUR35JN0Gka3hlnyRA*-*"
+  }
+]

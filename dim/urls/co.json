@@ -1,0 +1,612 @@
+[
+  {
+    "detail_id": "11d43c89-d0d6-428d-b6f6-07f35b2244fc",
+    "ccn": "060003",
+    "hospital_name": "COMMONSPIRIT LONGMONT UNITED HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8268/840460697_commonspirit-health-longmont_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "2e22e09d-5974-4be4-9d28-04e83d36baa9",
+    "ccn": "060004",
+    "hospital_name": "PLATTE VALLEY MEDICAL CENTER",
+    "file_url": "https://intermountainhealthcare.org/sc10media/files/intermountain-health/locations/hospital-prices/840482695_platte-valley-medical-center_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/intermountain-health-platte-valley-hospital/about/hospital-pricing"
+  },
+  {
+    "detail_id": "5864511e-d088-4b84-a228-8ed9b7c32598",
+    "ccn": "060006",
+    "hospital_name": "MONTROSE REGIONAL HEALTH",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMHMONTROSECO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Montrose_V2.aspx"
+  },
+  {
+    "detail_id": "b4ab9b9a-492b-41d3-b757-60a563b23254",
+    "ccn": "060008",
+    "hospital_name": "SAN LUIS VALLEY REGIONAL MEDICAL CENTER",
+    "file_url": "https://sanluis.pt.panaceainc.com/MRFDownload/sanluis/slvhealth",
+    "transparency_page": "https://www.sanluisvalleyhealth.org/patient-center/price-transparency/"
+  },
+  {
+    "detail_id": "cc164350-cbda-4568-8616-a3b03a4f34c4",
+    "ccn": "060010",
+    "hospital_name": "UC HEALTH POUDRE VALLEY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8080/841262971_poudre-valley-health-care%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PoudreValleyHospital/8080"
+  },
+  {
+    "detail_id": "e7a77572-3e39-40b9-b14f-f6d15e16afcf",
+    "ccn": "060011",
+    "hospital_name": "DENVER HEALTH MAIN CAMPUS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7840/841343242_denver-health-and-hospital-authority_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DenverHealthMedicalCenter/7840"
+  },
+  {
+    "detail_id": "b9ceda82-2934-454d-ad81-f0dd4c53c661",
+    "ccn": "060012",
+    "hospital_name": "COMMONSPIRIT ST. MARY-CORWIN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8279/840405257_commonspirit-health-st-mary_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "5293308d-673c-4a88-95c4-c6ba6e9482a2",
+    "ccn": "060013",
+    "hospital_name": "COMMONSPIRIT MERCY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8269/840405257_commonspirit-health-mercy_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "81e81062-ba08-41be-9815-32fb6e405396",
+    "ccn": "060014",
+    "hospital_name": "HCA HEALTHONE PRESBYTERIAN ST. LUKE\u2019S",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-PRESBYTERIAN-ST-LUKES_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "243b9ace-0e0e-4d57-9d08-133acbfbdd13",
+    "ccn": "060014",
+    "hospital_name": "HCA HEALTHONE ROCKY MOUNTAIN CHILDREN\u2019S",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-PRESBYTERIAN-ST-LUKES_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "70f3016a-27ac-41fe-aa4c-69642b8e47b3",
+    "ccn": "060015",
+    "hospital_name": "COMMONSPIRIT ST. ANTHONY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8274/840405257_commonspirit-health-st-anthony-hospital_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "c463c4ee-eb2a-47cb-bd5a-16a7c1d37a50",
+    "ccn": "060020",
+    "hospital_name": "UC HEALTH PARKVIEW MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11554/840935136-1821720681_parkview-medical-center,-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ParkviewMedicalCenter/9152"
+  },
+  {
+    "detail_id": "d19d863a-3392-40c9-8a9a-9dd2ab9df7b1",
+    "ccn": "060020",
+    "hospital_name": "UC HEALTH PARKVIEW PUEBLO WEST HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11554/840935136-1821720681_parkview-medical-center%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ParkviewPuebloWestHospital/11554"
+  },
+  {
+    "detail_id": "06678bf5-e7d8-49bd-88dd-1b787c17b50e",
+    "ccn": "060022",
+    "hospital_name": "UC HEALTH MEMORIAL HOSPITAL CENTRAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8076/460796114-1144397134_uchmhs_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MemorialHospitalCentral/8076"
+  },
+  {
+    "detail_id": "33bfc372-5d17-4fb3-b7e5-b11d53d6a899",
+    "ccn": "060022",
+    "hospital_name": "UC HEALTH MEMORIAL HOSPITAL NORTH",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8077/460796114-1750940987_uchmhs_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MemorialHospitalNorth/8077"
+  },
+  {
+    "detail_id": "4cf23513-12e5-4c15-9553-a6058c533751",
+    "ccn": "060024",
+    "hospital_name": "UC HEALTH UNIVERSITY OF COLORADO HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8086/841179794_university-of-colorado-hospital-authority_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UniversityofCOHospital/8086"
+  },
+  {
+    "detail_id": "10d96cfb-d28c-4b05-92ba-fc35a0748ae2",
+    "ccn": "060028",
+    "hospital_name": "SAINT JOSEPH HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/sc10media/files/intermountain-health/locations/hospital-prices/840417134_saint-joseph-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/intermountain-health-saint-joseph-hospital/about/hospital-pricing"
+  },
+  {
+    "detail_id": "a867db5e-6982-4029-9a8b-e203c69ba546",
+    "ccn": "060031",
+    "hospital_name": "COMMONSPIRIT PENROSE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8272/840405257_commonspirit-health-penrose_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "b7bf949e-9198-49ca-b90f-a00be3c98531",
+    "ccn": "060031",
+    "hospital_name": "COMMONSPIRIT ST. FRANCIS HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8278/840405257_commonspirit-health-st-francis_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "a975170a-6d76-42d8-a558-0a450fd91910",
+    "ccn": "060032",
+    "hospital_name": "HCA HEALTHONE ROSE",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-ROSE_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "5aa8315d-6f46-440e-a093-ddb8b4be44f4",
+    "ccn": "060034",
+    "hospital_name": "HCA HEALTHONE SWEDISH",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-SWEDISH_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "421bee53-148a-4567-84ea-50db5126a539",
+    "ccn": "060044",
+    "hospital_name": "COMMONSPIRIT ST. ELIZABETH HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10547/840405257_commonspirit-health-st-elizabeth_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "aaff20f7-2720-4c28-a33c-834f8c04f8e7",
+    "ccn": "060064",
+    "hospital_name": "ADVENTHEALTH PORTER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=RqPGlf56pjLLctn7tStPiw*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "4352789d-c377-4acb-8e36-677d1a94b5d8",
+    "ccn": "060065",
+    "hospital_name": "HCA HEALTHONE MOUNTAIN RIDGE",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-MOUNTAIN-RIDGE_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "6c217edb-8c6c-4963-93e0-c1b814b54626",
+    "ccn": "060071",
+    "hospital_name": "DELTA COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://deltahealthco.org/840428757_delta-health_standard-charges.csv",
+    "transparency_page": "https://deltahealthco.org/price-transparency-2/"
+  },
+  {
+    "detail_id": "8f0bda99-7a36-4bfe-a397-722148d5db19",
+    "ccn": "060076",
+    "hospital_name": "STERLING REGIONAL MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/840826331_sterling-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "f67f9044-9868-41b8-abb7-e1d704e9a4e5",
+    "ccn": "060096",
+    "hospital_name": "VAIL HEALTH HOSPITAL",
+    "file_url": "https://www.vailhealth.org/pdf/VailHealth/Pricing/84_0563230_vail_health_standardcharges.csv",
+    "transparency_page": "https://www.vailhealth.org/patients-and-visitors/estimate-your-cost-of-care"
+  },
+  {
+    "detail_id": "2af15e2d-0715-4d47-a9f2-d2565ff73525",
+    "ccn": "060100",
+    "hospital_name": "HCA HEALTHONE AURORA",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-AURORA_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "4c234905-86de-4645-86a0-27868b0b0e13",
+    "ccn": "060104",
+    "hospital_name": "COMMONSPIRIT ST. ANTHONY NORTH HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8275/840405257_commonspirit-health-st-anthony-north-campus_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "af14273f-e489-4cb0-8653-dd77683beb18",
+    "ccn": "060107",
+    "hospital_name": "NATIONAL JEWISH HEALTH",
+    "file_url": "https://www.nationaljewish.org/getmedia/c97356f0-e412-49d8-9e60-709ffd750355/742044647_National-Jewish-Health_standardcharges.csv",
+    "transparency_page": "https://www.nationaljewish.org/patients-visitors/billing-insurance/pricing-expense-estimates"
+  },
+  {
+    "detail_id": "f550109e-e51a-4985-a27f-f9f10e542d78",
+    "ccn": "060112",
+    "hospital_name": "HCA HEALTHONE SKY RIDGE",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321373_HCA-HEALTHONE-SKY-RIDGE_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "d079c9c4-558d-4139-89bd-c3a7adb75412",
+    "ccn": "060114",
+    "hospital_name": "ADVENTHEALTH PARKER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=frGwcF6pG1MW96eqg4b2tg*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "00cc946d-85bc-404f-a7a7-acc2b9102467",
+    "ccn": "060116",
+    "hospital_name": "INTERMOUNTAIN HEALTH GOOD SAMARITAN MEDICAL CENTER",
+    "file_url": "https://intermountainhealthcare.org/sc10media/files/intermountain-health/locations/hospital-prices/431982139_good-samaritan-medical-center_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/intermountain-health-good-samaritan-hospital/about/hospital-pricing"
+  },
+  {
+    "detail_id": "8962c831-f100-4f83-9877-006ba134d168",
+    "ccn": "060117",
+    "hospital_name": "ANIMAS SURGICAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/3ec9916021b8a942a7592560cc3b7900/charges/mrf",
+    "transparency_page": "https://www.animassurgical.com/patients-visitors/pricing/pricing-list/"
+  },
+  {
+    "detail_id": "a1f5d448-4e5c-4563-9aab-a7015acc4d4a",
+    "ccn": "060118",
+    "hospital_name": "COMMONSPIRIT ST. ANTHONY SUMMIT HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8276/840405257_commonspirit-health-st-anthony-summit_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "269b2335-f029-4e84-ae2e-579e1c5e4673",
+    "ccn": "060119",
+    "hospital_name": "UC HEALTH MEDICAL CENTER OF THE ROCKIES",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8081/430730045_medical-center-of-the-rockies_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MedicalCenteroftheRockies/8081"
+  },
+  {
+    "detail_id": "d66efbba-a055-4734-a1f9-fa7237e1a32b",
+    "ccn": "060124",
+    "hospital_name": "COMMONSPIRIT ORTHOCOLORADO HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8270/371577105_commonspirit-health-orthocolorado_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "dd4e3038-cb61-4272-9729-71165651e89d",
+    "ccn": "060129",
+    "hospital_name": "UC HEALTH BROOMFIELD HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8085/473393862_uchealth-broomfield-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BroomfieldHospital/8085"
+  },
+  {
+    "detail_id": "a6c30a7c-5d9c-40f0-8db3-c2a1372c3c8b",
+    "ccn": "060130",
+    "hospital_name": "UC HEALTH GRANDVIEW HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8084/473455146_uchealth-grandview-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GrandviewHospital/8084"
+  },
+  {
+    "detail_id": "ec52f1e3-9229-4e8f-88bf-ddd829ac3ed4",
+    "ccn": "060131",
+    "hospital_name": "UC HEALTH GREELEY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8082/822666059_uchealth-greeley-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GreeleyHospital/8082"
+  },
+  {
+    "detail_id": "57feee8a-b277-4681-81ee-4ab53a9f8e3d",
+    "ccn": "060132",
+    "hospital_name": "UC HEALTH HIGHLANDS RANCH HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8087/821885403_uchealth-highlands-ranch-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/HighlandRanchHospital/8087"
+  },
+  {
+    "detail_id": "f5ebc375-edec-4a6c-8e61-7ad402968ad0",
+    "ccn": "060133",
+    "hospital_name": "COMMONSPIRIT ST. FRANCIS HOSPITAL - INTERQUEST",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10712/840405257_commonspirit-health-st-francis-interquest_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "71a36430-9fe1-497b-869c-cc23e8f62548",
+    "ccn": "061300",
+    "hospital_name": "WEISBROD MEMORIAL COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWMHEADSCO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kiowa_V2.aspx"
+  },
+  {
+    "detail_id": "ee3579f2-b279-42df-9bc7-b8477798bbf7",
+    "ccn": "061301",
+    "hospital_name": "RIO GRANDE HOSPITAL",
+    "file_url": "https://riograndehospital.pg.revenuemasters.com/cdm-files/841276376_rio-grande-hospital_standardcharges.csv",
+    "transparency_page": "https://riograndehospital.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "852507e4-d687-44c3-84b0-29738dc2239c",
+    "ccn": "061302",
+    "hospital_name": "FAMILY HEALTH WEST HOSPITAL",
+    "file_url": "https://fhw.org/wp-content/uploads/2025/09/84-0447998_Family_Health_West_standardcharges.xlsx",
+    "transparency_page": "https://fhw.org/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "d5e0ccf1-6ced-4827-9280-6c7eb4bb2351",
+    "ccn": "061303",
+    "hospital_name": "EAST MORGAN COUNTY HOSPITAL DISTRICT",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/840826336_east-morgan-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "30498e19-668f-4833-a0fc-102488d1202c",
+    "ccn": "061304",
+    "hospital_name": "HAXTUN HOSPITAL DISTRICT",
+    "file_url": "https://haxtunhealth.org/840574271_haxtun-hospital-district_standardcharges_11112025.csv",
+    "transparency_page": "https://haxtunhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "bb60a2fa-c52c-4d50-acf6-6d6aa2535ad3",
+    "ccn": "061305",
+    "hospital_name": "MELISSA MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMHHOLYOKECO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Melissa_V2.aspx"
+  },
+  {
+    "detail_id": "8c4e1d61-705c-41b1-9ddc-a957886a81aa",
+    "ccn": "061306",
+    "hospital_name": "LINCOLN HEALTH MAIN HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/lincoln/84-0484566_Lincoln-Health_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/lincoln"
+  },
+  {
+    "detail_id": "86acfffb-9151-4f22-a667-437bab636596",
+    "ccn": "061307",
+    "hospital_name": "RANGELY DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRDHRANGELYCO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Rangely_V2.aspx"
+  },
+  {
+    "detail_id": "888e9fc1-9cb6-4462-b6d3-85ddb5a8158d",
+    "ccn": "061308",
+    "hospital_name": "SAN LUIS VALLEY HEALTH CONEJOS COUNTY HOSPITAL",
+    "file_url": "https://sanluis.pt.panaceainc.com/MRFDownload/sanluis/slvconejos",
+    "transparency_page": "https://www.sanluisvalleyhealth.org/patient-center/price-transparency/"
+  },
+  {
+    "detail_id": "5d1f0bab-1440-4929-839d-c874f4edb8cb",
+    "ccn": "061309",
+    "hospital_name": "WRAY COMMUNITY DISTRICT HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=WCPVLClkHEiOwGO6Nkv94g*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?ci=qkN*__*yGpwRznxBGXhgGG8pw*-*"
+  },
+  {
+    "detail_id": "8c92d825-d94a-424d-9252-6a1e6f1402b0",
+    "ccn": "061310",
+    "hospital_name": "SEDGWICK COUNTY HEALTH CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/KWNF-1755280847857/machine-readable/sedgwick-county-health-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/sedgwick-county-health-center-co"
+  },
+  {
+    "detail_id": "d599d328-b029-4a33-815f-6373d693f2e0",
+    "ccn": "061311",
+    "hospital_name": "SOUTHEAST COLORADO HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/5f8756768b/machine-readable/840592527_southeast-colorado-hospital-district_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/southeast-colorado"
+  },
+  {
+    "detail_id": "c08daf46-30c2-4b4c-aab9-e996cacea9ee",
+    "ccn": "061312",
+    "hospital_name": "UCHEALTH ESTES VALLEY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8187/393395823_uchealth-estes-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/EstesParkHealth/8187"
+  },
+  {
+    "detail_id": "fec7d54b-f0f0-4a23-bcea-a2161d1e251d",
+    "ccn": "061313",
+    "hospital_name": "KIT CARSON COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.kcchsd.org/wp-content/uploads/2025/02/841435504_kitcarson_county_memorial_hospital_standardcharges.csv",
+    "transparency_page": "https://www.kcchsd.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "62dbc703-0e54-4db0-bff1-36969e907255",
+    "ccn": "061314",
+    "hospital_name": "THE MEMORIAL HOSPITAL AT CRAIG",
+    "file_url": "https://memorialregionalhealth.com/wp-content/uploads/840399209_Memorial-Regional-Hospital_StandardCharges.csv",
+    "transparency_page": "https://memorialregionalhealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "1db6f48a-a440-4771-9beb-ac79ed82fa3d",
+    "ccn": "061315",
+    "hospital_name": "YUMA DISTRICT HOSPITAL",
+    "file_url": "https://yumadistricthospital.pg.revenuemasters.com/cdm-files/840420041_yuma-district-hospital_standardcharges.csv",
+    "transparency_page": "https://yumadistricthospital.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "337762dd-5190-447c-a0c1-ce65ef143913",
+    "ccn": "061316",
+    "hospital_name": "SPANISH PEAKS REGIONAL HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSPMCWALSENBURGCO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SpanishPeaks_V2.aspx"
+  },
+  {
+    "detail_id": "8b29beb3-1bea-4879-badb-ea1650807b39",
+    "ccn": "061317",
+    "hospital_name": "GRAND RIVER MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/f73a5211c3c0ff9dedca389bbfa031d7/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/f73a5211c3c0ff9dedca389bbfa031d7/shoppable-services"
+  },
+  {
+    "detail_id": "a2dde2af-c8a7-40c0-b2f7-66572e45fe1f",
+    "ccn": "061318",
+    "hospital_name": "MIDDLE PARK MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11872/840676212_middle-park-health-kremmling_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MiddleParkHealthKremmling/11872"
+  },
+  {
+    "detail_id": "1744a58f-452f-436f-b727-47f8473f02c7",
+    "ccn": "061319",
+    "hospital_name": "ST VINCENT GENERAL HOSPITAL DISTRICT",
+    "file_url": "https://stvincent.goredde.com/Estimator/Files/840424585_st.-vincent-general-hospital_standardcharges.csv",
+    "transparency_page": "https://stvincent.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "5b39eb78-4a70-4219-9e95-d0de21f02d90",
+    "ccn": "061321",
+    "hospital_name": "MT SAN RAFAEL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/d5494b73-f433-4af3-a95b-cb4fabe2c2f8/840586742_MT-SAN-RAFAEL-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=d5494b73-f433-4af3-a95b-cb4fabe2c2f8"
+  },
+  {
+    "detail_id": "9f44cb8f-5666-415c-9390-88edf39bdb26",
+    "ccn": "061322",
+    "hospital_name": "HEART OF THE ROCKIES REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHOTRRMCSALIDACO&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HeartRockiesRegional.aspx"
+  },
+  {
+    "detail_id": "d9a12044-9231-4db4-a3e2-8c9dd2aa9846",
+    "ccn": "061324",
+    "hospital_name": "ASPEN VALLEY HOSPITAL",
+    "file_url": "https://aspenvalleyhealth.org/wp-content/uploads/2025/10/840720309_Aspen-Valley-Hospital-District_standardcharges.csv?s=1",
+    "transparency_page": "https://aspenvalleyhealth.org/common-healthcare-pricing/charge-description-master/"
+  },
+  {
+    "detail_id": "5ed4659f-f545-4a32-8220-1963d409d545",
+    "ccn": "061325",
+    "hospital_name": "PIONEERS MEDICAL CENTER",
+    "file_url": "https://www.pioneershospital.org/wp-content/uploads/2025/10/870788731_pioneers-medical-center_shoppable.csv.csv",
+    "transparency_page": "https://www.pioneershospital.org/financial-services/"
+  },
+  {
+    "detail_id": "13a480ed-f4ba-4b89-8c03-e685f408398e",
+    "ccn": "061326",
+    "hospital_name": "UC HEALTH PIKES PEAK REGIONAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8079/824191576_uchealth-pikes-peak-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PikesPeakRegionalHospital/8079"
+  },
+  {
+    "detail_id": "b1638252-ecda-41f6-b8e7-9c4401bb5b9c",
+    "ccn": "061327",
+    "hospital_name": "SOUTHWEST MEMORIAL HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/5f7b80d31f/machine-readable/841337350_southwest-health-system_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/southwest-health"
+  },
+  {
+    "detail_id": "4ef6cdea-974e-48ad-946b-32a9c9c4f8ea",
+    "ccn": "061328",
+    "hospital_name": "PAGOSA SPRINGS MEDICAL CENTER",
+    "file_url": "https://pagosaspringsmedicalcenter.pg.revenuemasters.com/cdm-files/840866061_pagosa-springs-medical-center_standardcharges.csv",
+    "transparency_page": "https://pagosaspringsmedicalcenter.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "1321a16d-f562-4e38-b70f-f33ce362e928",
+    "ccn": "061336",
+    "hospital_name": "ARKANSAS VALLEY REGIONAL MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/5f7492531a/machine-readable/841465990_arkansas-valley-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/arkansas-valley"
+  },
+  {
+    "detail_id": "e0689c46-93ba-40e9-b881-33e02a31f332",
+    "ccn": "061343",
+    "hospital_name": "KEEFE MEMORIAL HOSPITAL",
+    "file_url": "https://keefemh.org/wp-content/uploads/2025/07/472340447_keefe-memorial-health-service-district_standardcharges.csv",
+    "transparency_page": "https://keefemh.org/patient-resources/pricing-transparency/"
+  },
+  {
+    "detail_id": "25af014e-0f1b-428b-a8e3-4e22e657b6b9",
+    "ccn": "062009",
+    "hospital_name": "KINDRED HOSPITAL-DENVER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=4RHYiarPz4X22OmJG6Mfjg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=4RHYiarPz4X22OmJG6Mfjg*-*"
+  },
+  {
+    "detail_id": "4c15659a-7faf-48c3-ad7e-5259903e4e90",
+    "ccn": "062011",
+    "hospital_name": "CRAIG HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8622/840404233_craig-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CraigHospital/8622"
+  },
+  {
+    "detail_id": "364b64c3-c86f-438c-9bc6-f41a9ae59cb0",
+    "ccn": "062012",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF DENVER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10977/842669809_pam-specialty-hospital-of-denver-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SpecialtyHospitalDenver/10977"
+  },
+  {
+    "detail_id": "2023b4cf-6e8c-4bf6-ab5c-4b3f1204918a",
+    "ccn": "062013",
+    "hospital_name": "KINDRED HOSPITAL AURORA",
+    "address": "700 POTOMAC ST, 2ND FLOOR",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=nKw*_*TwFwBAljr2ObggdeEA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=nKw*_*TwFwBAljr2ObggdeEA*-*"
+  },
+  {
+    "detail_id": "0c6e74c6-b96e-4a4a-b2af-082738fff0df",
+    "ccn": "062014",
+    "hospital_name": "VIBRA HOSPITAL OF DENVER",
+    "file_url": "https://vhdenver.com/wp-content/uploads/sites/27/2025/09/030501948_vibra-hospital-of-denver_standardcharges.csv",
+    "transparency_page": "https://vhdenver.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "c90dc1a5-496d-4911-84c6-c3bb2a660b13",
+    "ccn": "062017",
+    "hospital_name": "NORTHERN COLORADO LONG TERM ACUTE HOSPITAL",
+    "file_url": "https://ernesthealth.com/wp-content/uploads/2025/01/pricing/Northern%20Colorado%20Long%20Term%20Acute%20Hospital/272805397_Northern-Colorado-Long-Term-Acute-Hospital_Standard-Charges.json",
+    "transparency_page": "https://ncltah.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "7fcfe61b-58f3-4f01-aa1b-3f152f58d56d",
+    "ccn": "063027",
+    "hospital_name": "SPALDING REHABILITATION HOSPITAL",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/84-1321505_HCA-HEALTHONE-SPALDING-REHABILITATION_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.healthonecares.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "9d38e360-2d43-43b5-9e7e-f957a5bbd9d9",
+    "ccn": "063034",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF LITTLETON",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/831877464_Encompass-Health-Rehabilitation-Hospital-of-Littleton_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/littleton-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "d98c3283-9a02-426d-9f70-a5c8501deef4",
+    "ccn": "063301",
+    "hospital_name": "CHILDREN\u2019S COLORADO NORTH CAMPUS - BROOMFIELD",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8432/840166760-1336245825_childrens-hospital-colorado_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ChildrensHospitalDenverMetro/8432"
+  },
+  {
+    "detail_id": "5ad6eb9b-84ad-41f2-af6c-914117c378ae",
+    "ccn": "063301",
+    "hospital_name": "CHILDREN'S HOSPITAL COLORADO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8432/840166760-1336245825_childrens-hospital-colorado_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ChildrensHospitalDenverMetro/8432"
+  },
+  {
+    "detail_id": "220015f9-f670-4e89-8f30-36a93fef4acf",
+    "ccn": "063301",
+    "hospital_name": "CHILDRENS HOSPITAL COLORADO SOUTH CAMPUS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8432/840166760-1336245825_childrens-hospital-colorado_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ChildrensHospitalDenverMetro/8432"
+  },
+  {
+    "detail_id": "f2c679d4-2667-4484-90d4-9d6461d294ca",
+    "ccn": "063303",
+    "hospital_name": "OUTPATIENT CARE AT BRIARGATE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8525/840166760-1336637438_childrens-hospital-colorado_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ChildrensHospitalCOSouthernCO/8525"
+  },
+  {
+    "detail_id": "c3d54094-6681-414e-acc8-5b97fbda6669",
+    "ccn": "063416",
+    "hospital_name": "MIDDLE PARK MEDICAL CENTER-GRANBY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11871/840676212_middle-park-health-granby_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MiddleParkHealthGranby/11871"
+  },
+  {
+    "detail_id": "6830e402-879c-4716-bb78-4642b53484bf",
+    "ccn": "064024",
+    "hospital_name": "HIGHLANDS BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205227927_highlands_standardcharges.csv",
+    "transparency_page": "https://highlandsbhs.com/standard-services/"
+  },
+  {
+    "detail_id": "cb0775e1-cd77-4be8-b70b-478998215103",
+    "ccn": "064026",
+    "hospital_name": "PEAK VIEW BEHAVIORAL HEALTH",
+    "file_url": "https://peakviewbh.com/wp-content/uploads/2025/03/263536538_PeakViewBehavioralHealth_standardcharges.csv",
+    "transparency_page": "https://peakviewbh.com/price-transparency/"
+  },
+  {
+    "detail_id": "2fff8b36-eda9-4c1b-8269-793c7c467889",
+    "ccn": "064028",
+    "hospital_name": "DENVER SPRINGS",
+    "file_url": "https://denversprings.com/docs/bhdenverspringslibraries/dec2025/611777176_denver-springs_standardcharges.csv",
+    "transparency_page": "https://denversprings.com/resources/accepted-insurance/#price-list"
+  }
+]

@@ -1,0 +1,1004 @@
+[
+  {
+    "detail_id": "de4e3ec5-7b76-4dc7-9ee1-03dcca6705cb",
+    "ccn": "230002",
+    "hospital_name": "TRINITY HEALTH LIVONIA HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stmarylivonia",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "631389d3-2005-48e7-b8c8-eb2681b62a4b",
+    "ccn": "230005",
+    "hospital_name": "PROMEDICA CHARLES AND VIRGINIA HICKMAN HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/382796005_emma_l_bixby_medical_center_standardcharges.csv?rev=780f103fa70e4031b89af09df5906097&hash=D57180A3EC15CF816C8DA2804B01A239&_gl=1*1uxx20m*_gcl_au*MTUwMTM4NTgyNy4xNzQ2NTIxNzMy",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "aec92e33-a282-4565-a078-fa779efa3eeb",
+    "ccn": "230013",
+    "hospital_name": "PONTIAC GENERAL HOSPITAL",
+    "file_url": "http://www.pontiacgeneral.com/wp-content/uploads/262512084_pontiac-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.pontiacgeneral.com/price-transparency"
+  },
+  {
+    "detail_id": "8a727ef7-bafd-48df-a0ed-a1bbec5891a0",
+    "ccn": "230015",
+    "hospital_name": "THREE RIVERS HEALTH HOSPITAL",
+    "file_url": "https://www.beaconhealthsystem.org/wp-content/uploads/2024/12/451257972_Three-Rivers-Health_standardcharges.csv",
+    "transparency_page": "https://www.beaconhealthsystem.org/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "cad26209-b5fc-42e6-ad7f-06f6d88d972c",
+    "ccn": "230017",
+    "hospital_name": "BRONSON METHODIST HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/bronson-methodist/381359087_bronson-methodist-hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/bronson-methodist/charges"
+  },
+  {
+    "detail_id": "e1adbab2-89d8-4af1-b937-4a4f945f8185",
+    "ccn": "230019",
+    "hospital_name": "HENRY FORD PROVIDENCE NOVI HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381358212-1144210253_henry-ford-providence-novi-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "f50a9622-0f5c-4d29-9603-5d53bb724a87",
+    "ccn": "230019",
+    "hospital_name": "HENRY FORD PROVIDENCE SOUTHFIELD HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381358212-1144210253_henry-ford-providence-southfield-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "b8142674-861e-4514-ad6d-5978cc28de00",
+    "ccn": "230020",
+    "hospital_name": "COREWELL HEALTH DEARBORN HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt58accc53de460d32/6777fb0b02a8435f7a2f0fcf/381405141_1740230119_oakwood-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "140691ea-1140-459c-9131-fcdc6e180565",
+    "ccn": "230021",
+    "hospital_name": "COREWELL HEALTH ST. JOSEPH HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blteac5bb244862ae70/6777fcd8ccead1793d3f708f/382156872_lakeland-hospitals-at-niles-and-st-joseph-inc_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "afc123b7-8830-46ab-9f22-0c208496aa8d",
+    "ccn": "230022",
+    "hospital_name": "INSIGHT HOSPITAL & MEDICAL CENTER COLDWATER",
+    "file_url": "https://estimator.myinsightcare.com/static/mrf/386108110_insight-hospital-and-medical-center-coldwater_standardcharges.csv",
+    "transparency_page": "https://estimator.myinsightcare.com/transparency.html"
+  },
+  {
+    "detail_id": "b2cbf444-41b4-4e52-aa75-852da6f13fff",
+    "ccn": "230024",
+    "hospital_name": "DMC SINAI-GRACE HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272844632_DMCSinaiGraceHospital_standardcharges.json",
+    "transparency_page": "https://www.dmc.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "32d1eeed-66d4-4b90-9b1d-0855b62b4173",
+    "ccn": "230029",
+    "hospital_name": "TRINITY HEALTH OAKLAND HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stjosephoakland",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "562dd75e-23a8-49ce-b707-0bc8352c16c3",
+    "ccn": "230030",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER ALMA",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/patients-visitors/billing-insurance/cost-estimates/"
+  },
+  {
+    "detail_id": "66552a3a-5ba1-4259-9739-6fa5d0e8ce98",
+    "ccn": "230031",
+    "hospital_name": "LAKE HURON MEDICAL CENTER",
+    "file_url": "https://mylakehuron.com/wp-content/uploads/2024/12/472361878_LakeHuronMedicalCenter_standardcharges.json",
+    "transparency_page": "https://mylakehuron.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "7991df2b-35b3-414c-8140-e8bb5c9c6d89",
+    "ccn": "230035",
+    "hospital_name": "COREWELL HEALTH GREENVILLE HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltf6457d04944e6f0c/6777fd8105ab07f6402c66dc/381358412_spectum-health-united_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "068ee24f-7306-4d4c-8c12-e786b63c9668",
+    "ccn": "230036",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER ALPENA",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/patients-visitors/billing-insurance/cost-estimates/"
+  },
+  {
+    "detail_id": "00198fae-fdf7-42a0-abb4-3675352d82fa",
+    "ccn": "230037",
+    "hospital_name": "HILLSDALE HOSPITAL",
+    "file_url": "https://www.hillsdalehospital.com/wp-content/uploads/2025/07/38-6005550_Hillsdale-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.hillsdalehospital.com/resources/pricing-estimates/"
+  },
+  {
+    "detail_id": "b7ededa9-ac17-4964-a4d3-cd563889ee11",
+    "ccn": "230038",
+    "hospital_name": "COREWELL HEALTH BUTTERWORTH HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt1f1301ac054e4c33/6777fd81b1ed3c154ddc8462/381360529_spectrum-health-hospitals_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "8b6c94db-5c08-4f12-887c-58cb00fcaf43",
+    "ccn": "230041",
+    "hospital_name": "MCLAREN BAY REGION",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1976271_McLarenBayRegion_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "72304b51-f31f-4850-8007-0cc2aeef5903",
+    "ccn": "230046",
+    "hospital_name": "UNIVERSITY OF MICHIGAN HEALTH SYSTEM",
+    "address": "1500 E MEDICAL CENTER DRIVE, SPC 5474",
+    "file_url": "https://www.uofmhealth.org/38-6006309_UNIVERSITY-OF-MICHIGAN-HEALTH_standardcharges-1-1-25.zip",
+    "transparency_page": "https://www.uofmhealth.org/michigan-medicine-standard-charges"
+  },
+  {
+    "detail_id": "3a3a9d9c-adab-4001-9d71-f45867a6cf99",
+    "ccn": "230053",
+    "hospital_name": "HENRY FORD HOSPITAL",
+    "file_url": "https://henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381357020-1134144801_henry-ford-health_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "2d399048-13a8-4a91-b471-81c29d945bb5",
+    "ccn": "230054",
+    "hospital_name": "UP HEALTH SYSTEM - MARQUETTE",
+    "file_url": "https://www.uphealthsystem.com/docs/ahuphealthsystemlibraries/hcl/mrf2q25/800818718_marquette-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.uphealthsystem.com/hospital-charge-listings"
+  },
+  {
+    "detail_id": "f9b01fa3-0aa8-4dba-8a11-adc35bf3d05d",
+    "ccn": "230055",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - DICKINSON",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/382780429_marshfield-medical-center--dickinson_standardcharges.csv",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "960aa8f8-03f6-42ae-b1db-6aa8d0a8295d",
+    "ccn": "230058",
+    "hospital_name": "MUNSON HEALTHCARE GRAYLING",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8135/471161992_munson-healthcare-grayling_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MunsonHealthcareGraylingHospital/8135"
+  },
+  {
+    "detail_id": "a78418e2-0a10-400b-bc26-e6cb12b0023d",
+    "ccn": "230059",
+    "hospital_name": "TRINITY HEALTH GRAND RAPIDS HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mercyhealthmarys",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "33aed46e-ad82-41d8-bb6f-0a6335b4352e",
+    "ccn": "230066",
+    "hospital_name": "TRINITY HEALTH MUSKEGON HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mercyhealthhackley",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "d0a5824e-92e4-4b02-a66d-618552364eeb",
+    "ccn": "230069",
+    "hospital_name": "TRINITY HEALTH LIVINGSTON HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stjoseph-mercylivingstonhospital",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "c0dfb19f-baf9-4a24-8b19-eae8880a3f43",
+    "ccn": "230070",
+    "hospital_name": "COVENANT MEDICAL CENTER HARRISON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8515/383369438_covenant-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CovenantHealthcare/8515"
+  },
+  {
+    "detail_id": "2f30e539-53e1-4446-af8b-0c73932e8ffe",
+    "ccn": "230071",
+    "hospital_name": "STRAITH HOSPITAL",
+    "file_url": "https://straithhospital.org/wp-content/uploads/2025/05/381455020_straith-hospital-for-special-surgery_standardcharges.csv",
+    "transparency_page": "https://straithhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "dc054784-ed2f-4d4b-abc5-c95920d4a8d5",
+    "ccn": "230072",
+    "hospital_name": "HOLLAND HOSPITAL MAIN CAMPUS",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCHHOLLANDMI&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Holland_V4.aspx"
+  },
+  {
+    "detail_id": "86e83573-9f00-438a-901f-69daf16169f6",
+    "ccn": "230075",
+    "hospital_name": "BRONSON BATTLE CREEK HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/bronson-battle-creek/382776791_bronson-battle-creek-hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/bronson-battle-creek/charges/"
+  },
+  {
+    "detail_id": "181d0ed1-87b2-4952-8fe5-c547d41dfe0d",
+    "ccn": "230077",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER SAGINAW",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/estimates"
+  },
+  {
+    "detail_id": "e78b050e-1f85-40f9-8026-f613a7946795",
+    "ccn": "230078",
+    "hospital_name": "COREWELL HEALTH LAKELAND WATERVLIET HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt1954749af24e3543/6777fcd7559f087779636d13/381368745_corewell-health-watervliet-hospital_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "c513db1a-b449-4e90-8a81-6d016d5b58bb",
+    "ccn": "230080",
+    "hospital_name": "MCLAREN CENTRAL MICHIGAN",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1420304_McLarenCentral_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "ac309f6b-158b-49f7-9f9e-b83712e37325",
+    "ccn": "230081",
+    "hospital_name": "MUNSON HEALTHCARE CADILLAC",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8134/471156297_munson-healthcare-cadillac_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MunsonHealthcareCadillacHospital/8134"
+  },
+  {
+    "detail_id": "262c4995-bfc2-4a6b-9c01-113fe68aa6d4",
+    "ccn": "230085",
+    "hospital_name": "BRONSON SOUTH HAVEN HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/bronson-south-haven/381676780_bronson-south-haven-hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/bronson-south-haven/charges/"
+  },
+  {
+    "detail_id": "08726929-30fe-4ca3-bbfc-82a4b5d73fe0",
+    "ccn": "230092",
+    "hospital_name": "HENRY FORD JACKSON HOSPITAL",
+    "file_url": "https://henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/382027689_henry-ford-health_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "057987c5-0277-4917-8221-a9c92e7c67af",
+    "ccn": "230093",
+    "hospital_name": "COREWELL HEALTH BIG RAPIDS HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt0de32cd5118c8ba6/6777fd81e4bfd30624ac8b8c/381368744_mecosta-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "d4da9f7d-7bca-4d8c-9724-4fc981dc2990",
+    "ccn": "230095",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER WEST BRANCH",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/patients-visitors/billing-insurance/cost-estimates/"
+  },
+  {
+    "detail_id": "dc3d5dc0-3430-43db-8a7f-569d63bc9d84",
+    "ccn": "230096",
+    "hospital_name": "STURGIS HOSPITAL",
+    "file_url": "https://sturgishospital.com/wp-content/uploads/2021/01/Chargemaster.csv",
+    "transparency_page": "https://sturgishospital.com/hospital-pricing/"
+  },
+  {
+    "detail_id": "7601dbf1-d017-4553-9d87-bcde6ee65e02",
+    "ccn": "230097",
+    "hospital_name": "MUNSON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8137/381362830_munson-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.munsonhealthcare.org/patients-visitors/munson-healthcare-chargemaster-information"
+  },
+  {
+    "detail_id": "e4b90a04-90bf-4d9b-8f01-860f32e0aeac",
+    "ccn": "230099",
+    "hospital_name": "PROMEDICA MONROE REGIONAL HOSPITAL",
+    "file_url": "https://pcl.promedica.org/-/media/promedica/pay-my-bill/381984289_mercy-memorial-hospital-corporation_standardcharges.csv?rev=28237c4f062440dcb9ee461cba43ccfc&hash=187377A53B3DB9AE0B5AAB6C0B868866&_gl=1*ecruqv*_gcl_au*MTUwMTM4NTgyNy4xNzQ2NTIxNzMy",
+    "transparency_page": "https://www.promedica.org/pay-my-bill/price-transparency-resources"
+  },
+  {
+    "detail_id": "79e3b519-0825-4d94-aa8d-699a6c530701",
+    "ccn": "230100",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER TAWAS",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/estimates"
+  },
+  {
+    "detail_id": "1d047925-d38e-47d9-9cfd-88fbb5a220ff",
+    "ccn": "230104",
+    "hospital_name": "DMC HARPER UNIVERSITY HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272844767_HarperUniversityHospitalDMC_standardcharges.json",
+    "transparency_page": "https://www.dmc.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "9c37e21a-fc11-4f53-b327-e2566f49f9e4",
+    "ccn": "230105",
+    "hospital_name": "MCLAREN NORTHERN MICHIGAN",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-2146751_McLarenNorthernMichigan_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "67c92642-d1cd-4a67-a204-1f7f82eaaad8",
+    "ccn": "230108",
+    "hospital_name": "UP HEALTH SYSTEM PORTAGE",
+    "file_url": "https://www.uphealthsystem.com/docs/ahuphealthsystemlibraries/hcl/mrf2q25/900998484_portage-health_standardcharges.csv",
+    "transparency_page": "https://www.uphealthsystem.com/hospital-charge-listings"
+  },
+  {
+    "detail_id": "4cfc8bee-3f4a-453a-bdff-4697bdc22138",
+    "ccn": "230110",
+    "hospital_name": "COREWELL HEALTH LUDINGTON HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt14b01e94d87348cf/6777fd81e4bfd36203ac8b8e/381359266_memorial-medical-center-of-west-michigan_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "b34d6431-f1eb-47a0-a01a-d55fa48100a1",
+    "ccn": "230117",
+    "hospital_name": "BEACON KALAMAZOO",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/590634434_sacred-heart-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "7ea5793b-c4a8-4a78-a283-7a872a6d05cc",
+    "ccn": "230130",
+    "hospital_name": "COREWELL HEALTH WILLIAM BEAUMONT UNIVERSITY HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt3135a4c399d0ea80/6777fb0b6a4e90d0ccd0652d/381459362_1811044878_william-beaumont-hospital_standardcharges[1].csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "d66c38cd-50ef-4a1b-922f-97f38e304fb7",
+    "ccn": "230133",
+    "hospital_name": "OTSEGO MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8052/381303843_munson-healthcare-otsego-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MunsonOstegoMemorialHospital/8052"
+  },
+  {
+    "detail_id": "b28bf5e2-6052-481f-b688-ac7628ccc42c",
+    "ccn": "230142",
+    "hospital_name": "COREWELL HEALTH WAYNE HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt3e21f00deacc4027/6777fb0af6d8ef088ac171d8/381405141_1295785285_oakwood-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "ab59e688-3c47-4b28-8b2c-0f7a6b0b815a",
+    "ccn": "230144",
+    "hospital_name": "FOREST HEALTH MEDICAL CENTER",
+    "file_url": "https://www.fhmc-mi.com/sites/default/files/staff/FHMC-MI-Chargemaster.csv",
+    "transparency_page": "https://www.fhmc-mi.com/standardcharges"
+  },
+  {
+    "detail_id": "894ca68e-525c-4c7a-9b73-bdb4b6022590",
+    "ccn": "230146",
+    "hospital_name": "HENRY FORD WYANDOTTE HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/382791823_henry-ford-health_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "cd2b99f2-3dc7-4669-aae8-0b4957596821",
+    "ccn": "230151",
+    "hospital_name": "COREWELL HEALTH FARMINGTON HILLS HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt10f856147013d50a/6777fda9575457d671190b5a/381426919_botsford-general-hospital_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "d17d743d-3bd9-408e-b8ab-044098321541",
+    "ccn": "230156",
+    "hospital_name": "TRINITY HEALTH ANN ARBOR HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stjosephmercy-annarbor",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "f7f1062f-43a3-4632-b339-912aeec5ae15",
+    "ccn": "230165",
+    "hospital_name": "HENRY FORD ST. JOHN HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381359063_henry-ford-st-john-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "e9052275-5f50-43de-9413-d6e543fdda9d",
+    "ccn": "230174",
+    "hospital_name": "TRINITY HEALTH GRAND HAVEN HOSPITAL",
+    "file_url": "https://machine-readable-files.com/trinity-health-grand-haven/383330803-Trinity-Health-Grand-Haven_standardcharges.csv",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "38e114ff-3972-48c1-a57b-95c5f8320e81",
+    "ccn": "230176",
+    "hospital_name": "COREWELL HEALTH TRENTON HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt869d01e5d3bf7d6d/6777fb0a989c5313e7d53edd/381405141_1740230648_oakwood-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "23b272af-635a-4d23-a13f-d372d77d6bd4",
+    "ccn": "230180",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER CLARE",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/patients-visitors/billing-insurance/cost-estimates/"
+  },
+  {
+    "detail_id": "394895fc-ec90-4d45-b808-ee95467e1e62",
+    "ccn": "230195",
+    "hospital_name": "HENRY FORD WARREN HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/383322109_henry-ford-warren-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "25b8f3d6-770a-4388-933d-c69438c05cea",
+    "ccn": "230197",
+    "hospital_name": "HENRY FORD GENESYS HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/382377821_henry-ford-genesys-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "4cdf9fae-aacf-451d-b23c-42e52fa1d599",
+    "ccn": "230207",
+    "hospital_name": "MCLAREN OAKLAND",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1428164_McLarenOakland_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "91f55828-1777-41c2-8fa5-0bb69b750a64",
+    "ccn": "230208",
+    "hospital_name": "UM HEALTH-SPARROW",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-03/um-health-sparrow-carson-machine-readable-file-03-07-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "5fccf323-c8af-4279-a1a7-5045efc1c801",
+    "ccn": "230216",
+    "hospital_name": "MCLAREN PORT HURON",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1369611_McLarenPortHuron_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "035285c1-4968-41db-83ec-98bb0d82c587",
+    "ccn": "230217",
+    "hospital_name": "OAKLAWN HOSPITAL",
+    "file_url": "https://oaklawnhospital.org/381368347_ella-em-brown-charitable-circle-dba-oaklawn-hospital_standardcharges.csv.zip",
+    "transparency_page": "https://oaklawnhospital.org/tools-resources/price-transparency/"
+  },
+  {
+    "detail_id": "30b11472-ce6a-42ca-a5e6-fdedc006a0c2",
+    "ccn": "230222",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER MIDLAND",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/estimates"
+  },
+  {
+    "detail_id": "065b8f44-72f3-462b-aca6-d42800ab07f0",
+    "ccn": "230223",
+    "hospital_name": "HENRY FORD MADISON HEIGHTS HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/383322109_henry-ford-madison-heights-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "ed163454-ebdc-4fdf-8fb9-58a78b532ee0",
+    "ccn": "230227",
+    "hospital_name": "MCLAREN MACOMB",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1218516_McLarenMacomb_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "2b4f210c-daa4-46fa-9090-18b84454b007",
+    "ccn": "230230",
+    "hospital_name": "UM HEALTH-SPARROW LANSING",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-06/um-health-sparrow-lansing-machine-readable-file-06-26-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "3556b801-3ae2-4a97-990b-2f909721ebcd",
+    "ccn": "230236",
+    "hospital_name": "UM HEALTH-WEST HOSPITAL",
+    "address": "5900 BYRON CENTER AVENUE, SW",
+    "file_url": "https://uofmhealthwest.org/documents/2025/01/380593405_university-of-michigan-health-west-standardcharges.csv/",
+    "transparency_page": "https://uofmhealthwest.org/patients-visitors/pricing-estimates/"
+  },
+  {
+    "detail_id": "627aa017-4eda-418d-94de-30b306108436",
+    "ccn": "230239",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER SAULT",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/patients-visitors/billing-insurance/cost-estimates/"
+  },
+  {
+    "detail_id": "58838817-2838-40a7-863e-cd56d932c7f1",
+    "ccn": "230241",
+    "hospital_name": "HENRY FORD RIVER DISTRICT HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/383160564_henry-ford-river-district-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "757ad40b-8eaa-4a93-acd9-374049a4823d",
+    "ccn": "230244",
+    "hospital_name": "GARDEN CITY HOSPITAL",
+    "file_url": "https://gch.org/wp-content/uploads/2024/12/464719451_GardenCityHospital_standardcharges.json",
+    "transparency_page": "https://gch.org/financial-assistance/"
+  },
+  {
+    "detail_id": "b54f1b3c-ff80-437e-b562-af7e34a99fb6",
+    "ccn": "230254",
+    "hospital_name": "HENRY FORD ROCHESTER HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381359247_henry-ford-rochester-hospital_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "98cc7e35-9813-423c-96b5-48c4f5db2f59",
+    "ccn": "230259",
+    "hospital_name": "CHELSEA HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/stjoseph-chelsea",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "90f3a489-8dbd-45bd-873b-ed3c54a06447",
+    "ccn": "230264",
+    "hospital_name": "INSIGHT SURGICAL HOSPITAL",
+    "file_url": "https://estimator.myinsightcare.com/static/mrf/134257646_insight-surgical-hospital_standardcharges.csv",
+    "transparency_page": "https://estimator.myinsightcare.com/transparency.html"
+  },
+  {
+    "detail_id": "b7f37258-a2ec-40d8-b48d-097ed752423d",
+    "ccn": "230269",
+    "hospital_name": "COREWELL HEALTH BEAUMONT TROY HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltd0dc7175fc25c38d/6777fb0accead13a213f7076/381459362_1811044878_william-beaumont-hospital_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "6410d2f4-43ef-4497-905b-3f9814f479dc",
+    "ccn": "230270",
+    "hospital_name": "COREWELL HEALTH TAYLOR HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blt8e9b5dddacf0db17/6777fb0a0680e535a5ca73b7/381405141_1487605168_oakwood-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "97203347-9f7a-4554-9085-7095c0eaeb61",
+    "ccn": "230273",
+    "hospital_name": "DMC DETROIT RECEIVING HOSPITAL",
+    "address": "4201 ST ANTOINE ST, 3M",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272844942_DetroitReceivingHospitalDMC_standardcharges.json",
+    "transparency_page": "https://www.dmc.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "80765e77-e9b1-40c5-b403-541810479d8f",
+    "ccn": "230275",
+    "hospital_name": "HEALTHSOURCE SAGINAW",
+    "file_url": "https://www.healthsourcesaginaw.org/wp-content/uploads/2025/06/386004889_healthsource-saginaw_standardcharges.csv",
+    "transparency_page": "https://www.healthsourcesaginaw.org/"
+  },
+  {
+    "detail_id": "95400c95-3b8b-4e79-8c55-ed2720c75d34",
+    "ccn": "230277",
+    "hospital_name": "DMC HURON VALLEY-SINAI HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272844563_HuronValleySinaiHospital_standardcharges.json",
+    "transparency_page": "https://www.dmc.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "c268fd9e-5223-485a-bcaa-fa9cfd5a859a",
+    "ccn": "230279",
+    "hospital_name": "HENRY FORD BRIGHTON CENTER FOR RECOVERY",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381576680_henry-ford-brighton-center-for-recovery_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "d1400f6b-dfb0-4bd8-974b-38c8720bb64b",
+    "ccn": "230290",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - OAKLAND",
+    "address": "44405 WOODWARD AVENUE, 8TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-3345654_Select_Specialty_Hospital-Pontiac_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "aac539a5-db8a-4150-bb40-230a3fdf6775",
+    "ccn": "230297",
+    "hospital_name": "KARMANOS CANCER CENTER",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1613280_KarmanosCancerInstitute_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "04770aeb-5393-4eb6-9864-bd9e99e7111c",
+    "ccn": "230301",
+    "hospital_name": "SURGEONS CHOICE MEDICAL CENTER",
+    "file_url": "https://surgeonschoice.com/content/download/2127/17262/version/1/file/383162435_Southfield-Rehabilitation-Company_standardcharges.csv",
+    "transparency_page": "https://surgeonschoice.com/patient/main/right_column_links/Transparency-Billing"
+  },
+  {
+    "detail_id": "b5e80748-af5d-4df0-85b3-b2453d0a4a30",
+    "ccn": "230302",
+    "hospital_name": "HENRY FORD WEST BLOOMFIELD HOSPITAL",
+    "file_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2025/381357020-1407867559_henry-ford-health_standardcharges.csv",
+    "transparency_page": "https://www.henryford.com/visitors/billing/cost-of-care/hospital-standard-charges"
+  },
+  {
+    "detail_id": "ed6bf203-56fc-402d-8e26-ef1aecdc9aba",
+    "ccn": "230303",
+    "hospital_name": "MUNSON HEALTHCARE MANISTEE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8130/380350304_munson-healthcare-manistee-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MunsonHealthcareManisteeHospital/8130"
+  },
+  {
+    "detail_id": "f655f11d-94c4-4e3f-900e-5018a25757d3",
+    "ccn": "231300",
+    "hospital_name": "PAUL OLIVER MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8138/381415623_paul-oliver-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MunsonHealthcarePaulOliverMemorialHospital/8138"
+  },
+  {
+    "detail_id": "cd3558b4-d5ab-465e-adee-d6b4af47f75f",
+    "ccn": "231301",
+    "hospital_name": "KALKASKA MEMORIAL HEALTH CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8136/386032904_kalkaska-memorial-health-center_standardcharges.csv",
+    "transparency_page": "https://www.munsonhealthcare.org/patients-visitors/munson-healthcare-chargemaster-information"
+  },
+  {
+    "detail_id": "7a684842-5793-458b-bade-4dab643a2d0c",
+    "ccn": "231303",
+    "hospital_name": "SCHOOLCRAFT MEMORIAL HOSPITAL",
+    "file_url": "https://schoolcraftmemorialhospital.pg.quadax.revenuemasters.com/cdm-files/742517055_schoolcraft_memorial_hospital_standardcharges.csv",
+    "transparency_page": "https://schoolcraftmemorialhospital.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "9ce05170-2f5b-4621-9b25-c311637fdf53",
+    "ccn": "231304",
+    "hospital_name": "HELEN NEWBERRY JOY HOSPITAL",
+    "file_url": "https://hnjh.org/wp-content/uploads/2025/02/382873485_helen-newberry-joy-hospital_standardcharges.csv",
+    "transparency_page": "https://hnjh.org/#pricing-transparency"
+  },
+  {
+    "detail_id": "43129cf1-ff07-4cea-a0de-6f355db739ba",
+    "ccn": "231305",
+    "hospital_name": "MYMICHIGAN MEDICAL CENTER STANDISH",
+    "file_url": "https://www.mymichigan.org/app/files/public/a7d06688-3093-4e8f-a162-194e082d5bcf/381437919_mymichigan-medical-center-alma_standardcharges.csv",
+    "transparency_page": "https://www.mymichigan.org/estimates"
+  },
+  {
+    "detail_id": "c78dd0f3-a98f-419e-a257-3f34afc58ff3",
+    "ccn": "231306",
+    "hospital_name": "MACKINAC STRAITS HOSPITAL",
+    "file_url": "https://www.mackinacstraitshealth.org/wp-content/uploads/2025/11/MSHS-Charge-Master-Pricing-Oct-2025.csv",
+    "transparency_page": "https://www.mackinacstraitshealth.org/about/"
+  },
+  {
+    "detail_id": "dbe03894-9a91-4f28-9d11-463cd168d9a3",
+    "ccn": "231307",
+    "hospital_name": "BARAGA COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://bcmh.org/wp-content/uploads/2025/02/382892565_baraga-county-memorial-hospital_standardcharges-1.csv",
+    "transparency_page": "https://bcmh.org/patients-visitors/bcmh-hospital-charge-information/"
+  },
+  {
+    "detail_id": "58886c79-c67d-445e-aeb1-74fc8f243c83",
+    "ccn": "231311",
+    "hospital_name": "DECKERVILLE COMMUNITY HOSPITAL",
+    "file_url": "https://aspirerhs.org/wp-content/uploads/2024/07/381415390_deckerville-community-hospital_standardcharges.csv",
+    "transparency_page": "https://aspirerhs.org/billing/"
+  },
+  {
+    "detail_id": "7dfade08-da04-4f9f-ad88-de0472d5de58",
+    "ccn": "231312",
+    "hospital_name": "SHERIDAN COMMUNITY HOSPITAL",
+    "file_url": "https://sheridanhospital.com/wp-content/uploads/2025/08/381369796_sheridan-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sheridanhospital.com/patient-portal/"
+  },
+  {
+    "detail_id": "325c19e6-a009-441a-8b33-92dc3e625853",
+    "ccn": "231313",
+    "hospital_name": "HARBOR BEACH COMMUNITY HOSPITAL",
+    "file_url": "https://www.hbch.org/_files/ugd/d9491d_bc9a587897d94447a63e6700092eba5f.csv?dn=381565680_harbor-beach-community-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://www.hbch.org/financial-assistance"
+  },
+  {
+    "detail_id": "2dd335db-88f7-4b04-8ce4-2fb0c69e648a",
+    "ccn": "231314",
+    "hospital_name": "MCKENZIE MEMORIAL HOSPITAL",
+    "file_url": "https://www.mckenziehealth.org/documents/content/standard%20charges/381738615_McKenzie-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.mckenziehealth.org/patients-visitors/billing-insurance/"
+  },
+  {
+    "detail_id": "40153b5b-6509-47c5-8d65-8f9fed82c757",
+    "ccn": "231315",
+    "hospital_name": "BEACON DOWAGIAC",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/590634434_sacred-heart-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "ebf62e82-7e11-403b-a89c-3479f9580298",
+    "ccn": "231316",
+    "hospital_name": "HILLS & DALES GENERAL HOSPITAL",
+    "file_url": "https://aspirerhs.org/wp-content/uploads/2024/07/381415390_deckerville-community-hospital_standardcharges.csv",
+    "transparency_page": "https://aspirerhs.org/billing/"
+  },
+  {
+    "detail_id": "f2012a6b-7dde-471a-8859-e823fb627d79",
+    "ccn": "231318",
+    "hospital_name": "ASPIRUS IRON RIVER HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/383236977_aspirus-iron-river-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "d1c4ae0f-7479-4131-a3ea-8400f4722595",
+    "ccn": "231319",
+    "hospital_name": "ASPIRUS KEWEENAW HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/381443361_aspirus-keweenaw-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "a8d9dcf3-204e-4e87-b06c-9aabe95ef78b",
+    "ccn": "231320",
+    "hospital_name": "TRINITY HEALTH SHELBY HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mercyhealthlakeshore",
+    "transparency_page": "https://www.trinityhealthmichigan.org/tools-and-resources/billing-and-insurance/our-prices"
+  },
+  {
+    "detail_id": "04ebd57e-f321-4843-98e9-2666e34606d5",
+    "ccn": "231321",
+    "hospital_name": "UP HEALTH SYSTEM - BELL",
+    "file_url": "https://www.uphealthsystem.com/docs/ahuphealthsystemlibraries/hcl/mrf2q25/800935981_bell-hospital_standardcharges.csv",
+    "transparency_page": "https://www.uphealthsystem.com/hospital-charge-listings"
+  },
+  {
+    "detail_id": "2c0902f8-fac7-4938-bbd0-4737359427fa",
+    "ccn": "231322",
+    "hospital_name": "MUNSON HEALTHCARE CHARLEVOIX HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8131/381459366_munson-healthcare-charlevoix-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/munsonhealthcarecharlevoixhospital/8131"
+  },
+  {
+    "detail_id": "53ff140c-110f-4b6d-b3fb-a4707aa5f4f0",
+    "ccn": "231323",
+    "hospital_name": "COREWELL HEALTH REED CITY CAMPUS",
+    "address": "300 N PATTERSON, PO BOX 75",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltf7f92c1fd54091de/6777fd8205ab072a132c66e0/382770076_reed-city-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "d1b6b5d4-8de7-4df9-a350-03ec03e6f28d",
+    "ccn": "231324",
+    "hospital_name": "EATON RAPIDS MEDICAL CENTER",
+    "file_url": "https://eatonrapidsmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/381559180_eaton-rapids-medical-center_standardcharges.csv",
+    "transparency_page": "https://eatonrapidsmedicalcenter.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "4fca2df5-21d5-4733-b55a-67e0e35e122c",
+    "ccn": "231326",
+    "hospital_name": "SPARROW CLINTON HOSPITAL",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-01/um-health-sparrow-clinton-machine-readable-file-01-27-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "1b08daaa-9242-461a-a626-740b3bda4b43",
+    "ccn": "231327",
+    "hospital_name": "SPARROW EATON HOSPITAL",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-01/um-health-sparrow-eaton-machine-readable-file-01-27-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "66866884-b7bb-48f7-8e1b-4a6c386a7318",
+    "ccn": "231328",
+    "hospital_name": "BEACON ALLEGAN",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/590634434_sacred-heart-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "477cde00-9335-487e-9a1e-27fc25c20064",
+    "ccn": "231329",
+    "hospital_name": "MCLAREN CARO REGION",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-3426063_McLarenCaroCommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "94eb1d03-8027-47bd-bdbe-ad9d9dbbff0d",
+    "ccn": "231330",
+    "hospital_name": "MARLETTE REGIONAL HOSPITAL",
+    "file_url": "https://aspirerhs.org/wp-content/uploads/2024/07/381415390_deckerville-community-hospital_standardcharges.csv",
+    "transparency_page": "https://aspirerhs.org/billing/"
+  },
+  {
+    "detail_id": "b979b736-c202-435b-8990-9df0c2b2dcd5",
+    "ccn": "231332",
+    "hospital_name": "BRONSON LAKEVIEW HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/bronson-lakeview/381359218_bronson-lakeview-hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/bronson-lakeview/charges"
+  },
+  {
+    "detail_id": "be17bc44-1f7c-48b4-8c22-78dd972d2560",
+    "ccn": "231333",
+    "hospital_name": "ASPIRUS IRONWOOD HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/382908586_aspirus-ironwood-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "6ff79b53-7d7e-4738-9a87-c7c4ce702bc3",
+    "ccn": "231337",
+    "hospital_name": "OSF ST FRANCIS HOSPITAL & MEDICAL GROUP",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/381359528_osf-st-francis-hospital_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "a940104d-ba9b-4cc2-89a1-df3c9e4e31ae",
+    "ccn": "231338",
+    "hospital_name": "COREWELL HEALTH GERBER MEMORIAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/blta442917a44aa3e5e/6777fd81eed8531ded93c293/381359517_newaygo-county-general-hospital-association_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "bdc48bfd-ce24-4fa1-a4ca-31cb49d2e440",
+    "ccn": "231339",
+    "hospital_name": "COREWELL HEALTH PENNOCK HOSPITAL",
+    "file_url": "https://assets.contentstack.io/v3/assets/blt3055f692fe7bf193/bltcefbb76591f05359/6777fd81f3e7d93b7a866ec2/381360562_pennock-hospital_standardcharges.csv",
+    "transparency_page": "https://corewellhealth.org/billing/price-estimates"
+  },
+  {
+    "detail_id": "4d830b57-8b49-4273-a1f1-2fc46de1a98d",
+    "ccn": "231340",
+    "hospital_name": "MCLAREN THUMB REGION",
+    "file_url": "https://www.mclaren.org/Uploads/Public/Documents/corporate/ChargeMasterFile/2025/38-1474929_McLarenThumbRegion_standardcharges.csv",
+    "transparency_page": "https://www.mclaren.org/main/mclaren-charge-master-files"
+  },
+  {
+    "detail_id": "b7ac5a48-4b70-4dbe-8db6-0e2d7b72d750",
+    "ccn": "231519",
+    "hospital_name": "E.W. SPARROW HOSPITAL -ST LAWRENCE",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-06/um-health-sparrow-lansing-machine-readable-file-06-26-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "9f2024de-a52b-4fcf-83e5-9ee8adef8de6",
+    "ccn": "232012",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - FLINT",
+    "address": "401 S BALLENGER, 5TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-3329100_Select_Specialty_Hospital-Flint_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "9b84ef2e-c2e0-4c78-bb5e-ed71ec81192e",
+    "ccn": "232019",
+    "hospital_name": "VIBRA HOSPITAL OF SOUTHEASTERN MI - TAYLOR CAMPUS",
+    "file_url": "https://vhsemichigan.com/wp-content/uploads/sites/36/2025/09/261789242_vibra-hospital-of-SE-Michigan_standardcharges.csv",
+    "transparency_page": "https://vhsemichigan.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "ab7ce9ef-07fd-4682-bcae-d0694424d241",
+    "ccn": "232023",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - MACOMB COUNTY",
+    "address": "215 NORTH AVE, SUITE 200",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-3345654_Select_Specialty_Hospital-Macomb_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "13430fde-8179-4c70-9a37-4dbdfdfb6476",
+    "ccn": "232024",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - ANN ARBOR",
+    "address": "5301 E HURON RIVER DR, 7TH FL",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-3389548_Select_Specialty_Hospital-Ann_Arbor_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "5d7d4a18-6b29-47b3-ab61-eb0fd4d743fd",
+    "ccn": "232029",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - COREWELL HEALTH GRAND RAPIDS",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-4031103_Select_Specialty_Hospital-Spectrum_Health_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "35e7028d-424e-4d07-a515-4453f14509cd",
+    "ccn": "232031",
+    "hospital_name": "SELECT SPECIALTY HOSPITALS - DOWNRIVER",
+    "address": "2333 BIDDLE AVE, 8TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/26-3231685_Select_Specialty_Hospital-Downriver_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "7059a1b9-5b1b-4273-b3f5-8ebeb809612a",
+    "ccn": "232032",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - NORTHWEST DETROIT",
+    "address": "6071 WEST OUTER DRIVE, 7TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/26-3231685_Select_Specialty_Hospital-Northwest_Detroit_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "cc3ce20e-8d6a-419e-9fba-bf22a4e72508",
+    "ccn": "232033",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - SAGINAW",
+    "address": "1447 N HARRISON, 7TH & 8TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1890958_Select_Specialty_Hospital-Saginaw_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "39fd4af8-0c49-4a70-89fb-98eafa5ea11f",
+    "ccn": "232034",
+    "hospital_name": "BEACON PLAINWELL",
+    "file_url": "https://www.beaconhealthsystem.org/wp-content/uploads/2025/06/381360526_ascension-borgess-hospital-pipp_standardchargescsv-1.csv",
+    "transparency_page": "https://www.beaconhealthsystem.org/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "89dc6b82-8169-4395-8566-bcb36fe99286",
+    "ccn": "232035",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - BATTLE CREEK",
+    "address": "300 NORTH AVENUE, 6TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/75-1962822_Select_Specialty_Hospital-Battle_Creek_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "d2e68610-6127-468c-b208-9dff69149ccd",
+    "ccn": "232037",
+    "hospital_name": "SPARROW SPECIALTY HOSPITAL",
+    "address": "1215 E MICHIGAN AVENUE, 8W",
+    "file_url": "https://www.uofmhealthsparrow.org/sites/default/files/2025-05/um-health-sparrow-specialty-machine-readable-file-05-23-2025.csv",
+    "transparency_page": "https://www.uofmhealthsparrow.org/patient-resources/financial-resources/standard-charges"
+  },
+  {
+    "detail_id": "dfd945e9-0392-4348-af45-ebf8e61aa7dd",
+    "ccn": "232038",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - GROSSE POINTE",
+    "address": "22101 MOROSS ROAD, 6TH FLOOR DETROIT",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/38-3345654_Select_Specialty_Hospital-Grosse_Pointe_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "105b1103-1d5e-4e54-8c5d-bfd5d572bbc0",
+    "ccn": "232039",
+    "hospital_name": "PIONEER SPECIALTY HOSPITAL - PONTIAC",
+    "address": "50 NORTH PERRY, 6TH FLOOR",
+    "file_url": "https://www.pioneerspecialtyhospital.com/mrf_pioneer_pt",
+    "transparency_page": "https://www.pioneerspecialtyhospital.com/pricetransparency"
+  },
+  {
+    "detail_id": "2856dcfd-1c3d-4d33-86b0-ab8d7c3f0428",
+    "ccn": "233027",
+    "hospital_name": "REHABILITATION INSTITUTE OF MICHIGAN",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/473740774_RIMRehabilitationInstituteofMichigan_standardcharges.json",
+    "transparency_page": "https://www.rimrehab.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "752e47de-e173-442c-a0e5-dbd0e177378e",
+    "ccn": "233300",
+    "hospital_name": "CHILDREN'S HOSPITAL OF MICHIGAN",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272845064_ChildrensHospitalofMichiganDMC_standardcharges.json",
+    "transparency_page": "https://www.childrensdmc.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "0123ee78-a361-4be1-9867-05d697b60da3",
+    "ccn": "234006",
+    "hospital_name": "PINE REST CHRISTIAN MENTAL HEALTH SERVICES",
+    "file_url": "https://www.pinerest.org/media/Pine-Rest-2025-Standard-Hospital-Charges.csv",
+    "transparency_page": "https://www.pinerest.org/patients/price-estimates-standard-charges/"
+  },
+  {
+    "detail_id": "40080fbb-1081-41b5-a805-d06cc7c1e987",
+    "ccn": "234021",
+    "hospital_name": "HARBOR OAKS HOSPITAL",
+    "file_url": "https://www.harboroaks.com/wp-content/uploads/pricing/2025/192/04-3232990_PHC-of-Michigan-LLC_standardcharges.csv",
+    "transparency_page": "https://www.harboroaks.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "d96c4785-c5c7-43cd-9110-8ac6595c79a2",
+    "ccn": "234023",
+    "hospital_name": "HAVENWYCK HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/382409580_havenwyck_standardcharges.csv",
+    "transparency_page": "https://havenwyckhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "a19f59ca-a543-4494-93bf-6b491d1bf752",
+    "ccn": "234030",
+    "hospital_name": "FOREST VIEW HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232285657_forest-view_standardcharges.csv",
+    "transparency_page": "https://forestviewhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "8754d2a0-3243-4693-94cc-cdcf9ef0705a",
+    "ccn": "234038",
+    "hospital_name": "STONECREST CENTER",
+    "file_url": "https://www.stonecrestcenter.com/wp-content/uploads/pricing/2025/224/26-3333652_BCA-of-Detroit-LLC_standardcharges.csv",
+    "transparency_page": "https://www.stonecrestcenter.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "de5eaea1-a6f0-4807-97b5-2e05011fb99b",
+    "ccn": "234042",
+    "hospital_name": "BEHAVIORAL CENTER OF MICHIGAN",
+    "file_url": "https://www.behavioralcenter.com/wp-content/uploads/2025/12/383473188_the-behavioral-center-of-michigan_standardcharges.csv",
+    "transparency_page": "https://www.behavioralcenter.com/behavioral-center-of-michigan-rates-pricing/"
+  },
+  {
+    "detail_id": "e0ab91b0-fcae-4b7b-9170-4454e7316661",
+    "ccn": "234043",
+    "hospital_name": "CEDAR CREEK HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/382409580_cedar-creek_standardcharges.csv",
+    "transparency_page": "https://cedarcreekhospital.com/standard-services/"
+  }
+]

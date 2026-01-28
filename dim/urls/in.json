@@ -1,0 +1,894 @@
+[
+  {
+    "detail_id": "cdc784d0-c2eb-4fe4-8a60-5697db5123dd",
+    "ccn": "005054",
+    "hospital_name": "RIVERVIEW HEALTH NOBLESVILLE HOSPITAL",
+    "file_url": "https://www.riverview.org/sites/default/files/2025-09/25-005054-1_riverview-health_standardcharges.csv",
+    "transparency_page": "https://www.riverview.org/cost-estimates"
+  },
+  {
+    "detail_id": "b2cce43d-4ee4-4e87-80fd-b36460a0a9c6",
+    "ccn": "150001",
+    "hospital_name": "JOHNSON MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Johnson_V3.aspx",
+    "transparency_page": "https://johnsonmemorial.org/"
+  },
+  {
+    "detail_id": "9e17448c-cd2e-4221-94be-3973f4966f46",
+    "ccn": "150002",
+    "hospital_name": "METHODIST HOSPITALS NORTHLAKE CAMPUS",
+    "file_url": "https://methodisthospitals.org/wp-content/uploads/2025/02/35-0868133_The-Methodist-Hospitals-Inc_standardcharges.csv",
+    "transparency_page": "https://methodisthospitals.org/insurance-financial-info/methodist-hospitals-price-transparency/"
+  },
+  {
+    "detail_id": "5aee0030-7cde-4a70-b7f3-d427f601a5c9",
+    "ccn": "150005",
+    "hospital_name": "HENDRICKS REGIONAL HEALTH",
+    "file_url": "https://www.hendricks.org/upload/docs/Billing/351361243_hendricks-regional-health_standardcharges.csv",
+    "transparency_page": "https://www.hendricks.org/about/pricing"
+  },
+  {
+    "detail_id": "73c0bc01-789d-4772-a5cd-db7f1861d0f7",
+    "ccn": "150007",
+    "hospital_name": "COMMUNITY HOWARD REGIONAL HEALTH",
+    "file_url": "https://media.ecommunity.com/PricingTransparency/Community_Howard_Regional_Health.csv",
+    "transparency_page": "https://www.ecommunity.com/central-pricing-office/list-of-standard-charges"
+  },
+  {
+    "detail_id": "74982e87-9113-4050-8106-2842c596b0db",
+    "ccn": "150008",
+    "hospital_name": "ST CATHERINE HOSPITAL",
+    "file_url": "https://www.powershealth.org/-/media/files/pricetransparency/351738708_st-catherine-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.powershealth.org/patients-and-visitors/patient-resources/standard-charges"
+  },
+  {
+    "detail_id": "51494b23-fa7a-41cd-94b8-00b02ca61002",
+    "ccn": "150010",
+    "hospital_name": "ASCENSION ST. VINCENT KOKOMO",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350992717_st-joseph-hospital-and-health-center-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "01f3eabb-d976-45de-a5df-e248fa1a7b2a",
+    "ccn": "150011",
+    "hospital_name": "MARION GENERAL HOSPITAL",
+    "file_url": "https://pricetransparency-cdn.azureedge.net/marion/35-0868130_Marion-General-Hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/marion"
+  },
+  {
+    "detail_id": "9575eb15-9833-4031-98a9-8a3eb87cdc3f",
+    "ccn": "150012",
+    "hospital_name": "MISHAWAKA MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/mishawakamedicalcenter",
+    "transparency_page": "https://www.sjmed.com/patients-visitors/billing-and-assistance/request-price-estimate"
+  },
+  {
+    "detail_id": "fa676a49-0382-4654-8913-7e250d122cb1",
+    "ccn": "150017",
+    "hospital_name": "LUTHERAN HOSPITAL",
+    "file_url": "https://www.lutheranhospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/351963748_lutheran-hospital_standardcharges.csv",
+    "transparency_page": "https://www.lutheranhospital.com/pricing-information"
+  },
+  {
+    "detail_id": "34c0cff9-b827-4dd1-b6d5-7b8dbc2f95a8",
+    "ccn": "150018",
+    "hospital_name": "ELKHART GENERAL HOSPITAL",
+    "file_url": "https://www.beaconhealthsystem.org/wp-content/uploads/2025/08/350877574_Elkhart-General-Hospital_standardcharges.xlsx",
+    "transparency_page": "https://www.beaconhealthsystem.org/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "1c860e33-8e50-4d23-a609-96c36e4edb51",
+    "ccn": "150021",
+    "hospital_name": "PARKVIEW REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/350868085_parkview-regional-medical-center_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "81eb1d77-03e4-418b-83de-0288aa9f8600",
+    "ccn": "150023",
+    "hospital_name": "UNION HOSPITAL",
+    "file_url": "https://www.union.health/350876396_Union-Hospital-Terre-Haute_standardcharges.csv",
+    "transparency_page": "https://www.union.health/standard-charge-listing"
+  },
+  {
+    "detail_id": "8f61b693-2645-4ce1-a567-55fd7a901e5a",
+    "ccn": "150026",
+    "hospital_name": "GOSHEN HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/goshen/35-1974765_Goshen-Health-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/goshen?"
+  },
+  {
+    "detail_id": "2e272c34-ce8e-4118-8c8b-3f58410adb93",
+    "ccn": "150030",
+    "hospital_name": "HENRY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHenryCounty&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Henry_V2.aspx"
+  },
+  {
+    "detail_id": "6ac271f4-0875-44ef-8b31-92efd4a7b6d0",
+    "ccn": "150034",
+    "hospital_name": "ST MARY MEDICAL CENTER",
+    "file_url": "https://www.powershealth.org/-/media/files/pricetransparency/352007327_st-mary-medical-center_standardcharges.ashx",
+    "transparency_page": "https://www.powershealth.org/patients-and-visitors/patient-resources/standard-charges"
+  },
+  {
+    "detail_id": "d4bac985-0096-498b-aa12-f3224dce7d4f",
+    "ccn": "150037",
+    "hospital_name": "HANCOCK REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHancockRegional&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hancock_V3.aspx"
+  },
+  {
+    "detail_id": "12d82a75-f93c-45af-a942-df1efbdc1e62",
+    "ccn": "150042",
+    "hospital_name": "GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://www.gshvin.org/documents/content/356001532_GoodSamaritan_standardcharges.csv",
+    "transparency_page": "https://www.gshvin.org/patients-visitors/insurance-billing-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "1eaac56b-8316-48e6-aca1-fcafe61f9e1e",
+    "ccn": "150044",
+    "hospital_name": "BAPTIST HEALTH FLOYD",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFloydMemNewAlbanyIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.baptisthealth.com/locations/baptist-health-floyd/about/price-transparency"
+  },
+  {
+    "detail_id": "436b22ef-4325-491f-8da0-02be3af1c290",
+    "ccn": "150045",
+    "hospital_name": "PARKVIEW DEKALB HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/351064295_parkview-dekalb-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "144bbc54-531e-49cb-9c01-650a83cb5eb4",
+    "ccn": "150046",
+    "hospital_name": "TERRE HAUTE REGIONAL HOSPITAL",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/35-1461805_terre-haute-regional-hospital_standardcharges.json",
+    "transparency_page": "https://regionalhospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "d9a0d4b3-72a1-4686-bb82-9fa492fb1841",
+    "ccn": "150047",
+    "hospital_name": "LUTHERAN DOWNTOWN HOSPITAL",
+    "file_url": "https://www.lutherandowntownhospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/510382045_lutheran-downtown-hospital_standardcharges.csv",
+    "transparency_page": "https://www.lutherandowntownhospital.com/pricing-information"
+  },
+  {
+    "detail_id": "7b9a82f7-0991-4ba6-a6be-45c75fb6dc40",
+    "ccn": "150048",
+    "hospital_name": "REID HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7847/350892672_reid-health_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/reidhospital/7847"
+  },
+  {
+    "detail_id": "d483ce29-57e5-4fb9-9e83-096bb5cfdf8d",
+    "ccn": "150051",
+    "hospital_name": "IU HEALTH BLOOMINGTON HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/351720796_indiana-university-health-bloomington-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "9c090f28-0589-4856-9946-613657a3d199",
+    "ccn": "150056",
+    "hospital_name": "IU HEALTH METHODIST HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/351955872_indiana-university-health-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "bb99c782-29fe-4bfd-87b1-6d14e42b3975",
+    "ccn": "150056",
+    "hospital_name": "IU HEALTH UNIVERSITY HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/351955872_indiana-university-health-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "158b9a10-88ab-43bb-a4e7-27ce32e7b3ed",
+    "ccn": "150058",
+    "hospital_name": "MEMORIAL HOSPITAL OF SOUTH BEND",
+    "file_url": "https://www.beaconhealthsystem.org/wp-content/uploads/2025/08/350868132_Memorial-Hospital-of-South-Bend_standardcharges.xlsx",
+    "transparency_page": "https://www.beaconhealthsystem.org/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "4f02019e-8e90-4b9f-98f8-12d5fc7b7962",
+    "ccn": "150061",
+    "hospital_name": "DAVIESS COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbDCHWASHINGTONIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Daviess_V2.aspx"
+  },
+  {
+    "detail_id": "0c6e591b-280c-4a68-a2c9-800d41d5501e",
+    "ccn": "150064",
+    "hospital_name": "REID HEALTH CONNERSVILLE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7847/350892672_reid-health_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/reidhospital/7847"
+  },
+  {
+    "detail_id": "0078b539-57e8-428b-bcbf-f762a308dad0",
+    "ccn": "150065",
+    "hospital_name": "SCHNECK MEDICAL CENTER",
+    "file_url": "https://d188lfxfyq6i9j.cloudfront.net/general-uploads/PDF-Assets/35-1163135_Jackson-County-Schneck-Memorial-Hospital_standardcharges-3.csv",
+    "transparency_page": "https://www.schneckmed.org/patients-visitors/patient-information/billing-insurance#price-transparency---chargemaster"
+  },
+  {
+    "detail_id": "aca81fb4-dda6-4b9c-a8b6-4502d1c1a255",
+    "ccn": "150072",
+    "hospital_name": "LOGANSPORT MEMORIAL HOSPITAL",
+    "file_url": "https://www.logansportmemorial.org/wp-content/uploads/356001853_memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.logansportmemorial.org/price-transparency"
+  },
+  {
+    "detail_id": "b24c0582-2be3-48e3-958c-85fc09de4874",
+    "ccn": "150075",
+    "hospital_name": "BLUFFTON REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.blufftonregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621792272_bluffton-regional-medical-center_standardcharges.csv",
+    "transparency_page": "http://www.blufftonregional.com/bluffton-regional-medical-center/pricing-information"
+  },
+  {
+    "detail_id": "0ce23897-d30b-479a-bf45-3158493c9345",
+    "ccn": "150076",
+    "hospital_name": "PLYMOUTH MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/plymouthmedicalcenter",
+    "transparency_page": "https://www.sjmed.com/patients-visitors/billing-and-assistance/request-price-estimate#MRF"
+  },
+  {
+    "detail_id": "96771208-db10-4cf1-8779-6bae66e73e36",
+    "ccn": "150084",
+    "hospital_name": "ASCENSION ST. VINCENT HOSPITAL - INDIANAPOLIS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350869066_st-vincent-hospital-and-health-care-center-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "edf276a6-5619-4082-95d5-5c22ef6baa0d",
+    "ccn": "150088",
+    "hospital_name": "ASCENSION ST. VINCENT ANDERSON",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/460877261_st-vincent-anderson-regional-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "71406728-5ff4-48b4-b428-a7f6278bd563",
+    "ccn": "150089",
+    "hospital_name": "IU HEALTH BALL MEMORIAL HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/350867958_indiana-university-health-ball-memorial-hospital-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "a9893857-f896-4c2d-b63e-8842de8fe58a",
+    "ccn": "150091",
+    "hospital_name": "PARKVIEW HUNTINGTON HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/351970706_parkview-huntington-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "a5f6d92d-a45d-4858-8457-dd5b8d13512e",
+    "ccn": "150097",
+    "hospital_name": "MHP MAJOR HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMajor&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Major_V2.aspx"
+  },
+  {
+    "detail_id": "622cb6ab-f5b1-478a-97f3-37d5201816ba",
+    "ccn": "150101",
+    "hospital_name": "PARKVIEW WHITLEY HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/351967665_parkview-whitley-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "afe1d67e-7df7-459e-91f2-eef129d75211",
+    "ccn": "150104",
+    "hospital_name": "WITHAM HEALTH SERVICES",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWithamHospital&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Witham_V2.aspx"
+  },
+  {
+    "detail_id": "5ffe5d07-a08f-41a7-9a6e-e3781c5e8128",
+    "ccn": "150112",
+    "hospital_name": "COLUMBUS REGIONAL HEALTH",
+    "file_url": "https://www.crh.org/docs/default-source/standard-charges/351129669_columbus_regional_hospital_standardcharges.csv?sfvrsn=2fa739a1_1",
+    "transparency_page": "https://www.crh.org/online-services/price-estimate"
+  },
+  {
+    "detail_id": "0f810a44-7bbd-47eb-96b2-937ae6ba139d",
+    "ccn": "150113",
+    "hospital_name": "COMMUNITY HOSPITAL ANDERSON",
+    "file_url": "https://media.ecommunity.com/PricingTransparency/Community_Hospital_Anderson.csv",
+    "transparency_page": "https://www.ecommunity.com/central-pricing-office/list-of-standard-charges"
+  },
+  {
+    "detail_id": "596cd664-8a91-4e41-8786-f5e2d72a5bb6",
+    "ccn": "150115",
+    "hospital_name": "MEMORIAL HOSPITAL AND HEALTH CARE CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12036/350985964_little-company-of-mary-hospital-of-indiana-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/deaconessmemorialhospitalandhealthcenter/12036"
+  },
+  {
+    "detail_id": "3c3dad05-396a-4848-a100-4ec3a123b0e4",
+    "ccn": "150125",
+    "hospital_name": "COMMUNITY HOSPITAL",
+    "file_url": "https://www.powershealth.org/-/media/files/pricetransparency/351107009_community-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.powershealth.org/patients-and-visitors/patient-resources/standard-charges"
+  },
+  {
+    "detail_id": "5af70d8a-1037-43c5-bcc5-df0c333c0dd2",
+    "ccn": "150128",
+    "hospital_name": "COMMUNITY HOSPITAL SOUTH",
+    "file_url": "https://media.ecommunity.com/PricingTransparency/Community_Hospital_South.csv",
+    "transparency_page": "https://www.ecommunity.com/central-pricing-office/list-of-standard-charges"
+  },
+  {
+    "detail_id": "e1db8e6c-a6ce-4b56-8c1c-294788bdaca0",
+    "ccn": "150132",
+    "hospital_name": "METHODIST HOSPITALS SOUTHLAKE",
+    "file_url": "https://methodisthospitals.org/wp-content/uploads/2025/02/35-0868133_The-Methodist-Hospitals-Inc_standardcharges.csv",
+    "transparency_page": "https://methodisthospitals.org/insurance-financial-info/methodist-hospitals-price-transparency/"
+  },
+  {
+    "detail_id": "89e303f1-78f2-4414-8aff-f0e2bb457817",
+    "ccn": "150133",
+    "hospital_name": "LUTHERAN KOSCIUSKO HOSPITAL",
+    "file_url": "https://www.lutherankosciuskohospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621764613_lutheran-kosciusko-hospital_standardcharges.csv",
+    "transparency_page": "https://www.lutherankosciuskohospital.com/pricing-information"
+  },
+  {
+    "detail_id": "0eaaa9ae-c6bb-4102-829c-8cb2bc1116b9",
+    "ccn": "150136",
+    "hospital_name": "ASCENSION ST. VINCENT WOMEN AND INFANTS HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350869066_st-vincent-hospital-and-health-care-center-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "5b5c62b1-58bc-4d97-b059-e159cbf9adff",
+    "ccn": "150146",
+    "hospital_name": "PARKVIEW NOBLE HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/352087092_parkview-noble-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "b760fa9f-ce83-4ca8-8af1-149e482ece25",
+    "ccn": "150149",
+    "hospital_name": "THE WOMEN'S HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8113/352062016_deaconess-health-system-the-womens-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/thewomenshospitaldeaconess/8113"
+  },
+  {
+    "detail_id": "1fd079b1-908b-47de-bb3b-270e3d24b800",
+    "ccn": "150150",
+    "hospital_name": "DUPONT HOSPITAL",
+    "file_url": "https://www.theduponthospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621801445_dupont-hospital_standardcharges.csv",
+    "transparency_page": "https://www.theduponthospital.com/pricing-information"
+  },
+  {
+    "detail_id": "c6fcd31b-55f4-4e1f-bc5c-ba220b6b75d2",
+    "ccn": "150157",
+    "hospital_name": "ASCENSION ST. VINCENT CARMEL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/743107055_st-vincent-carmel-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "a16d9db8-15ef-4afa-852d-c6b023ed7879",
+    "ccn": "150161",
+    "hospital_name": "IU HEALTH NORTH HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/351932442_indiana-university-health-north-hospital-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "0c032df4-f2ee-4bf5-9005-665d4b944aae",
+    "ccn": "150167",
+    "hospital_name": "PARKVIEW ORTHO HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/260143823_parkview-ortho-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "78be0e9c-e461-49ce-bcfd-b78243edb671",
+    "ccn": "150168",
+    "hospital_name": "THE ORTHOPAEDIC HOSPITAL OF LUTHERAN HEALTH NETWORK",
+    "file_url": "https://www.theorthohospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/261483076_the-orthopedic-hospital_standardcharges.csv",
+    "transparency_page": "https://www.theorthohospital.com/pricing-information"
+  },
+  {
+    "detail_id": "c9a9b0a3-b1b5-4293-9a57-a37e7123aac3",
+    "ccn": "150172",
+    "hospital_name": "PMC REGIONAL HOSPITAL",
+    "file_url": "https://clariti-health.com/csp/clariti/QuotableService.csp?orgKey=4345WE",
+    "transparency_page": "https://pmcregionalhospital.com/"
+  },
+  {
+    "detail_id": "6226d458-1dbc-4508-bbf5-bc0275caef6d",
+    "ccn": "150173",
+    "hospital_name": "IU HEALTH ARNETT HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/263162145_indiana-university-health-arnett-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "988aeda4-6d9c-4e75-b8aa-554323ef8d30",
+    "ccn": "150177",
+    "hospital_name": "UNITY PHYSICIANS HOSPITAL",
+    "file_url": "https://clariti-health.com/csp/clariti/QuotableService.csp?orgKey=2899VC",
+    "transparency_page": "https://www.unityphysicianshospital.com/patients-and-visitors/financial-services/"
+  },
+  {
+    "detail_id": "24a512b4-6758-4cff-959b-210d8515388b",
+    "ccn": "150179",
+    "hospital_name": "COMMUNITY FAIRBANKS RECOVERY CENTER",
+    "file_url": "https://media.ecommunity.com/PricingTransparency/Community_Hospital_Fairbanks.csv",
+    "transparency_page": "https://www.ecommunity.com/central-pricing-office/list-of-standard-charges"
+  },
+  {
+    "detail_id": "5eeb1953-a7fd-48f7-9f90-dff1a802b919",
+    "ccn": "150181",
+    "hospital_name": "ASCENSION ST. VINCENT FISHERS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/454243702_st-vincent-fishers-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "5a9739e7-2f2a-4da2-bea1-0c3b020f7a19",
+    "ccn": "150183",
+    "hospital_name": "MONROE HOSPITAL",
+    "file_url": "https://monroehospital.com/wp-content/uploads/2024/12/472105584_MonroeHospital_standardcharges.json",
+    "transparency_page": "https://monroehospital.com/patients-guests/financial-assistance/"
+  },
+  {
+    "detail_id": "a2527b63-cd94-40f9-a0f4-0faf620cde45",
+    "ccn": "150195",
+    "hospital_name": "UCHICAGO MEDICINE CROWN POINT",
+    "file_url": "https://edge.sitecorecloud.io/unichicagomc-81nbqnb3/media/files/pricing-transparency/922355855_uchicago-medicine-crown-point_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicine.org/patients-visitors/patient-information/billing/price-transparency"
+  },
+  {
+    "detail_id": "6bdc855d-64a5-4eb5-9b05-0f19ae25eab7",
+    "ccn": "151300",
+    "hospital_name": "COMMUNITY HOSPITAL OF BREMEN",
+    "file_url": "https://www.beaconhealthsystem.org/wp-content/uploads/2024/12/350835006_Community-Hospital-of-Bremen_standardcharges.csv",
+    "transparency_page": "https://www.beaconhealthsystem.org/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "c2747702-437f-4926-80b2-2b0d4d0987f0",
+    "ccn": "151301",
+    "hospital_name": "ASCENSION ST. VINCENT RANDOLPH",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/352103153_st-vincent-randolph-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "d544d7c3-73e1-4938-a52e-3fc07eaf0b32",
+    "ccn": "151303",
+    "hospital_name": "ASCENSION ST. VINCENT JENNINGS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351841606_st-vincent-jennings-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "797661cf-05ef-404c-a6e8-575a0d36172f",
+    "ccn": "151304",
+    "hospital_name": "RUSH MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRMHRUSHVILLEIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Rush_V2.aspx"
+  },
+  {
+    "detail_id": "bba0e0be-bc73-48bb-9463-93068a7399c0",
+    "ccn": "151305",
+    "hospital_name": "PULASKI MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHWINAMACIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Pulaski_V2.aspx"
+  },
+  {
+    "detail_id": "cc147c68-3917-4f72-8f82-c89c3d598349",
+    "ccn": "151307",
+    "hospital_name": "ASCENSION ST. VINCENT WILLIAMSPORT",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350784551_st-vincent-williamsport-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "30601303-ed57-4d86-b1b4-d80c110d9168",
+    "ccn": "151308",
+    "hospital_name": "ASCENSION ST. VINCENT MERCY",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350876389_st-vincent-madison-county-health-system-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "d93bb6a9-f235-4258-91e0-0e431e392272",
+    "ccn": "151309",
+    "hospital_name": "ASCENSION ST. VINCENT CLAY",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/352112529_st-vincent-clay-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "dd555b1a-e5aa-4481-8ad5-ec8a846adc28",
+    "ccn": "151310",
+    "hospital_name": "PARKVIEW WABASH HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/471753440_parkview-wabash-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "96d72af6-862d-48db-a739-ec8900148e72",
+    "ccn": "151311",
+    "hospital_name": "INDIANA UNIVERSITY HEALTH TIPTON HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/262772226_indiana-university-health-tipton-hospital-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "d3740024-87f2-42b5-9ef8-8d301fcf0513",
+    "ccn": "151312",
+    "hospital_name": "IU HEALTH WHITE MEMORIAL HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/273532963_indiana-university-health-white-memorial-hospital-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "39ba6dc8-045f-4dc9-9e90-9f5bec6359ba",
+    "ccn": "151313",
+    "hospital_name": "WOODLAWN HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWHROCHESTERIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Woodlawn_V2.aspx"
+  },
+  {
+    "detail_id": "b770d7f6-7936-4352-bc45-087edc416c44",
+    "ccn": "151314",
+    "hospital_name": "ASCENSION ST. VINCENT SALEM HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/270847538_st-vincent-salem-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "4e57277d-a678-4d80-b402-588bd35f1568",
+    "ccn": "151315",
+    "hospital_name": "CAMERON MEMORIAL COMMUNITY HOSPITAL",
+    "file_url": "https://pricetransparency.healthcare/cameron-mch/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/cameron-mch/charges/"
+  },
+  {
+    "detail_id": "65ad6ae4-ec66-440e-a934-2b137f84c65a",
+    "ccn": "151316",
+    "hospital_name": "IU HEALTH FRANKFORT HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/815174295_indiana-university-health-frankfort-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "07e8a483-e27f-4c9d-9d54-8a32f8970bf9",
+    "ccn": "151318",
+    "hospital_name": "DUKES MEMORIAL HOSPITAL",
+    "file_url": "https://www.dukesmemorialhosp.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522379885_dukes-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.dukesmemorialhosp.com/pricing-information"
+  },
+  {
+    "detail_id": "81a7e3f7-45c5-439c-8883-68f02ce612ca",
+    "ccn": "151320",
+    "hospital_name": "IU HEALTH JAY HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/822736786_indiana-university-health-jay-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "0f089d0c-900e-4429-bceb-4de05d5748d3",
+    "ccn": "151322",
+    "hospital_name": "PERRY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/24038e54-d9a2-4236-9081-ad3af29792c7/351121699_PERRY-COUNTY-MEMORIAL-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=24038e54-d9a2-4236-9081-ad3af29792c7"
+  },
+  {
+    "detail_id": "2f62e130-0b00-4cde-9a1c-e0f8f8fc54ff",
+    "ccn": "151323",
+    "hospital_name": "PARKVIEW LAGRANGE HOSPITAL",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/202401676_parkview-lagrange-hospital_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "3a8ef564-1b75-46e2-a9be-22fc8a9907fa",
+    "ccn": "151325",
+    "hospital_name": "ASCENSION ST. VINCENT WARRICK",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351343019_st-marys-warrick-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "fa12bad4-845b-43d0-bf56-cbcbeaae76db",
+    "ccn": "151326",
+    "hospital_name": "UNION HOSPITAL CLINTON",
+    "file_url": "https://www.union.health/350876396_union-hospital-clinton_standardcharges.csv",
+    "transparency_page": "https://www.union.health/standard-charge-listing"
+  },
+  {
+    "detail_id": "f662ccbb-c5d5-441b-9139-eb72b5d00cb2",
+    "ccn": "151327",
+    "hospital_name": "SULLIVAN COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSCCHSullivanIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Sullivan.aspx"
+  },
+  {
+    "detail_id": "518b08b5-a00c-40d1-99d2-662c1e5a6237",
+    "ccn": "151328",
+    "hospital_name": "IU HEALTH BEDFORD HOSPITAL",
+    "file_url": "https://cdn.iuhealth.org/resources/237042323_indiana-university-health-bedford-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "e4f41b5c-2617-4441-abf1-90c1101c0d73",
+    "ccn": "151329",
+    "hospital_name": "MARGARET MARY HEALTH",
+    "file_url": "https://www.mmhealth.org/wp-content/uploads/356067049_Margaret-Mary-Health_standardcharges.csv",
+    "transparency_page": "https://www.mmhealth.org/for-patients/bill-payment/price-transparency/"
+  },
+  {
+    "detail_id": "020a7177-a33e-4612-bd01-67b5595bdc5f",
+    "ccn": "151330",
+    "hospital_name": "ADAMS MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAMHDECATURIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AdamsMemorial.aspx"
+  },
+  {
+    "detail_id": "c86dfe89-dd49-41e9-b431-2babb8b25d68",
+    "ccn": "151333",
+    "hospital_name": "PUTNAM COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPCHGREENCASTLEIN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Putnam_V2.aspx"
+  },
+  {
+    "detail_id": "dc77bb1c-d5f1-4456-a259-e11583fb41e0",
+    "ccn": "152007",
+    "hospital_name": "KINDRED HOSPITAL INDIANAPOLIS",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=HabiPSV9AD3qxag*_*kdBJtg*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=HabiPSV9AD3qxag*_*kdBJtg*-*"
+  },
+  {
+    "detail_id": "f6488b0e-eb1b-44b6-9ada-a38166cf3c02",
+    "ccn": "152013",
+    "hospital_name": "KINDRED HOSPITAL INDIANAPOLIS NORTH",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=LevcgRwseIKoGnFQ*__*tkqzQ*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=LevcgRwseIKoGnFQ*__*tkqzQ*-*"
+  },
+  {
+    "detail_id": "75ab15d8-53df-47df-9ef5-57d18ceb6fbe",
+    "ccn": "152014",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL-EVANSVILLE",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/87-0789607_Select_Specialty_Hospital-Evansville_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/locations-and-tours/in/evansville/evansville/"
+  },
+  {
+    "detail_id": "726eb42d-b00f-420f-9267-206ab63349f4",
+    "ccn": "152020",
+    "hospital_name": "ASCENSION ST. VINCENT SETON SPECIALTY HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351712001_st-vincent-seton-specialty-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "72567552-0cc3-45ed-9b60-4f7e65deef57",
+    "ccn": "152024",
+    "hospital_name": "REGENCY HOSPITAL NORTHWEST INDIANA",
+    "address": "4321 FIR ST, 4TH FL",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/16-1647691_Regency_Hospital_of_NW_Indiana_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "5f0800cc-bd73-4c3c-9e46-7a6d1da8432c",
+    "ccn": "152025",
+    "hospital_name": "AMG SPECIALTY HOSPITAL CENTRAL INDIANA - MUNCIE",
+    "address": "2401 W UNIVERSITY AVE, 8TH FL",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/45-5219391_Central-Indiana-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "7f974ec6-77d2-4fda-85bd-2b6a5aab6c9f",
+    "ccn": "152028",
+    "hospital_name": "AMG SPECIALTY HOSPITAL NORTHWEST INDIANA",
+    "file_url": "https://amgihm.com/wp-content/uploads/2024/01/92-3639106_NW-Indiana-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "064a7ea4-f4a7-4f03-b30e-38728684ee59",
+    "ccn": "153028",
+    "hospital_name": "REHABILITATION HOSPITAL OF INDIANA INC",
+    "file_url": "https://www.rhirehab.com/media/2536/351786005_rehabilitation-hospital-of-indiana_standardcharges.zip",
+    "transparency_page": "https://www.rhirehab.com/becoming-our-patient/billing-financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "fb186121-1c5d-4ede-a876-f9440a9bd955",
+    "ccn": "153030",
+    "hospital_name": "SELECT MEDICAL REHABILITATION HOSPITAL AT LUTHERAN HOSPITAL",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/25-1684676_Select_Medical_Rehabilitation_Hospital_At_Lutheran_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.selectrehabilitationhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "c022ccfb-f6fb-47ca-9cdb-b061953f227d",
+    "ccn": "153042",
+    "hospital_name": "LAFAYETTE REGIONAL REHABILITATION HOSPITAL",
+    "file_url": "https://lrrh.ernesthealth.com/wp-content/uploads/sites/9/2024/12/454885790_Lafayette-Regional-Rehabilitation-Hospital_Standard-Charges.csv",
+    "transparency_page": "https://lrrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "653c250b-5ab1-4b96-b252-5833cecea1f7",
+    "ccn": "153043",
+    "hospital_name": "COMMUNITY REHABILITATION HOSPITAL NORTH",
+    "file_url": "https://www.communityrehabhospitalnorth.com/docs/zirfcommunityrehabilitationhospitalnorthlibraries/aug2025/453414249_community-health-network-rehabilitation-hospital-llc_standardcharges.csv",
+    "transparency_page": "https://www.communityrehabhospitalnorth.com/patient-experience/financial-assistance"
+  },
+  {
+    "detail_id": "fab2060c-ab0c-4f50-ab02-08cbe573bcd8",
+    "ccn": "153047",
+    "hospital_name": "REHABILITATION HOSPITAL OF NORTHERN INDIANA",
+    "file_url": "https://rhni.ernesthealth.com/wp-content/uploads/sites/21/2024/12/833605899_Rehabilitation-Hospital-of-Northern-Indiana_Standard-Charges.csv",
+    "transparency_page": "https://rhni.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "9a1ddae1-163d-47bb-968d-691e6fc8588e",
+    "ccn": "153522",
+    "hospital_name": "RILEY HOSPITAL FOR CHILDREN",
+    "file_url": "https://cdn.iuhealth.org/resources/351955872_indiana-university-health-inc._standardcharges.zip",
+    "transparency_page": "https://iuhealth.org/schedule-an-appointment/price-estimates/standard-charge-listing"
+  },
+  {
+    "detail_id": "69862cf8-228e-4bc5-a150-dbfca1dd47fd",
+    "ccn": "154005",
+    "hospital_name": "RIVER BEND HOSPITAL",
+    "file_url": "https://www.nchsi.com/storage/app/media/Price%20Transparency/311118357_river-bend-hospital_standardcharges.csv",
+    "transparency_page": "https://www.riverbendhospital.com/financial-information"
+  },
+  {
+    "detail_id": "5ddda718-79c1-4365-a6d4-d057e8fc7c7f",
+    "ccn": "154009",
+    "hospital_name": "HAMILTON CENTER INC",
+    "file_url": "https://www.hamiltoncenter.org/351140758_hamilton-center-inc-_standardcharges/",
+    "transparency_page": "https://www.hamiltoncenter.org/price-transparency/"
+  },
+  {
+    "detail_id": "eb06fd2a-8fb3-4b03-992f-dea572630434",
+    "ccn": "154011",
+    "hospital_name": "INCOMPASS HEALTHCARE DEARBORN",
+    "file_url": "https://incompasshc.org/wp-content/uploads/2024/12/Machine-Readable-File.xlsx",
+    "transparency_page": "https://incompasshc.org/paying-for-services/"
+  },
+  {
+    "detail_id": "eb5f4ec2-7564-4fbf-aaf2-957b9c1bdf88",
+    "ccn": "154020",
+    "hospital_name": "REGIONAL MENTAL HEALTH CENTER MERRILLVILLE",
+    "file_url": "https://www.rhs.care/wp-content/uploads/2025/09/351375696_strawhun_standardcharges.csv",
+    "transparency_page": "https://www.rhs.care/quotes-charges/"
+  },
+  {
+    "detail_id": "8685bc0a-70df-4351-b2e2-3b4bda063d1c",
+    "ccn": "154041",
+    "hospital_name": "BLOOMINGTON MEADOWS HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/351858510_bloomington-meadows_standardcharges.csv",
+    "transparency_page": "https://bloomingtonmeadows.com/standard-services/"
+  },
+  {
+    "detail_id": "948a6b99-4d25-456f-859b-e9d8d9ba056a",
+    "ccn": "154042",
+    "hospital_name": "DEACONESS CROSS POINTE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8112/350593390_deaconess-hospital,-inc._standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DeaconessInc/8112"
+  },
+  {
+    "detail_id": "ec18171d-4e6b-4585-b9f6-57dd2f8c26f8",
+    "ccn": "154047",
+    "hospital_name": "MICHIANA BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200768028_michiana_standardcharges.csv",
+    "transparency_page": "https://michianabehavioralhealth.com/standard-services/"
+  },
+  {
+    "detail_id": "40cf1504-6164-4661-bad6-51d1a57e4161",
+    "ccn": "154050",
+    "hospital_name": "NORTHEASTERN CENTER",
+    "file_url": "https://www.nec.org/wp-content/uploads/2025/05/351403134_Northeastern-Center_standardcharges.csv",
+    "transparency_page": "https://www.nec.org/about-northeastern-center/price-transparency/"
+  },
+  {
+    "detail_id": "39da16f7-0305-422f-9ba0-a1b3b3211766",
+    "ccn": "154051",
+    "hospital_name": "WELLSTONE REGIONAL HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/203062075_wellstone_standardcharges.csv",
+    "transparency_page": "https://www.wellstonehospital.com/standard-services/"
+  },
+  {
+    "detail_id": "af6712db-1a66-4bd4-882a-8618b6a6e0db",
+    "ccn": "154052",
+    "hospital_name": "PORTER-STARKE SERVICES",
+    "file_url": "https://porterstarke.org/images/2024/351330771_porter-starke-services,-inc._standardcharges.csv",
+    "transparency_page": "https://www.porterstarke.org/about-us/insurance-billing"
+  },
+  {
+    "detail_id": "bfe1ccff-6bb0-422a-b427-30250e65cb73",
+    "ccn": "154055",
+    "hospital_name": "BRENTWOOD SPRINGS",
+    "file_url": "https://brentwoodsprings.com/docs/bhbrentwoodspringslibraries/sept2025/263471636_brentwood-springs_standardcharges.csv",
+    "transparency_page": "https://brentwoodsprings.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "7137f900-b485-456e-93e3-51fc8e40bcc7",
+    "ccn": "154059",
+    "hospital_name": "SYCAMORE SPRINGS",
+    "file_url": "https://sycamorespringshealth.com/docs/bhsycamorespringslibraries/dec2025/275458146_sycamore-springs_standardcharges.csv",
+    "transparency_page": "https://sycamorespringshealth.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "4b6187b7-932c-49c4-9f73-d0b608c40019",
+    "ccn": "154060",
+    "hospital_name": "PARKVIEW BEHAVIORAL HEALTH INSTITUTE",
+    "file_url": "https://www.parkview.com/-/media/parkview-media/file/2024_12-december/350868085_parkview-regional-medical-center_standardcharges.ashx",
+    "transparency_page": "https://www.parkview.com/patients-and-visitors/billing-and-insurance/request-an-estimate"
+  },
+  {
+    "detail_id": "3f953a31-50b4-415a-b2d9-c5de597beb3c",
+    "ccn": "154063",
+    "hospital_name": "NEUROPSYCHIATRIC HOSPITAL OF INDIANAPOLIS",
+    "address": "6720 PARKDALE PLACE, STE 100",
+    "file_url": "https://www.neuropsychiatrichospitals.net/price-transparency/473943366_neuropsychiatric-hospital-of-indianapolis,-llc_standardcharges.csv",
+    "transparency_page": "https://www.neuropsychiatrichospitals.net/price-transparency"
+  },
+  {
+    "detail_id": "cfaf57a6-1f23-4732-aaa7-5a07f899076f",
+    "ccn": "154064",
+    "hospital_name": "ASSURANCE HEALTH INDIANAPOLIS",
+    "file_url": "https://assurancehealthsystem.com/37-1787739_assurance-health-indianapolis-llc__standardcharges.csv",
+    "transparency_page": "https://assurancehealthsystem.com/price-transparency/"
+  },
+  {
+    "detail_id": "b7bed6a5-2108-411c-a584-3abcf6fcdcb4",
+    "ccn": "154065",
+    "hospital_name": "NEURO BEHAVIORAL HOSPITAL",
+    "file_url": "https://www.neuropsychiatrichospitals.net/price-transparency/822569371_neurobehavioral-hospital,-llc_standardcharges.csv",
+    "transparency_page": "https://www.neuropsychiatrichospitals.net/price-transparency/"
+  },
+  {
+    "detail_id": "26b87dec-5556-40d4-b08b-e3f1369e9814",
+    "ccn": "218334",
+    "hospital_name": "FRANCISCAN HEALTH INDIANAPOLIS",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350913537_franciscan-health-indianapolis_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "2a2c4c98-8350-4cc5-a875-99f167292ab8",
+    "ccn": "218585",
+    "hospital_name": "FRANCISCAN HEALTH CRAWFORDSVILLE",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/352085495_franciscan-health-crawfordsville_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "93ce674f-5c25-4033-ab00-6b8026b54791",
+    "ccn": "218612",
+    "hospital_name": "FRANCISCAN HEALTH MUNSTER",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/352472136_franciscan-health-munster_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "ba2d9069-a25c-4016-8ed9-29baee5493be",
+    "ccn": "218622",
+    "hospital_name": "FRANCISCAN HEALTH MICHIGAN CITY",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350876394_franciscan-health-michigan-city_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "a10621e2-2abc-485f-bd08-8b7696ec4d84",
+    "ccn": "218631",
+    "hospital_name": "FRANCISCAN HEALTH CROWN POINT",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/352074283_franciscan-health-crown-point_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "026a22d9-a7ef-4813-a232-1e0aacddc1e4",
+    "ccn": "219461",
+    "hospital_name": "FRANCISCAN HEALTH DYER",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/351835133_franciscan-health-dyer_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "25c61560-79b1-45dc-91b3-42ee8d2f71f6",
+    "ccn": "220030",
+    "hospital_name": "FRANCISCAN HEALTH MOORESVILLE",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350913537_franciscan-health-mooresville_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "9a14c421-3fcc-4780-ab57-5935a31741f5",
+    "ccn": "220134",
+    "hospital_name": "FRANCISCAN HEALTH CARMEL",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350913537_franciscan-health-carmel_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "922c3e34-98a9-47f8-a0ac-091ac695234f",
+    "ccn": "236205",
+    "hospital_name": "FRANCISCAN HEALTH MICHIGAN CITY AT LA PORTE",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350876394_franciscan-health-michigan-city-laporte_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "f1118c9f-24e0-40aa-9c29-9ec3af702328",
+    "ccn": "290744",
+    "hospital_name": "FRANCISCAN HEALTH ORTHOPEDIC HOSPITAL CARMEL",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/350913537_franciscan-health-orthopedic-carmel_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  }
+]

@@ -1,0 +1,636 @@
+[
+  {
+    "detail_id": "bb0d0fb6-5732-43f5-a261-080965e91857",
+    "ccn": "030002",
+    "hospital_name": "BANNER - UNIVERSITY MEDICAL CENTER PHOENIX CAMPUS",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/270036499_banner-university-medical-center-phoenix_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "fc0ff29a-2521-465b-b3a3-93f4b740a33f",
+    "ccn": "030006",
+    "hospital_name": "TUCSON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8289/860137567_tucson-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/TucsonMedicalCenter/8289"
+  },
+  {
+    "detail_id": "a2b84889-3382-41e9-b827-7f35bf95f929",
+    "ccn": "030007",
+    "hospital_name": "VERDE VALLEY MEDICAL CENTER",
+    "file_url": "https://www.nahealth.com/wp-content/uploads/2025/02/860100882_VERDEVALLEYMEDICALCENTER_standardcharges.zip",
+    "transparency_page": "https://www.nahealth.com/billing-insurance/committed-price-transparency/"
+  },
+  {
+    "detail_id": "ecb22e8c-6ab7-4070-96f8-4ff06d6ffdaa",
+    "ccn": "030010",
+    "hospital_name": "CARONDELET ST. MARY'S HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/474131755_CarondeletStMarysHospital_standardcharges.json",
+    "transparency_page": "https://www.carondelet.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "16a39d8f-ff99-4c1f-8774-7225973790e7",
+    "ccn": "030011",
+    "hospital_name": "CARONDELET ST. JOSEPH'S HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/474131755_CarondeletStJosephHospital_standardcharges.json",
+    "transparency_page": "https://www.carondelet.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "c066590f-810e-46d9-b900-a0609529f6c4",
+    "ccn": "030012",
+    "hospital_name": "YAVAPAI REGIONAL MEDICAL CENTER WEST",
+    "file_url": "https://www.yrmc.org/docs/default-source/default-document-library/860098923_yavapai-regional-medical-center-west_standardcharges.json",
+    "transparency_page": "https://www.yrmc.org/patient-financial-services/direct-pay-pricing"
+  },
+  {
+    "detail_id": "01bf11a2-9b96-4df1-832c-47c9faf8b3de",
+    "ccn": "030013",
+    "hospital_name": "ONVIDA HEALTH YUMA REGIONAL MEDICAL CENTER",
+    "file_url": "https://yumaregional.pt.panaceainc.com/MRFDownload/yumaregional/yumaregionalmedicalcenter",
+    "transparency_page": "https://www.yumaregional.org/patients-and-visitors/patient-resources/transparency-in-pricing/"
+  },
+  {
+    "detail_id": "efb1f5ea-9489-4482-8e5c-841b5b813390",
+    "ccn": "030014",
+    "hospital_name": "HONORHEALTH JOHN C. LINCOLN MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthjclmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "6e572251-ac4e-49c8-97cd-ac72dd3659dc",
+    "ccn": "030016",
+    "hospital_name": "BANNER CASA GRANDE MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/450233470_banner-casa-grande-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "75a6269d-4fdc-4675-a0c4-0a43fc8f89b9",
+    "ccn": "030023",
+    "hospital_name": "FLAGSTAFF MEDICAL CENTER",
+    "file_url": "https://www.nahealth.com/wp-content/uploads/2025/02/860110232_FLAGSTAFFMEDICALCENTER_standardcharges.zip",
+    "transparency_page": "https://www.nahealth.com/billing-insurance/committed-price-transparency/"
+  },
+  {
+    "detail_id": "5ebc3e11-49a2-4b3b-a799-fe9ea8038087",
+    "ccn": "030024",
+    "hospital_name": "ST. JOSEPH'S HOSPITAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-josephs-hospital-and-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/arizona/locations/stjosephs/patients-and-visitors/for-patients/standard-charges"
+  },
+  {
+    "detail_id": "71e3580a-1631-42db-8c61-86ec409e1fdb",
+    "ccn": "030030",
+    "hospital_name": "ABRAZO CENTRAL CAMPUS",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621809851_AbrazoCentralHospital_standardcharges.json",
+    "transparency_page": "https://www.abrazohealth.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "f6c4c059-c9c2-4c9e-a453-324a9f5ad2d5",
+    "ccn": "030036",
+    "hospital_name": "DIGNITY HEALTH CHANDLER REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/815009488_chandler-regional-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/arizona/locations/chandlerregional/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "c248f880-b6d4-42b2-ad80-db47796e192c",
+    "ccn": "030037",
+    "hospital_name": "HONORHEALTH TEMPE MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthtmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "7a7b0cf4-3ce7-4bc5-9fa5-60c6e594789a",
+    "ccn": "030038",
+    "hospital_name": "HONORHEALTH SCOTTSDALE OSBORN MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthsomc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "7dd43518-92cb-4d73-8b4a-0d44cd4e3ef2",
+    "ccn": "030043",
+    "hospital_name": "CANYON VISTA MEDICAL CENTER",
+    "file_url": "https://www.canyonvistamedicalcenter.com/docs/ahcanyonvistamedicalcenterlibraries/hcl/mrf3q25/900942222_canyon-vista-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.canyonvistamedicalcenter.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "0d3aea2b-8e35-4de1-8e79-e9ba2babf3cb",
+    "ccn": "030055",
+    "hospital_name": "KINGMAN REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKingmanRegionalMedCtr&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kingman_V2.aspx"
+  },
+  {
+    "detail_id": "7e563337-a932-4ce4-b8d1-149351a65324",
+    "ccn": "030061",
+    "hospital_name": "BANNER BOSWELL MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900389314_banner-boswell-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "1fcc76fd-49e9-4eaf-aa3d-91c06d42e3f0",
+    "ccn": "030064",
+    "hospital_name": "BANNER - UNIVERSITY MEDICAL CENTER TUCSON",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/901074557_banner-university-medical-center-tucson_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "474b3d63-3b77-46f5-a082-ae42fbc4328a",
+    "ccn": "030065",
+    "hospital_name": "BANNER DESERT MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900054201_banner-desert-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "21131a03-4819-4c19-9866-5b40682097a8",
+    "ccn": "030069",
+    "hospital_name": "HAVASU REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.havasuregional.com/docs/ahhavasuregionalmedicalcenterlibraries/hcl/mrf2q25/205220956_havasu-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.havasuregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "9cfdf5f1-680a-4f92-99be-12db24a0cf14",
+    "ccn": "030085",
+    "hospital_name": "NORTHWEST MEDICAL CENTER",
+    "file_url": "https://www.healthiertucson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762430_northwest-medical-center-tucson_standardcharges.csv",
+    "transparency_page": "https://www.healthiertucson.com/pricing-information"
+  },
+  {
+    "detail_id": "84a1d767-f2b6-4f66-a790-9947631f60e0",
+    "ccn": "030087",
+    "hospital_name": "HONORHEALTH SCOTTSDALE SHEA MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthssmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "58a30a33-4905-4c53-b98e-06bcde718907",
+    "ccn": "030088",
+    "hospital_name": "BANNER BAYWOOD MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/363386394_banner-baywood-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "cf98b04a-f8a5-44ec-8eb0-c1d1bb86aab4",
+    "ccn": "030089",
+    "hospital_name": "BANNER THUNDERBIRD MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/270036484_banner-thunderbird-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "76ead7de-2c43-4fd5-af29-31f3a8ebd5c6",
+    "ccn": "030092",
+    "hospital_name": "HONORHEALTH DEER VALLEY MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthdvmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "0a541a2e-aa77-4d74-8aa3-cfa09d0a1da2",
+    "ccn": "030093",
+    "hospital_name": "BANNER DEL E. WEBB MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900389312_banner-del-e-webb-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "62ce4282-95dd-4869-b9af-082f59cd4554",
+    "ccn": "030094",
+    "hospital_name": "ABRAZO ARROWHEAD CAMPUS",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621811285_AbrazoArrowheadCampus_standardcharges.json",
+    "transparency_page": "https://www.abrazohealth.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "b87bc3cf-5943-4e8b-a9b9-f07e42460533",
+    "ccn": "030102",
+    "hospital_name": "ABRAZO ARIZONA HEART HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621811285_AbrazoArizonaHeartHospital_standardcharges.json",
+    "transparency_page": "https://www.abrazohealth.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "6ee34bd3-3092-418b-865c-6bb2577ea9b2",
+    "ccn": "030103",
+    "hospital_name": "MAYO CLINIC ARIZONA",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/860800150_mayo-clinic-arizona_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinic.org/billing-insurance/price-estimates/chargemaster"
+  },
+  {
+    "detail_id": "4687553a-7f30-4045-9e7b-97b3a8e7ddee",
+    "ccn": "030107",
+    "hospital_name": "ARIZONA SPINE & JOINT HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/364399746_AZSpineandJointHospital_standardcharges.json",
+    "transparency_page": "https://azspineandjoint.com/Hospital-Pricing-Information"
+  },
+  {
+    "detail_id": "2c405c28-0b97-4576-a0fc-4fa61de9d57e",
+    "ccn": "030108",
+    "hospital_name": "CORE INSTITUTE SPECIALTY HOSPITAL",
+    "file_url": "https://www.thecoreinstitutehospital.com/wp-content/uploads/2021/06/Machine-Readable-File-06.11.21.csv",
+    "transparency_page": "https://www.thecoreinstitutehospital.com/patients-visitors/billing-options/"
+  },
+  {
+    "detail_id": "b1f4d475-9ebb-41d7-b35f-04804e18164c",
+    "ccn": "030110",
+    "hospital_name": "ABRAZO WEST CAMPUS",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/621867232_AbrazoWestCampus_standardcharges.json",
+    "transparency_page": "https://www.abrazohealth.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "4f9d2913-9243-4eff-9fd1-f074b07dab9e",
+    "ccn": "030111",
+    "hospital_name": "BANNER-UNIVERSITY MEDICAL CENTER SOUTH CAMPUS",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/901074558_banner-university-med-center-south_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "ef4bd0ce-5da7-4c87-9694-6d93b40baa0e",
+    "ccn": "030112",
+    "hospital_name": "ARIZONA SPECIALTY HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/752936470_ArizonaOrthopedicandSurgicalSpecialtyHospital_standardcharges.json",
+    "transparency_page": "https://arizonaspecialtyhospital.com/hospital-pricing-information"
+  },
+  {
+    "detail_id": "c50130af-e6d2-4a31-95e8-8f07c2b7922b",
+    "ccn": "030114",
+    "hospital_name": "ORO VALLEY HOSPITAL",
+    "file_url": "https://www.healthiertucson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522379881_oro-valley-hospital_standardcharges.csv",
+    "transparency_page": "https://www.healthiertucson.com/pricing-information"
+  },
+  {
+    "detail_id": "2b0dbd73-0fb3-4cf4-8a0f-e1425126340b",
+    "ccn": "030115",
+    "hospital_name": "BANNER ESTRELLA MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900065118_banner-estrella-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "0923f940-6467-4d8a-9156-22c572d24402",
+    "ccn": "030118",
+    "hospital_name": "YAVAPAI REGIONAL MEDICAL CENTER EAST",
+    "file_url": "https://www.yrmc.org/docs/default-source/default-document-library/860098923_yavapai-regional-medical-center-east_standardcharges.json",
+    "transparency_page": "https://www.yrmc.org/patient-financial-services/direct-pay-pricing"
+  },
+  {
+    "detail_id": "9d51ef7d-845a-4481-a45e-834f3e11cdbe",
+    "ccn": "030119",
+    "hospital_name": "MERCY GILBERT MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_mercy-gilbert-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/arizona/locations/mercygilbert/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparencyy"
+  },
+  {
+    "detail_id": "74971f22-245a-4688-bcc4-aee60d7d91c4",
+    "ccn": "030121",
+    "hospital_name": "HONORHEALTH FOUR PEAKS MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthfpmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "a960814a-3f97-414e-bf68-d6943fbf93cf",
+    "ccn": "030122",
+    "hospital_name": "BANNER GATEWAY MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900220728_banner-gateway-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "d1a95d94-685f-48ac-968c-991977983252",
+    "ccn": "030123",
+    "hospital_name": "HONORHEALTH SCOTTSDALE THOMPSON PEAK MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthstpmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "01b39891-c97c-43dd-9b3e-2fe53769a2c0",
+    "ccn": "030136",
+    "hospital_name": "DIGNITY HEALTH ARIZONA GENERAL HOSPITAL \u2013 LAVEEN",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/471587223_arizona-general-hospital-laveen-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/arizona/locations/arizonageneral/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "a1b7e0cd-09b0-42de-8ae3-db8fc6570e5d",
+    "ccn": "030138",
+    "hospital_name": "CITY OF HOPE PHOENIX CANCER HOSPITAL",
+    "file_url": "https://www.cityofhope.org/320197974_western-regional-medical-center-_standardcharges.json",
+    "transparency_page": "https://www.cityofhope.org/patients/our-value-and-pricing/pricing-information"
+  },
+  {
+    "detail_id": "6b24b763-5908-4275-98a7-df77a7a7abce",
+    "ccn": "030139",
+    "hospital_name": "DIGNITY HEALTH ARIZONA GENERAL HOSPITAL - MESA",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/383990879_arizona-general-hospital-mesa-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/arizona/locations/arizonageneral/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "7420ae0d-844e-401f-88a2-eefe304f396c",
+    "ccn": "030146",
+    "hospital_name": "HONORHEALTH SONORAN CROSSING MEDICAL CENTER",
+    "file_url": "https://www.honorhealth.com/sites/default/files/2023-12/860181654_honorhealthscmc_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth.com/patients-visitors/average-pricing"
+  },
+  {
+    "detail_id": "94eaf3bf-41a9-4b97-b34e-0316fa35db56",
+    "ccn": "030148",
+    "hospital_name": "NORTHWEST MEDICAL CENTER SAHUARITA",
+    "file_url": "https://www.healthiertucson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/384088744_northwest-medical-center-sahuarita_standardcharges.csv",
+    "transparency_page": "https://www.healthiertucson.com/pricing-information"
+  },
+  {
+    "detail_id": "0879749d-ed3c-4d82-8520-d02e8e3ed5aa",
+    "ccn": "031300",
+    "hospital_name": "WICKENBURG COMMUNITY HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/wickenburg/860096775_Wickenburg-Community-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/wickenburg"
+  },
+  {
+    "detail_id": "9872cb49-1286-421a-b7ca-a075325d347e",
+    "ccn": "031301",
+    "hospital_name": "BENSON HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8123/866007695_benson-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BensonHospital/8123"
+  },
+  {
+    "detail_id": "560ffbaa-ae7c-46c1-a711-4264aed570db",
+    "ccn": "031302",
+    "hospital_name": "NORTHERN COCHISE COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9275/860208451_northern-cochise-community-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NorthernCochiseHospital/9275"
+  },
+  {
+    "detail_id": "dcb26f3a-d6af-4be2-9b87-535103377c33",
+    "ccn": "031311",
+    "hospital_name": "LITTLE COLORADO MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/75a0cb7c61513f26189187ede8493cd6/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/75a0cb7c61513f26189187ede8493cd6/"
+  },
+  {
+    "detail_id": "adb4048a-acc2-4f18-b9d1-d5bc7c0ee2dd",
+    "ccn": "031312",
+    "hospital_name": "COPPER QUEEN COMMUNITY HOSPITAL",
+    "file_url": "https://pricetransparency.healthcare/copper-queen-community-hospital/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/copper-queen-community-hospital/charges/exportt"
+  },
+  {
+    "detail_id": "202c75e0-c3ba-4f97-89ed-de8a5106e5c8",
+    "ccn": "031313",
+    "hospital_name": "CARONDELET HOLY CROSS HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/474132507_CarondeletHolyCrossHospital_standardcharges.json",
+    "transparency_page": "https://www.carondelet.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "e003d5df-3be6-4d5e-b00c-90489416dd2c",
+    "ccn": "031314",
+    "hospital_name": "COBRE VALLEY REGIONAL MEDICAL CENTER",
+    "file_url": "https://cvrmc.org/wp-content/uploads/MRF.csv",
+    "transparency_page": "https://cvrmc.org/patient-resources/pricing-transparency/"
+  },
+  {
+    "detail_id": "0f5b5fb5-a902-4144-ac76-fa5354343a2a",
+    "ccn": "031315",
+    "hospital_name": "WHITE MOUNTAIN REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.wmrmc.com/Data/Sites/8/media/patients-visitors/no-surprise-billing/860171900_white-mountain-regional-medical-center_standardcharges-1.csv",
+    "transparency_page": "https://www.wmrmc.com/no-surprise-billing"
+  },
+  {
+    "detail_id": "9f00c46e-7c8e-4a58-9ba9-6980adb8cfb6",
+    "ccn": "031317",
+    "hospital_name": "LA PAZ REGIONAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/lapaz/860260959_La-Paz-Regional-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/lapaz"
+  },
+  {
+    "detail_id": "4a5c97a0-8745-4b09-bbee-12aca5281110",
+    "ccn": "031318",
+    "hospital_name": "BANNER PAYSON REGIONAL",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/450233470_banner-payson-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "8abe84a8-08b7-4c7e-bfc0-b556284116ea",
+    "ccn": "031319",
+    "hospital_name": "MT. GRAHAM REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.mtgraham.org/wp-content/uploads/2025/01/237094247_mt-graham-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.mtgraham.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "0e5908aa-e69e-4421-a4da-eeb39011222b",
+    "ccn": "032001",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - PHOENIX",
+    "address": "350 WEST THOMAS ROAD, 3RD FLOOR",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1813117_Select_Specialty_Hospital-Phoenix_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "db05aa01-e202-4628-9598-ca508148b089",
+    "ccn": "032004",
+    "hospital_name": "CORNERSTONE SPECIALTY HOSPITALS SOUTHEAST ARIZONA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=14nLXAwE4z0OMYgqKHcdXQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=14nLXAwE4z0OMYgqKHcdXQ*-*"
+  },
+  {
+    "detail_id": "f470e714-fc8d-4340-bf92-c063aee8cd7c",
+    "ccn": "032005",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - PHOENIX DOWNTOWN",
+    "address": "1111 EAST MCDOWELL ROAD, 11TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/25-1821705_Select_Specialty_Hospital-Phoenix_Downtown_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "23844057-a2a9-455b-b871-4c10108f4853",
+    "ccn": "032006",
+    "hospital_name": "KPC PROMISE HOSPITAL OF PHOENIX",
+    "file_url": "https://phoenix.kpcph.com/wp-content/uploads/sites/5/2024/01/83-4169286_KPC-Promise-Hospital-of-Phoenix_standardcharges.csv",
+    "transparency_page": "https://phoenix.kpcph.com/cms-price-transparency/"
+  },
+  {
+    "detail_id": "26f602af-2e9a-4f93-995c-dbd74705263c",
+    "ccn": "033025",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SCOTTSDALE",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631184846_Encompass-Health-Rehabilitation-Hospital-of-Scottsdale_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/scottsdale-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "af24b630-6f6d-4e2e-a553-f94b1ce7b73c",
+    "ccn": "033028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION INSTITUTE OF TUCSON",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631184847_Encompass-Health-Rehabilitation-Institute-of-Tucson_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/rehab-institute-of-tucson/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "a4979d1e-93cf-4977-b313-ca334b6ccb94",
+    "ccn": "033029",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF NORTHWEST TUCSON",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/251654947_Encompass-Health-Rehabilitation-Hospital-of-Northwest-Tucson_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/northwest-tucson-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "e17d6162-0264-45cb-9fcc-1b81d562f11c",
+    "ccn": "033032",
+    "hospital_name": "ENCOMPASS HEALTH VALLEY OF THE SUN REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631184848_Encompass-Health-Valley-of-The-Sun-Rehabilitation-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/valley-of-the-sun-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "a2e26828-c967-4be9-9821-9e957c212cea",
+    "ccn": "033034",
+    "hospital_name": "YUMA REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/943427408_Yuma-Rehabilitation-Hospital-an-affiliation-of-Encompass-Health-and-Yuma-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/yuma-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "6a813b67-59dc-481c-88b9-759134cb5224",
+    "ccn": "033036",
+    "hospital_name": "MOUNTAIN VALLEY REGIONAL REHABILITATION HOSPITAL",
+    "file_url": "https://ernesthealth.com/wp-content/uploads/2025/01/pricing/Mountain%20Valley%20Regional%20Rehabilitation%20Hospital/203166972_Mountain-Valley-Regional-Rehabilitation-Hospital_Standard-Charges.json",
+    "transparency_page": "https://mvrrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "daa7053e-1503-4da5-aed3-24f62efd147b",
+    "ccn": "033037",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF EAST VALLEY",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/262942698_Encompass-Health-Rehabilitation-Hospital-of-East-Valley_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/east-valley-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "62e0085f-1422-4f96-8446-4ad47c1e705b",
+    "ccn": "033038",
+    "hospital_name": "HONORHEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/inpatient-rehabilitation/27-4160293_GlobalRehab-Scottsdale_standardcharges.csv",
+    "transparency_page": "https://www.honorhealth-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "7c41082c-5f0c-4ff5-8885-358bbeec3f73",
+    "ccn": "033039",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL OF SURPRISE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9954/455112416_cobalt-rehabilitation-hospital-iv-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RehabilitationHospitalofSurprise/9954"
+  },
+  {
+    "detail_id": "fe97425c-c1f3-4336-88f3-6c330384b0e7",
+    "ccn": "033041",
+    "hospital_name": "REHABILITATION HOSPITAL OF NORTHERN ARIZONA",
+    "file_url": "https://ernesthealth.com/wp-content/uploads/2025/01/pricing/Rehabilitation%20Hospital%20of%20Northern%20Arizona/364820127_Rehabilitation-Hospital-of-Northern-Arizona_Standard-Charges.json",
+    "transparency_page": "https://rhna.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "2e0eb8fd-591f-4e22-beee-cdabc675c938",
+    "ccn": "033042",
+    "hospital_name": "BANNER REHABILITATION HOSPITAL WEST",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/82-3481322_banner_rehab_hospital-west_standardcharges.csv",
+    "transparency_page": "https://www.banner-rehabhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "55ab3920-f821-48c3-ae2e-3e47c550bac5",
+    "ccn": "033302",
+    "hospital_name": "PHOENIX CHILDREN'S HOSPITAL",
+    "file_url": "https://phoenixchildrens.pt.panaceainc.com/MRFDownload/phoenixchildrens/phoenixchildrens",
+    "transparency_page": "https://phoenixchildrens.org/patient-visitor-information/planning-your-visit/price-transparency"
+  },
+  {
+    "detail_id": "9ed6334a-09c4-4072-b175-25fc38984b44",
+    "ccn": "034004",
+    "hospital_name": "BANNER BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/270036480_banner-behavioral-health-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "f6c6e1be-8bff-467d-b0c7-8181a7ab09fa",
+    "ccn": "034013",
+    "hospital_name": "COLLEGE MEDICAL CENTER PHOENIX",
+    "file_url": "https://rca.centaurihs.com/ptapp/#c03ea0e53387f2e22f8262e5ee5ac871e45c53fb6ce9ca014b7159b7175da354",
+    "transparency_page": "https://cmcphoenix.com/price-transparency/"
+  },
+  {
+    "detail_id": "bedb5e23-a2ff-4790-9c2f-9611483c4f2d",
+    "ccn": "034020",
+    "hospital_name": "HAVEN BEHAVIORAL HOSPITAL OF PHOENIX",
+    "address": "1201 SOUTH 7TH AVENUE, SUITE 200",
+    "file_url": "https://www.havenofphoenix.com/wp-content/uploads/sites/4/2024/12/260394526_Haven-Behavioral-Hospital-of-Phoenix_standardcharges.csv",
+    "transparency_page": "https://www.havenofphoenix.com/price-transparency/"
+  },
+  {
+    "detail_id": "bc40664f-fbf5-4c8a-a529-add2a1f7d052",
+    "ccn": "034022",
+    "hospital_name": "SONORA BEHAVIORAL HEALTH HOSPITAL",
+    "address": "6050 NORTH CORONA RD, SUITE 3",
+    "file_url": "https://www.sonorabehavioral.com/wp-content/uploads/pricing/2026/222/20-5778133_Sonora-Behavioral-Health-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://www.sonorabehavioral.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "58e92fb7-2c93-4de4-b5bd-7ea202a66903",
+    "ccn": "034023",
+    "hospital_name": "THE GUIDANCE CENTER",
+    "file_url": "https://tgcaz.org/resources/86-0223720_TheGuidanceCenter_standardcharges.csv",
+    "transparency_page": "https://tgcaz.org/resources.php"
+  },
+  {
+    "detail_id": "c8c978fd-4e5d-41bd-8740-cabb339163f5",
+    "ccn": "034024",
+    "hospital_name": "AURORA GLENDALE BEHAVIORAL HEALTHCARE",
+    "file_url": "https://www.auroraarizona.com/sites/default/files/arizona/Glendale%20Price%20Transparency%20NP.csv",
+    "transparency_page": "https://www.auroraarizona.com/standard-services"
+  },
+  {
+    "detail_id": "56bd68a1-e7ff-4d59-adef-f3ed2dcf8e7d",
+    "ccn": "034027",
+    "hospital_name": "CHANGEPOINT INTEGRATED HEALTH",
+    "file_url": "https://www.mychangepoint.org/_files/ugd/1d6587_1ca240babe914a66a9a22e12c095c98b.csv?dn=MRF%20Changepoint_Psychiatric_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.mychangepoint.org/price-transparency"
+  },
+  {
+    "detail_id": "72f192fa-b51b-4148-96ad-952635eda84a",
+    "ccn": "034028",
+    "hospital_name": "AURORA TEMPE BEHAVIORAL HEALTHCARE",
+    "file_url": "https://www.auroraarizona.com/sites/default/files/arizona/Tempe%20Price%20Transparency%20NP.csv",
+    "transparency_page": "https://www.auroraarizona.com/standard-services"
+  },
+  {
+    "detail_id": "d849a5f9-23c0-472d-8105-2539a7564aad",
+    "ccn": "034029",
+    "hospital_name": "OASIS BEHAVIORAL HEALTH",
+    "file_url": "https://www.obhhospital.com/wp-content/uploads/pricing/2026/205/86-0768611__Southwestern-Childrens-Health-Services_Inc._standardcharges.csv",
+    "transparency_page": "https://www.obhhospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "c467bfbb-3418-4878-89c9-85cf68d166a0",
+    "ccn": "034030",
+    "hospital_name": "PALO VERDE BEHAVIORAL HEALTH",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/463600310_palo-verde_standardcharges.csv",
+    "transparency_page": "https://paloverdebh.com/standard-services/"
+  },
+  {
+    "detail_id": "1b200816-4aae-4e23-9e52-d92b5c03b4ee",
+    "ccn": "034031",
+    "hospital_name": "QUAIL RUN BEHAVIORAL HEALTH",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/464207180_quail-run_standardcharges.csv",
+    "transparency_page": "https://quailrunbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "a9a22097-e9a1-4351-a20f-6849cdb8606b",
+    "ccn": "034032",
+    "hospital_name": "COPPER SPRINGS",
+    "file_url": "https://coppersprings.com/docs/bhcopperspringslibraries/dec2025/364795061_copper-springs_standardcharges.csv",
+    "transparency_page": "https://coppersprings.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "382f9ba4-9920-46c1-ae9b-67199f483422",
+    "ccn": "034033",
+    "hospital_name": "EL DORADO SPRINGS BEHAVIORAL HEALTH",
+    "file_url": "https://www.eldoradospringsbh.com/sites/eldoradosprings/assets/uploads/611764392_el-dorado-springs_standardcharges.csv",
+    "transparency_page": "https://www.eldoradospringsbh.com/accepted-insurance"
+  },
+  {
+    "detail_id": "1d9798ec-9caf-4219-a063-a92b25d2c77b",
+    "ccn": "034034",
+    "hospital_name": "DESTINY SPRINGS HEALTHCARE",
+    "file_url": "https://www.destinyspringshealthcare.com/_files/ugd/579823_eb7db2b89803407a90b9c18a5c9c739f.csv?dn=81-4160201_Destiny-Springs-Healthcare_standardcharges.csv",
+    "transparency_page": "https://www.destinyspringshealthcare.com/price-transparency"
+  },
+  {
+    "detail_id": "3992368f-fe6c-43d4-b442-65a6613010c7",
+    "ccn": "034035",
+    "hospital_name": "AVENIR BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://g5-assets-cld-res.cloudinary.com/raw/upload/v1759418416/g5/g5-c-5hk8rftzt-avenir-senior-living-single-domain/g5-cl-1ivmlhcajg-avenir-center-for-behavioral-health-at-surprise/uploads/400629305_avenir_behavioral_center_standardcharges_wrurw3.csv",
+    "transparency_page": "https://www.avenirseniorliving.com/senior-living/az/surprise/behavioral-health/pricing-transparency"
+  },
+  {
+    "detail_id": "3500891b-e1f3-4af6-979b-c2a0a9ebe0fb",
+    "ccn": "034038",
+    "hospital_name": "PHOENIX MEDICAL PSYCHIATRIC HOSPITAL",
+    "file_url": "https://www.neuropsychiatrichospitals.net/price-transparency/844337864_phoenix-medical-psychiatric-hospital,-llc_standardcharges.csv",
+    "transparency_page": "https://www.neuropsychiatrichospitals.net/price-transparency/"
+  }
+]

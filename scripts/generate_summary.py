@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
-"""Generate summary from per-state status files.
+"""Generate summary by scanning actual data files on disk.
 
-Aggregates all status/{STATE}.csv files into summary statistics:
-- status/summary.csv: Per-state aggregate statistics
-- status/badge.json: Shields.io endpoint badge data
+Compares hospital URL configs against data/{STATE}/{CCN}.jsonl files
+to compute accurate success/failure counts.
 
 Usage:
     python scripts/generate_summary.py
 """
 
-import csv
 import json
 import sys
+from datetime import UTC, datetime
 from pathlib import Path
 
 import click
@@ -21,70 +20,237 @@ project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
 
-def parse_status_files(status_dir: Path) -> dict[str, list[dict]]:
-    """Read all state status files and return data grouped by state.
+# Valid US state codes
+VALID_STATES = {
+    "AL",
+    "AK",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "FL",
+    "GA",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "WY",
+    "DC",
+    "PR",
+    "VI",
+    "GU",
+    "AS",
+    "MP",  # Territories
+}
+
+
+def load_url_configs(urls_dir: Path) -> dict[str, list[dict]]:
+    """Load all hospital URL configs grouped by state.
 
     Args:
-        status_dir: Path to status directory
+        urls_dir: Path to dim/urls directory
 
     Returns:
-        Dict mapping state code to list of row dicts
+        Dict mapping state code (uppercase) to list of hospital configs
     """
-    data_by_state: dict[str, list[dict]] = {}
+    configs_by_state: dict[str, list[dict]] = {}
 
-    for status_file in status_dir.glob("*.csv"):
-        # Skip summary file
-        if status_file.stem.lower() == "summary":
+    for json_file in urls_dir.glob("*.json"):
+        state = json_file.stem.upper()
+        # Skip non-state files (e.g., needs_review.json)
+        if state not in VALID_STATES:
             continue
-
-        state = status_file.stem.upper()
-
         try:
-            with open(status_file, newline="") as f:
-                reader = csv.DictReader(f)
-                data_by_state[state] = list(reader)
+            with open(json_file) as f:
+                hospitals = json.load(f)
+                configs_by_state[state] = hospitals
         except Exception as e:
-            click.echo(f"Warning: Could not read {status_file}: {e}")
+            click.echo(f"Warning: Could not read {json_file}: {e}")
             continue
 
-    return data_by_state
+    return configs_by_state
 
 
-def compute_state_summary(state: str, rows: list[dict]) -> dict:
-    """Compute summary statistics for a single state.
+def count_jsonl_records(file_path: Path) -> int:
+    """Count number of records in a JSONL file.
+
+    Args:
+        file_path: Path to .jsonl file
+
+    Returns:
+        Number of lines (records) in the file
+    """
+    try:
+        with open(file_path) as f:
+            return sum(1 for line in f if line.strip())
+    except Exception:
+        return 0
+
+
+def scan_data_files(data_dir: Path, state: str) -> dict[str, dict]:
+    """Scan data directory for a state and return file info by CCN.
+
+    Args:
+        data_dir: Path to data directory
+        state: Two-letter state code
+
+    Returns:
+        Dict mapping CCN to {path, records, mtime}
+    """
+    state_dir = data_dir / state.upper()
+    files_by_ccn: dict[str, dict] = {}
+
+    if not state_dir.exists():
+        return files_by_ccn
+
+    for jsonl_file in state_dir.glob("*.jsonl"):
+        ccn = jsonl_file.stem
+        records = count_jsonl_records(jsonl_file)
+        mtime = datetime.fromtimestamp(jsonl_file.stat().st_mtime, tz=UTC)
+
+        files_by_ccn[ccn] = {
+            "path": jsonl_file,
+            "records": records,
+            "mtime": mtime,
+        }
+
+    return files_by_ccn
+
+
+def compute_state_status(
+    state: str,
+    url_configs: list[dict],
+    data_files: dict[str, dict],
+) -> tuple[dict, list[dict]]:
+    """Compute status for a state by comparing configs to data files.
 
     Args:
         state: Two-letter state code
-        rows: List of status row dicts
+        url_configs: List of hospital URL configs
+        data_files: Dict of CCN -> file info from scan_data_files
 
     Returns:
-        Summary dict with aggregate statistics
+        Tuple of (summary_dict, list of per-hospital status dicts)
     """
-    total = len(rows)
-    success = sum(1 for r in rows if r.get("status") == "SUCCESS")
-    failed = sum(1 for r in rows if r.get("status") == "FAILURE")
-    skipped = sum(1 for r in rows if r.get("status") == "SKIPPED")
+    rows = []
+    success = 0
+    failed = 0
+    total_records = 0
 
-    # Sum records (handle empty strings)
-    records = sum(int(r.get("records") or 0) for r in rows)
+    for config in url_configs:
+        ccn = config.get("ccn", "")
+        hospital_name = config.get("hospital_name", "")
+        file_url = config.get("file_url", "")
 
-    # Find most recent date
-    dates = [r.get("date") for r in rows if r.get("date")]
-    last_run = max(dates) if dates else ""
+        if ccn in data_files:
+            file_info = data_files[ccn]
+            records = file_info["records"]
 
-    # Calculate success rate
+            if records > 0:
+                status = "SUCCESS"
+                success += 1
+                total_records += records
+            else:
+                # File exists but empty
+                status = "FAILURE"
+                failed += 1
+        else:
+            # No data file found
+            status = "FAILURE"
+            failed += 1
+            records = 0
+
+        rows.append(
+            {
+                "ccn": ccn,
+                "hospital": hospital_name,
+                "status": status,
+                "file_url": file_url,
+                "records": records if records > 0 else "",
+            }
+        )
+
+    total = len(url_configs)
     success_rate = (success / total * 100) if total > 0 else 0.0
 
-    return {
+    # Find most recent file modification
+    mtimes = [f["mtime"] for f in data_files.values()]
+    last_updated = max(mtimes).isoformat() if mtimes else ""
+
+    summary = {
         "state": state,
         "total": total,
         "success": success,
         "failed": failed,
-        "skipped": skipped,
+        "skipped": 0,  # No skipped in data-driven status
         "success_rate": f"{success_rate:.1f}%",
-        "records": records,
-        "last_run": last_run,
+        "records": total_records,
+        "last_updated": last_updated,
     }
+
+    return summary, rows
+
+
+def write_state_csv(status_dir: Path, state: str, rows: list[dict]) -> Path:
+    """Write per-state status CSV file.
+
+    Args:
+        status_dir: Path to status directory
+        state: Two-letter state code
+        rows: List of per-hospital status dicts
+
+    Returns:
+        Path to written file
+    """
+    import csv
+
+    status_file = status_dir / f"{state.upper()}.csv"
+
+    fieldnames = ["ccn", "hospital", "status", "file_url", "records"]
+
+    with open(status_file, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(rows)
+
+    return status_file
 
 
 def write_summary_csv(status_dir: Path, summaries: list[dict]) -> Path:
@@ -97,6 +263,8 @@ def write_summary_csv(status_dir: Path, summaries: list[dict]) -> Path:
     Returns:
         Path to written file
     """
+    import csv
+
     summary_file = status_dir / "summary.csv"
 
     # Sort by state code
@@ -110,7 +278,7 @@ def write_summary_csv(status_dir: Path, summaries: list[dict]) -> Path:
         "skipped",
         "success_rate",
         "records",
-        "last_run",
+        "last_updated",
     ]
 
     with open(summary_file, "w", newline="") as f:
@@ -166,34 +334,71 @@ def write_badge_json(status_dir: Path, summaries: list[dict]) -> Path:
 
 @click.command()
 @click.option(
-    "--status-dir",
+    "--urls-dir",
     type=click.Path(exists=True, path_type=Path),
+    default=None,
+    help="Path to URL configs directory (default: PROJECT_ROOT/dim/urls)",
+)
+@click.option(
+    "--data-dir",
+    type=click.Path(exists=True, path_type=Path),
+    default=None,
+    help="Path to data directory (default: PROJECT_ROOT/data)",
+)
+@click.option(
+    "--status-dir",
+    type=click.Path(path_type=Path),
     default=None,
     help="Path to status directory (default: PROJECT_ROOT/status)",
 )
-def main(status_dir: Path | None) -> None:
-    """Generate summary from per-state status files."""
+@click.option(
+    "--write-state-files",
+    is_flag=True,
+    help="Also write per-state status CSV files",
+)
+def main(
+    urls_dir: Path | None,
+    data_dir: Path | None,
+    status_dir: Path | None,
+    write_state_files: bool,
+) -> None:
+    """Generate summary by scanning data files on disk.
+
+    Compares hospital URL configs against actual data files to compute
+    accurate success/failure statistics.
+    """
+    if urls_dir is None:
+        urls_dir = project_root / "dim" / "urls"
+    if data_dir is None:
+        data_dir = project_root / "data"
     if status_dir is None:
         status_dir = project_root / "status"
 
-    if not status_dir.exists():
-        click.echo(f"Error: Status directory not found: {status_dir}")
-        click.echo("Run the scraper first to generate status files.")
+    status_dir.mkdir(parents=True, exist_ok=True)
+
+    click.echo(f"URL configs: {urls_dir}")
+    click.echo(f"Data files:  {data_dir}")
+    click.echo(f"Status dir:  {status_dir}")
+    click.echo()
+
+    # Load all URL configs
+    configs_by_state = load_url_configs(urls_dir)
+
+    if not configs_by_state:
+        click.echo("Error: No URL config files found.")
         sys.exit(1)
 
-    click.echo(f"Reading status files from: {status_dir}")
+    click.echo(f"Found {len(configs_by_state)} states with URL configs")
 
-    # Parse all state status files
-    data_by_state = parse_status_files(status_dir)
+    # Compute status for each state
+    summaries = []
+    all_rows_by_state: dict[str, list[dict]] = {}
 
-    if not data_by_state:
-        click.echo("Error: No state status files found.")
-        sys.exit(1)
-
-    click.echo(f"Found {len(data_by_state)} states")
-
-    # Compute summaries
-    summaries = [compute_state_summary(state, rows) for state, rows in data_by_state.items()]
+    for state, url_configs in sorted(configs_by_state.items()):
+        data_files = scan_data_files(data_dir, state)
+        summary, rows = compute_state_status(state, url_configs, data_files)
+        summaries.append(summary)
+        all_rows_by_state[state] = rows
 
     # Write summary.csv
     summary_file = write_summary_csv(status_dir, summaries)
@@ -202,6 +407,13 @@ def main(status_dir: Path | None) -> None:
     # Write badge.json
     badge_file = write_badge_json(status_dir, summaries)
     click.echo(f"Wrote: {badge_file}")
+
+    # Optionally write per-state files
+    if write_state_files:
+        click.echo("\nWriting per-state status files...")
+        for state, rows in all_rows_by_state.items():
+            state_file = write_state_csv(status_dir, state, rows)
+            click.echo(f"  Wrote: {state_file}")
 
     # Print summary table
     click.echo("\n" + "=" * 70)

@@ -1,0 +1,737 @@
+[
+  {
+    "detail_id": "1c75f761-acf0-4fe5-9b38-3bc70cccd544",
+    "ccn": "240001",
+    "hospital_name": "NORTH MEMORIAL HEALTH HOSPITAL",
+    "file_url": "https://northmemorial.com/wp-content/uploads/2025/01/410829979_ROBBINSDALEHOSPITAL_STANDARDCHARGES.csv",
+    "transparency_page": "https://northmemorial.com/cost-estimates/"
+  },
+  {
+    "detail_id": "c155ac5b-ca75-4861-a7c7-74793a421431",
+    "ccn": "240002",
+    "hospital_name": "ESSENTIA HEALTH-ST. MARY'S MEDICAL CENTER DULUTH",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "f81921b4-ad06-4b88-83b5-cb443f0f9165",
+    "ccn": "240004",
+    "hospital_name": "HENNEPIN COUNTY MEDICAL CENTER CAMPUS",
+    "file_url": "https://hennepinhealthcare.pt.panaceainc.com/MRFDownload/hennepinhealthcare/hennepinhealthcare",
+    "transparency_page": "https://hennepinhealthcare.org/billing/defining-price-transparency"
+  },
+  {
+    "detail_id": "08cfc9ec-37e4-487f-8d79-7df76fb34b97",
+    "ccn": "240006",
+    "hospital_name": "OLMSTED MEDICAL CENTER",
+    "file_url": "https://www.olmmed.org/410855367_Olmsted-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.olmmed.org/disclaimer/"
+  },
+  {
+    "detail_id": "87adde60-6053-489d-a244-1d1e716e80e5",
+    "ccn": "240010",
+    "hospital_name": "MAYO CLINIC HOSPITAL ROCHESTER ST MARY'S CAMPUS",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/410944601_mayo-clinic-hospital-rochester_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinic.org/billing-insurance/price-estimates/chargemaster"
+  },
+  {
+    "detail_id": "4db9476a-af1b-4bf8-bd20-f87e93481378",
+    "ccn": "240014",
+    "hospital_name": "NORTHFIELD HOSPITAL",
+    "file_url": "https://www.northfieldhospital.org/sites/default/files/2024-07/416007241_Northfield-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.northfieldhospital.org/price-estimate-price-transparency"
+  },
+  {
+    "detail_id": "6079a6a5-f65c-4236-9236-4b9002565152",
+    "ccn": "240018",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM RED WING",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/411404075_mayo-clinic-health-system-red-wing_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "21d50741-00d4-4622-9448-0a07a5ee8f2e",
+    "ccn": "240019",
+    "hospital_name": "ESSENTIA HEALTH DULUTH",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "eff2a19a-5196-4fa1-ba23-517b62f1f29c",
+    "ccn": "240022",
+    "hospital_name": "SANFORD WORTHINGTON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8370/460388596_sanford-worthington-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordWorthingtonMedicalCenter/8370"
+  },
+  {
+    "detail_id": "ee02873a-2c25-4ec4-8efc-3e277c335558",
+    "ccn": "240030",
+    "hospital_name": "ALOMERE HEALTH",
+    "file_url": "https://alomerehealth.com/wp-content/uploads/2024/12/411410148_alomere-health_standardcharges.csv",
+    "transparency_page": "https://alomerehealth.com/patient-resources/billing-insurance/?o=08"
+  },
+  {
+    "detail_id": "10cee331-def5-42d0-a3cf-6adda15ae023",
+    "ccn": "240036",
+    "hospital_name": "CENTRACARE ST CLOUD HOSPITAL",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "62c348ac-f006-4f84-b5a0-67e067ce7876",
+    "ccn": "240038",
+    "hospital_name": "ALLINA HEALTH UNITED HOSPITAL",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_united-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "162cf4c0-a716-4873-ad04-f7a48bc574cf",
+    "ccn": "240040",
+    "hospital_name": "FAIRVIEW RANGE MEDICAL CENTER",
+    "file_url": "https://www.fvfiles.com/411293970_range-regional-health-services_standardcharges.csv",
+    "transparency_page": "https://www.fairview.org/resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "4c1a081b-3542-43b5-a76b-f3ac89477485",
+    "ccn": "240043",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM ALBERT LEA",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/411404075_mayo-clinic-health-system-albert-lea-and-austin_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "2a0bd4de-5485-4d94-a60f-2faf940e10f0",
+    "ccn": "240044",
+    "hospital_name": "WINONA HEALTH SERVICES",
+    "file_url": "https://www.winonahealth.org/wp-content/uploads/2024/12/41-0713914_winona-health-services_standardcharges.csv",
+    "transparency_page": "https://www.winonahealth.org/patient-information/billing/pricing-guides/chargemaster-inpatient-services-standard-pricing/"
+  },
+  {
+    "detail_id": "963cc240-a93c-4feb-9d13-1dfb4e9ba384",
+    "ccn": "240047",
+    "hospital_name": "ASPIRUS ST LUKES HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/410714079_aspirus-st-lukes-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "fc9499b6-dfa1-4be8-b570-866c1ae904ab",
+    "ccn": "240050",
+    "hospital_name": "M HEALTH FAIRVIEW LAKES MEDICAL CENTER - WYOMING",
+    "file_url": "https://www.fvfiles.com/410991680-1083692941_fairview-health-services_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "b84cdf28-b308-46a8-8b7f-4cb12396b77d",
+    "ccn": "240052",
+    "hospital_name": "LAKE REGION HEALTHCARE FERGUS FALLS HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10081/410730602_lake-region-healthcare_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/LakeRegionHealthcareFergusFalls/10081"
+  },
+  {
+    "detail_id": "f1879856-0c5e-492e-807b-3ab0ec1df021",
+    "ccn": "240053",
+    "hospital_name": "METHODIST HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/410832080_MethodistHospital_StandardCharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/methodist/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "5cc923b2-dcbd-4775-90e1-ebe80f212e28",
+    "ccn": "240056",
+    "hospital_name": "RIDGEVIEW MEDICAL CENTER",
+    "file_url": "https://www.ridgeviewmedical.org/app/files/public/a0e85442-7934-46a5-92c3-5375599465e9/311667875_ridgeview-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.ridgeviewmedical.org/patients-visitors/financial/request-estimate/"
+  },
+  {
+    "detail_id": "eac85eae-9ec5-427a-8387-6e63254c7c3a",
+    "ccn": "240057",
+    "hospital_name": "ABBOTT NORTHWESTERN HOSPITAL",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_abbott-northwestern-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "dc6a427f-a48a-4e1f-b4ea-a6742d79126d",
+    "ccn": "240059",
+    "hospital_name": "ALLINA HEALTH UNITED HOSPITAL \u2013 HASTINGS REGINA CAMPUS",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_united-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "7fd6d37c-c6d7-4573-b3f0-5436d6c1ab3a",
+    "ccn": "240066",
+    "hospital_name": "LAKEVIEW MEMORIAL HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/410811697_LakeviewHospital_StandardCharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/lakeview/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "ca4e9372-f6f1-472f-a59e-272883f39625",
+    "ccn": "240069",
+    "hospital_name": "OWATONNA HOSPITAL",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_owatonna-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "8bf9681d-cb7e-4d6e-99b9-de716a998035",
+    "ccn": "240071",
+    "hospital_name": "ALLINA HEALTH FARIBAULT MEDICAL CENTER",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_allina-health-faribault-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "d2223650-5455-4a18-ae68-5e313f39a6ff",
+    "ccn": "240075",
+    "hospital_name": "ESSENTIA HEALTH ST JOSEPHS MEDICAL CENTER",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "60d11105-25cb-48d3-9d3a-31de407e03db",
+    "ccn": "240078",
+    "hospital_name": "M HEALTH FAIRVIEW SOUTHDALE HOSPITAL",
+    "file_url": "https://www.fvfiles.com/410991680-1699752915_fairview-health-services_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "21e19621-164b-4926-be1d-172272af3467",
+    "ccn": "240084",
+    "hospital_name": "ESSENTIA HEALTH VIRGINIA",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "f2e9afab-325b-4d02-b13a-c27820f8fd5b",
+    "ccn": "240088",
+    "hospital_name": "CENTRACARE RICE MEMORIAL HOSPITAL",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "b2465569-a659-4736-b203-113126904647",
+    "ccn": "240100",
+    "hospital_name": "SANFORD BEMIDJI MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8385/411266009_sanford-bemidji-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordBemidjiMedicalCenter/8385"
+  },
+  {
+    "detail_id": "0e348201-091c-40a5-a5ec-7eb7b652cf58",
+    "ccn": "240101",
+    "hospital_name": "ESSENTIA HEALTH ST. MARY'S DETROIT LAKES",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "9cc283a7-be09-4e22-9bbb-023b254ec687",
+    "ccn": "240104",
+    "hospital_name": "ST FRANCIS REGIONAL MED CENTER",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_st-francis-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "10ec1919-3304-4ec9-9eae-9c65978cb405",
+    "ccn": "240106",
+    "hospital_name": "REGIONS HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/410956618_RegionsHospital_standardcharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/regions/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "69d3f846-acb0-4463-9920-970a41752294",
+    "ccn": "240115",
+    "hospital_name": "MERCY HOSPITAL",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_mercy-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "5de9cd77-c808-4ef1-bd9a-57aba270211e",
+    "ccn": "240117",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM AUSTIN",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/411404075_mayo-clinic-health-system-albert-lea-and-austin_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "f39a57b9-f086-4a9f-b718-fe88c80caf35",
+    "ccn": "240132",
+    "hospital_name": "MERCY HOSPITAL - UNITY CAMPUS",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_mercy-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "e21a8875-606c-46a0-8764-44e9f9f7dca0",
+    "ccn": "240141",
+    "hospital_name": "M HEALTH FAIRVIEW NORTHLAND MEDICAL CENTER",
+    "file_url": "https://www.fvfiles.com/410991680-1922085299_fairview-health-services_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "b1545e47-d740-4b98-9ed0-4467e9f0159a",
+    "ccn": "240187",
+    "hospital_name": "HUTCHINSON HEALTH",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/841715908_HutchinsonHospital_StandardCharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/hutchinson/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "1e152d0e-8dc5-46cb-83f7-0f68165bd13b",
+    "ccn": "240207",
+    "hospital_name": "M HEALTH FAIRVIEW RIDGES HOSPITAL",
+    "file_url": "https://www.fvfiles.com/410991680-1245217520_fairview-health-services_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "21878f88-ff0c-438e-94a8-4c8e3af4e1b1",
+    "ccn": "240210",
+    "hospital_name": "M HEALTH FAIRVIEW ST. JOHN'S HOSPITAL",
+    "file_url": "https://www.fvfiles.com/411456897_healtheast-st-johns-hospital_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "ad65c7e0-f3d5-4129-8f20-374521bb2619",
+    "ccn": "240213",
+    "hospital_name": "M HEALTH FAIRVIEW WOODWINDS HOSPITAL - WOODBURY",
+    "file_url": "https://www.fvfiles.com/411592761_healtheast-woodwinds-hospital_standardcharges.csv",
+    "transparency_page": "https://www.mhealthfairview.org/resources/policies-and-documentation/hospital-price-transparency"
+  },
+  {
+    "detail_id": "43de3eb8-dbe1-427a-a877-91be3b98eade",
+    "ccn": "240214",
+    "hospital_name": "MAPLE GROVE HOSPITAL",
+    "file_url": "https://northmemorial.com/wp-content/uploads/2025/01/208316475_MAPLEGROVEHOSPITAL_STANDARDCHARGES.csv",
+    "transparency_page": "https://northmemorial.com/cost-estimates/"
+  },
+  {
+    "detail_id": "e74a404e-f23d-4316-8939-d39038cca275",
+    "ccn": "241300",
+    "hospital_name": "MAHNOMEN HEALTH CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8195/416008946_mahnomen-health-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/Mahnomen/8195or"
+  },
+  {
+    "detail_id": "b0131b7a-dbec-419e-916d-e3081e95f55a",
+    "ccn": "241301",
+    "hospital_name": "CHI LAKEWOOD HEALTH",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-2025/umw/410758434_chi-lakewood-health_standardcharges.csv?adobe_mc=MCMID=20467918272730467680661837007042361720",
+    "transparency_page": "https://chilakewoodhealth.com/standard-charges/"
+  },
+  {
+    "detail_id": "36cb0c37-65a9-480f-9a56-4fc750abfa61",
+    "ccn": "241303",
+    "hospital_name": "SANFORD TRACY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8378/460388596_sanford-tracy-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordTracyHospital/8378"
+  },
+  {
+    "detail_id": "5810c491-9c7f-4334-b975-aef3961cf930",
+    "ccn": "241304",
+    "hospital_name": "SANFORD MEDICAL CENTER WHEATON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8380/450409348_sanford-wheaton_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordWheaton/8380"
+  },
+  {
+    "detail_id": "d607a3cc-2296-47e7-9205-9360bd20d97c",
+    "ccn": "241305",
+    "hospital_name": "RIVERWOOD HEALTHCARE CENTER",
+    "file_url": "https://riverwoodhealthcare.org/wp-content/uploads/2022/12/Price-Transparency-CVS-for-Riverwood-2022.csv",
+    "transparency_page": "https://riverwoodhealthcare.org/chargemaster-pricing/"
+  },
+  {
+    "detail_id": "15fc4453-e0eb-4d70-bf68-f0ed571d6f2d",
+    "ccn": "241306",
+    "hospital_name": "OLIVIA HOSPITAL & CLINIC",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/416005580_oliviahospital_standardcharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/olivia/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "66384fe7-e39a-498d-9d72-f8f3386cf680",
+    "ccn": "241309",
+    "hospital_name": "ESSENTIA HEALTH SANDSTONE",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "5546c183-e131-44f7-9d6e-97a5b50b0c73",
+    "ccn": "241312",
+    "hospital_name": "COOK HOSPITAL",
+    "file_url": "https://www.cookhospital.org/wp-content/uploads/2024/06/410964895_Cook-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.cookhospital.org/patients/financial-services/pricing-transparency/"
+  },
+  {
+    "detail_id": "11d1827c-547f-464b-a4d2-7419cf62a1c7",
+    "ccn": "241313",
+    "hospital_name": "ESSENTIA HEALTH ADA",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "0a8e9c23-8ac5-4915-9d68-3a9df0601af3",
+    "ccn": "241314",
+    "hospital_name": "JOHNSON MEMORIAL HEALTH SERVICES",
+    "file_url": "https://jmhsmn.org/wp-content/uploads/2024/07/410694689_johnson-memorial-health-services_shoppableservices-2024.csv",
+    "transparency_page": "https://jmhsmn.org/pricing-cost-estimates/"
+  },
+  {
+    "detail_id": "fafcff27-29ae-4d52-ae9f-558d7b909261",
+    "ccn": "241315",
+    "hospital_name": "SANFORD JACKSON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8379/460388596_sanford-jackson-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordJacksonHospital/8379"
+  },
+  {
+    "detail_id": "901103f7-722a-4b95-b59e-8793a5edf2bd",
+    "ccn": "241317",
+    "hospital_name": "NORTH SHORE HEALTH",
+    "file_url": "https://www.northshorehealthgm.org/Data/Sites/43/media/patients-and-visitors/41647880_north-shore-health_standardcharges.csv",
+    "transparency_page": "https://www.northshorehealthgm.org/pricing-transparency"
+  },
+  {
+    "detail_id": "00c9aa42-a43f-4c53-9def-4f3971df9f85",
+    "ccn": "241318",
+    "hospital_name": "ELY BLOOMENSON COMM HOSPITAL",
+    "file_url": "https://www.ebch.org/wp-content/uploads/2024/07/410808719_Ely-Bloomenson_CommunityHospital_standardcharges.csv",
+    "transparency_page": "https://www.ebch.org/patients-visitor-info/billing-insurance"
+  },
+  {
+    "detail_id": "6ae01023-31dd-4a5b-b08b-2ccf5078d0ec",
+    "ccn": "241319",
+    "hospital_name": "MURRAY COUNTY MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/murray-county-medical-center/800218494_Murray-County-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Murray-County-Medical-Center"
+  },
+  {
+    "detail_id": "32e9d6a6-0566-4712-b682-e69b838c7e6e",
+    "ccn": "241320",
+    "hospital_name": "RIVERVIEW HEALTH",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7983/410724029_riverview-health-association_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RiverviewHealth/7983"
+  },
+  {
+    "detail_id": "13549547-54b7-4e06-a320-a9fdb276dfd0",
+    "ccn": "241321",
+    "hospital_name": "ESSENTIA HEALTH HOLY TRINITY HOSPITAL",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "67c74dcc-936a-450a-a38a-e0077c458643",
+    "ccn": "241322",
+    "hospital_name": "RAINY LAKE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8047/410726171_international-falls-memorial-hospital-association_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/hospital/RainyLake/8047or"
+  },
+  {
+    "detail_id": "6d3fdf42-cf5e-4705-8409-00511217365f",
+    "ccn": "241323",
+    "hospital_name": "MADELIA COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCHMADELIAMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Madelia_V2.aspx"
+  },
+  {
+    "detail_id": "44afc078-022e-4f33-8a83-fc1842414ca7",
+    "ccn": "241325",
+    "hospital_name": "MONTEVIDEO HOSPITAL AND CLINIC",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCCHMONTEVIDEOMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CCM_Health.aspx#"
+  },
+  {
+    "detail_id": "7fd121ea-9d46-4898-a668-c7eae108dd15",
+    "ccn": "241327",
+    "hospital_name": "SLEEPY EYE MEDICAL CENTER",
+    "file_url": "https://semedicalcenter.org/wp-content/uploads/2025/08/416005545_city-of-sleepy-eye_standardcharges-1.csv",
+    "transparency_page": "https://semedicalcenter.org/patients/billing-and-financial-assistance/"
+  },
+  {
+    "detail_id": "8bbf349b-620c-4a9d-8ca1-9d0d95c08e5b",
+    "ccn": "241328",
+    "hospital_name": "SANFORD BAGLEY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8387/411266009_sanford-bagley-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordBagleyMedicalCenter/8387"
+  },
+  {
+    "detail_id": "56a1fef6-35ef-4ed4-a6c9-d366a30efb84",
+    "ccn": "241329",
+    "hospital_name": "LAKEWOOD HEALTH SYSTEM",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLHCBAUDETTEMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Lakewood.aspx"
+  },
+  {
+    "detail_id": "e9013f70-8ce8-40a0-93ce-4a5406570c69",
+    "ccn": "241330",
+    "hospital_name": "CENTRACARE MELROSE",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "36cf4555-d4cf-46c9-8195-098d8d5e9b8c",
+    "ccn": "241332",
+    "hospital_name": "WINDOM AREA HOSPITAL",
+    "file_url": "https://search.hospitalpriceindex.com/hpi2/machineReadable/WindomAreaHealth/8089",
+    "transparency_page": "https://windomareahealth.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "396097ad-c7bb-4be1-9de6-17728f4ffc5e",
+    "ccn": "241333",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM ST. JAMES",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/410797368_mayo-clinic-health-system-st-james_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/locations/st-james/billing/pricing"
+  },
+  {
+    "detail_id": "1aadcf4d-b0e4-42bf-931e-7f983266e135",
+    "ccn": "241334",
+    "hospital_name": "RIVERS EDGE HOSPITAL",
+    "file_url": "https://riversedgehealth.org/wp-content/uploads/2024/11/416006852_rivers-edge-hospital-clinic_standardcharges-2.csv",
+    "transparency_page": "https://riversedgehealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "2ba6e7ea-7fda-4072-81d4-27b24d58fc7e",
+    "ccn": "241336",
+    "hospital_name": "KITTSON HEALTHCARE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8074/410724034_kittson-memorial-hospital-association_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/KittsonMemorialHealthcareCenter/8074"
+  },
+  {
+    "detail_id": "4ff52315-ada4-4478-8267-49cba09c88a1",
+    "ccn": "241337",
+    "hospital_name": "NORTH VALLEY HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNVHCWARRENMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/North_Valley_V2.aspx"
+  },
+  {
+    "detail_id": "dee21d86-697a-4d97-937e-62d659557bb0",
+    "ccn": "241340",
+    "hospital_name": "ESSENTIA HEALTH NORTHERN PINES",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "4eac9f5c-eebc-4baa-93d3-69b754cf92da",
+    "ccn": "241342",
+    "hospital_name": "ORTONVILLE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8030/411369442_ortonville-area-health-services_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/OrtonvilleAreaHealth/8030"
+  },
+  {
+    "detail_id": "d9e1d651-51bf-4aa3-9142-315b6c08ec7b",
+    "ccn": "241343",
+    "hospital_name": "AVERA GRANITE FALLS HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "6c784a16-13b3-4c0c-9e61-b9b19db5971e",
+    "ccn": "241344",
+    "hospital_name": "LIFECARE MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRoseau&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LifeCare_V2.aspx"
+  },
+  {
+    "detail_id": "2dcf91c0-d49a-4dee-8636-acbb35680d10",
+    "ccn": "241345",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM WASECA",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/411236756_mayo-clinic-health-system-waseca_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/locations/waseca/billing/pricing"
+  },
+  {
+    "detail_id": "7c4dd0db-072c-413b-8ee8-b5a4246bd90d",
+    "ccn": "241346",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM CANNON FALLS",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/411404075_mayo-clinic-health-system-cannon-falls_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "d9f8a4f2-a33f-45cc-909e-57facfb3f57d",
+    "ccn": "241347",
+    "hospital_name": "SANFORD CANBY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8375/460388596_sanford-canby-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordCanbyMedicalCenter/8375"
+  },
+  {
+    "detail_id": "08266756-2b7f-4263-8c81-619e96446286",
+    "ccn": "241350",
+    "hospital_name": "ESSENTIA HEALTH-MOOSE LAKE",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "5868b699-1e4b-4017-acab-4d2a844f32f8",
+    "ccn": "241351",
+    "hospital_name": "CENTRACARE REDWOOD HOSPITAL",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "24bd8768-d310-45d3-8a4c-cc7feb07b766",
+    "ccn": "241353",
+    "hospital_name": "CUYUNA REGIONAL MEDICAL CENTER CROSBY",
+    "file_url": "https://www.cuyunamed.org/wp-content/uploads/2025/03/411724637_cuyuna-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.cuyunamed.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "803d7fef-638a-4a71-888d-a48c4899625a",
+    "ccn": "241354",
+    "hospital_name": "ASTERA HEALTH MAIN CAMPUS",
+    "file_url": "https://asterahealth.org/wp-content/uploads/2025/12/410713913_astera-health_standardcharges.csv",
+    "transparency_page": "https://asterahealth.org/wp-content/uploads/2025/12/cms-hpt.txt"
+  },
+  {
+    "detail_id": "49bc846a-3df4-4218-abb4-d93cbe5d2ccf",
+    "ccn": "241355",
+    "hospital_name": "GLENCOE REGIONAL HEALTH",
+    "file_url": "https://glencoehealth.org/wp-content/uploads/2025/04/411949230_glencoe-regional-health-services_standardcharges.csv",
+    "transparency_page": "https://glencoehealth.org/billing-and-insurance/billing-information/"
+  },
+  {
+    "detail_id": "79a3ef6a-b59d-4d59-aa17-77dd60a8ae52",
+    "ccn": "241356",
+    "hospital_name": "MILLE LACS HEALTH SYSTEM",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/9372d935-a8ce-495b-bbed-e139e5c922cf/410785161_MILLE-LACS-HEALTH-SYSTEM_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=9372d935-a8ce-495b-bbed-e139e5c922cf"
+  },
+  {
+    "detail_id": "0353a927-202c-4969-a749-90978ac09c72",
+    "ccn": "241357",
+    "hospital_name": "ESSENTIA HEALTH FOSSTON CLINIC",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "de9e1992-b1f0-49b3-8a93-65187ac61754",
+    "ccn": "241360",
+    "hospital_name": "ESSENTIA HEALTH DEER RIVER",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "866e154d-39a6-4c3d-8d35-cc759f6dd35b",
+    "ccn": "241363",
+    "hospital_name": "STEVENS COMMUNITY MED CENTER",
+    "file_url": "https://drive.google.com/file/d/15gWlMubQ7agq1sAq3CMWjcnJlPKycTEy/view?usp=sharing",
+    "transparency_page": "https://www.scmcinc.org/patient_resources/chargemaster-shoppable-charges/"
+  },
+  {
+    "detail_id": "b968e33a-49d6-48cd-b02d-1971d80c3a79",
+    "ccn": "241364",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "file_url": "https://cloquethospital.com/wp-content/uploads/2024/12/410743546_community-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://cloquethospital.com/billing/"
+  },
+  {
+    "detail_id": "3252d376-451a-4840-8e23-076cad6692c9",
+    "ccn": "241365",
+    "hospital_name": "CENTRACARE - BENSON HOSPITAL",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "d43eca23-2ff5-4b57-8c0c-bebdbe9c16a8",
+    "ccn": "241366",
+    "hospital_name": "MEEKER MEMORIAL HOSPITAL",
+    "file_url": "https://meeker.pt.panaceainc.com/MRFDownload/meeker/meeker",
+    "transparency_page": "https://www.meekermemorial.org/"
+  },
+  {
+    "detail_id": "a3f39395-114d-4274-bdbd-7f369fb66bf3",
+    "ccn": "241368",
+    "hospital_name": "CENTRACARE SAUK CENTRE HOSPITAL",
+    "file_url": "https://www.centracare.com/app/files/public/f420426d-7940-495f-88ca-aba344457e49/920754820_centracare-benson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centracare.com/patient-resources/estimates/pricing/"
+  },
+  {
+    "detail_id": "d0b22869-db8e-4602-8a51-08bc28ba7dee",
+    "ccn": "241369",
+    "hospital_name": "UNITED HOSPITAL DISTRICT",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8132/454165628_united-hospital-district-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnitedHospitalDistrict/8132"
+  },
+  {
+    "detail_id": "cf2cf8dd-c2f5-464c-b026-7dc5590f6c73",
+    "ccn": "241370",
+    "hospital_name": "CHI ST GABRIELS HOSPITAL",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-2025/umw/410721642_chi-st-gabriels-health_standardcharges.csv?adobe_mc=MCMID=47305907076111227494616949278145012020",
+    "transparency_page": "https://www.chistgabriels.com/standard-charges/"
+  },
+  {
+    "detail_id": "0669b6a5-2d90-414a-a9d9-ccbd830576be",
+    "ccn": "241371",
+    "hospital_name": "SANFORD LUVERNE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8367/460388596_sanford-luverne-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordLuverneMedicalCenter/8367"
+  },
+  {
+    "detail_id": "021a08ed-59c9-4957-84d8-e6b4555fc70b",
+    "ccn": "241372",
+    "hospital_name": "MADISON HEALTHCARE",
+    "file_url": "https://mhsmn.org/wp-content/uploads/2024/12/411653496_madison-healthcare-services_standardcharges.csv",
+    "transparency_page": "https://mhsmn.org/patients-visitors/financial-services/current-standard-hospital-charges/"
+  },
+  {
+    "detail_id": "b2eab0fb-29e7-4a15-9ad9-17db5c7b3bfc",
+    "ccn": "241373",
+    "hospital_name": "PERHAM HEALTH CLINIC",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHPERHAMMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Perham_V2.aspx"
+  },
+  {
+    "detail_id": "8497b09b-697e-4e11-91b5-bda7202d7a59",
+    "ccn": "241375",
+    "hospital_name": "MINNESOTA VALLEY HEALTH CENTER INC. DBA RIDGEVIEW LESUEUR",
+    "file_url": "https://www.ridgeviewmedical.org/app/files/public/a0e85442-7934-46a5-92c3-5375599465e9/311667875_ridgeview-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.ridgeviewmedical.org/patients-visitors/financial/request-estimate/"
+  },
+  {
+    "detail_id": "04674a02-3c57-4f5d-96ec-7de813dbc511",
+    "ccn": "241376",
+    "hospital_name": "GLACIAL RIDGE HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGRHSGLENWOODMN&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Glacial_Ridge.aspx"
+  },
+  {
+    "detail_id": "f5fd9e95-4106-44b1-a1e3-a36a559d44ce",
+    "ccn": "241377",
+    "hospital_name": "ST FRANCIS HEALTHCARE CAMPUS",
+    "file_url": "https://www.chistfrancishealth.org/content/dam/sfcareorg/website/workfiles/price-transparency-2025/410695598_chi-st-francis-health_standardcharges.csv",
+    "transparency_page": "https://www.chistfrancishealth.org/patient-visitor-information/financial-payments/price-transparency/standard-charges"
+  },
+  {
+    "detail_id": "7dd96ab1-7d07-4946-882f-5ea0f798349a",
+    "ccn": "241378",
+    "hospital_name": "NEW ULM MEDICAL CENTER",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_new-ulm-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "e2cc6f78-ac56-4ac4-91a1-a71afca006d4",
+    "ccn": "241379",
+    "hospital_name": "ELBOW LAKE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10082/411763968_prairie-ridge-hospital-and-health-services_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/LakeRegionHealthcareElbowLake/10082"
+  },
+  {
+    "detail_id": "74ba3c14-504a-4a43-a129-ff8d0fe71c4f",
+    "ccn": "241381",
+    "hospital_name": "SANFORD THIEF RIVER FALLS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8386/450409348_sanford-thief-river-falls-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordThiefRiverFallsMedicalCenter/8386"
+  },
+  {
+    "detail_id": "2ca3ac30-8c66-4652-9760-1a7b2d6bfe41",
+    "ccn": "242005",
+    "hospital_name": "REGENCY MINNEAPOLIS",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/20-1186605_Regency_Hospital_of_Minneapolis_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "885c1568-9b5e-4349-92e5-b6fed589d33f",
+    "ccn": "243300",
+    "hospital_name": "GILLETTE CHILDREN'S",
+    "file_url": "https://www.gillettechildrens.org/assets/uploads/documents/2025-Pricing-Transparency-Publish.xlsx",
+    "transparency_page": "https://www.gillettechildrens.org/your-visit/patient-services-and-resources/understand-costs-insurance-and-the-gillette-assistance-program/understand-gillette-costs"
+  },
+  {
+    "detail_id": "63c89e65-5139-4350-8dda-240bc773bf06",
+    "ccn": "244018",
+    "hospital_name": "SANFORD THIEF RIVER FALLS BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8386/450409348_sanford-thief-river-falls-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordThiefRiverFallsMedicalCenter/8386"
+  },
+  {
+    "detail_id": "22dee0a8-6a46-4190-9893-7985e339613c",
+    "ccn": "249801",
+    "hospital_name": "MAYO CLINIC ROCHESTER HOSPITAL METHODIST CAMPUS",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/410944601_mayo-clinic-hospital-rochester_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinic.org/billing-insurance/price-estimates/chargemaster"
+  }
+]

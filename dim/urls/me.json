@@ -1,0 +1,177 @@
+[
+  {
+    "detail_id": "98985337-ffd0-43e8-b7cf-ccd107c0be55",
+    "ccn": "200001",
+    "hospital_name": "SAINT JOSEPH HOSPITAL",
+    "file_url": "https://stjosephbangor.org/CMS%20Files/010212435_st-joseph-hospital_standardcharges.csv",
+    "transparency_page": "https://stjosephbangor.org/pricing/"
+  },
+  {
+    "detail_id": "306cdfa1-a00f-4a91-a344-85c1cc8687e1",
+    "ccn": "200009",
+    "hospital_name": "MAINE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7975/010238552-1760436216_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/mainemedicalcenter/7975"
+  },
+  {
+    "detail_id": "fe548e80-2b74-4891-bd5c-2f78a00dca42",
+    "ccn": "200018",
+    "hospital_name": "NORTHERN LIGHT A R GOULD HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=6ca53845f61d792deee99c0bd511f761f55a57767d337a28dedf5630ebfa61ba",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  },
+  {
+    "detail_id": "b789d147-8769-4b3c-b1cb-e8f4ca364cc4",
+    "ccn": "200019",
+    "hospital_name": "MAINEHEALTH MAINE MEDICAL CENTER BIDDEFORD",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8193/010238552-1760436216_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SouthernMaineMedicalCenter/8193"
+  },
+  {
+    "detail_id": "9cf0c157-ef44-4491-80a5-910e0fb43119",
+    "ccn": "200020",
+    "hospital_name": "YORK HOSPITAL MAIN CAMPUS",
+    "file_url": "https://www.yorkhospital.com/download_file/view/e705f507-5b4d-414a-8e1a-0da2189d32d7/286",
+    "transparency_page": "https://www.yorkhospital.com/patients-and-visitors/patient-price-list"
+  },
+  {
+    "detail_id": "9d2d06fc-d4c8-4865-a4c3-068fd6232061",
+    "ccn": "200021",
+    "hospital_name": "MID COAST HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8025/010238552-1932164795_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MidCoastHospital/8025"
+  },
+  {
+    "detail_id": "92dee477-2fc5-400a-b283-f7d3c353546c",
+    "ccn": "200034",
+    "hospital_name": "SAINT MARYS REGIONAL MEDICAL CENTER",
+    "file_url": "https://stmarysmaine.com/CMS%20Files/010211551_st-mary-_s-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://stmarysmaine.com/pricing/"
+  },
+  {
+    "detail_id": "28fefa97-8cec-4a11-90d4-fc6e5bf4c19d",
+    "ccn": "200050",
+    "hospital_name": "NORTHERN LIGHT MAINE COAST HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=a3f4d3364cadfc886d03299ec26304cd27c08fda8a0f9034a64aba31b644bb84",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  },
+  {
+    "detail_id": "bb92185e-9827-46f6-acc3-c6ca96a7f86a",
+    "ccn": "200052",
+    "hospital_name": "NORTHERN MAINE MEDICAL CENTER",
+    "file_url": "https://nmmc.org/wp-content/uploads/2025/04/010234189_northern-maine-medical-center_standardcharges.csv",
+    "transparency_page": "https://nmmc.org/billing-and-financial-services/#pricing-and-estimates"
+  },
+  {
+    "detail_id": "52e715e1-c39d-400b-9186-2851414da2c2",
+    "ccn": "200063",
+    "hospital_name": "PEN BAY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7976/010238552-1982645305_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/penbaymedicalcenter/7976"
+  },
+  {
+    "detail_id": "cedb898a-6169-487c-aa98-6398532dc23d",
+    "ccn": "201300",
+    "hospital_name": "NORTHERN LIGHT BLUE HILL MEMORIAL HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=b1562d7d2deeb17779fe4529a62f85f274be546e88b739f69dcbc279c9e712f9",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  },
+  {
+    "detail_id": "a4d893c9-5749-47b6-b534-695221fb65ba",
+    "ccn": "201301",
+    "hospital_name": "NORTHERN LIGHT CA DEAN HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=a71d77cf48b4ce47a61b14896ec8120dfa6cde23fba677aafe8637927b60a714",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  },
+  {
+    "detail_id": "b7430804-5608-4d37-9a57-1c2bf7ab2a71",
+    "ccn": "201302",
+    "hospital_name": "MAINEHEALTH LINCOLN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7981/010238552-1912094806_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/mainehealthlincolnhealth/7981"
+  },
+  {
+    "detail_id": "ced40bcb-58d6-464a-8316-197448e70d05",
+    "ccn": "201303",
+    "hospital_name": "PENOBSCOT VALLEY HOSPITAL",
+    "file_url": "https://pvhme.org/files/price-transparency/01-0545327_PenobscotValleyHospital_StandardCharges.csv",
+    "transparency_page": "https://pvhme.org/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "9dff6904-e055-4008-8b34-816ab5a62da6",
+    "ccn": "201304",
+    "hospital_name": "MOUNT DESERT ISLAND HOSPITAL",
+    "file_url": "https://www.mdihospital.org/wp-content/uploads/2025/05/010211797_Mount-Desert-Island-Hospital_standardcharges-51925.csv",
+    "transparency_page": "https://www.mdihospital.org/insurance-and-billing/pricing/"
+  },
+  {
+    "detail_id": "72e21ac6-06d6-4380-bd2a-35024bbfb161",
+    "ccn": "201305",
+    "hospital_name": "CALAIS COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/IJLS-1755124586280/machine-readable",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/calais-community-hospital-me"
+  },
+  {
+    "detail_id": "1a25e121-da47-4fe5-a4b0-90694acec22f",
+    "ccn": "201306",
+    "hospital_name": "RUMFORD HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=V8LVC0GBOUSmqObVjP0fEg*-*",
+    "transparency_page": "https://www.cmhc.org/patients-and-visitors/billing-financial-information/price-transparency/"
+  },
+  {
+    "detail_id": "7e5c32ea-9bf5-42fd-9495-b6ebd1100765",
+    "ccn": "201307",
+    "hospital_name": "MILLINOCKET REGIONAL HOSPITAL",
+    "file_url": "https://www.mrhme.org/wp-content/uploads/2024/11/MRH-CDM-Export-w_-Price-7.1.24.xlsx",
+    "transparency_page": "https://www.mrhme.org/patient-resources/hospital-pricing/"
+  },
+  {
+    "detail_id": "355d08d7-4604-414a-aafc-fa7f7a4711ca",
+    "ccn": "201310",
+    "hospital_name": "BRIDGTON HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=eF2tefkSNd6xkGhT8EQjiQ*-*",
+    "transparency_page": "https://www.cmhc.org/patients-and-visitors/billing-financial-information/price-transparency/"
+  },
+  {
+    "detail_id": "66f49149-05a0-42ea-bcb7-4297a26c7faa",
+    "ccn": "201312",
+    "hospital_name": "WALDO COUNTY GENERAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7977/010238552-1841397932_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/waldocountygeneralhospital/7977"
+  },
+  {
+    "detail_id": "7e5f7727-3bb8-41d1-9c81-d21a29b0963b",
+    "ccn": "201313",
+    "hospital_name": "SEBASTICOOK VALLEY HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=b8013b675125762a9a7bc045f10c06640fc1696b2d2883058b68da9743102ccd",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  },
+  {
+    "detail_id": "34c3a42c-157e-4d31-97ef-f69d6e73ae99",
+    "ccn": "201314",
+    "hospital_name": "REDINGTON-FAIRVIEW GENERAL HOSPITAL",
+    "file_url": "https://s3.us-east-1.amazonaws.com/webassets.rfgh.net/documents/Standard+charge+file+-+Jan+1+2025+-+no+formulas+Updated+CSV+(3).csv",
+    "transparency_page": "https://www.rfgh.net/patientinformation/price-transparency.xhtml"
+  },
+  {
+    "detail_id": "be2c2790-74c2-4ef4-aa1e-e7ade152a8f5",
+    "ccn": "201315",
+    "hospital_name": "STEPHENS MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7980/010238552-1346299815_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/stephensmemorialhospital/7980"
+  },
+  {
+    "detail_id": "1c3f705b-1bdc-444d-ba7e-93b2e7551f70",
+    "ccn": "204005",
+    "hospital_name": "SPRING HARBOR HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8065/010238552-1598798787_mainehealth_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/springharborhospital/8065"
+  },
+  {
+    "detail_id": "dfd56056-4e9f-4558-bc93-fee83f056fb1",
+    "ccn": "204006",
+    "hospital_name": "NORTHERN LIGHT ACADIA HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=2ac9082e0fc51d0515f0cedf58e10203fbb3f3bd11fdcc36712e11753460a8b0",
+    "transparency_page": "https://northernlighthealth.org/Resources/Price-Transparency/Standard-Charges/Machine-Readable-Files"
+  }
+]

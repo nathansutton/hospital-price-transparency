@@ -1,0 +1,628 @@
+[
+  {
+    "detail_id": "01d82802-8799-43e8-8a36-cf41fa9adc55",
+    "ccn": "250001",
+    "hospital_name": "THE UNIVERSITY OF MISSISSIPPI MEDICAL CENTER UMMC",
+    "file_url": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/Pricing%20Files/646008520_university-of-mississippi-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/UMMC%20Pricing.html"
+  },
+  {
+    "detail_id": "b3236112-42ec-4b45-9de3-3f05a9da31d3",
+    "ccn": "250002",
+    "hospital_name": "NORTH MS MEDICAL CENTER - IUKA",
+    "file_url": "https://apps.nmhs.net/files/pt_mrf/640741047_tishomingo-health-services-inc_standardcharges.csv",
+    "transparency_page": "https://www.nmhs.net/Patients-and-Visitors/Pricing/Price-Transparency"
+  },
+  {
+    "detail_id": "59631571-c740-42c3-80f0-acb123b7f960",
+    "ccn": "250004",
+    "hospital_name": "NORTH MISSISSIPPI MEDICAL CENTER",
+    "file_url": "https://apps.nmhs.net/files/pt_mrf/640662976_north-mississippi-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://www.nmhs.net/Patients-and-Visitors/Pricing/Price-Transparency"
+  },
+  {
+    "detail_id": "745a83bc-17e9-4847-901d-d5286f36c8aa",
+    "ccn": "250006",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL - UNION COUNTY",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/630997281_baptist-memorial-hospitalunion-county_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "0702f0b3-fef3-44e6-a4b1-f4872684265f",
+    "ccn": "250007",
+    "hospital_name": "MEMORIAL HOSPITAL BILOXI",
+    "file_url": "https://memorialhealthsystem.pt.panaceainc.com/MRFDownload/memorialhealthsystem/memorialbiloxi",
+    "transparency_page": "https://wearememorial.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "a7d2685e-98f7-40eb-afa8-22b62db98465",
+    "ccn": "250009",
+    "hospital_name": "MAGNOLIA REGIONAL HEALTH CENTER",
+    "file_url": "https://pricetransparency.blob.core.windows.net/magnoliaregionalhealthcenter/64-0428003_Magnolia-Regional-Health-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/magnolia"
+  },
+  {
+    "detail_id": "06fb3ad8-c593-463f-bf4d-8d4818efe5d1",
+    "ccn": "250018",
+    "hospital_name": "JASPER GENERAL HOSPITAL",
+    "file_url": "https://docs.google.com/spreadsheets/d/10RAcULAd8tf3T4lyBor4qjQ729HRhM-rq9dj9Milt10/edit?gid=0#gid=0",
+    "transparency_page": "https://www.jaspergeneralhospital.com/home/hospital-charges"
+  },
+  {
+    "detail_id": "ee0bd1d6-fc73-4480-b7a9-9caf0549f0d4",
+    "ccn": "250019",
+    "hospital_name": "MEMORIAL HOSPITAL AT GULFPORT",
+    "file_url": "https://memorialhealthsystem.pt.panaceainc.com/MRFDownload/memorialhealthsystem/memorialgulfport",
+    "transparency_page": "https://wearememorial.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "a4022f3e-0452-4a29-a947-536fdfd5352d",
+    "ccn": "250020",
+    "hospital_name": "NORTH MS MEDICAL CENTER - EUPORA",
+    "file_url": "https://apps.nmhs.net/files/pt_mrf/640819193_webster-health-services-inc_standardcharges.csv",
+    "transparency_page": "https://www.nmhs.net/Patients-and-Visitors/Pricing/Price-Transparency"
+  },
+  {
+    "detail_id": "6ed8a865-7ad7-45d3-8d84-f8448dc85c61",
+    "ccn": "250027",
+    "hospital_name": "WINSTON MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWMCLOUISVILLEMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Winston_V2.aspx"
+  },
+  {
+    "detail_id": "1740b3e4-b83d-4a02-bc1e-9e12f7759ff5",
+    "ccn": "250031",
+    "hospital_name": "MERIT HEALTH RIVER REGION",
+    "file_url": "https://www.merithealthriverregion.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621752111_merit-health-river-region_standardcharges.csv",
+    "transparency_page": "https://www.merithealthriverregion.com/pricing-information"
+  },
+  {
+    "detail_id": "b6f0ca6a-6f8e-48e3-a9fd-4e774c5a963e",
+    "ccn": "250034",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL NORTH MS",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/640772726_baptist-memorial-hospitalnorth-mississippi_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "fc3a7cec-9b8e-43eb-82a1-f9379c63ce33",
+    "ccn": "250038",
+    "hospital_name": "UMMC MADISON",
+    "file_url": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/Pricing%20Files/646008520_university-of-mississippi-medical-center-madison_standardcharges.csv",
+    "transparency_page": "https://www.umc.edu/pricing"
+  },
+  {
+    "detail_id": "b3331efe-2065-4038-a8b8-4e37faa8422b",
+    "ccn": "250040",
+    "hospital_name": "PASCAGOULA HOSPITAL",
+    "file_url": "https://singingriverhealthsystem.com/wp-content/uploads/646000515_Pascagoula-Hospital-_standardcharges.csv",
+    "transparency_page": "https://singingriverhealthsystem.com/patients-and-visitors/billing-and-records/chargemaster/"
+  },
+  {
+    "detail_id": "39fb101c-5a8f-4ab8-bfda-9af19f537f6a",
+    "ccn": "250042",
+    "hospital_name": "NORTHWEST REGIONAL",
+    "file_url": "https://nwmrmc.org/646001574%20northwest-miss-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://nwmrmc.org/price.html"
+  },
+  {
+    "detail_id": "1fe33493-770b-4207-adac-d4f052725034",
+    "ccn": "250043",
+    "hospital_name": "NESHOBA GENERAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNCGHPHILADELPHIAMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Neshoba_V3.aspx"
+  },
+  {
+    "detail_id": "089d6292-1cd6-4d8e-b905-5e1df4490f73",
+    "ccn": "250048",
+    "hospital_name": "ST. DOMINIC HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbstdominicjackson&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "8460aa60-1270-4dbc-9f3d-bc335fd6ae11",
+    "ccn": "250049",
+    "hospital_name": "BEACHAM MEMORIAL HOSPITAL",
+    "file_url": "https://freedombehavioral.com/wp-content/uploads/2025/03/811097331_beacham_memorial_hospital_standardcharges28.csv",
+    "transparency_page": "https://freedombehavioral.com/price-transparency/"
+  },
+  {
+    "detail_id": "b7f31d63-127a-4ad9-8d39-d547f06a74d2",
+    "ccn": "250050",
+    "hospital_name": "OCH REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.och.org/wp-content/uploads/2024/08/640524079_oktibbeha-county-hospital_standardcharges.xlsx",
+    "transparency_page": "https://www.och.org/chargemaster/"
+  },
+  {
+    "detail_id": "2439acf4-5af4-49dd-a952-adc36f01940a",
+    "ccn": "250057",
+    "hospital_name": "KING'S DAUGHTERS MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/20c6d05ed42cc9cface0df3db5e3805f/charges/mrf",
+    "transparency_page": "https://www.kdmc.org/patients-visitors/billing/pricing-transparency/"
+  },
+  {
+    "detail_id": "4ad1a9fe-5c9a-40b0-9e7b-244c5f7c1ed4",
+    "ccn": "250058",
+    "hospital_name": "SOUTH CENTRAL REGIONAL MEDICAL CENTER",
+    "file_url": "https://scrmc.com/price-transparency/646001540_south-central-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://scrmc.com/"
+  },
+  {
+    "detail_id": "b1e420cd-f2c0-49d7-8250-8428a1d0d8d4",
+    "ccn": "250067",
+    "hospital_name": "NORTH MISSISSIPPI MEDICAL CENTER WEST POINT",
+    "file_url": "https://apps.nmhs.net/files/pt_mrf/640668465_clay-county-medical-corporation_standardcharges.csv",
+    "transparency_page": "https://www.nmhs.net/Patients-and-Visitors/Pricing/Price-Transparency"
+  },
+  {
+    "detail_id": "c70e2613-810e-41fd-a9db-421139277eba",
+    "ccn": "250069",
+    "hospital_name": "OCHSNER RUSH MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/640345119_rush-medical-foundation_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "e7e4342c-8c3c-4c1f-88bc-bb72bc803b8a",
+    "ccn": "250072",
+    "hospital_name": "MERIT HEALTH CENTRAL",
+    "file_url": "https://www.merithealthcentral.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640907122_merit-health-central_standardcharges.csv",
+    "transparency_page": "https://www.merithealthcentral.com/pricing-information"
+  },
+  {
+    "detail_id": "cdda4ba3-b232-41bb-9a00-41de47c09ca4",
+    "ccn": "250077",
+    "hospital_name": "WAYNE GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWGHWWAYNESBOROMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Wayne_General.aspx"
+  },
+  {
+    "detail_id": "f9f6344b-59e5-4a82-9b44-b1175e7e368b",
+    "ccn": "250078",
+    "hospital_name": "FORREST GENERAL HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "1c92f07e-32a6-4d8f-85cb-5310ada762f7",
+    "ccn": "250081",
+    "hospital_name": "ANDERSON REGIONAL MEDICAL CENTER SOUTH",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/640362400_baptist-anderson-regional-medical-center--south_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "b11a5d1b-9fd6-42c9-abc9-7ebcca88f3ce",
+    "ccn": "250082",
+    "hospital_name": "DELTA REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.deltahealthsystem.org/documents/640586958_delta-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.deltahealthsystem.org/patients-visitors/billing/price-estimate-information/chargemaster-transparency/"
+  },
+  {
+    "detail_id": "25842768-a6a4-40ce-be66-488f12148763",
+    "ccn": "250084",
+    "hospital_name": "MERIT HEALTH NATCHEZ",
+    "file_url": "https://www.merithealthnatchez.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640833457_merit-health-natchez_standardcharges.csv",
+    "transparency_page": "https://www.merithealthnatchez.com/pricing-information"
+  },
+  {
+    "detail_id": "ed73e701-d1d0-4c48-a494-f253269681ab",
+    "ccn": "250085",
+    "hospital_name": "MARION GENERAL HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "b8cf91a7-f1e6-48e9-b2e9-cdb196526b8d",
+    "ccn": "250093",
+    "hospital_name": "BOLIVAR MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=eoROtF*_*Ds07dFfOoe4qILQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=eoROtF*_*Ds07dFfOoe4qILQ*-*"
+  },
+  {
+    "detail_id": "aee3fd4a-c23f-46db-872a-aec562a9d9bc",
+    "ccn": "250094",
+    "hospital_name": "MERIT HEALTH WESLEY",
+    "file_url": "https://www.merithealthwesley.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522050792_merit-health-wesley_standardcharges.csv",
+    "transparency_page": "https://www.merithealthwesley.com/pricing-information"
+  },
+  {
+    "detail_id": "d54935ce-c912-4127-99f7-1bff060bb413",
+    "ccn": "250095",
+    "hospital_name": "SOUTH SUNFLOWER COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSSCHINDIANOLAMS&type=CDMWithoutLabel",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SouthSunflower_V3.aspx?sub=Patients%20and%20Visitors"
+  },
+  {
+    "detail_id": "5a3c0268-0ac0-491c-af40-1f06fbc9e36b",
+    "ccn": "250096",
+    "hospital_name": "MERIT HEALTH RANKIN",
+    "file_url": "https://www.merithealthrankin.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640885458_merit-health-rankin_standardcharges.csv",
+    "transparency_page": "https://www.merithealthrankin.com/pricing-information"
+  },
+  {
+    "detail_id": "a97aa3df-1d74-4f08-b32b-94198417e4a5",
+    "ccn": "250097",
+    "hospital_name": "SOUTHWEST MS REGIONAL MEDICAL CENTER",
+    "file_url": "https://pricetransparency.blob.core.windows.net/smrmc/640468873_Southwest-Mississippi-Regional-Medical-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/southwestms"
+  },
+  {
+    "detail_id": "de2c7f39-a829-477b-8a69-0b9fbfd2c627",
+    "ccn": "250099",
+    "hospital_name": "GREENWOOD LEFLORE HOSPITAL",
+    "file_url": "https://pricetransparency-cdn.azureedge.net/greenwoodleflore/64-6000400_Greenwood-Leflore-Hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/greenwoodleflore"
+  },
+  {
+    "detail_id": "6b2a0128-e25f-4404-8a19-5f76df762d60",
+    "ccn": "250100",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL - GOLDEN TRIANGLE",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/621519754_baptist-memorial-hospitalgolden-triangle_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "4e73a45e-ac78-42b0-896d-88ce01c92bd4",
+    "ccn": "250102",
+    "hospital_name": "MISSISSIPPI BAPTIST MEDICAL CENTER JACKSON",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/640881013_mississippi-baptist-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "29a4a8a7-7490-40f9-8628-00b659fe5155",
+    "ccn": "250104",
+    "hospital_name": "ANDERSON REGIONAL MEDICAL CENTER",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/640362400_baptist-anderson-regional-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "d3bc0883-82b4-4dbf-9209-089cd92ca534",
+    "ccn": "250117",
+    "hospital_name": "HIGHLAND COMMUNITY HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "22dcd133-11d0-49a9-bee4-36c86770e1a7",
+    "ccn": "250123",
+    "hospital_name": "SINGING RIVER GULFPORT",
+    "file_url": "https://singingriverhealthsystem.com/wp-content/uploads/851538878_Singing-River-Gulfport-_standardcharges.csv",
+    "transparency_page": "https://singingriverhealthsystem.com/patients-and-visitors/billing-and-records/chargemaster/"
+  },
+  {
+    "detail_id": "3eabffb9-bbad-4e1c-add4-a8773289eccb",
+    "ccn": "250124",
+    "hospital_name": "MAGEE GENERAL HOSPITAL",
+    "file_url": "https://mghosp.org/wp-content/uploads/2025/10/640324402_Magee-Benevolent-Association_standardcharges.csv",
+    "transparency_page": "https://mghosp.org/price-transparency/"
+  },
+  {
+    "detail_id": "7787e0c3-9051-49e1-8b9e-1694d38b3d79",
+    "ccn": "250136",
+    "hospital_name": "MERIT HEALTH WOMEN'S HOSPITAL",
+    "file_url": "https://www.merithealthwomanshospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640780035_merit-health-womans-hospital_standardcharges.csv",
+    "transparency_page": "https://www.merithealthwomanshospital.com/pricing-information"
+  },
+  {
+    "detail_id": "56f6797c-2768-44cf-b286-9bb5cb419fc4",
+    "ccn": "250138",
+    "hospital_name": "MERIT HEALTH RIVER OAKS",
+    "file_url": "https://www.merithealthriveroaks.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640626874_merit-health-river-oaks_standardcharges.csv",
+    "transparency_page": "https://www.merithealthriveroaks.com/pricing-information"
+  },
+  {
+    "detail_id": "aa2070e7-194a-496f-9643-c32c859a8a97",
+    "ccn": "250151",
+    "hospital_name": "ALLIANCE HEALTH CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/640777521_alliance_standardcharges.csv",
+    "transparency_page": "https://alliancehealthcenter.com/standard-services/"
+  },
+  {
+    "detail_id": "e7847fe8-c44f-46ed-a022-465e1c852b63",
+    "ccn": "250152",
+    "hospital_name": "MS METHODIST REHABILITATION CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMRCJACKSONMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.methodistonline.org/price-transparency"
+  },
+  {
+    "detail_id": "c9520420-ab81-487f-a544-ec0c13c1e5e7",
+    "ccn": "250162",
+    "hospital_name": "OCHSNER MEDICAL CENTER HANCOCK",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/822869576_ochsner-medical-center-%E2%80%93-hancock-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "04f7634c-3d39-4ba8-86c3-b38fa7a07d71",
+    "ccn": "250167",
+    "hospital_name": "METHODIST OLIVE BRANCH HOSPITAL",
+    "file_url": "https://www.methodisthealth.org/files/financial-assistance/insurance-billing/OliveBMLH_MLH_FullCDM_PriceTransparency_METHODIST_OLIVE_BRANCH_HOSPITAL.csv",
+    "transparency_page": "https://www.methodisthealth.org/financial-assistance/price-transparency"
+  },
+  {
+    "detail_id": "72a79650-8fdc-46dd-a761-95db462dfc30",
+    "ccn": "250168",
+    "hospital_name": "UNIVERSITY OF MISSISSIPPI MEDICAL CENTER - GRENADA",
+    "file_url": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/Pricing%20Files/646008520_university-of-mississippi-grenada_standardcharges.csv",
+    "transparency_page": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/UMMC%20Pricing.html"
+  },
+  {
+    "detail_id": "86722f7d-7ded-41e9-9144-ec5518786e3f",
+    "ccn": "250172",
+    "hospital_name": "HIGHLAND HILLS MEDICAL CENTER",
+    "file_url": "https://highlandhills.pg.quadax.revenuemasters.com/cdm-files/922135241_tate-county-hospital-dba-highland-hills-medical-center_standardcharges.csv",
+    "transparency_page": "https://highlandhills.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "e663114e-2479-4a90-a0c0-90d5ea8b5314",
+    "ccn": "251300",
+    "hospital_name": "LACKEY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSLCAFORESTMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LackeyMemorial.aspx"
+  },
+  {
+    "detail_id": "eff05f4b-0b7a-4765-b1eb-f90bc40b133a",
+    "ccn": "251302",
+    "hospital_name": "MONROE REGIONAL HOSPITAL",
+    "file_url": "https://monroeregionalhospital.com/wp-content/uploads/2025/03/821859395_monroe-regional-hospital_standardchargesin.csv",
+    "transparency_page": "https://monroeregionalhospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "c088a0dd-4451-4bb7-9682-25a39ff19d10",
+    "ccn": "251304",
+    "hospital_name": "TALLAHATCHIE GENERAL HOSPITAL",
+    "file_url": "https://mytgh.com/wp-content/uploads/2025/02/646010664_tallahatchie-general-hospital_standardcharges.csv",
+    "transparency_page": "https://mytgh.com/price-transparency"
+  },
+  {
+    "detail_id": "03780e6f-73f0-4fe7-85ca-4ba5015fa08e",
+    "ccn": "251305",
+    "hospital_name": "LAWRENCE COUNTY HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/smrmc/640468873_Lawrence-County-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/southwestms"
+  },
+  {
+    "detail_id": "6355710d-9a42-4b1d-9e8e-8e9a3a7fdb34",
+    "ccn": "251306",
+    "hospital_name": "PERRY COUNTY GENERAL HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "43133f96-0c2a-4716-a915-d52f306594fd",
+    "ccn": "251307",
+    "hospital_name": "NOXUBEE GENERAL HOSPITAL",
+    "file_url": "https://a27d8bef-da4e-4fa0-9e3b-83c28b7fb454.usrfiles.com/ugd/a27d8b_9d82b0e8a9ae4bb59d292b04e35ec2f1.csv",
+    "transparency_page": "https://www.ngcah.com/price-transparency"
+  },
+  {
+    "detail_id": "acb14f4f-6730-4b76-8acf-d20d724f91cf",
+    "ccn": "251308",
+    "hospital_name": "NORTH MISSISSIPPI MEDICAL CENTER-PONTOTOC",
+    "file_url": "https://apps.nmhs.net/files/pt_mrf/640751410_pontotoc-health-services-inc_standardcharges.csv",
+    "transparency_page": "https://www.nmhs.net/Patients-and-Visitors/Pricing/Price-Transparency"
+  },
+  {
+    "detail_id": "f09c9d6d-f50f-4479-b768-df3b12525ae5",
+    "ccn": "251309",
+    "hospital_name": "FIELD MEMORIAL COMMUNITY HOSPITAL",
+    "file_url": "http://fhsms.org/wp-content/uploads/2025/03/646009174_field-health-system_standardcharges.csv",
+    "transparency_page": "https://fhsms.org/patient-resources/"
+  },
+  {
+    "detail_id": "992b3f9b-4bb0-44cb-bf83-d38a98c49239",
+    "ccn": "251312",
+    "hospital_name": "TYLER HOLMES MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTHMHWINONAMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/TylerHolmes_V2.aspx"
+  },
+  {
+    "detail_id": "20c92598-5f0e-4df5-b6fa-56fc2a899ffb",
+    "ccn": "251313",
+    "hospital_name": "BAPTIST MEDICAL CENTER YAZOO",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/640844470_baptist-medical-center--yazoo-inc_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "14ff3a27-881c-489c-bafe-6a57dc1ab002",
+    "ccn": "251315",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL-LEAKE",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/452896080_baptist-medical-center--leake-inc_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "49814510-2a97-402c-8246-9e5a91773073",
+    "ccn": "251316",
+    "hospital_name": "OCHSNER WATKINS HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/640345119_rush-medical-foundation_standardcharges.csv_2024-12-19-194057_ilhi.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "1b3edaa9-529e-4909-9b53-8f1adbd75e43",
+    "ccn": "251317",
+    "hospital_name": "SIMPSON GENERAL HOSPITAL",
+    "address": "1842 SIMPSON, HIGHWAY 149",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSGHMENDENHALLMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/ptt/Finallinks/Simpson_V3.aspx#"
+  },
+  {
+    "detail_id": "e6873d60-7b89-49bf-b82e-962922d8e24a",
+    "ccn": "251318",
+    "hospital_name": "NORTH SUNFLOWER MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNorthSunflowerMS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/NorthSunflower.aspx"
+  },
+  {
+    "detail_id": "675452c0-eae8-4d71-8867-0a00fbdda48a",
+    "ccn": "251319",
+    "hospital_name": "UMMC HOLMES COUNTY",
+    "file_url": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/Pricing%20Files/646008520_university-of-mississippi-medical-center-holmes-county_standardcharges.csv",
+    "transparency_page": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/UMMC%20Pricing.html"
+  },
+  {
+    "detail_id": "1fa0bbd3-1c2f-43fa-abb5-38fd387a015a",
+    "ccn": "251322",
+    "hospital_name": "OCHSNER LAIRD HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/201835779_laird-hospital-inc._standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "5c414592-ca38-48bf-b7a7-6f58e1dfea84",
+    "ccn": "251324",
+    "hospital_name": "WALTHALL COUNTY GENERAL HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "1e48de43-aeba-494b-bbea-7829fd1cc5df",
+    "ccn": "251325",
+    "hospital_name": "COVINGTON COUNTY HOSPITAL",
+    "file_url": "https://covingtoncountyhospital.com/wp-content/uploads/2025/01/646001549_covingtoncountyhospital_standardcharges-1.csv",
+    "transparency_page": "https://covingtoncountyhospital.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "bd700350-945e-4992-9e2f-c7b74bf5c940",
+    "ccn": "251326",
+    "hospital_name": "JEFFERSON DAVIS COMMUNITY HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "86c4cfd6-3b07-4728-966f-9ab38613c4ae",
+    "ccn": "251327",
+    "hospital_name": "COPIAH COUNTY MEDICAL CENTER",
+    "file_url": "https://copiahcountymedicalcenter.pg.quadax.revenuemasters.com/cdm-files/646001347_copiah-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://copiahcountymedicalcenter.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "778b780e-1f32-44e0-91f6-c4109fab1f3c",
+    "ccn": "251330",
+    "hospital_name": "FRANKLIN COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.fcmh.net/price-transparency/646001390_franklin-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.fcmh.net/price-transparency"
+  },
+  {
+    "detail_id": "e7100e8f-9618-4018-9ede-58e41361822a",
+    "ccn": "251331",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL - CALHOUN",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/813257997_baptist-memorial-hospitalcalhoun_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "36cc3f01-f3d8-4762-9d2b-577086257201",
+    "ccn": "251333",
+    "hospital_name": "PEARL RIVER COUNTY HOSPITAL",
+    "file_url": "http://www.forresthealth.org/app/files/public/a6ddc1d9-4433-4c16-88fd-ba8e248d8fb3/646001587_Forrest-General-Hospital_standardcharges (1).csv",
+    "transparency_page": "http://www.forresthealth.org/patients-visitors/forrest-health-price-transparency/"
+  },
+  {
+    "detail_id": "c8ff39a0-2762-4901-a8bd-526e3c9c2d64",
+    "ccn": "251334",
+    "hospital_name": "CHOCTAW REGIONAL MEDICAL CENTER",
+    "file_url": "http://www.choctawregional.com/wp-content/uploads/2019/01/CRMC-Standard-Charges1.1.csv",
+    "transparency_page": "http://www.choctawregional.com/standard-charges/"
+  },
+  {
+    "detail_id": "577ed634-54a5-4d8a-89eb-67557692416a",
+    "ccn": "251335",
+    "hospital_name": "OCHSNER STENNIS HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/271757642_kemper-cah-inc.-_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "1e536f3b-824c-4ee0-bf82-b5763ba8e2da",
+    "ccn": "251336",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL-ATTALA",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/MS/473684354_baptist-medical-center--attala-inc_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "ee6a3a24-5220-4d83-b366-b7921234ca22",
+    "ccn": "251337",
+    "hospital_name": "TIPPAH COUNTY HOSPITAL",
+    "file_url": "https://www.tippahcountyhospital.com/assets/Uploads/646001350_tippah-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.tippahcountyhospital.com/patients-and-visitors/pricing-transparency/"
+  },
+  {
+    "detail_id": "12823357-c4df-4484-984e-0d59d89a9ceb",
+    "ccn": "252003",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL BELHAVEN",
+    "address": "1225 NORTH STATE STREET, 5TH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/81-2366365_Select_Specialty_Hospital-Belhaven_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "957d2270-b879-4189-9913-6c725b0430a6",
+    "ccn": "252004",
+    "hospital_name": "OCHSNER SPECIALTY HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/640833381_rush-care-inc._standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "a5fa1216-9351-410a-aceb-160946b27f6b",
+    "ccn": "252005",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL GULF COAST",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/64-0859336_Select_Specialty_Hospital-Gulfcoast_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "1d5a07b3-8766-4893-aae9-1a1d33e30f92",
+    "ccn": "252006",
+    "hospital_name": "REGENCY HOSPITAL OF MERIDIAN",
+    "address": "1102 CONSTITUTION AVE., 2ND FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/64-0947034_Regency_Hospital_of_Meridian_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "51f1cad4-fff1-4b22-bb62-de439d7b8926",
+    "ccn": "252007",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - JACKSON",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1880780_Select_Specialty_Hospital-Jackson_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "6b44764e-0a4b-40f3-ba18-e2d37868bd2b",
+    "ccn": "252013",
+    "hospital_name": "ALLEGIANCE SPECIALTY HOSPITAL OF GREENVILLE",
+    "file_url": "https://greenvilleash.com/30-0347987_ALLEGIANCE-SPECIALTY-HOSPITAL-OF-GREENVILLE_standardcharges.csv",
+    "transparency_page": "https://greenvilleash.com/"
+  },
+  {
+    "detail_id": "f40ecce4-9412-4568-9ee7-0a5b754ef29b",
+    "ccn": "253027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/814331986_Encompass-Health-Rehabilitation-Hospital-a-partner-of-Memorial-Hospital-at-Gulfport_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/gulfportrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "1c16fbdb-f1a4-4d92-9894-fccbecb0e210",
+    "ccn": "253461",
+    "hospital_name": "DELTA REGIONAL MEDICAL CENTER - WEST CAMPUS",
+    "file_url": "https://www.deltahealthsystem.org/documents/640586958_delta-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.deltahealthsystem.org/patients-visitors/billing/price-estimate-information/chargemaster-transparency/"
+  },
+  {
+    "detail_id": "36dd6570-6bfb-4112-ab12-99b446b04788",
+    "ccn": "254005",
+    "hospital_name": "PARKWOOD BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044435_parkwood_standardcharges.csv",
+    "transparency_page": "https://parkwoodbhs.com/standard-services/"
+  },
+  {
+    "detail_id": "a31bb134-b746-4e0b-9e35-03a607b82210",
+    "ccn": "254007",
+    "hospital_name": "BRENTWOOD BEHAVIORAL HEALTHCARE",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200773985_brentwood-ms_standardcharges.csv",
+    "transparency_page": "https://brentwoodjackson.com/standard-services/"
+  },
+  {
+    "detail_id": "63832e1c-5cc0-4a27-88d1-235638093416",
+    "ccn": "254011",
+    "hospital_name": "GULFPORT BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/822306092_gulfport_standardcharges.csv",
+    "transparency_page": "https://gulfportbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "f93d62f2-b0e4-4c19-b4b8-afe570030eab",
+    "ccn": "255308",
+    "hospital_name": "MEMORIAL STONE COUNTY HOSPITAL",
+    "file_url": "https://memorialhealthsystem.pt.panaceainc.com/MRFDownload/memorialhealthsystem/memorialstonecounty",
+    "transparency_page": "https://wearememorial.com/about-us/price-transparency/"
+  }
+]

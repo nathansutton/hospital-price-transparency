@@ -1,0 +1,1278 @@
+[
+  {
+    "detail_id": "82f62d13-7b4e-4b4f-af90-1c9f65da5169",
+    "ccn": "070124",
+    "hospital_name": "MC DONOUGH DISTRICT HOSPITAL",
+    "file_url": "https://www.mdh.org/documents/content/McDonough-District-Hospital.NPI-1669420766)-CDM-Pricing-Transparency-070124-update.xlsx",
+    "transparency_page": "https://www.mdh.org/patients-visitors/financial-services/"
+  },
+  {
+    "detail_id": "a5c84596-f879-44c0-896a-d7ea8ded063a",
+    "ccn": "140001",
+    "hospital_name": "GRAHAM HOSPITAL",
+    "file_url": "https://www.grahamhealthsystem.org/docs/default-source/financial-assistance/hospital-chargemaster-2023.xlsx?sfvrsn=8e5ecc27_1/%20Hospital-Chargemaster-2023",
+    "transparency_page": "https://www.grahamhealthsystem.org/patient-visitor-resources/billing-financial-assistance/price-estimations"
+  },
+  {
+    "detail_id": "ec6cb3b3-0c80-433d-bb77-5719724c5e37",
+    "ccn": "140002",
+    "hospital_name": "ALTON MEMORIAL HOSPITAL",
+    "file_url": "https://www.bjc.org/hpt/1/370661172_AltonMemorialHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "dd06e7cd-dfab-4544-b695-2706f1cd6617",
+    "ccn": "140008",
+    "hospital_name": "GOTTLEB MEMORIAL HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/gottliebmemorialhospital",
+    "transparency_page": "https://www.loyolamedicine.org/for-patients/billing-and-insurance/insurance-information/price-estimates-list"
+  },
+  {
+    "detail_id": "72a49762-1588-4d5c-b0a9-a6dfb5a8d02c",
+    "ccn": "140011",
+    "hospital_name": "SIH HERRIN HOSPITAL",
+    "file_url": "https://www.sih.net/-/media/files/patients-and-visitors/price-transparency/2025/370618939_1528158573_1225122047_southernillinoishospitalservices_standardcharges.json",
+    "transparency_page": "https://www.sih.net/patients-and-visitors/financial-resources/price-transparency"
+  },
+  {
+    "detail_id": "5c95e615-4046-4e49-979b-88fdac91aab4",
+    "ccn": "140012",
+    "hospital_name": "OSF SAINT KATHARINE MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/361000540_OSF-Saint-Katharine-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "8e3a397c-656a-4217-a530-d0672d497047",
+    "ccn": "140013",
+    "hospital_name": "CARLE HEALTH PROCTOR HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11407/370681540_proctor-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleHealthProctorHospital/11407"
+  },
+  {
+    "detail_id": "03af61c1-e1a6-433a-a29b-8239c17e06d8",
+    "ccn": "140015",
+    "hospital_name": "BLESSING HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7854/370661183_blessing-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/BlessingHospital/7854"
+  },
+  {
+    "detail_id": "350d78cf-4a5b-4afc-8155-e1d43280ae31",
+    "ccn": "140018",
+    "hospital_name": "MOUNT SINAI HOSPITAL",
+    "file_url": "https://standardcharges.blob.core.windows.net/mshstandardcharges/361509000_MSH_MOUNT%20SINAI%20HOSPITAL%20MEDICAL%20CENTER_standardcharges.csv",
+    "transparency_page": "https://www.sinaichicago.org/en/patients-visitors/pricing/"
+  },
+  {
+    "detail_id": "47bd681d-ba34-4b78-b78e-aaa4097a8e3a",
+    "ccn": "140029",
+    "hospital_name": "RUSH COPLEY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHAURORAIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.rush.edu/patients-visitors/billing/cost-care"
+  },
+  {
+    "detail_id": "2ec03cf5-c0d3-4f7d-b4c1-ddad27ed960d",
+    "ccn": "140030",
+    "hospital_name": "ADVOCATE SHERMAN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11269/362167920_advocate-sherman-hospital_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "9a8c7f87-f71f-4f17-917b-563bda072c51",
+    "ccn": "140032",
+    "hospital_name": "HSHS ST ANTHONYS MEMORIAL HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/a0daebfc-e796-4d98-889f-453ffd42cf7f/370661233_ST-ANTHONY-S-MEMORIAL-HOSPITAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "ffe12f59-3cf9-4277-b430-682d2f1800af",
+    "ccn": "140034",
+    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL - CENTRALIA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=u5PGTTi*_*V1G7japKfMq*_*Gg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "c558703f-4cfc-43a6-9778-aeb2827bd819",
+    "ccn": "140043",
+    "hospital_name": "CGH MEDICAL CENTER",
+    "file_url": "https://pricetransparency-cdn.azureedge.net/cgh/36-2474218_CGH-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/cgh"
+  },
+  {
+    "detail_id": "6718f840-5016-4a50-b754-8f77fc20e0ce",
+    "ccn": "140046",
+    "hospital_name": "SSM HEALTH GOOD SAMARITAN HOSPITAL - MT. VERNON",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Cwl2CJAwPiTJ13gcmmCzdA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "79fd6095-f566-416f-a490-4519f9fd391a",
+    "ccn": "140048",
+    "hospital_name": "ADVOCATE TRINITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11271/362169147_advocate-trinity-hospital_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "8f4ca4d3-2ce8-4ea8-bca0-01a14bd830b2",
+    "ccn": "140049",
+    "hospital_name": "WEST SUBURBAN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12712/611899386_resilience-healthcare-west-suburban-medical-center-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/WestSuburbanMedicalCenter/12712"
+  },
+  {
+    "detail_id": "cc0ba914-0744-477f-b117-cdddd4f83660",
+    "ccn": "140051",
+    "hospital_name": "SKOKIE HOSPITAL",
+    "file_url": "https://www.endeavorhealth.org/362167060_skokie-hospital_standardcharges.csv",
+    "transparency_page": "https://www.endeavorhealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "06a6be3f-aa12-490f-899d-7a6aa28faba9",
+    "ccn": "140052",
+    "hospital_name": "OSF SAINT ANTHONY'S HEALTH CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1710396932_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "b828fe55-959b-469b-a095-63a33266578c",
+    "ccn": "140053",
+    "hospital_name": "HSHS ST JOHN'S HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/8223d42a-7f57-4ce8-b57c-10b92f10a30f/370661238_st-johns-hospital_standardcharges-csv.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "cf2864b6-6d00-4746-a266-a6c82a46b84a",
+    "ccn": "140054",
+    "hospital_name": "MACNEAL HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/macnealhospital",
+    "transparency_page": "https://www.loyolamedicine.org/for-patients/billing-and-insurance/insurance-information/price-estimates-list"
+  },
+  {
+    "detail_id": "aedf9cbc-d0e4-4d02-9c97-7e7fccb2e264",
+    "ccn": "140059",
+    "hospital_name": "JERSEY COMMUNITY HOSPITAL",
+    "file_url": "https://www.jch.org/wp-content/uploads/2022/04/376013958_JerseyCommunityHospital_Standardcharges.csv",
+    "transparency_page": "https://www.jch.org/patients-visitors/billing-insurance/transparency-of-hospital-charges/"
+  },
+  {
+    "detail_id": "fbaf80d2-cef0-4610-8db6-ffa1b1dae725",
+    "ccn": "140062",
+    "hospital_name": "NORTHWESTERN MEDICINE PALOS HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/362169179_Palos%20Community%20Hospital%20(PCH)_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "750c93e2-ec88-478f-bed0-354a961e6d02",
+    "ccn": "140063",
+    "hospital_name": "RUSH OAK PARK HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRushOakPark&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.rush.edu/patients-visitors/billing/cost-care"
+  },
+  {
+    "detail_id": "2bc14874-0629-4af3-81f9-61f8de105d3c",
+    "ccn": "140064",
+    "hospital_name": "OSF ST MARY MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370662581_osf-st-mary-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "00d4c24c-769d-441d-b35e-0433cda33f04",
+    "ccn": "140067",
+    "hospital_name": "OSF SAINT FRANCIS MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370662569_osf-saint-francis-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "9542946b-c0ec-4b6d-9b49-4cc706af8a6d",
+    "ccn": "140068",
+    "hospital_name": "ROSELAND COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRCHCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Roseland_V2.aspx"
+  },
+  {
+    "detail_id": "6515f610-f78c-4e6b-ac77-a477c7e36dc1",
+    "ccn": "140077",
+    "hospital_name": "TOUCHETTE REGIONAL HOSPITAL",
+    "file_url": "https://www.sihf.org/media-library/documents/371305510_touchette-regional-hospital_standardcharges%20(1).csv",
+    "transparency_page": "https://touchette.org/financial-assistance/price-estimator"
+  },
+  {
+    "detail_id": "8a2987dd-2809-4ef5-aa45-7b8a32e225d1",
+    "ccn": "140080",
+    "hospital_name": "SAINT FRANCIS HOSPITAL",
+    "file_url": "https://saintfrancisevanston.org/wp-content/uploads/2025/04/992441755_SaintFrancisHospital_StandardCharges.json",
+    "transparency_page": "https://saintfrancisevanston.org/price-transparency/"
+  },
+  {
+    "detail_id": "74f5bc68-b2d4-43a0-860c-b6ff960d8098",
+    "ccn": "140083",
+    "hospital_name": "LORETTO HOSPITAL",
+    "file_url": "https://www.lorettohospital.org/documents/362200248_LorettoHospital_StandardCharges.csv",
+    "transparency_page": "https://www.lorettohospital.org/patients-visitors/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "7194e609-9a3b-4ff5-bd4d-af95469f2158",
+    "ccn": "140084",
+    "hospital_name": "VISTA MEDICAL CENTER EAST",
+    "file_url": "https://vistahealth.com/wp-content/uploads/2025/06/203978521_VistaMedicalCenterEast_standardcharges.csv",
+    "transparency_page": "https://vistahealth.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "92e5ee2f-6e09-45de-9e3a-e2361649a071",
+    "ccn": "140088",
+    "hospital_name": "THE UNIVERSITY OF CHICAGO MEDICAL CENTER",
+    "file_url": "https://edge.sitecorecloud.io/unichicagomc-81nbqnb3/media/files/pricing-transparency/363488183_the-university-of-chicago-medical-center_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicine.org/patients-visitors/patient-information/billing/price-transparency"
+  },
+  {
+    "detail_id": "2a52380a-f5d2-4fe1-8d86-bc324b95160b",
+    "ccn": "140091",
+    "hospital_name": "CARLE FOUNDATION HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11405/371119538_the-carle-foundation-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleFoundationHospital/11405"
+  },
+  {
+    "detail_id": "40660b5e-8182-4747-803a-a889bf629bb2",
+    "ccn": "140095",
+    "hospital_name": "ST ANTHONY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7851/510217097_saint-anthony-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/saintanthonyhospital/7851"
+  },
+  {
+    "detail_id": "f7b7319e-9e2c-4fe4-b9a9-207c77f6ab66",
+    "ccn": "140100",
+    "hospital_name": "CITY OF HOPE CHICAGO CANCER HOSPITAL",
+    "file_url": "https://www.cityofhope.org/362510771_midwestern-regional-medical-center,-inc._standardcharges.json",
+    "transparency_page": "https://www.cityofhope.org/patients/our-value-and-pricing/pricing-information"
+  },
+  {
+    "detail_id": "2787899f-9f28-4e73-a7d0-e6f2a9dfbb79",
+    "ccn": "140101",
+    "hospital_name": "MORRIS HOSPITAL & HEALTHCARE CENTERS",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMorris&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Morris_V3.aspx#"
+  },
+  {
+    "detail_id": "0863cd67-8f11-468f-91f0-e58ace1eba12",
+    "ccn": "140103",
+    "hospital_name": "ST BERNARD HOSPITAL",
+    "file_url": "https://www.stbh.org/wp-content/uploads/362264414_st-bernard-hospital_standardcharges.csv",
+    "transparency_page": "https://www.stbh.org/patients/financial-services/price-transparency/"
+  },
+  {
+    "detail_id": "30337152-a379-4d1e-aa20-0821c02e94a7",
+    "ccn": "140110",
+    "hospital_name": "OSF SAINT ELIZABETH MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/362604009_osf-saint-elizabeth-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "60344ba4-3966-48b2-8068-ed797b8f6541",
+    "ccn": "140113",
+    "hospital_name": "OSF HEART OF MARY MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1659884476_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "33dbe50e-5f60-48fa-a877-9a4fc4d1f89b",
+    "ccn": "140114",
+    "hospital_name": "SWEDISH HOSPITAL",
+    "file_url": "https://www.endeavorhealth.org/362179813_swedish-hospital_standardcharges.csv",
+    "transparency_page": "https://www.endeavorhealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "ec5cb3c0-ab40-4b76-918d-495a4db8bfa7",
+    "ccn": "140115",
+    "hospital_name": "THOREK MEMORIAL HOSPITAL DBA METHODIST HOSPITAL OF CHICAGO",
+    "file_url": "https://3003156.fs1.hubspotusercontent-na1.net/hubfs/3003156/files/366000085_Thorek-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.thorek.org/patients-and-visitors/patient-financial-services/price-transparency"
+  },
+  {
+    "detail_id": "82c40897-1c13-41ad-9c88-a3beb18a4cad",
+    "ccn": "140117",
+    "hospital_name": "RESURRECTION MEDICAL CENTER",
+    "file_url": "https://resurrectionmedicalcenter.com/wp-content/uploads/2025/02/992392397_ResurrectionMedicalCenter_StandardCharges.json",
+    "transparency_page": "https://resurrectionmedicalcenter.com/price-transparency/"
+  },
+  {
+    "detail_id": "7231df8a-0e1e-4d46-927c-7284df645e42",
+    "ccn": "140119",
+    "hospital_name": "RUSH UNIVERSITY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRUMCCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.rush.edu/patients-visitors/billing/cost-care"
+  },
+  {
+    "detail_id": "d52bf8c0-a1cf-4fe8-adfe-aa626bd91e73",
+    "ccn": "140120",
+    "hospital_name": "CARLE HEALTH PEKIN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11408/370692351_pekin-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleHealthPekinHospital/11408"
+  },
+  {
+    "detail_id": "577c0c4c-364a-47bb-aef4-e2597c66f232",
+    "ccn": "140122",
+    "hospital_name": "UCHICAGO MEDICINE ADVENTHEALTH HINSDALE",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/362276984_uchicago-medicine-adventhealth-hinsdale_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicineadventhealth.org/price-transparency"
+  },
+  {
+    "detail_id": "9c945c4f-b95e-4cab-823e-504f9762f204",
+    "ccn": "140124",
+    "hospital_name": "JOHN H STROGER JR HOSPITAL",
+    "file_url": "https://cookcountyhealth.org/wp-content/uploads/366006541_JOHN-H-STROGER-JR-HOSP-OF-COOK-COUNTY-PROVIDENT-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://cookcountyhealth.org/patients-visitors/billing-insurance/"
+  },
+  {
+    "detail_id": "d198ea35-f21c-4fc3-8de5-6d165d3394af",
+    "ccn": "140125",
+    "hospital_name": "GATEWAY REGIONAL MEDICAL CENTER",
+    "file_url": "https://gatewayregional.net/PriceTransparency/88-3850676_GATEWAY-REGIONAL-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://gatewayregional.net/pricing-transparency/"
+  },
+  {
+    "detail_id": "2c57a7e8-1326-4e18-82fa-81d6a1d1c3cd",
+    "ccn": "140127",
+    "hospital_name": "CARLE BROMENN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11475/850682363_carle-bromenn-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleBroMennMedicalCenter/11475"
+  },
+  {
+    "detail_id": "d276261d-2911-4c1c-8ac8-ef545377114c",
+    "ccn": "140130",
+    "hospital_name": "NORTHWESTERN MEDICINE LAKE FOREST HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/370960170_Northwestern%20Memorial%20Hospital%20(main)_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "4b7a41f7-30db-48c1-8255-c87bd8bc7b39",
+    "ccn": "140133",
+    "hospital_name": "HOLY CROSS HOSPITAL",
+    "file_url": "https://standardcharges.blob.core.windows.net/hchstandardcharges/362170133_HCH_HOLY%20CROSS%20HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://www.sinaichicago.org/en/patients-visitors/pricing/"
+  },
+  {
+    "detail_id": "1bd8a889-087f-4807-b63b-fbb0bd133cea",
+    "ccn": "140135",
+    "hospital_name": "DECATUR MEMORIAL HOSPITAL",
+    "file_url": "https://memorial.health/Resources/463a1f34-823e-44f8-9278-9e022e939496/370661199_Decatur_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://memorial.health/financial/price-transparency/"
+  },
+  {
+    "detail_id": "bcb24cf5-4a6a-4d2c-98a4-0c416ee2058d",
+    "ccn": "140137",
+    "hospital_name": "HSHS HOLY FAMILY HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/9d9507a8-e797-4922-b5b8-4f870ef8472e/370792770_HOLY-FAMILY-HOSPITAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "36567b32-f09c-4ebc-8be8-31a60510e0fe",
+    "ccn": "140145",
+    "hospital_name": "HSHS ST. JOSEPH'S HOSPITAL BREESE",
+    "file_url": "https://www.hshs.org/getmedia/83f5c64f-1a12-4fe1-a64f-abcbf4f92639/371208459_ST-JOSEPH-S-HOSPITAL-BREESE_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "dfef0d6a-92be-43e3-8292-cd0ab993cb84",
+    "ccn": "140147",
+    "hospital_name": "CARLE RICHLAND MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11476/371363001_richland-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleRichlandMemorialHospital/11476"
+  },
+  {
+    "detail_id": "baca921d-6a3d-4276-8660-c50152665608",
+    "ccn": "140148",
+    "hospital_name": "SPRINGFIELD MEMORIAL HOSPITAL",
+    "file_url": "https://memorial.health/Resources/452b1df1-ad01-4063-a729-31a091660635/370661220_Springfield_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://memorial.health/financial/price-transparency/"
+  },
+  {
+    "detail_id": "f71f6c6d-dc87-48db-bcff-91fa3803e847",
+    "ccn": "140150",
+    "hospital_name": "UNIVERSITY OF ILLINOIS HOSPITAL",
+    "address": "1740 WEST TAYLOR ST, SUITE 1400",
+    "file_url": "https://hospital.uillinois.edu/documents/PatientAndVisitors/billing/376000511_University-of-Illinois-Hospital-and-Clinics_standardcharges.csv",
+    "transparency_page": "https://hospital.uillinois.edu/patients-and-visitors/patient-information/billing-and-pricing/price-and-estimates"
+  },
+  {
+    "detail_id": "5241db6c-2734-4c34-8cd0-ad11f9b820b2",
+    "ccn": "140155",
+    "hospital_name": "SAINT MARY HOSPITAL KANKAKEE",
+    "file_url": "https://stmaryshospitalkankakee.org/wp-content/uploads/2025/12/992195090_StMarysHospital_StandardCharges.json",
+    "transparency_page": "https://stmaryshospitalkankakee.org/price-transparency/"
+  },
+  {
+    "detail_id": "877f0b40-06db-440b-82ec-6f67c6429b53",
+    "ccn": "140158",
+    "hospital_name": "INSIGHT HOSPITAL & MEDICAL CENTER CHICAGO",
+    "file_url": "https://estimator.myinsightcare.com/static/mrf/862358048_insight-hospital-and-medical-center-chicago_standardcharges.csv",
+    "transparency_page": "https://estimator.myinsightcare.com/transparency.html"
+  },
+  {
+    "detail_id": "2d757d81-59be-41df-bcbf-4d02506d98f7",
+    "ccn": "140160",
+    "hospital_name": "FHN MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFHNMemorialIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/FHN-IL_V3.aspx"
+  },
+  {
+    "detail_id": "edb755b7-5abe-49d3-bdec-935dd35dd6c5",
+    "ccn": "140161",
+    "hospital_name": "OSF SAINT JAMES - JOHN W. ALBRECHT MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370662570_osf-saint-james-john-w-albrecht-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "90d818fb-b411-4929-a25e-59b10674a5d0",
+    "ccn": "140162",
+    "hospital_name": "OSF ST JOSEPH MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370662576_osf-st-joseph-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "69e0c547-c7e3-4b00-b736-7b1dd2851f7f",
+    "ccn": "140164",
+    "hospital_name": "SIH MEMORIAL HOSPITAL OF CARBONDALE",
+    "file_url": "https://www.sih.net/-/media/files/patients-and-visitors/price-transparency/2025/370618939_1093801797_southernillinoishospitalservices_standardcharges.json",
+    "transparency_page": "https://www.sih.net/patients-and-visitors/financial-resources/price-transparency#files"
+  },
+  {
+    "detail_id": "0659374a-56e7-4543-9fe9-7da188c7fecc",
+    "ccn": "140166",
+    "hospital_name": "HSHS ST. MARY'S HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/2beded52-b92e-4c45-aee3-6d2743743523/370661244_ST-MARY-S-HOSPITAL-DECATUR_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "ad098c9d-c06f-4303-a0b1-c54b20484f21",
+    "ccn": "140174",
+    "hospital_name": "MERCY MEDICAL CENTER",
+    "file_url": "https://mercymedcenter.com/wp-content/uploads/2025/04/992367318_MercyMedicalCenter_StandardCharges.json",
+    "transparency_page": "https://mercymedcenter.com/price-transparency/"
+  },
+  {
+    "detail_id": "42ca365f-6c75-4760-9e34-dd53b728551b",
+    "ccn": "140176",
+    "hospital_name": "NORTHWESTERN MEDICINE WOODSTOCK HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/362338884_Northern%20Illinois%20Medical%20Center%20DBA%20Northwestern%20Medicine%20McHenry%20Hospital_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "fc99c194-5771-43b1-a021-47bedd0453a8",
+    "ccn": "140177",
+    "hospital_name": "JACKSON PARK HOSPITAL",
+    "file_url": "https://www.jacksonparkhospital.org/assets/1/7/362448028%20jackson%20park%20hospital%20foundation%20standardcharges2.csv",
+    "transparency_page": "https://www.jacksonparkhospital.org/patients_and_visitors/price-transparency/"
+  },
+  {
+    "detail_id": "6b80984a-5dda-40be-9728-fc19cfd085b7",
+    "ccn": "140179",
+    "hospital_name": "OSF LITTLE COMPANY OF MARY HOSPITAL",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1215572045_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "e005d4d8-8584-4f1e-b32e-f4b9fa3ff447",
+    "ccn": "140180",
+    "hospital_name": "SAINT MARY OF NAZARETH HOSPITAL",
+    "file_url": "https://saintmaryofnazarethhospital.com/wp-content/uploads/2025/04/992171028_SaintMaryOfNazarethHospital_StandardCharges.json",
+    "transparency_page": "https://saintmaryofnazarethhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "097a10e0-c038-402b-9e5d-44003be824ba",
+    "ccn": "140181",
+    "hospital_name": "SOUTH SHORE HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSSHCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/South_Shore_V2.aspx"
+  },
+  {
+    "detail_id": "f55b9a03-ae21-4255-8885-f93392eaa22b",
+    "ccn": "140182",
+    "hospital_name": "ADVOCATE ILLINOIS MASONIC MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11267/363196629_advocate-illinois-masonic-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "03a44d71-ac86-4ebc-a9dd-be9f04741006",
+    "ccn": "140184",
+    "hospital_name": "DEACONESS ILLINOIS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10475/810693478_deaconess-regional-healthcare-services-illinois-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DeaconessRegionalHealthcareServicesofIllinois/10475"
+  },
+  {
+    "detail_id": "46bbbe69-309a-47b2-9f87-49e992c80ec5",
+    "ccn": "140185",
+    "hospital_name": "MEMORIAL HOSPITAL BELLEVILLE",
+    "file_url": "https://www.bjc.org/hpt/26/370635502_MemorialHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "1da024e7-c135-4747-842e-aa09d1ebb568",
+    "ccn": "140186",
+    "hospital_name": "RIVERSIDE HEALTHCARE",
+    "file_url": "https://www.riversidehealthcare.org/sites/default/files/Machine%20Readable%20File%202025_Updated%201.14.25.zip",
+    "transparency_page": "https://www.riversidehealthcare.org/patients-and-visitors/for-patients/billing-and-insurance"
+  },
+  {
+    "detail_id": "0b7b2183-4fd4-4a46-be33-10a8e4fee5df",
+    "ccn": "140187",
+    "hospital_name": "HSHS ST ELIZABETH'S HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/b71f8262-7d4e-4ac3-a48d-247f94ee1fba/370663567_ST-ELIZABETH-S-HOSPITAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "63c11a70-d9b9-4c23-98ab-272195750a32",
+    "ccn": "140189",
+    "hospital_name": "SARAH BUSH LINCOLN HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSarahBush&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SarahBush_V3.aspx"
+  },
+  {
+    "detail_id": "f2578f6a-160d-4701-b963-cbaadc852444",
+    "ccn": "140191",
+    "hospital_name": "UCHICAGO MEDICINE INGALLS MEMORIAL",
+    "file_url": "https://edge.sitecorecloud.io/unichicagomc-81nbqnb3/media/files/pricing-transparency/362170866_ingalls-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicine.org/patients-visitors/patient-information/billing/price-transparency"
+  },
+  {
+    "detail_id": "69b659d0-c818-434f-9b25-62fbd47ef3ec",
+    "ccn": "140197",
+    "hospital_name": "THOREK MEMORIAL HOSPITAL ANDERSONVILLE",
+    "file_url": "https://thorekandersonville.org/wp-content/uploads/2023/07/Copy-of-price-transparency-2023.xlsx",
+    "transparency_page": "https://thorekandersonville.org/patients-visitors/patient-financial-services/charge-master/"
+  },
+  {
+    "detail_id": "3d608019-ef03-4b2c-8418-0797cca0af42",
+    "ccn": "140202",
+    "hospital_name": "ADVOCATE CONDELL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11264/262525968_advocate-condell-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "ca706e46-fa14-4412-bc27-ebcd683a8318",
+    "ccn": "140206",
+    "hospital_name": "HUMBOLDT PARK HEALTH",
+    "file_url": "https://www.hph.care/wp-content/uploads/2021/05/361564290_Humboldt_Park_Health_standardcharges.xlsx",
+    "transparency_page": "https://www.hph.care/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "0a7d69bc-4c32-424c-a6b6-e496966e9ef4",
+    "ccn": "140208",
+    "hospital_name": "ADVOCATE CHRIST MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11263/362169147_advocate-christ-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "9bc72ab4-3df2-4d6e-9d6a-68eb51270534",
+    "ccn": "140209",
+    "hospital_name": "CARLE HEALTH METHODIST HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11406/370661223_the-methodist-medical-center-of-illinois_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleHealthMethodistWestHospital/11406"
+  },
+  {
+    "detail_id": "d66ebb6d-1892-4a63-ae8f-5e45851859b3",
+    "ccn": "140210",
+    "hospital_name": "SIH HARRISBURG MEDICAL CENTER",
+    "file_url": "https://www.sih.net/-/media/files/patients-and-visitors/price-transparency/2025/237426289_1073580130_1073581872_1093783896_harrisburgmedicalcenter_standercharges.json",
+    "transparency_page": "https://www.sih.net/patients-and-visitors/financial-resources/price-transparency#files"
+  },
+  {
+    "detail_id": "e954f35c-44ef-4739-af29-1e14c9644d7d",
+    "ccn": "140213",
+    "hospital_name": "SILVER CROSS HOSPITAL",
+    "file_url": "https://www.silvercross.org/app/files/public/f403a6b3-a6ed-4c8e-929d-e799a1e85382/Price Transparency/Price Transparency_36-2174832_Silver-Cross-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.silvercross.org/patient-family/before/price-transparency/"
+  },
+  {
+    "detail_id": "cd028f1f-8d22-4fcd-8fcd-b8658be9c253",
+    "ccn": "140217",
+    "hospital_name": "SAINT JOSEPH HOSPITAL",
+    "file_url": "https://saintjosephelgin.com/wp-content/uploads/2025/04/992115457_SaintJosephHospital_StandardCharges.json",
+    "transparency_page": "https://saintjosephelgin.com/price-transparency/"
+  },
+  {
+    "detail_id": "5e91a7d8-f1a2-4867-80c5-94c1b61b71c2",
+    "ccn": "140228",
+    "hospital_name": "UW HEALTH SWEDISH AMERICAN HOSPITAL",
+    "file_url": "https://bynder.uwhealth.org/m/1d39d4b3bd3ce8bb/original/362222696_SwedishAmerican-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.uwhealth.org/billing-insurance/cms-price-transparency"
+  },
+  {
+    "detail_id": "947ae0ea-ae5e-4730-9466-6772d7bfe9c5",
+    "ccn": "140231",
+    "hospital_name": "EDWARD HOSPITAL - MAIN CAMPUS",
+    "file_url": "https://www.endeavorhealth.org/363297173_edward-hospital_standardcharges.csv",
+    "transparency_page": "https://www.endeavorhealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "be1ad8c7-15d1-4a56-8e81-1d6269b8648c",
+    "ccn": "140233",
+    "hospital_name": "OSF SAINT ANTHONY MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/362167864_osf-saint-anthony-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "128c2bf6-6f60-4680-a60e-089e3e7b032b",
+    "ccn": "140242",
+    "hospital_name": "NORTHWESTERN MEDICINE CENTRAL DUPAGE HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/362513909_Northwestern%20Medicine%20Central%20DuPage%20Hospital_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "76541e25-3d31-46f3-9a1e-759262c3ad2a",
+    "ccn": "140250",
+    "hospital_name": "ADVOCATE SOUTH SUBURBAN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11270/362169147_advocate-south-suburban-hospital_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "8803af98-6c43-4182-a7c4-c7453a8cc958",
+    "ccn": "140251",
+    "hospital_name": "COMMUNITY FIRST MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOLOTCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CommunityFirstMedicalCenter.aspx"
+  },
+  {
+    "detail_id": "a1e30056-2fff-4226-9ef7-e4230ceac0d8",
+    "ccn": "140252",
+    "hospital_name": "NORTHWEST COMMUNITY HOSPITAL",
+    "file_url": "https://www.endeavorhealth.org/362340313_northwest-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.endeavorhealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "ba2947a4-48a0-4100-8e35-32d50bc92daa",
+    "ccn": "140258",
+    "hospital_name": "ASCENSION ALEXIAN BROTHERS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/362596381_alexian-brothers-medical-center_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "52d322c0-4afe-4b7e-bbfb-3cf11a87f09c",
+    "ccn": "140275",
+    "hospital_name": "MERCYONE GENESIS SILVIS MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/genesishealth",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "2b9dc030-f389-41a6-b708-ec09b17b67cc",
+    "ccn": "140276",
+    "hospital_name": "LOYOLA UNIVERSITY MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/loyolauniversitycenter",
+    "transparency_page": "https://www.loyolamedicine.org/for-patients/billing-and-insurance/insurance-information/price-estimates-list"
+  },
+  {
+    "detail_id": "e8bb2219-853a-4ada-86b0-822a24c27c6b",
+    "ccn": "140280",
+    "hospital_name": "UNITYPOINT HEALTH TRINITY ROCK ISLAND",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7959/362739299_unitypoint-trinity-rock-island-moline_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/UnityPointHealth-TrinityRockIsland/7959"
+  },
+  {
+    "detail_id": "4a4382c5-1aad-4a09-a9d5-3b2755a5cd9b",
+    "ccn": "140281",
+    "hospital_name": "NORTHWESTERN MEMORIAL HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/370960170_Northwestern%20Memorial%20Hospital%20(main)_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "70398977-d7ce-4219-ad17-e32176635216",
+    "ccn": "140286",
+    "hospital_name": "NORTHWESTERN MEDICINE KISHWAUKEE HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/370960170_Northwestern%20Memorial%20Hospital%20(main)_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "284e70b8-5282-45d8-9163-7a3cb821e34f",
+    "ccn": "140288",
+    "hospital_name": "ADVOCATE GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11265/362169147_advocate-good-samaritan-hospital_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "cdcdf7a7-e347-4849-82a5-8eb7595142f5",
+    "ccn": "140289",
+    "hospital_name": "ANDERSON HOSPITAL",
+    "file_url": "https://andersonhospital.org/wp-content/uploads/2025/04/370662561_anderson-healthcare_standardcharges.csv",
+    "transparency_page": "https://andersonhospital.org/patient-visitor-information/price-transparency/"
+  },
+  {
+    "detail_id": "6fe448c6-e6ce-41a3-b0ca-99338e148ed4",
+    "ccn": "140290",
+    "hospital_name": "ASCENSION SAINT ALEXIUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/364251846_st-alexius-medical-center_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "b1ae5b99-c9d8-4936-979d-747027b2c57e",
+    "ccn": "140291",
+    "hospital_name": "ADVOCATE GOOD SHEPHERD HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11266/362169147_advocate-good-shepherd-hospital_standardcharges.csv",
+    "transparency_page": "https://www.advocatehealth.com/about-us/financial-assistance-for-patients/hospital-pricing-information"
+  },
+  {
+    "detail_id": "a71aa826-1f21-49e2-8a92-a1b478a41920",
+    "ccn": "140292",
+    "hospital_name": "UCHICAGO MEDICINE ADVENTHEALTH GLENOAKS",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/363208390_uchicago-medicine-adventhealth-glenoaks_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicineadventhealth.org/price-transparency"
+  },
+  {
+    "detail_id": "2d6aafdf-b09f-4c25-8b39-76284bb45485",
+    "ccn": "140300",
+    "hospital_name": "PROVIDENT HOSPITAL OF COOK COUNTY",
+    "file_url": "https://cookcountyhealth.org/wp-content/uploads/366006541_JOHN-H-STROGER-JR-HOSP-OF-COOK-COUNTY-PROVIDENT-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://cookcountyhealth.org/patients-visitors/billing-insurance/"
+  },
+  {
+    "detail_id": "53f11daf-e2b7-450a-8c4e-ff4cb3eb160c",
+    "ccn": "140304",
+    "hospital_name": "UCHICAGO MEDICINE ADVENTHEALTH BOLINGBROOK",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/651219504_uchicago-medicine-adventhealth-bolingbrook_standardcharges.json",
+    "transparency_page": "https://www.uchicagomedicineadventhealth.org/price-transparency"
+  },
+  {
+    "detail_id": "5a7728bc-60fa-480a-a7bf-10b1942f19bb",
+    "ccn": "140307",
+    "hospital_name": "MEMORIAL HOSPITAL SHILOH",
+    "file_url": "https://www.bjc.org/hpt/26/370635502_MemorialHospital_standardcharges.json",
+    "transparency_page": "https://www.bjc.org/patients-visitors/billing-and-financial-assistance/hospital-rates-disclosure"
+  },
+  {
+    "detail_id": "5533a546-fe1c-46af-8690-6410869e13fb",
+    "ccn": "141300",
+    "hospital_name": "THOMAS H BOYD MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTHBCCARROLLTONIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ThomasBoyd_V2.aspx"
+  },
+  {
+    "detail_id": "6fc0ea6d-4ece-4b12-a041-5e87a5814afb",
+    "ccn": "141301",
+    "hospital_name": "KIRBY MEDICAL CENTER MONTICELLO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11428/370661215_kirby-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/KirbyMedicalCenter/11428"
+  },
+  {
+    "detail_id": "fa54a79a-4c0e-4241-8ebb-1bc74e5557d0",
+    "ccn": "141302",
+    "hospital_name": "MIDWEST MEDICAL CENTER",
+    "file_url": "https://www.midwestmedicalcenter.org/content/pdfs/204560540_midwest-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.midwestmedicalcenter.org/patients-visitors/standard-charges"
+  },
+  {
+    "detail_id": "a2533e09-c073-46be-a43e-27aa218b260a",
+    "ccn": "141303",
+    "hospital_name": "WARNER HOSPITAL AND HEALTH SERVICES",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbDrJohnWarnerIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Warner_V3.aspx"
+  },
+  {
+    "detail_id": "39cb3c76-f22f-48a6-ad83-bf11aa8a79bc",
+    "ccn": "141304",
+    "hospital_name": "MERCYONE GENESIS ALEDO MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/genesismedicalcenter",
+    "transparency_page": "https://www.mercyone.org/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "1160bbe9-4db7-4f0d-9a8b-46389b9e5d91",
+    "ccn": "141305",
+    "hospital_name": "MEMORIAL HOSPITAL",
+    "file_url": "https://www.mhtlc.org/wp-content/uploads/2025/09/370684691_Memorial-Hospital-Association_StandardCharges.csv",
+    "transparency_page": "https://www.mhtlc.org/patients-visitors/charges/"
+  },
+  {
+    "detail_id": "86585da7-afa0-41d1-907b-8815bd52c38e",
+    "ccn": "141306",
+    "hospital_name": "COMMUNITY HOSPITAL OF STAUNTON",
+    "file_url": "https://stauntonhospital.org/wp-content/uploads/2025/04/370624255_anderson-healthcare_standardcharges.csv",
+    "transparency_page": "https://stauntonhospital.org/visitor-patient-information/price-transparency/"
+  },
+  {
+    "detail_id": "ce2e3cb8-ae21-4648-b92b-5f81b22c00f1",
+    "ccn": "141307",
+    "hospital_name": "PINCKNEYVILLE COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbPCAHPINCKNEYVILLEIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/PinckneyvilleCommunity.aspx"
+  },
+  {
+    "detail_id": "246571e7-f6fc-46a6-bd79-d5860acae9a0",
+    "ccn": "141308",
+    "hospital_name": "WASHINGTON COUNTY HOSPITAL",
+    "file_url": "https://www.washingtoncountyhospital.org/376020408_washington-county-hospital-district_standardcharges.csv",
+    "transparency_page": "https://www.washingtoncountyhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "819623c7-02d4-479e-9846-a45080d99a0c",
+    "ccn": "141309",
+    "hospital_name": "CARLE EUREKA HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11404/850688306_carle-eureka-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleEurekaHospital/11404"
+  },
+  {
+    "detail_id": "e4197a8f-02da-43d1-b049-4fd4acaa903f",
+    "ccn": "141310",
+    "hospital_name": "OSF SAINT PAUL MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/362167785_osf-saint-paul-medical-center_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "0662edc7-5a90-4536-93ef-27bf5855c7c5",
+    "ccn": "141311",
+    "hospital_name": "FAIRFIELD MEMORIAL HOSPITAL",
+    "file_url": "https://www.fairfieldmemorial.org/wp-content/uploads/2020/12/Price-Transparency.xlsx",
+    "transparency_page": "https://www.fairfieldmemorial.org/assistance/price-transparency/"
+  },
+  {
+    "detail_id": "5d675b12-fa7d-4fad-bfb5-3fad38387697",
+    "ccn": "141312",
+    "hospital_name": "ROCHELLE COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRCHROCHELLEIL&type=CDM&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Rochelle_V2.aspx"
+  },
+  {
+    "detail_id": "687382aa-dd91-42bd-8571-5ff6beb069a1",
+    "ccn": "141313",
+    "hospital_name": "MASON DISTRICT HOSPITAL",
+    "address": "615 NORTH PROMENADE STREET, P O BOX 530",
+    "file_url": "https://www.masondistricthospital.org/wp-content/uploads/2024/10/ACA-Price-Transparency-24.xls",
+    "transparency_page": "https://www.masondistricthospital.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "642523cb-d2f7-4992-a18c-268c1b78e7ca",
+    "ccn": "141315",
+    "hospital_name": "ILLINI COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7853/371396010_blessing-care-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/IlliniCommunityHospital/7853"
+  },
+  {
+    "detail_id": "042e9dd5-b78d-4a4a-b0f5-eee6eac6dc57",
+    "ccn": "141316",
+    "hospital_name": "CARLE HOOPESTON REGIONAL HEALTH CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11410/363637465_hoopeston-community-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CarleHooperstonRegionalHealthCenter/11410"
+  },
+  {
+    "detail_id": "3489bc0d-76df-423e-a2fd-51b75d2d593b",
+    "ccn": "141317",
+    "hospital_name": "GIBSON COMMUNITY HOSPITAL",
+    "file_url": "https://www.gibsonhospital.org/file/2582/370647938_gibson-area-hospital_standardcharges.csv",
+    "transparency_page": "https://www.gibsonhospital.org/services-and-conditions/profile/financial-services"
+  },
+  {
+    "detail_id": "b7bece69-726a-416a-af1b-a8f2c945cf5b",
+    "ccn": "141318",
+    "hospital_name": "OSF HOLY FAMILY MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1548393184_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "be36f53b-e572-4bed-9fbb-fa2525712a00",
+    "ccn": "141319",
+    "hospital_name": "HAMMOND-HENRY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHHGENESEOIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HammondHenry.aspx"
+  },
+  {
+    "detail_id": "5d0034c2-b12f-41ca-af8c-40b54d55752c",
+    "ccn": "141320",
+    "hospital_name": "PARIS COMMUNITY HOSPITAL",
+    "file_url": "https://www.myhorizonhealth.org/documents/166189498_Horizon-Health_standardcharges2025.csv",
+    "transparency_page": "https://www.myhorizonhealth.org/patients-visitors/billing-insurance/charges/"
+  },
+  {
+    "detail_id": "add100d4-6ae6-490d-b1ef-dc19428a19d6",
+    "ccn": "141321",
+    "hospital_name": "FRANKLIN HOSPITAL",
+    "file_url": "http://www.franklinhospital.net/docs/376006885_Franklin-Hospital-District_standardcharges.csv",
+    "transparency_page": "https://www.franklinhospital.net/getpage.php?name=Hospital_Charges"
+  },
+  {
+    "detail_id": "33d9f541-b6d5-4805-8d8c-f3bbd845fc87",
+    "ccn": "141322",
+    "hospital_name": "LINCOLN MEMORIAL HOSPITAL",
+    "file_url": "https://memorial.health/Resources/c8ccf9a4-b44a-4c87-b135-52ee53b192fa/370723793_Lincoln_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://memorial.health/financial/price-transparency/"
+  },
+  {
+    "detail_id": "2124b750-f47c-482a-a03b-c88a4399b8ad",
+    "ccn": "141323",
+    "hospital_name": "MASSAC MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMHMETROPOLISIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Massac.aspx"
+  },
+  {
+    "detail_id": "88f32854-8673-4b67-9f24-c0bc07f01d20",
+    "ccn": "141324",
+    "hospital_name": "FERRELL HOSPITAL COMMUNITY FOUNDATIONS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8309/201244058_ferrell-hospital-community-foundation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FerrellHospital/8309"
+  },
+  {
+    "detail_id": "0ab71bab-ac14-44ec-9f0f-8797b2df55e5",
+    "ccn": "141325",
+    "hospital_name": "OSF SAINT LUKE MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1871919381_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "2e248d15-e70b-4f57-8c4d-7df6e0bf55c7",
+    "ccn": "141326",
+    "hospital_name": "HAMILTON MEMORIAL HOSPITAL DISTRICT",
+    "file_url": "https://hmhospital.org/wp-content/uploads/2025/06/990977_HB_1598_4750_10012024_on_12202024_2013_Results_1%20final.csv",
+    "transparency_page": "https://hmhospital.org/billing/"
+  },
+  {
+    "detail_id": "43412490-e3df-476c-aed3-3f87b11b014c",
+    "ccn": "141327",
+    "hospital_name": "WABASH GENERAL HOSPITAL",
+    "file_url": "https://www.wabashgeneral.com/documents/Validated-Charge-Master-2025.csv",
+    "transparency_page": "https://www.wabashgeneral.com/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "bbdcab57-626a-496c-988a-060ba553bfae",
+    "ccn": "141328",
+    "hospital_name": "HARDIN COUNTY GENERAL HOSPITAL",
+    "file_url": "https://img1.wsimg.com/blobby/go/236f7919-963e-4efb-96f3-f57d384f3683/downloads/653cc5a2-6446-4024-acec-606233b90a6e/370702309_HardinCountyGeneralHospital_Standard-0001.xls?ver=1754408020723",
+    "transparency_page": "https://ilhcgh.org/current-prices"
+  },
+  {
+    "detail_id": "e64f6b9d-69a2-41b0-b188-d164939f27c1",
+    "ccn": "141329",
+    "hospital_name": "MORRISON COMMUNITY HOSPITAL",
+    "file_url": "https://morrisonhospital.com/wp-content/uploads/2024/12/MCH-Chargemaster-12.3.24.csv",
+    "transparency_page": "https://morrisonhospital.com/hospital-charges/"
+  },
+  {
+    "detail_id": "62027531-314d-4dfb-b515-882d068cb1a2",
+    "ccn": "141330",
+    "hospital_name": "HOPEDALE MEDICAL COMPLEX",
+    "file_url": "https://hopedalemc.com/media-library/documents/Footer_Information/370808925_hopedale-medical-complex_standardcharges.csv.xlsx",
+    "transparency_page": "https://hopedalemc.com/price-transparency"
+  },
+  {
+    "detail_id": "16279951-1b70-4c6d-aa6f-1631dd1ff2f2",
+    "ccn": "141331",
+    "hospital_name": "MARSHALL BROWNING HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMBHDUQUOINIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Marshall_Browning.aspx"
+  },
+  {
+    "detail_id": "0b9e5af6-e58f-4103-9e01-f8f827874c98",
+    "ccn": "141332",
+    "hospital_name": "HILLSBORO AREA HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHAHHILLSBOROIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hillsboro_V2.aspx"
+  },
+  {
+    "detail_id": "17ce8e60-7349-4619-8b35-2e72bf9b79f4",
+    "ccn": "141333",
+    "hospital_name": "SARAH D CULBERTSON MEMORIAL HOSPITAL",
+    "file_url": "https://cmhospital.com/media-library/documents/Pricing/SCHD_Chargemaster_2025.xlsx",
+    "transparency_page": "https://cmhospital.com/patients-and-visitors/billing/pricing"
+  },
+  {
+    "detail_id": "75f3b2bd-a2fa-456f-8a05-f9b230a32c91",
+    "ccn": "141335",
+    "hospital_name": "MERCYHEALTH HOSPITAL AND MEDICAL CENTER\u2013HARVARD",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/fl_attachment/mercyhealth-site-398/media/r/89c915615e854d118f13c565b4bf37a8/311551871-mercyharvardhospital-standardchargers.json",
+    "transparency_page": "https://www.mercyhealthsystem.org/patientsvisitors/billing-information/chargemaster/"
+  },
+  {
+    "detail_id": "bb410857-5456-43e3-92b4-e4018a03a193",
+    "ccn": "141336",
+    "hospital_name": "HSHS ST. JOSEPH'S HOSPITAL HIGHLAND",
+    "file_url": "https://www.hshs.org/getmedia/22b1f4d0-f087-4c1d-bc54-62d0caff00cc/370663568_ST-JOSEPH-S-HOSPITAL-HIGHLAND_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "dca38c54-d78e-4520-92e0-c13d1656a286",
+    "ccn": "141337",
+    "hospital_name": "OSF SAINT CLARE MEDICAL CENTER",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_1093308439_osf-healthcare-system_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "28519645-a88a-4102-83d2-b53684b3bace",
+    "ccn": "141338",
+    "hospital_name": "MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/memorialhospitalchester/37-6020801_Memorial-Hospital---Chester_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/memorialhospitalchester"
+  },
+  {
+    "detail_id": "c27e461d-4c5a-47a7-bc59-37b59bbfff91",
+    "ccn": "141339",
+    "hospital_name": "TAYLORVILLE MEMORIAL HOSPITAL",
+    "file_url": "https://memorial.health/Resources/fa78bf96-0368-4cd1-8b83-ef42eaa4f0ab/370661250_Taylorville_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://memorial.health/financial/price-transparency/"
+  },
+  {
+    "detail_id": "740a8cf5-c3ac-409e-b93b-549f4b11311f",
+    "ccn": "141340",
+    "hospital_name": "NORTHWESTERN MEDICINE VALLEY WEST HOSPITAL",
+    "file_url": "https://www.nm.org/site_data/364244337_Northwestern%20Medicine%20Valley%20West%20Hospital_standardcharges.json",
+    "transparency_page": "https://www.nm.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "3707175e-64a8-4e99-845b-33010e8ff00c",
+    "ccn": "141341",
+    "hospital_name": "PANA COMMUNITY HOSPITAL",
+    "file_url": "https://machine-readable-files.com/pana-community-hospital/370602326_Pana-Community-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Pana-Community-Hospital"
+  },
+  {
+    "detail_id": "d6ce7e34-527b-4314-9b93-5625f3421f62",
+    "ccn": "141343",
+    "hospital_name": "CRAWFORD MEMORIAL HOSPITAL",
+    "file_url": "https://www.crawfordmh.org/clientuploads/CMS-4205-F/370793762_Crawford-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.crawfordmh.org/pricing-billing/"
+  },
+  {
+    "detail_id": "4f78c477-bc0a-4020-93eb-0e1814535eb0",
+    "ccn": "141344",
+    "hospital_name": "LAWRENCE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.blob.core.windows.net/lawrencecountymemorialhospital/80-0618988_Lawrence-County-Memorial-Hospital_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/lawrencecountymemorialhospital"
+  },
+  {
+    "detail_id": "a299f18d-f16b-4db8-93f4-efec5c042cd9",
+    "ccn": "141345",
+    "hospital_name": "SALEM TOWNSHIP HOSPITAL",
+    "file_url": "http://machine-readable-files.com/salem-township-hospital/370925318_salem-township-hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/salem-township-hospital"
+  },
+  {
+    "detail_id": "fd438103-18c3-4fd8-ba2f-409cc9bb99b9",
+    "ccn": "141346",
+    "hospital_name": "SARAH BUSH LINCOLN FAYETTE COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFCHVANDALIAIL&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SarahBush_V3.aspx"
+  },
+  {
+    "detail_id": "66972c1f-3b81-4dcf-855f-1f9b535fb33a",
+    "ccn": "141347",
+    "hospital_name": "CARLINVILLE AREA HOSPITAL & CLINICS",
+    "file_url": "https://www.cahcare.com/storage/app/media/370645239_carlinville-area-hospital_standardcharges.csv",
+    "transparency_page": "https://www.cahcare.com/"
+  },
+  {
+    "detail_id": "a96e402f-0277-44f2-a99b-4fdbbe295b7f",
+    "ccn": "141348",
+    "hospital_name": "RED BUD REGIONAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10477/884142509_deaconess-illinois-red-bud-regional-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DeaconessIllinoisRedBudRegionalHospital/10477"
+  },
+  {
+    "detail_id": "a9ac327a-6047-47a1-9b1b-79a14081fefa",
+    "ccn": "141349",
+    "hospital_name": "SPARTA COMMUNITY HOSPITAL",
+    "file_url": "https://hospitalpricelists.org/export/376014817_SpartaCommunityHospitalDistrict_standardcharges.csv",
+    "transparency_page": "https://www.hospitalpricelists.org/Sparta-Community-Hospital"
+  },
+  {
+    "detail_id": "d3e3bb46-eb77-416a-a4be-69e717ba88f9",
+    "ccn": "141350",
+    "hospital_name": "HSHS ST FRANCIS HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/02708c02-f097-4342-8678-6daa1ead3602/370661236_ST-FRANCIS-HOSPITAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "6e5ee791-ccfe-4f93-b1c4-556dd9664bb9",
+    "ccn": "141351",
+    "hospital_name": "CLAY COUNTY HOSPITAL",
+    "file_url": "https://claycountyhospital.org/wp-content/uploads/376000605_county-of-clay_standardcharges.csv",
+    "transparency_page": "https://claycountyhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "a81ed6f0-7c55-4dbf-8d53-4c52966e5b3f",
+    "ccn": "141352",
+    "hospital_name": "JACKSONVILLE MEMORIAL HOSPITAL",
+    "file_url": "https://memorial.health/Resources/d997e3f0-da18-4ce6-9de5-f1465abf6e66/370661230_Jacksonville_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://memorial.health/financial/price-transparency/"
+  },
+  {
+    "detail_id": "863b17f9-f5e5-43a5-a8fa-260eeb27873b",
+    "ccn": "141353",
+    "hospital_name": "IROQUOIS MEMORIAL HOSPITAL",
+    "file_url": "https://iroquois.slicedhealth.io/pricer/37-0673512_IroquoisMemorialHospital_standardcharges.CSV",
+    "transparency_page": "https://iroquois.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "729905a9-d535-4ee1-b3ca-4be1a456ec8e",
+    "ccn": "141354",
+    "hospital_name": "HSHS GOOD SHEPHERD HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/46637ff7-a617-486f-94aa-2cf33c701dfb/370512290_GOOD-SHEPHERD-HOSPITAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "9a236d90-ebae-491c-ad7e-0cac84163598",
+    "ccn": "142006",
+    "hospital_name": "KINDRED HOSPITAL - SYCAMORE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=R6Z*_*cv5AK6qH2qITbD0rLA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=R6Z*_*cv5AK6qH2qITbD0rLA*-*"
+  },
+  {
+    "detail_id": "a614ac2a-e7ac-40ec-9409-8aef6cf18ed9",
+    "ccn": "142008",
+    "hospital_name": "KINDRED HOSPITAL CHICAGO - NORTHLAKE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=LB4rR0DmebMNsYXV7G1uJQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=LB4rR0DmebMNsYXV7G1uJQ*-*"
+  },
+  {
+    "detail_id": "207698ab-1a68-4efa-bdef-c45e30f17637",
+    "ccn": "142009",
+    "hospital_name": "KINDRED HOSPITAL - CHICAGO",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=qUG7nIK*_*BYxJHB8EW4xUTQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=qUG7nIK*_*BYxJHB8EW4xUTQ*-*"
+  },
+  {
+    "detail_id": "5259b11d-dc7e-4634-bf94-e5821d2ac5a7",
+    "ccn": "142010",
+    "hospital_name": "RML SPECIALTY HOSPITAL HINSDALE",
+    "file_url": "https://www.rmlspecialtyhospital.org/wp-content/uploads/2025/10/364113692_RMLHealthProvidersLP_standardcharges.csv",
+    "transparency_page": "https://www.rmlspecialtyhospital.org/why-choose-rml/financial-information/"
+  },
+  {
+    "detail_id": "f0b00498-bc5f-4ae3-a299-08c38c8f838c",
+    "ccn": "142011",
+    "hospital_name": "ASCENSION HOLY FAMILY",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/362235165-1689775736_presence-chicago-hospitals-network_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "5160d272-27bc-4b46-a5a6-054416ff8039",
+    "ccn": "142012",
+    "hospital_name": "RML CHICAGO",
+    "file_url": "https://www.rmlspecialtyhospital.org/wp-content/uploads/2025/10/364113692_RMLHealthProvidersLP_standardcharges.csv",
+    "transparency_page": "https://www.rmlspecialtyhospital.org/why-choose-rml/financial-information/"
+  },
+  {
+    "detail_id": "2f762d74-e325-4eab-b3fe-49ea95698c77",
+    "ccn": "142013",
+    "hospital_name": "OSF HEALTHCARE DIVINE MERCY CONTINUING CARE HOSPITAL",
+    "file_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/261579585_osf-healthcare-divine-mercy-continuing-care-hospital_standardcharges.json",
+    "transparency_page": "https://www.osfhealthcare.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "3915e800-de0e-446b-b26b-26e17654d3c8",
+    "ccn": "143025",
+    "hospital_name": "SCHWAB REHABILITATION CENTER",
+    "file_url": "https://standardcharges.blob.core.windows.net/srhstandardcharges/362179802_SRH_SCHWAB%20REHAB%20HOSPITAL%20AND%20CARE%20NETWORK_standardcharges.csv",
+    "transparency_page": "https://www.sinaichicago.org/en/patients-visitors/pricing/"
+  },
+  {
+    "detail_id": "7e17a7e5-0a15-45e4-ab90-a86d843103c3",
+    "ccn": "143028",
+    "hospital_name": "VAN MATRE ENCOMPASS HEALTH REHABILITATION INSTITUTE",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/364397130_Van-Matre-Encompass-Health-Rehabilitation-Institute_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/vanmatrerehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "6c1df2bd-10e7-4056-a305-fc8316d7d481",
+    "ccn": "143030",
+    "hospital_name": "THE REHABILITATION INSTITUTE OF SOUTHERN ILLINOIS",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/834553991_The-Rehabilitation-Institute-of-Southern-Illinois_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/shiloh-rehab"
+  },
+  {
+    "detail_id": "4acfd81f-93d7-40a1-ae25-a8b80b7ca4a1",
+    "ccn": "143031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION INSTITUTE OF LIBERTYVILLE",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/842352894_Encompass-Health-Rehabilitation-Institute-of-Libertyville_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/libertyville-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "4fb61534-b7e2-49e7-b923-18561d25f77d",
+    "ccn": "143032",
+    "hospital_name": "THE QUAD CITIES REHABILITATION INSTITUTE",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/843864099_The-Quad-Cities-Rehabilitation-Institute_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/quad-cities-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "87451531-eaf2-43bf-b788-afdeb22c7be0",
+    "ccn": "143300",
+    "hospital_name": "ANN & ROBERT H LURIE CHILDREN'S HOSPITAL OF CHICAGO",
+    "file_url": "https://www.luriechildrens.org/globalassets/media/pages/patients--visitors/billing--financial-assistance/36-2170833_ann_and_robert_h_lurie_childrens_hospital_of_chicago_standardcharges.csv",
+    "transparency_page": "https://www.luriechildrens.org/en/patients-visitors/billing-financial-assistance/understanding-hospital-charges/"
+  },
+  {
+    "detail_id": "15246bce-ccc8-41b7-9ea8-8f527ffab35a",
+    "ccn": "143301",
+    "hospital_name": "LARABIDA CHILDREN'S HOSPITAL",
+    "file_url": "https://larabida.org/wp-content/uploads/2023/05/LRCH_Price_Transparency_List_02_2023.xlsx",
+    "transparency_page": "https://larabida.org/family-resources/"
+  },
+  {
+    "detail_id": "6abb9cf5-93b7-493c-a6f8-dda24a3424fe",
+    "ccn": "143302",
+    "hospital_name": "SHRINERS HOSPITAL FOR CHILDREN - CHICAGO",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/5922d6568456e932b9e5a46eb7232ccf/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/5922d6568456e932b9e5a46eb7232ccf"
+  },
+  {
+    "detail_id": "468ca974-a976-4849-92d1-845618251496",
+    "ccn": "144009",
+    "hospital_name": "RIVEREDGE HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/223682760_riveredge_standardcharges.csv",
+    "transparency_page": "https://riveredgehospital.com/standard-services-2/"
+  },
+  {
+    "detail_id": "9a39ea1e-0ac5-4ea4-9e59-cba28e02320e",
+    "ccn": "144026",
+    "hospital_name": "HARTGROVE HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232983574_hartgrove_standardcharges.csv",
+    "transparency_page": "https://hartgrovehospital.com/standard-services/"
+  },
+  {
+    "detail_id": "48285531-f116-4687-ab50-5d8d2b6b2541",
+    "ccn": "144031",
+    "hospital_name": "ASCENSION ALEXIAN BROTHERS BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/364251848_alexian-brothers-behavioral-health-hospital_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "29422271-be67-4420-b286-47cb3ed871de",
+    "ccn": "144034",
+    "hospital_name": "BHC STREAMWOOD HOSPITAL BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658515_streamwood_standardcharges.csv",
+    "transparency_page": "https://streamwoodhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "49148611-cd7c-4b72-bd88-f6c0e0445b6b",
+    "ccn": "144035",
+    "hospital_name": "LINDEN OAKS BEHAVIORAL HEALTH",
+    "file_url": "https://www.endeavorhealth.org/363965251_linden-oaks-hospital_standardcharges.csv",
+    "transparency_page": "https://www.endeavorhealth.org/patients-visitors/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "efdbaa22-b236-4885-9291-f5d77275fe27",
+    "ccn": "144039",
+    "hospital_name": "GARFIELD PARK HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/460775763_garfield-park_standardcharges.csv",
+    "transparency_page": "https://garfieldparkhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "c1237372-e71d-4fb0-b100-eba7ab3cf809",
+    "ccn": "144040",
+    "hospital_name": "CHICAGO BEHAVIORAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/a353d236-6885-4047-a833-ae336b01c48a/46-5717505_ChicagoBehavioralHospital_StandardCharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=a353d236-6885-4047-a833-ae336b01c48a"
+  },
+  {
+    "detail_id": "434017b1-f494-41bd-90aa-69ab104e6499",
+    "ccn": "144041",
+    "hospital_name": "SILVER OAKS BEHAVIORAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/3375ca1a-188c-404a-92eb-046d89ca80ad/30-1009724_SilverOaksBehavioralHospital_StandardCharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=3375ca1a-188c-404a-92eb-046d89ca80ad"
+  },
+  {
+    "detail_id": "c7f267e1-7430-4ae4-9e25-d943c89a7c03",
+    "ccn": "144042",
+    "hospital_name": "LAKE BEHAVIORAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/e9c8ea5f-c409-4b74-92a3-af2e46ecab98/46-5500908_LakeBehavioralHospital_StandardCharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=e9c8ea5f-c409-4b74-92a3-af2e46ecab98"
+  },
+  {
+    "detail_id": "2949c601-d767-40a5-9379-991adb1c9f63",
+    "ccn": "218593",
+    "hospital_name": "FRANCISCAN HEALTH OLYMPIA FIELDS",
+    "file_url": "https://images.franciscanhealth.org/pdfs/enterprise/price_transparency/362167869_franciscan-health-olympia-fields_standardcharges.zip",
+    "transparency_page": "https://www.franciscanhealth.org/patient-resources/hospital-price-transparency"
+  }
+]

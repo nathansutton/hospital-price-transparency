@@ -57,8 +57,10 @@ class ScraperRegistry:
         ("pricetransparency.accureg.net", CMSStandardCSVScraper, False),
         # UHS behavioral health files - CMS CSV
         ("uhsfilecdn.eskycity.net", CMSStandardCSVScraper, False),
-        # Encompass Health rehab - CMS CSV
+        # Encompass Health rehab - CMS CSV (legacy domain)
         ("encompasshealth.com", CMSStandardCSVScraper, False),
+        # Encompass Health rehab - CMS CSV (new Sitecore CDN)
+        ("edge.sitecorecloud.io/encompasshee", CMSStandardCSVScraper, False),
         # Select Medical specialty hospitals - CMS CSV
         ("resources.selectmedical.com", CMSStandardCSVScraper, False),
         # Panacea/Trinity Health endpoints - ZIP containing CMS CSV
@@ -75,8 +77,10 @@ class ScraperRegistry:
         ("res.cloudinary.com/dpmykpsih", CMSStandardCSVScraper, False),
         # Para-HCFS price transparency (Cape Fear, Sampson) - CMS CSV
         ("apps.para-hcfs.com", CMSStandardCSVScraper, False),
-        # Kindred Healthcare disclosure - CMS CSV
-        ("hospitalpricedisclosure.com", CMSStandardCSVScraper, False),
+        # Kindred Healthcare disclosure - CMS JSON (despite .aspx extension)
+        ("hospitalpricedisclosure.com", CMSStandardJSONScraper, False),
+        # Google Drive links - usually CSV files
+        ("drive.google.com", CMSStandardCSVScraper, False),
     ]
 
     # IDN-specific scrapers

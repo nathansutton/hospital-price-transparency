@@ -1,0 +1,1190 @@
+[
+  {
+    "detail_id": "cba45a95-25f5-48bd-bfe0-a683e126bd28",
+    "ccn": "190002",
+    "hospital_name": "OCHSNER LAFAYETTE GENERAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/720535375_lafayette-general-medical-center-inc-_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "7e9425ac-45eb-46e1-8c82-43ef926c3da5",
+    "ccn": "190004",
+    "hospital_name": "THIBODAUX REGIONAL HEALTH SYSTEM",
+    "file_url": "https://www.thibodaux.com/documents/84-2046902%20_thibodaux-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://www.thibodaux.com/patients-visitors/hospital-charges-estimates/"
+  },
+  {
+    "detail_id": "9c3df90f-e6bc-441e-a9b0-8c0f571fbf39",
+    "ccn": "190006",
+    "hospital_name": "OCHSNER UNIVERSITY HOSPITAL & CLINICS",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/462605366_university-hospital-clinics-inc._standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "922219db-dbe2-4a2f-b501-201c17959aab",
+    "ccn": "190007",
+    "hospital_name": "NATCHITOCHES REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.nrmchospital.org/download.php?file=726013916_natchitoches-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://www.nrmchospital.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "14507c5c-f598-438d-b4a9-3bf4e568b02b",
+    "ccn": "190008",
+    "hospital_name": "TERREBONNE GENERAL MEDICAL CENTER",
+    "file_url": "https://www.tghealthsystem.com/documents/Terrebonne-General-Hospital-720880258-1852-20240828165131.csv",
+    "transparency_page": "https://www.tghealthsystem.com/price-transparency/"
+  },
+  {
+    "detail_id": "c3293c52-a84e-4472-8c3f-a075df1c2bc7",
+    "ccn": "190011",
+    "hospital_name": "OCHSNER LSU HEALTH SHREVEPORT - MONROE MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/800945173_brfhh-monroe-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsnerlsuhs.org/patients-visitors/billing-financial-services/pricing-transparency"
+  },
+  {
+    "detail_id": "a31b705c-f398-4c38-bb25-3168801de611",
+    "ccn": "190013",
+    "hospital_name": "WEST CALCASIEU CAMERON HOSPITAL",
+    "file_url": "https://www.wcch.com/images/726008355_west-calcasieu-cameron-hospital_standardcharges.5).zip",
+    "transparency_page": "https://www.wcch.com/"
+  },
+  {
+    "detail_id": "51b03bbe-f79c-4a08-9919-0f09f95c660a",
+    "ccn": "190014",
+    "hospital_name": "OCHSNER ST. MARY",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/842237042_ochsner-morgan-city-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "e3734cc1-a3f0-4f8c-92a3-8b7161505c9f",
+    "ccn": "190017",
+    "hospital_name": "OPELOUSAS GENERAL MAIN CAMPUS",
+    "file_url": "https://www.opelousasgeneral.com/documents/720708111_opelousasgenerahealthsystem_standardcharges.csv",
+    "transparency_page": "https://www.opelousasgeneral.com/patient-resources/healthcare-price-transparency/"
+  },
+  {
+    "detail_id": "98a3b954-ba0f-46ae-a12e-b83eebd9c76d",
+    "ccn": "190019",
+    "hospital_name": "CHRISTUS DUBUIS HOSPITAL OF ALEXANDRIA",
+    "address": "3330 MASONIC DR., 4TH FLOOR UNIT",
+    "file_url": "https://lhcgroup.wpenginepowered.com/wp-content/uploads/82-2117095_LHCG%20CXX,%20LLC%20dba%20Christus%20Dubuis%20Hospital%20of%20Alexandria_standardcharges.xlsx",
+    "transparency_page": "https://lhcgroup.com/locations/christus-dubuis-hospital-of-alexandria/"
+  },
+  {
+    "detail_id": "d79c6f96-e04c-47cb-91ee-5438ed3909b1",
+    "ccn": "190019",
+    "hospital_name": "CHRISTUS ST. FRANCES CABRINI HOSPITAL",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/720408984_stfrancescabrinihospital_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "39810f8b-6f84-4c1c-90ad-efd68494b675",
+    "ccn": "190020",
+    "hospital_name": "LANE REGIONAL MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/5f87202f5c/machine-readable/726015227_lane-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/lane-regional"
+  },
+  {
+    "detail_id": "45cb1876-e18a-46db-8004-e1155fc77171",
+    "ccn": "190025",
+    "hospital_name": "SAVOY MEDICAL CENTER",
+    "address": "801 POINCIANA AVE, FL 2",
+    "file_url": "https://savoymedical.com/pricing/80-0202027_SavoyMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://savoymedical.com/price-transparency/"
+  },
+  {
+    "detail_id": "69557649-8d0c-47a0-8dce-5273807c51e3",
+    "ccn": "190026",
+    "hospital_name": "RAPIDES REGIONAL MEDICAL CENTER",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/61-1267229_RAPIDES-REGIONAL-MEDICAL-CENTER_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.rapidesregional.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "93625761-b741-4c06-8e87-f08a911e53b1",
+    "ccn": "190027",
+    "hospital_name": "CHRISTUS OCHSNER ST PATRICK HOSPITAL",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/720411322_ochsnerstpatrickhospital_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "b0248e99-9f70-4ea2-be1e-6343db6c30b7",
+    "ccn": "190036",
+    "hospital_name": "OCHSNER MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/720502505_ochsner-clinic-foundation_standardcharges.csv_2025-12-22-032352_sbao.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "fed5d13e-3fa8-4233-a7c1-920fb11ba0cb",
+    "ccn": "190039",
+    "hospital_name": "WEST JEFFERSON MEDICAL CENTER",
+    "file_url": "https://drive.google.com/file/d/1UzIuM-rSbXNSoFU-stV6CRGj4Rb9nfik/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "820f8ac3-5ef6-4d5a-98a7-a7b5e30c7641",
+    "ccn": "190040",
+    "hospital_name": "SLIDELL MEMORIAL HOSPITAL",
+    "file_url": "https://slidell-site.files.svdcdn.com/production/main/726014895_st-tammany-hosptial-service-district-no-2_standardcharges.csv?dm=1766433150",
+    "transparency_page": "https://www.slidellmemorial.org/understanding-your-bill"
+  },
+  {
+    "detail_id": "d483709c-250f-4f09-aec8-603cb5a547eb",
+    "ccn": "190041",
+    "hospital_name": "CHRISTUS SHREVEPORT BOSSIER - HIGHLAND MEDICAL CENTER",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/720408982_highlandmedicalcentershreveport_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "5108250a-297c-4cc8-ace9-6b21eb11b8b8",
+    "ccn": "190044",
+    "hospital_name": "OCHSNER ACADIA GENERAL HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/464958152_-acadia-general-hospital-inc._standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "ec59c17c-7a78-4251-b79b-029c460fbb9f",
+    "ccn": "190045",
+    "hospital_name": "ST. TAMMANY PARISH HOSPITAL",
+    "file_url": "https://sths-org.s3.us-east-1.amazonaws.com/files/720478620_st-tammany-parish-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sttammany.health/Pricetransparency"
+  },
+  {
+    "detail_id": "3c5ea899-33ad-4ac1-a00a-e015cdee9eb6",
+    "ccn": "190046",
+    "hospital_name": "TOURO LCMC HEALTH",
+    "file_url": "https://drive.google.com/file/d/1fiZVGYZWaaaDNh7ABw1-RAgk4UWseyU_/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "4da122e0-cde8-40c8-b244-5d447dfefffc",
+    "ccn": "190050",
+    "hospital_name": "BEAUREGARD HEALTH SYSTEM",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/beauregard-site-285/media/r/579d1d176b8f465b95d747f165cd66d6/charge-master.csv",
+    "transparency_page": "https://www.beauregard.org/about-us/pricing-transparency-chargemaster/"
+  },
+  {
+    "detail_id": "84daf6a8-c3bb-47db-9978-963a4a421a32",
+    "ccn": "190053",
+    "hospital_name": "OCHSNER AMERICAN LEGION HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/880907240_ochsner-american-legion-hospital-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "88146455-ceff-4701-b38e-48515d394bda",
+    "ccn": "190054",
+    "hospital_name": "IBERIA MEDICAL CENTER",
+    "file_url": "https://www.iberiamedicalcenter.com/_files/ugd/3d8695_524d32b922f14012bd1a57d8ee5f3750.csv?dn=726014963_iberia-general-hospital-and-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.iberiamedicalcenter.com/cms-hospital-price-transparency"
+  },
+  {
+    "detail_id": "e356f157-ae69-4843-ac9d-783e22c1e8e3",
+    "ccn": "190060",
+    "hospital_name": "LAKE CHARLES MEMORIAL HOSPITAL",
+    "file_url": "https://lakecharlesmemorialhospital.pg.revenuemasters.com/cdm-files/720551963_lake-charles-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://lakecharlesmemorialhospital.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "eef513e6-d96a-49e4-986d-4718b731036f",
+    "ccn": "190064",
+    "hospital_name": "OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOLOTBATONROUGELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "88fa6198-03a8-4189-9bbd-30ad9d1d7f38",
+    "ccn": "190079",
+    "hospital_name": "ST. CHARLES PARISH HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/726014606_hospital-service-district-no.-1-of-the-parish-of-st.-charles-state-of-louisiana_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates/"
+  },
+  {
+    "detail_id": "c5aceb23-9ada-48e0-bef4-59f6ae15a70e",
+    "ccn": "190086",
+    "hospital_name": "NORTHERN LOUISIANA MEDICAL CENTER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/d191002b-0c8e-4cf4-9961-812ba9c00557/844422249_NORTHERN-LOUISIANA-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=d191002b-0c8e-4cf4-9961-812ba9c00557"
+  },
+  {
+    "detail_id": "8ee51354-9b9c-4ab3-aad3-a9b41e6c047b",
+    "ccn": "190088",
+    "hospital_name": "SPRINGHILL MEDICAL CENTER",
+    "file_url": "https://www.smccare.com/_files/ugd/75de35_d73161ecde8f46acb740d43ed72691f9.csv?dn=721479692_springhill-medical-services-inc_standardcharges.csv",
+    "transparency_page": "https://www.smccare.com/price-transparency"
+  },
+  {
+    "detail_id": "9e82e5b7-956c-49d7-af17-4941246f5c59",
+    "ccn": "190090",
+    "hospital_name": "WINN PARISH MEDICAL CENTER",
+    "file_url": "https://winnparishmedical.ahmgt.com/81-3465517_WINN-PARISH-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://winnparishmedical.ahmgt.com/"
+  },
+  {
+    "detail_id": "e46a276b-3fd0-4138-9843-aa387567ad40",
+    "ccn": "190098",
+    "hospital_name": "OCHSNER LSU HEALTH SHREVEPORT - ACADEMIC MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/831173631_university-health-shreveport-llc-_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsnerlsuhs.org/patients-visitors/billing-financial-services/pricing-transparency"
+  },
+  {
+    "detail_id": "7a713023-4af8-447e-8c52-23a0b5bbe5ef",
+    "ccn": "190099",
+    "hospital_name": "AVOYELLES HOSPITAL",
+    "file_url": "https://avoyelleshospital.ahmgt.com/813465468_AVOYELLES-HOSPITAL_standardcharges.csv",
+    "transparency_page": "http://avoyelleshospital.ahmgt.com/"
+  },
+  {
+    "detail_id": "fe09e4c3-6e68-4b4d-bebb-b93ab5268d7c",
+    "ccn": "190102",
+    "hospital_name": "OUR LADY OF LOURDES REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOLOLLAFAYETTELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "d8d0143e-50f5-4b26-92a5-06eb57d0159e",
+    "ccn": "190106",
+    "hospital_name": "OAKDALE COMMUNITY HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/04120e6f-af8f-460c-a7bc-f60aa4706e05/813465783_OAKDALE-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=04120e6f-af8f-460c-a7bc-f60aa4706e05"
+  },
+  {
+    "detail_id": "877e8143-c0d2-4c79-820e-652692411864",
+    "ccn": "190111",
+    "hospital_name": "WILLIS-KNIGHTON MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=EQGzpo*__*Zt8w*__*tMoFmXcTzQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?pi=EQGzpo*__*Zt8w*__*tMoFmXcTzQ*-*"
+  },
+  {
+    "detail_id": "45f7bc49-7bd0-4b20-9cf8-66a8fcfb2a09",
+    "ccn": "190114",
+    "hospital_name": "CLAIBORNE MEMORIAL MEDICAL CENTER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/1b76b953-2b0b-45ad-849c-3b844c4b4c1d/720396868_CLAIBORNE-MEMORIAL-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=1b76b953-2b0b-45ad-849c-3b844c4b4c1d"
+  },
+  {
+    "detail_id": "28b02a80-88b2-4444-8a23-76b9516c8082",
+    "ccn": "190116",
+    "hospital_name": "MOREHOUSE GENERAL HOSPITAL",
+    "file_url": "https://morehousegeneralhospital.pg.quadax.revenuemasters.com/cdm-files/726011528_morehouse-general-hospital_standardcharges.csv",
+    "transparency_page": "https://morehousegeneralhospital.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "06d279c5-b47a-4a26-a415-5dae5e37e9ae",
+    "ccn": "190118",
+    "hospital_name": "DESOTO REGIONAL HEALTH SYSTEM",
+    "file_url": "https://www.desotoregional.com/downloads/720500565_desoto-regional-health-system_standardcharges.csv",
+    "transparency_page": "https://www.desotoregional.com/price-transparency"
+  },
+  {
+    "detail_id": "0f7e6e2a-2d93-4b68-a766-f831708689eb",
+    "ccn": "190125",
+    "hospital_name": "ST. FRANCIS MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSFMCMONROELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "94b67358-a63f-4afd-be6d-f43c8f4a54c2",
+    "ccn": "190128",
+    "hospital_name": "WOMAN'S HOSPITAL",
+    "file_url": "https://www.womans.org/sites/default/files/2024-12/720652905_womans-hospital_standardcharges.csv",
+    "transparency_page": "https://www.womans.org/patient-resources/billing-insurance/hospital-charges"
+  },
+  {
+    "detail_id": "49985a63-8f68-45be-b2f7-8c85eb76d2c3",
+    "ccn": "190133",
+    "hospital_name": "ALLEN PARISH HOSPITAL",
+    "file_url": "https://machine-readable-files.com/allen-parish-community-healthcare/720655439_Allen-Parish-Community-Healthcare_standardcharges.csv",
+    "transparency_page": "https://hospitalpricelists.org/allen-parish-community-healthcare"
+  },
+  {
+    "detail_id": "03e1f96f-618a-466f-aba5-73fe4390b633",
+    "ccn": "190135",
+    "hospital_name": "OCHSNER BAPTIST MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/720502505_ochsner-clinic-foundation_standardcharges.csv_2025-12-22-032352_sbao.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "f47761f3-aa6b-4c16-9906-b4d56a0a2bb4",
+    "ccn": "190140",
+    "hospital_name": "FRANKLIN MEDICAL CENTER",
+    "file_url": "https://franklinmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/720685244_franklin-medical-center_standardcharges.csv",
+    "transparency_page": "https://franklinmedicalcenter.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "bd0529e2-2744-4e1e-bb14-8d6fee5b824b",
+    "ccn": "190144",
+    "hospital_name": "MINDEN MEDICAL CENTER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/51c6b6d1-0692-4788-ba2b-65a21c495bcb/824625698_MINDEN-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=51c6b6d1-0692-4788-ba2b-65a21c495bcb"
+  },
+  {
+    "detail_id": "869af06d-ac8f-4a67-a453-df67c20f04d9",
+    "ccn": "190146",
+    "hospital_name": "EAST JEFFERSON GENERAL HOSPITAL",
+    "file_url": "https://drive.google.com/file/d/1bUYw5K0KNytFwerGRZFvagFfJO8ygeJk/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "52a6b45c-eb06-4139-a20b-6a8b9004a411",
+    "ccn": "190151",
+    "hospital_name": "RICHARDSON MEDICAL CENTER",
+    "file_url": "https://richardsonmedical.pg.quadax.revenuemasters.com/cdm-files/721179028_richardson_medical_center_standardcharges.csv",
+    "transparency_page": "https://richardsonmedical.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "07c610dd-9b50-48be-b41d-a8d175caac64",
+    "ccn": "190160",
+    "hospital_name": "GLENWOOD REGIONAL MEDICAL CENTER",
+    "file_url": "https://glenwoodregional.org/pricetransparency/994786140_GlenwoodRegionalMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://glenwoodregional.org/price-transparency"
+  },
+  {
+    "detail_id": "d8c5b515-aa28-467a-bb09-ad12238f2755",
+    "ccn": "190164",
+    "hospital_name": "BYRD REGIONAL HOSPITAL",
+    "file_url": "https://byrdregional.com/824337635_BYRD-REGIONAL-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://byrdregional.com/"
+  },
+  {
+    "detail_id": "cfef61b0-15c5-437d-adad-9c27a4f92301",
+    "ccn": "190167",
+    "hospital_name": "MERCY REGIONAL MEDICAL CENTER",
+    "file_url": "https://mercyregionalmedical.com/824681222_MERCY-REGIONAL-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://mercyregionalmedical.com/"
+  },
+  {
+    "detail_id": "8ce068a5-bf63-425a-8181-7908af47e19c",
+    "ccn": "190177",
+    "hospital_name": "LAKEVIEW REGIONAL MEDICAL CENTER",
+    "file_url": "https://drive.google.com/file/d/1iRJ1zLWbIRbLDpIMufDrJk4Kl5fmFtxo/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "cde633d8-1170-4539-b6b8-c206a31e779a",
+    "ccn": "190182",
+    "hospital_name": "LAKESIDE HOSPITAL",
+    "file_url": "https://drive.google.com/file/d/1wcsda3zZtiioqZsS-nmt0-HvxYo6SjDN/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "485cda60-a884-407a-9746-70097bd771d8",
+    "ccn": "190190",
+    "hospital_name": "CALDWELL MEMORIAL HOSPITAL",
+    "file_url": "https://www.mycaldwellmemorial.com/wp-content/uploads/2025/02/720878037_caldwell-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.mycaldwellmemorial.com/faqs/"
+  },
+  {
+    "detail_id": "f66da6b2-7af8-4cb2-bc8e-f5a698a2feaf",
+    "ccn": "190191",
+    "hospital_name": "OPELOUSAS GENERAL SOUTH CAMPUS",
+    "file_url": "https://www.opelousasgeneral.com/documents/720708111_opelousasgenerahealthsystem_standardcharges.csv",
+    "transparency_page": "https://www.opelousasgeneral.com/patient-resources/healthcare-price-transparency/"
+  },
+  {
+    "detail_id": "35f3faa3-9511-4773-8a26-1606d44cdd15",
+    "ccn": "190202",
+    "hospital_name": "OCHSNER MEDICAL CENTER-BATON ROUGE",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/201729674_east-baton-rouge-medical-center-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "b00fd8c7-b748-446a-9b09-8ccca41704b6",
+    "ccn": "190204",
+    "hospital_name": "SLIDELL MEMORIAL HOSPITAL EAST",
+    "file_url": "https://slidell-site.files.svdcdn.com/production/east/726014895_st-tammany-hosptial-service-district-no-2_standardcharges.csv?dm=1766432990",
+    "transparency_page": "https://www.slidellmemorial.org/understanding-your-bill"
+  },
+  {
+    "detail_id": "cc922601-2678-4f80-83fb-e9e781d3ab71",
+    "ccn": "190208",
+    "hospital_name": "EAST CARROLL PARISH HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbECPHLAKEPROVIDENCELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/East_Carroll_Parish_V3.aspx"
+  },
+  {
+    "detail_id": "6e23db4e-d5bc-49ad-b68b-03abb49188e4",
+    "ccn": "190218",
+    "hospital_name": "SABINE MEDICAL CENTER",
+    "file_url": "https://sabinemedicalcenter.net/26-2074318_SABINE-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=b5428f65-d51d-466e-858b-7157212cbca8"
+  },
+  {
+    "detail_id": "00bbea0c-bcf8-4629-b98d-930035caf9a9",
+    "ccn": "190236",
+    "hospital_name": "WK BOSSIER HEALTH CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=EQGzpo*__*Zt8w*__*tMoFmXcTzQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?pi=EQGzpo*__*Zt8w*__*tMoFmXcTzQ*-*"
+  },
+  {
+    "detail_id": "fa371d4e-4ce4-4bb4-bea9-528f2ee122fc",
+    "ccn": "190241",
+    "hospital_name": "PHYSICIANS MEDICAL CENTER",
+    "file_url": "https://www.tghealthsystem.com/documents/Terrebonne-General-Hospital-720880258-1852-20240828165131.csv",
+    "transparency_page": "https://www.tghealthsystem.com/price-transparency/"
+  },
+  {
+    "detail_id": "fde1a178-7208-4833-97e5-15dc778119b0",
+    "ccn": "190242",
+    "hospital_name": "OUR LADY OF THE LAKE ASCENSION",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOLOTBATONROUGELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "49d1bb57-5b36-4401-9b33-0b06bb318635",
+    "ccn": "190245",
+    "hospital_name": "MONROE SURGICAL HOSPITAL",
+    "file_url": "https://monroesurgicalhospital.pg.revenuemasters.com/cdm-files/721479756_monroe-surgical-hospital-llc_standardcharges.csv",
+    "transparency_page": "https://monroesurgicalhospital.pg.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "37fe3c22-31bc-4b4c-92e3-b16dbf2b5c74",
+    "ccn": "190246",
+    "hospital_name": "ST. FRANCIS P & S SURGERY & HEART CENTER",
+    "address": "312 GRAMMONT ST, STE 101",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSFMCMONROELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "1d669ff0-d1ad-41d6-9ffe-bc279892d905",
+    "ccn": "190256",
+    "hospital_name": "STERLING SURGICAL HOSPITAL",
+    "file_url": "https://s3.us-east-1.amazonaws.com/sterlingsurgical/documents/Hospital-Pricing-Information.xlsx",
+    "transparency_page": "https://sterlingsurgical.net/patients/insurance-and-billing"
+  },
+  {
+    "detail_id": "08eab93a-59b7-43f1-9630-312589915a07",
+    "ccn": "190259",
+    "hospital_name": "LAFAYETTE SURGICAL SPECIALTY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/746cadba05330d7855dcc83b43a435e6/charges/mrf",
+    "transparency_page": "https://lafayettesurgical.com/patient-pricing/"
+  },
+  {
+    "detail_id": "96aac77a-3d6a-4d00-81c9-6eb824a6e3dc",
+    "ccn": "190261",
+    "hospital_name": "GLENWOOD SURGICAL SERVICES",
+    "file_url": "https://glenwoodregional.org/pricetransparency/994786140_GlenwoodRegionalMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://glenwoodregional.org/price-transparency"
+  },
+  {
+    "detail_id": "89243d7a-72b7-488a-b2d6-5fd4cac3b18f",
+    "ccn": "190266",
+    "hospital_name": "THE SPINE HOSPITAL OF LOUISANA",
+    "address": "10105 PARK ROWE CIR, STE 250",
+    "file_url": "https://spinehola.com/wp-content/uploads/2025/07/MRF-270059959_the-spine-hospital-of-louisiana_standardcharges.csv",
+    "transparency_page": "https://spinehola.com/for-patients/patient-pricing-information/"
+  },
+  {
+    "detail_id": "92c2a883-598a-4c07-b411-f5138e4c6b74",
+    "ccn": "190267",
+    "hospital_name": "AVALA HOSPITAL",
+    "file_url": "https://avala.com/wp-content/uploads/2025/12/721426390_fairwaymedicalcenter_standardcharges.csv",
+    "transparency_page": "https://avala.com/price-transparency/"
+  },
+  {
+    "detail_id": "e85141c6-c043-4773-b3c6-eb34e8773a5b",
+    "ccn": "190268",
+    "hospital_name": "OCHSNER LAFAYETTE GENERAL SURGICAL HOSPITAL",
+    "address": "1000 W PINHOOK RD, STE 100",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/720535375_lafayette-general-medical-center-inc-_standardcharges.csv_2024-12-19-191758_nugn.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "58899e6a-31c9-47bd-8551-515c47963f78",
+    "ccn": "190270",
+    "hospital_name": "OUR LADY OF THE LAKE SURGICAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/LakeSurgicalSlidell/474228147_lake-surgical-hospital---slidell_standardcharges.json",
+    "transparency_page": "https://mrfs.hyvehealthcare.com/LakeSurgicalSlidell/"
+  },
+  {
+    "detail_id": "05e70dbc-d365-45c4-8632-a51401537186",
+    "ccn": "190274",
+    "hospital_name": "OCHSNER MEDICAL CENTER- KENNER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/205432782_ochsner-medical-center-%E2%80%93-kenner-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "76710e0a-a3f0-48af-839a-de2d502f1d0c",
+    "ccn": "190275",
+    "hospital_name": "OCHSNER MEDICAL CENTER-WEST BANK",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/720502505_ochsner-clinic-foundation_standardcharges.csv_2025-12-22-032352_sbao.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "660cbddc-203f-45fa-b05a-f3a6855f6bc2",
+    "ccn": "190278",
+    "hospital_name": "SPECIALISTS HOSPITAL SHREVEPORT",
+    "address": "1500 LINE AVE, STE 206",
+    "file_url": "https://specialistshospitalshreveport.com/wp-content/uploads/2025/04/208810573_specialists-hospital-shreveport.csv",
+    "transparency_page": "https://specialistshospitalshreveport.com/about/notice-of-charges-common-procedures/"
+  },
+  {
+    "detail_id": "5a2f4201-b4a5-4a54-83e5-0081c44c72e7",
+    "ccn": "190298",
+    "hospital_name": "CENTRAL LOUISIANA SURGICAL HOSPITAL",
+    "file_url": "https://clshospital.com/wp-content/uploads/2024/12/264732898_central-louisiana-surgical-hospital_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "caeff2b2-f402-465e-a393-0df120abfe26",
+    "ccn": "190300",
+    "hospital_name": "ST. CHARLES SURGICAL HOSPITAL",
+    "file_url": "https://www.scsh.com/transparency-in-pricing/200094270_st-charles-surgical-hospital-llc_standardcharges.csv",
+    "transparency_page": "https://www.scsh.com/"
+  },
+  {
+    "detail_id": "995b432f-613b-4313-a2e0-8d7d2e759c66",
+    "ccn": "190302",
+    "hospital_name": "OMEGA HOSPITAL",
+    "file_url": "https://omegahospital.com/wp-content/uploads/2023/04/Chargemaster-2020.xlsx",
+    "transparency_page": "https://omegahospital.com/price-transparency-disclosure/"
+  },
+  {
+    "detail_id": "22570119-8526-4972-99fe-8f92473682fb",
+    "ccn": "190308",
+    "hospital_name": "ST. BERNARD PARISH HOSPITAL",
+    "address": "8000 WEST JUDGE PEREZ DRIVE, STE 1600",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/261576974_hospital-service-district-of-the-parish-of-st.-bernard-state-of-louisiana_standardcharges.csv_2025-12-22-025422_zhlw.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates/"
+  },
+  {
+    "detail_id": "d5d8be9e-734b-4c69-bfe6-84a47f509a0e",
+    "ccn": "190312",
+    "hospital_name": "OUR LADY OF THE ANGELS HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOLOTBOGALUSALA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "bbff8f88-62ce-4559-b00d-0d8c608bf869",
+    "ccn": "190313",
+    "hospital_name": "NEW ORLEANS EAST HOSPITAL",
+    "file_url": "https://drive.google.com/file/d/1Ye7xcRg2DS-W5xpxaXmASlOVIqByLvrf/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "ecc1171f-a605-4387-8637-09e3501b7559",
+    "ccn": "190316",
+    "hospital_name": "BATON ROUGE GENERAL - MID CITY",
+    "file_url": "https://www.brgeneral.org/sites/default/files/721025017_baton-rouge-general-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.brgeneral.org/patient-center/billing-insurance/get-an-estimate"
+  },
+  {
+    "detail_id": "c984aec9-802b-4b80-bfb1-2126e0cf12e1",
+    "ccn": "190317",
+    "hospital_name": "OCHSNER LSU HEALTH - ST. MARY MEDICAL CENTER",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/850672191_ochsner-lsu-health-shreveport-st.-mary-medical-center-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "6a2f3bd5-f337-40e4-b95e-4bb9f390de36",
+    "ccn": "190318",
+    "hospital_name": "ACADIAN MEDICAL CENTER",
+    "file_url": "https://acadianmedicalcenter.com/825359949_ACADIAN-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://acadianmedicalcenter.com/"
+  },
+  {
+    "detail_id": "306dab34-682c-4a25-b24a-d9e07054da72",
+    "ccn": "190320",
+    "hospital_name": "RISE COMMUNITY HOSPITAL",
+    "file_url": "https://riserecoveryservices.com/994947730_rise-community-hospital_standardcharges.csv",
+    "transparency_page": "https://riserecoveryservices.com/rise-community-hospital-at-prairieville/price-transparency/"
+  },
+  {
+    "detail_id": "13376d15-6f74-4d53-af20-88db5e8a4e83",
+    "ccn": "191300",
+    "hospital_name": "ST. HELENA PARISH HOSPITAL",
+    "file_url": "https://www.sthph.com/_files/ugd/daac04_db4a86b266bd431d9708c507fd7af6dd.csv?dn=Price%20List%20(1).csv",
+    "transparency_page": "https://www.sthph.com/general-9"
+  },
+  {
+    "detail_id": "12efeeec-8d29-4da8-9ad8-c7aee278a807",
+    "ccn": "191301",
+    "hospital_name": "UNION GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbUGHFARMERVILLELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Union_General.aspx"
+  },
+  {
+    "detail_id": "076f267d-9039-4514-a085-5a49a28d2b62",
+    "ccn": "191302",
+    "hospital_name": "OCHSNER ST. MARTIN HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/264626264_st-martin-hospital-inc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "7472540f-401e-4fdd-866e-b58264a62b64",
+    "ccn": "191303",
+    "hospital_name": "OUR LADY OF THE LAKE ASSUMPTION COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbACHNAPOLEONVILLELA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.fmolhs.org/patients-guests/fmolhs-price-transparency"
+  },
+  {
+    "detail_id": "1e09fa28-f0b0-4e48-96e5-5b835d44a2fa",
+    "ccn": "191304",
+    "hospital_name": "NORTH CADDO MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=S06VWBoQGGb99RkSb0P*_*8w*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=S06VWBoQGGb99RkSb0P*_*8w*-*"
+  },
+  {
+    "detail_id": "a156021d-0528-45ee-a1de-adc93a392c62",
+    "ccn": "191305",
+    "hospital_name": "ST. JAMES PARISH HOSPITAL",
+    "file_url": "https://www.sjph.org/wp-content/uploads/2025/10/72-6010747_StJamesParishHospital_standard_charges.csv.xlsx",
+    "transparency_page": "https://www.sjph.org/charge-estimates/"
+  },
+  {
+    "detail_id": "ee6514fd-8595-4b65-b0ed-7ef9126fabe1",
+    "ccn": "191306",
+    "hospital_name": "WEST FELICIANA HOSPITAL",
+    "file_url": "https://www.wfph.org/wp-content/uploads/720683078_the-hospital-service-district-of-west-feliciana-parish-louisiana_standardcharges.csv",
+    "transparency_page": "https://www.wfph.org/standard-price/"
+  },
+  {
+    "detail_id": "917c65d5-7187-4b82-9b93-a806ea46bd4b",
+    "ccn": "191307",
+    "hospital_name": "DEQUINCY MEMORIAL HOSPITAL",
+    "file_url": "https://dequincymemorial.com/36-4911029_DEQUINCY-MEMORIAL-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=91b13a29-b056-4991-9971-ec11bdf30501"
+  },
+  {
+    "detail_id": "931e0477-4c34-4353-a051-771cdaaf4b0b",
+    "ccn": "191308",
+    "hospital_name": "WEST ASCENSION PARISH HOSPITAL",
+    "file_url": "https://machine-readable-files.com/West-Ascension-Parish-Hospital/720637478_west-ascension-parish-hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/West-Ascension-Parish-Hospital"
+  },
+  {
+    "detail_id": "37885385-d147-4661-8921-cbd83826633f",
+    "ccn": "191309",
+    "hospital_name": "HOOD MEMORIAL HOSPITAL",
+    "file_url": "https://cdn.prod.website-files.com/58ab696e44090871159a0e6c/676ae33c8a00af3fbcbc5513_Hospital%20Standard%20Charges%20as%20of%2012.01.2024.csv",
+    "transparency_page": "https://www.hoodmemorial.com/hospital-price-transparency"
+  },
+  {
+    "detail_id": "7c36c1d7-087a-4931-ac14-8f025b3febfd",
+    "ccn": "191310",
+    "hospital_name": "BAYOU BEND HEALTH SYSTEM",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFFHFRANKLINLA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Franklin_Foundation_V3.aspx#"
+  },
+  {
+    "detail_id": "62377dd2-8d43-44f9-b107-d822c3999686",
+    "ccn": "191311",
+    "hospital_name": "BUNKIE GENERAL HOSPITAL",
+    "address": "427 EVERGREEN ST, UNIT 29",
+    "file_url": "https://www.bunkiegeneral.com/wp-content/uploads/2025/11/720697593_Hospital-Service-District-No-1-Parish-of-Avoyelles-State-of-Louisiana_standardcharges.csv",
+    "transparency_page": "https://www.bunkiegeneral.com/about/legal-policies/price-transparency/"
+  },
+  {
+    "detail_id": "e51e2c6a-08c4-4824-8b9a-cbdca86d9e24",
+    "ccn": "191312",
+    "hospital_name": "CHRISTUS COUSHATTA HEALTH CARE CENTER",
+    "file_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/720408984_coushattahealthcarecenter_standardcharges.json",
+    "transparency_page": "https://www.christushealth.org/plan-care/bill-pay/pricing-transparency"
+  },
+  {
+    "detail_id": "9a5b954a-4a8b-4f94-a594-e1beaede0595",
+    "ccn": "191313",
+    "hospital_name": "RIVERSIDE MEDICAL CENTER",
+    "file_url": "https://www.rmchospital.com/docs/2025_Full_Chargemaster.csv",
+    "transparency_page": "https://www.rmchospital.com/getpage.php?name=Charge_Master"
+  },
+  {
+    "detail_id": "ada9be77-df87-4afa-a650-5841c4bf20bc",
+    "ccn": "191314",
+    "hospital_name": "MADISON PARISH HOSPITAL",
+    "file_url": "https://madisonparish.pg.quadax.revenuemasters.com/cdm-files/720985610_madison-parish-hospital_standardcharges.csv",
+    "transparency_page": "https://www.madisonparishhospital.com/patients-visitors/patient-information/price-transparency"
+  },
+  {
+    "detail_id": "353cf4a8-a4c3-402f-914d-fac9d09f31ba",
+    "ccn": "191316",
+    "hospital_name": "POINTE COUPEE GENERAL HOSPITAL",
+    "file_url": "https://pcgh.org/s/721054801_pointe-coupee-general-hospital_standardcharges.csv",
+    "transparency_page": "https://pcgh.org/medical-services/price-transparency"
+  },
+  {
+    "detail_id": "2771d3ab-5833-4b2e-9000-40b4e69f8e8c",
+    "ccn": "191317",
+    "hospital_name": "JACKSON PARISH HOSPITAL",
+    "file_url": "https://machine-readable-files.com/jackson-parish-hospital/720549907_Jackson-Parish-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/jackson-parish-hospital"
+  },
+  {
+    "detail_id": "41b9fe61-78e0-45be-a96a-61d0d5aa7517",
+    "ccn": "191318",
+    "hospital_name": "TRINITY MEDICAL",
+    "file_url": "https://www.trinitymed.com/siteuploads/editorimg/file/720578642_trinity-medical_standardcharges.csv",
+    "transparency_page": "https://www.trinitymed.com/pricing-transparency"
+  },
+  {
+    "detail_id": "4b9d844a-2454-4fc5-bdf5-b194581ab9b2",
+    "ccn": "191319",
+    "hospital_name": "ACADIA-ST. LANDRY HOSPITAL",
+    "file_url": "https://www.aslh.org/wp-content/uploads/2025/11/720643190_acadia-st-landry-hospital-service-district_standardcharges.csv",
+    "transparency_page": "https://www.aslh.org/about/pricing/"
+  },
+  {
+    "detail_id": "6973a02d-ef68-406b-92d2-a009bcb17d50",
+    "ccn": "191320",
+    "hospital_name": "BIENVILLE MEDICAL CENTER",
+    "file_url": "https://bienvillemedicalcenter.net/743227578_BIENVILLE-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://bienvillemedicalcenter.net/"
+  },
+  {
+    "detail_id": "76453287-c9ea-4a60-94be-fcd044e88fc2",
+    "ccn": "191321",
+    "hospital_name": "LALLIE KEMP REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.lsuhospitals.org/lak/docs/726000749_Lallie-Kemp-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.lsuhospitals.org/lak/pricetransparency.aspx"
+  },
+  {
+    "detail_id": "d10276df-e270-410b-9116-69157ee4c804",
+    "ccn": "191322",
+    "hospital_name": "OCHSNER ABROM KAPLAN MEMORIAL HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/472540179_kaplan-general-hospital-inc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "f2765699-350e-44cc-a030-09bce609bc17",
+    "ccn": "191323",
+    "hospital_name": "DELHI HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRPHDELHILA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/RichlandParish_V2.aspx"
+  },
+  {
+    "detail_id": "6c9e34f8-736b-421a-a04d-8573442fa624",
+    "ccn": "191324",
+    "hospital_name": "OCHSNER ST. ANNE GENERAL HOSPITAL",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/204670876_ochsner-bayou-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates"
+  },
+  {
+    "detail_id": "64ef699c-e4ed-4080-ab07-0d1a8bea1c53",
+    "ccn": "191325",
+    "hospital_name": "LADY OF THE SEA GENERAL HOSPITAL",
+    "file_url": "https://www.losgh.org/assets/72-6012041_lady-of-the-sea-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.losgh.org/patients_financial.php"
+  },
+  {
+    "detail_id": "5696d749-8cfa-42df-8438-e48ea0ac4bc5",
+    "ccn": "191326",
+    "hospital_name": "REEVES MEMORIAL MEDICAL CENTER",
+    "file_url": "https://reevesmemorialmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/720685207_reeves-memorial-medical-center_standardcharges.csv",
+    "transparency_page": "https://reevesmemorialmedicalcenter.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "088ea1d9-c8aa-4985-a130-4fc1b66d3d36",
+    "ccn": "191327",
+    "hospital_name": "WEST CARROLL MEMORIAL HOSPITAL",
+    "file_url": "https://wchsystems.com/562300247_west-carroll-health-systems_standardcharges.csv",
+    "transparency_page": "https://wchsystems.com/charges-billing-and-insurance/"
+  },
+  {
+    "detail_id": "7999bf4c-53ce-47f0-9c03-c2c82efa9e39",
+    "ccn": "192004",
+    "hospital_name": "KPC PROMISE HOSPITAL OF BATON ROUGE",
+    "file_url": "https://batonrouge.kpcph.com/wp-content/uploads/sites/8/2023/12/83-4190159_KPC-Promise-Hospital-of-Baton-Rouge_standardcharges.csv",
+    "transparency_page": "https://batonrouge.kpcph.com/cms-price-transparency/"
+  },
+  {
+    "detail_id": "818c1f64-bdf5-4285-bcec-abdc97e07672",
+    "ccn": "192006",
+    "hospital_name": "CORNERSTONE HOSPITAL OF BOSSIER CITY",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=15NwXoMIO6CZZuunI0V74g*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=15NwXoMIO6CZZuunI0V74g*-*"
+  },
+  {
+    "detail_id": "e64dce11-be0c-4624-86d7-ee1e0856be6a",
+    "ccn": "192007",
+    "hospital_name": "BRIDGEPOINT CONTINUING CARE HOSPITAL NEW ORLEANS",
+    "file_url": "https://www.bridgepointhealthcare.com/s/812657111_BridgePointContinuingCareHospitalWestJefferson_standardcharges-gtd6.csv",
+    "transparency_page": "https://www.bridgepointhealthcare.com/charge-master"
+  },
+  {
+    "detail_id": "68883d4d-561c-4b9a-a4f0-4f5f09446784",
+    "ccn": "192008",
+    "hospital_name": "SAGE SPECIALTY HOSPITAL",
+    "file_url": "https://thecarpenterhealthnetwork.com/wp-content/uploads/2024/06/85-3359314_Sage-Rehab-Hospital_standardcharges.csv",
+    "transparency_page": "https://thecarpenterhealthnetwork.com/about-us/sage-rehabilitation-hospital/pricing-transparency/"
+  },
+  {
+    "detail_id": "973cddc1-255c-44b9-bd70-e9600973c02d",
+    "ccn": "192015",
+    "hospital_name": "OCHSNER EXTENDED CARE HOSPITAL OF KENNER",
+    "address": "180 W ESPLANADE AVE, FL 5",
+    "file_url": "https://ochsner-craft.s3.amazonaws.com/core/205432782_ochsner-medical-center-%E2%80%93-kenner-llc_standardcharges.csv.csv",
+    "transparency_page": "https://www.ochsner.org/patients-visitors/billing-and-financial-services/estimates/"
+  },
+  {
+    "detail_id": "b7966b59-3286-4b30-a592-a40b5e88e32e",
+    "ccn": "192028",
+    "hospital_name": "RIVERBRIDGE SPECIALTY HOSPITAL",
+    "file_url": "https://riverbridgela.slicedhealth.io/pricer/72-1325340_RiverBridgeSpecialtyHospital_StandardCharges.csv",
+    "transparency_page": "https://riverbridgela.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "119ae8c1-2100-4632-8c7c-18dbd9ba352d",
+    "ccn": "192029",
+    "hospital_name": "LAFAYETTE-AMG SPECIALTY HOSPITAL",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/26-4203041_Lafayette-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "aad8a3d0-7124-4236-8849-ae1cb29807b0",
+    "ccn": "192031",
+    "hospital_name": "CORNERSTONE SPECIALTY HOSPITALS WEST MONROE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=WxmSUQDlD9VCSqV8DEQ2DA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=WxmSUQDlD9VCSqV8DEQ2DA*-*"
+  },
+  {
+    "detail_id": "a05f0cca-058e-4f29-81f6-d8157c8ef72d",
+    "ccn": "192032",
+    "hospital_name": "LOUISIANA EXTENDED CARE HOSPITAL OF LAFAYETTE",
+    "file_url": "https://lhcgroup.wpenginepowered.com/wp-content/uploads/20-3373056_LHCG%20XII,%20LLC%20dba%20Louisiana%20Extended%20Care%20Hospital%20of%20Lafayette_standardcharges.xlsx",
+    "transparency_page": "https://lhcgroup.com/long-term-acute-care-facility-charges-masters/"
+  },
+  {
+    "detail_id": "a1b6ebed-9a39-49dd-b525-b79e519fe54b",
+    "ccn": "192035",
+    "hospital_name": "LOUISIANA EXTENDED CARE HOSPITAL OF NATCHITOCHES",
+    "file_url": "https://www.nrmchospital.org/203171304_louisiana-extended-care-of-natchitoches_standardcharges.json",
+    "transparency_page": "https://www.nrmchospital.org/louisiana-extended-care-hospital/"
+  },
+  {
+    "detail_id": "7f47740c-c6f9-48b3-8ac5-389ff324030d",
+    "ccn": "192037",
+    "hospital_name": "AMG SPECIALTY HOSPITAL - HOUMA",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/45-5174307_Houma-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "cdc30896-e70d-4c31-823a-366429f4a480",
+    "ccn": "192041",
+    "hospital_name": "AMG SPECIALTY HOSPITAL ZACHARY",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/26-4538358_Zachary-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "045e59f4-6387-4174-988c-743f56e885dd",
+    "ccn": "192043",
+    "hospital_name": "RIVERSIDE HOSPITAL OF LOUISIANA",
+    "file_url": "https://www.riversidehospital.net/siteuploads/river-side-hospital/481266084_riverside-hospital-of-louisiana_standardcharges.csv",
+    "transparency_page": "https://www.riversidehospital.net/price-transparency-files"
+  },
+  {
+    "detail_id": "16cd192e-01fe-428d-8733-6083d403c8ff",
+    "ccn": "192048",
+    "hospital_name": "PAM SPECIALTY HOSPITAL OF COVINGTON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10982/271148063_pam-ii-of-covington,-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMSpecialtyHospitalCovington/10982"
+  },
+  {
+    "detail_id": "97a86839-6eb4-4fb9-8c19-863cddf8aaac",
+    "ccn": "193028",
+    "hospital_name": "BATON ROUGE REHABILITATION HOSPITAL",
+    "file_url": "https://www.brrehab.com/assets/271558673_baton-rouge-rehab-hospital_standardcharges.csv",
+    "transparency_page": "https://www.brrehab.com/patient-info-center/price-transparency"
+  },
+  {
+    "detail_id": "943128b4-bb28-4c8c-84de-f6e595dbd101",
+    "ccn": "193031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF ALEXANDRIA",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/251659391_Encompass-Health-Rehabilitation-Hospital-of-Alexandria_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/alexandria-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "aecee68a-aaff-4427-ba15-500df46f86b3",
+    "ccn": "193044",
+    "hospital_name": "NORTH OAKS REHABILITATION HOSPITAL",
+    "file_url": "https://www.northoaks.org/documents/2025/721301620_north-oaks-rehabilitation-hospital_standardcharges.csv",
+    "transparency_page": "https://www.northoaks.org/price-transparency/"
+  },
+  {
+    "detail_id": "15d25d53-0a9e-45ef-823c-ff0b9100fb5e",
+    "ccn": "193067",
+    "hospital_name": "REHABILITATION HOSPITAL OF JENNINGS",
+    "address": "1 HOSPITAL DR, STE 101",
+    "file_url": "https://storage.googleapis.com/wzukusers/user-36324110/documents/4062c15951fb4de49fa2ff9cef16bd83/Website%20%20Price%20List.xlsx",
+    "transparency_page": "https://rehabhospitalofjennings.com/price-transparency"
+  },
+  {
+    "detail_id": "cade0674-9926-40e1-b6c7-c08a992c6023",
+    "ccn": "193074",
+    "hospital_name": "UNITED MEDICAL REHABILITATION HOSPITAL -NEW ORLEANS",
+    "file_url": "https://umrhospital.com/wp-content/uploads/2021/01/CMS-Price-Transparency-01012021.xlsx",
+    "transparency_page": "https://umrhospital.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "c90649ab-3139-4414-b8d7-b183a66ae288",
+    "ccn": "193078",
+    "hospital_name": "SAGE REHABILITATION INSTITUTE",
+    "file_url": "https://thecarpenterhealthnetwork.com/wp-content/uploads/2024/06/85-3359314_Sage-Rehab-Hospital_standardcharges.csv",
+    "transparency_page": "https://thecarpenterhealthnetwork.com/about-us/sage-rehabilitation-hospital/pricing-transparency/"
+  },
+  {
+    "detail_id": "5d7642aa-fcfc-4ff3-9da8-ef0bf01a5e33",
+    "ccn": "193079",
+    "hospital_name": "UNITED MEDICAL REHABILITATION HOSPITAL",
+    "file_url": "https://umrhospital.com/wp-content/uploads/2021/01/CMS-Price-Transparency-01012021.xlsx",
+    "transparency_page": "https://umrhospital.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "4acf6c88-8d71-486e-9b50-c633454ecf11",
+    "ccn": "193090",
+    "hospital_name": "THE NEUROMEDICAL CENTER REHABILITATION HOSPITAL",
+    "address": "10101 PARK ROWE AVENUE, STE 600",
+    "file_url": "https://www.theneuromedicalcenter.com/wp-content/uploads/2024/08/chargemaster-for-NMC-V2.xlsx",
+    "transparency_page": "https://www.theneuromedicalcenter.com/patient-pricing-information/"
+  },
+  {
+    "detail_id": "42904a10-489d-4454-a30e-5a506b04a62f",
+    "ccn": "193093",
+    "hospital_name": "LAFAYETTE PHYSICAL REHABILITATION HOSPITAL",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/68-0562493_Lafayette-Physical-Rehabilitation-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "687336ce-282f-4311-af2d-8f41bb4fff84",
+    "ccn": "193094",
+    "hospital_name": "PATHWAY REHABILITATION HOSPITAL OF BOSSIER",
+    "file_url": "https://pathrehab.com/wp-content/uploads/2024/03/Pathway-charge-master-03-13-24.xlsx",
+    "transparency_page": "https://pathrehab.com/price-transparency/"
+  },
+  {
+    "detail_id": "6ee0a8cb-7a48-4463-8595-907e21380a50",
+    "ccn": "193300",
+    "hospital_name": "MANNING FAMILY CHILDREN'S",
+    "file_url": "https://drive.google.com/file/d/1fOnlA0L5HefoFSnrtCqdAZfeVgdp-KdV/view?usp=sharing",
+    "transparency_page": "https://www.lcmchealth.org/for-patients/financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "943d7563-4b0b-49c1-9d68-e72a26acd591",
+    "ccn": "194007",
+    "hospital_name": "NORTHLAKE BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://northlakebh.org/wp-content/uploads/2025/05/474572658_northlake-behavioral-health-system_standardcharges-3.csv",
+    "transparency_page": "https://northlakebh.org/price-transparency/"
+  },
+  {
+    "detail_id": "6053ee95-4305-4c63-bf9c-dd1dfdcd60de",
+    "ccn": "194020",
+    "hospital_name": "BRENTWOOD HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200474854_brentwood-la_standardcharges.csv",
+    "transparency_page": "https://brentwoodbehavioral.com/standard-services/"
+  },
+  {
+    "detail_id": "8bf43460-1ad5-4621-80e5-b3ebab3156e0",
+    "ccn": "194022",
+    "hospital_name": "LONGLEAF HOSPITAL",
+    "file_url": "https://www.longleafhospital.com/wp-content/uploads/pricing/2026/197/80-0948632_Crossroads-Regional-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://www.longleafhospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "a9236f79-3066-4ee2-bde3-a07417ec640f",
+    "ccn": "194031",
+    "hospital_name": "RIVER OAKS HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/720687735_river-oaks_standardcharges.csv",
+    "transparency_page": "https://riveroakshospital.com/standard-services-2/"
+  },
+  {
+    "detail_id": "cdb8795d-45c0-42ff-b276-3c8d3a23cf50",
+    "ccn": "194044",
+    "hospital_name": "VERMILION BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://www.acadiavermilion.com/wp-content/uploads/pricing/2026/230/20-4765040_Vermilion-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://www.acadiavermilion.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "90475d8d-e600-48cd-9a5d-2081c827052d",
+    "ccn": "194056",
+    "hospital_name": "COMMUNITY CARE HOSPITAL",
+    "file_url": "https://communitycarehospital.com/wp-content/uploads/2025/12/72-1272857_Community-Care-LLC_standardcharges.csv",
+    "transparency_page": "https://communitycarehospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "170fa9b3-48ea-4986-9793-9150eecf5153",
+    "ccn": "194069",
+    "hospital_name": "COVINGTON BEHAVIORAL HEALTH",
+    "file_url": "https://www.covingtonbh.com/wp-content/uploads/pricing/2026/381/05-0557888_Greenbriar-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://www.covingtonbh.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "4ccaf9bb-5faf-49d1-a536-48772b074c02",
+    "ccn": "194073",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL BROUSSARD",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/201478172_Oceans-Behavioral-Hospital-of-Broussard_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "553625b2-2f72-482d-a967-dc160e4f82ac",
+    "ccn": "194074",
+    "hospital_name": "SERENITY SPRINGS SPECIALTY HOSPITAL",
+    "file_url": "https://rest.edit.site/filestorage-api-service/4a56fb3b641cb21ae28d316dd3efb637/price-transparency-tall-csv.csv",
+    "transparency_page": "https://serenityhospital.com/general/"
+  },
+  {
+    "detail_id": "ffb47faa-ac9f-4c45-81fa-4a27560cd599",
+    "ccn": "194081",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL OF DERIDDER",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/202860180_Oceans-Behavioral-Hospital-of-Deridder_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "303f17ac-6b6a-487d-bf10-3ba24c957a9c",
+    "ccn": "194082",
+    "hospital_name": "COMPASS SENIOR CARE HOSPITAL",
+    "file_url": "https://www.compasshealthcare.com/wp-content/uploads/2203784213_compass_alexandria_standardcharges.1.csv",
+    "transparency_page": "https://www.compasshealthcare.com/price-transparency/"
+  },
+  {
+    "detail_id": "e2c0388b-aba4-4db8-99a3-0982bf654482",
+    "ccn": "194084",
+    "hospital_name": "BEACON BEHAVIORAL HOSPITAL-NEW ORLEANS",
+    "address": "14500 HAYNE BLVD, STE 200",
+    "file_url": "https://beaconbh.com/wp-content/uploads/2025/08/767587095-273977201-1760437131_new-orleans-hospital_standardcharges.csv",
+    "transparency_page": "https://beaconbh.com/price-transparency/"
+  },
+  {
+    "detail_id": "f8ee173c-44d7-428d-908d-e0787cc626ed",
+    "ccn": "194085",
+    "hospital_name": "COMPASS BEHAVIORAL CENTER OF LAFAYETTE",
+    "file_url": "https://www.compasshealthcare.com/wp-content/uploads/2203784213_compass_alexandria_standardcharges.1.csv",
+    "transparency_page": "https://www.compasshealthcare.com/price-transparency/"
+  },
+  {
+    "detail_id": "9d71feee-2adb-4c36-bd29-e996a69b4077",
+    "ccn": "194086",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL OF BATON ROUGE",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/203890581_Oceans-Behavioral-Hosptial-of-Baton-Rouge_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "3f38fbb7-1fbb-4711-893f-827d999bbac3",
+    "ccn": "194087",
+    "hospital_name": "FREEDOM BEHAVIORAL HOSPITAL MONROE",
+    "file_url": "https://freedombehavioral.com/wp-content/uploads/2024/01/383731163_freedom-behavioral-hospital-of-monroe_standardcharges.csv",
+    "transparency_page": "https://freedombehavioral.com/price-transparency/"
+  },
+  {
+    "detail_id": "1916eb80-9497-4b48-beb9-5def86f06889",
+    "ccn": "194088",
+    "hospital_name": "ST. JAMES BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://img1.wsimg.com/blobby/go/09ecb643-06b2-45cf-8451-6e13e5a739f4/downloads/SJBH%20Price%20Transparency%20-%20shoppable%20services.xlsx?ver=1613241892565",
+    "transparency_page": "https://sjbhh.net/price-transparency"
+  },
+  {
+    "detail_id": "ee35310e-2b60-4ec4-9c37-a1f3f103d15d",
+    "ccn": "194089",
+    "hospital_name": "GENESIS BEHAVIORAL HOSPITAL",
+    "file_url": "https://www.genesisbh.com/_files/ugd/b56b0c_6b74e3ec857146ef9a08c1018a51f26d.xlsx?dn=421650702_GenesisBehavioralInpatient_sta",
+    "transparency_page": "https://www.genesisbh.com/program-costs"
+  },
+  {
+    "detail_id": "15bf7dbf-241c-47e8-86eb-81c71c437506",
+    "ccn": "194090",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL OF LAKE CHARLES",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/205301956_Oceans-Behavioral-Hosptial-of-Lake-Charles_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "5df35bfe-c179-4f39-89b2-f5c42b16992e",
+    "ccn": "194091",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL HAMMOND",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/205548142_Oceans-Behavioral-Hospital-of-Hammond_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "99152283-d8c1-4b8e-8454-efcc77fece84",
+    "ccn": "194095",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL OF OPELOUSAS",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/260655340_Oceans-Behavioral-Hospital-of-Opelousas_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "d6e8d9fa-d21b-4ddb-8690-a79dc5d2cffb",
+    "ccn": "194096",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL ALEXANDRIA",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/260771494_Oceans-Behavioral-Hospital-of-Alexandria_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "7a36426c-e37a-4c20-995b-c8eb8aa9f20b",
+    "ccn": "194098",
+    "hospital_name": "OCEANS BEHAVIORAL HOSPITAL OF GREATER NEW ORLEANS - BELLEMEADE (GRETNA)",
+    "file_url": "https://oceanshealthcare.com/wp-content/uploads/2025/12/262167249_Oceans-Behavioral-Hospital-of-Greater-New-Orleans-Gretna_standardcharges.csv",
+    "transparency_page": "https://oceanshealthcare.com/resources/financial-guidance/#price-transparency"
+  },
+  {
+    "detail_id": "fde2006a-3f4e-4fa0-a533-7dd84b9caea0",
+    "ccn": "194102",
+    "hospital_name": "BEACON BEHAVIORAL HOSPITAL",
+    "file_url": "https://beaconbh.com/wp-content/uploads/2025/08/767587097-273463367-1881996940_lutcher-hospital_standardcharges.csv",
+    "transparency_page": "https://beaconbh.com/price-transparency/"
+  },
+  {
+    "detail_id": "a99ea293-b98a-473e-8954-2c59a7d0e959",
+    "ccn": "194103",
+    "hospital_name": "SEASIDE HEALTH SYSTEM",
+    "file_url": "https://files.ecatholic.com/32196/documents/2025/5/Chargemaster.Price%20Transparency%20SHC%20R.xlsx?t=1748528127000",
+    "transparency_page": "https://seasidehealthsystem.com/pricing-transparency"
+  },
+  {
+    "detail_id": "0556a0e4-73d9-49b2-8cc8-111128cc40ea",
+    "ccn": "194105",
+    "hospital_name": "APOLLO BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://www.apollo-bhh.com/wp-content/uploads/2025/11/Apollo-Behavioral-Health-Hospital-Price-Transparency-11.5.2025.csv",
+    "transparency_page": "https://www.apollo-bhh.com/resources/"
+  },
+  {
+    "detail_id": "412bba86-4a73-403b-8412-a73669ae3dad",
+    "ccn": "194106",
+    "hospital_name": "COMPASS BEHAVIORAL CENTER OF ALEXANDRIA",
+    "file_url": "https://www.compasshealthcare.com/wp-content/uploads/2203784213_compass_alexandria_standardcharges.1.csv",
+    "transparency_page": "https://www.compasshealthcare.com/price-transparency/"
+  },
+  {
+    "detail_id": "7be1e534-c1d1-4901-9568-ca98c58145b6",
+    "ccn": "194109",
+    "hospital_name": "COMPASS BEHAVIORAL CENTER OF HOUMA",
+    "file_url": "https://www.compasshealthcare.com/wp-content/uploads/2203784213_compass_alexandria_standardcharges.1.csv",
+    "transparency_page": "https://www.compasshealthcare.com/price-transparency/"
+  },
+  {
+    "detail_id": "647f95a5-eef9-48c3-8bda-17e870d65793",
+    "ccn": "194112",
+    "hospital_name": "BEACON BEHAVIORAL HEALTH BUNKIE",
+    "file_url": "https://beaconbh.com/wp-content/uploads/2025/08/767587091-320433074-1184044430_bunkie-hospital_standardcharges.csv",
+    "transparency_page": "https://beaconbh.com/price-transparency/"
+  },
+  {
+    "detail_id": "0dc3bcfb-4421-4826-b7a3-9f60a86610ce",
+    "ccn": "194113",
+    "hospital_name": "PERIMETER BEHAVIORAL HOSPITAL OF NEW ORLEANS",
+    "file_url": "https://www.perimeterhealthcare.com/new-orleans/475441649_Lake-Pines-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.perimeterhealthcare.com/new-orlean"
+  },
+  {
+    "detail_id": "35e54709-9b9f-4d9b-9a0d-effa61e4f84c",
+    "ccn": "194114",
+    "hospital_name": "RIVER PLACE BEHAVIORAL HEALTH",
+    "file_url": "https://www.riverplacebh.com/wp-content/uploads/pricing/2026/451/61-1795861_Ochsner-Acadia-LLC_standardcharges.csv",
+    "transparency_page": "https://www.riverplacebh.com/admissions/insurance-payment/price-tran"
+  },
+  {
+    "detail_id": "add5a5c8-cbec-496a-96ce-2b9820e6cab7",
+    "ccn": "713025",
+    "hospital_name": "NORTHSHORE REHABILITATION HOSPITAL",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/83-1728077_Northshore_Rehabilitation_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.northshore-rehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "fea64fac-6a09-43a2-8bf8-3943d3583948",
+    "ccn": "713027",
+    "hospital_name": "SAGE SPECIALTY HOSPITAL",
+    "file_url": "https://thecarpenterhealthnetwork.com/wp-content/uploads/2024/06/85-3359314_Sage-Rehab-Hospital_standardcharges.csv",
+    "transparency_page": "https://thecarpenterhealthnetwork.com/about-us/sage-rehabilitation-hospital/pricing-transparency/"
+  },
+  {
+    "detail_id": "6f914e1b-7f6c-4256-ba51-50ddca1fd26c",
+    "ccn": "713028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SHREVEPORT",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/844765362_Encompass-Health-Rehabilitation-Hospital-of-Shreveport_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/shreveport-rehab/financial-information/price-transparency"
+  }
+]

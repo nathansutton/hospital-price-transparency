@@ -1,0 +1,597 @@
+[
+  {
+    "detail_id": "b77d68f4-1bac-42a1-a21e-c42e4a3a9541",
+    "ccn": "340035",
+    "hospital_name": "KAISER PERMANENTE CENTRAL HOSPITAL",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/910511770-central-hospital-standard-charges-wa-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/washington/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "6f2a44c9-76ea-4d5f-bde4-e5d604a3cf29",
+    "ccn": "500001",
+    "hospital_name": "UW MEDICAL CENTER - NORTHWEST",
+    "file_url": "https://www.uwmedicine.org/911631806_harborview-medical-center_standardcharges.json",
+    "transparency_page": "https://www.uwmedicine.org/patient-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "885727af-cb1b-42f0-bd06-2026ba492ad0",
+    "ccn": "500002",
+    "hospital_name": "PROVIDENCE ST. MARY MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/300502262_providence-st-mary-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "76c07f5c-6933-4d44-8f27-277a44512795",
+    "ccn": "500003",
+    "hospital_name": "SKAGIT VALLEY HOSPITAL",
+    "file_url": "https://www.skagitregionalhealth.org/docs/default-source/finance-and-billing/chargemasters/562392010_skagit-valley-hospital_standardcharges.zip?sfvrsn=7670bf22_4",
+    "transparency_page": "https://www.skagitregionalhealth.org/for-patients/finance-and-billing-information/patient-price-information"
+  },
+  {
+    "detail_id": "99a66766-8535-46d0-89e5-d4c4688e3668",
+    "ccn": "500007",
+    "hospital_name": "ISLAND HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbIHANACORTESWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/IslandHealth.aspx"
+  },
+  {
+    "detail_id": "d50a2202-2d70-4eca-af2d-76b9bee01060",
+    "ccn": "500011",
+    "hospital_name": "ST. ANNE HOSPITAL",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910712166_st-anne-hospital_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "1da53cc3-9d8e-42b6-b735-044fcdef7c3d",
+    "ccn": "500014",
+    "hospital_name": "PROVIDENCE REGIONAL MEDICAL CENTER EVERETT",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/352346161_providence-regional-medical-center-everett_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "df977207-d55b-413e-b7d4-928f595724a3",
+    "ccn": "500015",
+    "hospital_name": "MULTICARE AUBURN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8059/911352172-1255327201_multicare-auburn-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/AuburnMedicalCenter/8059"
+  },
+  {
+    "detail_id": "8dd11eb7-f31e-416a-aca1-674a544f954e",
+    "ccn": "500016",
+    "hospital_name": "CONFLUENCE HEALTH HOSPITAL CENTRAL CAMPUS",
+    "file_url": "https://www.confluencehealth.org/910171250_CentralWaHospital&Clinics_standardcharges.csv",
+    "transparency_page": "https://www.confluencehealth.org/patient-information/billing-insurance-information/price-transparency/"
+  },
+  {
+    "detail_id": "836f328e-a511-4f0f-961c-50284647c62d",
+    "ccn": "500019",
+    "hospital_name": "PROVIDENCE CENTRALIA HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/910573108_providence-centralia-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "d30f98b9-b61a-49c6-87f5-eb1968b1efba",
+    "ccn": "500021",
+    "hospital_name": "ST. CLARE HOSPITAL",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/911487485_st-clare-hospital_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "337731e6-ea71-41d5-8bdb-a2c4c107944c",
+    "ccn": "500024",
+    "hospital_name": "PROVIDENCE ST. PETER HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/910567732_providence-st-peter-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "5401c8d0-f394-4095-9942-9d10f0cfdeca",
+    "ccn": "500025",
+    "hospital_name": "SWEDISH MEDICAL CENTER - CHERRY HILL CAMPUS",
+    "file_url": "https://pricetransparency.providence.org/swedish/live/910373400_swedish-medical-center-cherry-hill_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "241691fa-b39a-410e-ab0a-24ac85dc855c",
+    "ccn": "500026",
+    "hospital_name": "SWEDISH MEDICAL CENTER - EDMONDS",
+    "file_url": "https://pricetransparency.providence.org/swedish/live/272305304_swedish-edmonds-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "cff2a0ee-fffb-464a-963b-4e5007680b08",
+    "ccn": "500027",
+    "hospital_name": "SWEDISH MEDICAL CENTER - FIRST HILL CAMPUS",
+    "file_url": "https://pricetransparency.providence.org/swedish/live/910433740_swedish-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "e55f1646-46ab-4091-90d0-abb66b0676e5",
+    "ccn": "500030",
+    "hospital_name": "PEACEHEALTH ST. JOSEPH MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/c2b5051ecb723f5355be61d1a3eb6c28/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "5476dfcf-3917-4f8d-9963-9200d2b564c9",
+    "ccn": "500033",
+    "hospital_name": "SAMARITAN HEALTHCARE",
+    "file_url": "https://www.samaritanhealthcare.com/wp-content/uploads/2023/02/Samaritan-Healthcare-Hospital-Price-Transparency-2023.xlsx",
+    "transparency_page": "https://www.samaritanhealthcare.com/billing/"
+  },
+  {
+    "detail_id": "ac6aa7d4-e63d-4ba8-8986-52bef0734119",
+    "ccn": "500036",
+    "hospital_name": "MULTICARE YAKIMA MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11188/910567263-1053373480_multicare-yakima-valley-memorial-hospital-association_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/YakimaMemorial/11188"
+  },
+  {
+    "detail_id": "5ae4ef7b-1689-4e0b-a54a-4db541a42992",
+    "ccn": "500037",
+    "hospital_name": "ASTRIA TOPPENISH COMMUNITY HOSPITAL",
+    "file_url": "https://toppenish.pg.revenuemasters.com/cdm-files/814670687_astria-toppenish-hospital_standardcharges.csv",
+    "transparency_page": "https://toppenish.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "5495bf3f-40bb-4d60-9120-d72e3907be98",
+    "ccn": "500041",
+    "hospital_name": "PEACEHEALTH ST JOHN MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/e10b25f920a65f886fd5c4761ebe5249/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "29ee0e83-25bc-4abc-bcd7-c4de4fc9cdc0",
+    "ccn": "500044",
+    "hospital_name": "MULTICARE DEACONESS HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8063/911352172-1356528269_multicare-deaconess-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DeaconessHospital/8063"
+  },
+  {
+    "detail_id": "7aa44008-6b60-4fbe-ad2f-261c48c8c98a",
+    "ccn": "500050",
+    "hospital_name": "PEACEHEALTH SOUTHWEST MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/b1e365651e596ad4292eca2291145dc7/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "e80138cf-3c0c-4b7b-b331-1456d153a0c7",
+    "ccn": "500051",
+    "hospital_name": "OVERLAKE HOSPITAL MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=jFpZaWS9NVsNmAQiukfKew*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=jFpZaWS9NVsNmAQiukfKew*-*"
+  },
+  {
+    "detail_id": "d7b9e450-b18d-41d7-87c9-4494da6d974e",
+    "ccn": "500053",
+    "hospital_name": "TRIOS SOUTHRIDGE HOSPITAL",
+    "file_url": "https://www.trioshealth.org/docs/ahtrioshealthlibraries/hcl/mrf3q25/823962056_trios-health_standardcharges.csv",
+    "transparency_page": "https://www.trioshealth.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "1d2db75a-f972-4c4d-834d-b6673f28a3d8",
+    "ccn": "500054",
+    "hospital_name": "PROVIDENCE SACRED HEART MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/364640211_providence-sacred-hrt-med-center-and-childs-hosp_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "9067dad0-811f-40e1-a905-8378a3248b3a",
+    "ccn": "500058",
+    "hospital_name": "KADLEC REGIONAL MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/910655392_kadlec-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "25383e1d-9051-4326-b371-ea336b9d42dc",
+    "ccn": "500060",
+    "hospital_name": "CASCADE VALLEY HOSPITAL",
+    "file_url": "https://www.skagitregionalhealth.org/docs/default-source/finance-and-billing/chargemasters/562392010_cascade-valley-hospital_standardcharges.zip?sfvrsn=a5e684a9_6",
+    "transparency_page": "https://www.skagitregionalhealth.org/for-patients/finance-and-billing-information/patient-price-information"
+  },
+  {
+    "detail_id": "9c07471c-64d9-4f99-afdd-9ebcc7049add",
+    "ccn": "500077",
+    "hospital_name": "PROVIDENCE HOLY FAMILY HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/352345508_providence-holy-family-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "8d8c4dc5-7d3e-409f-86cb-fe855de377a9",
+    "ccn": "500079",
+    "hospital_name": "MULTICARE GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8061/911352172-1841231461_good-samaritan-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/GoodSamaritanHospital/8061"
+  },
+  {
+    "detail_id": "294c584a-a4e0-4f38-85e7-66b4518f619c",
+    "ccn": "500084",
+    "hospital_name": "EVERGREEN HEALTH MONROE",
+    "file_url": "https://stmlevergreenncus001.blob.core.windows.net/public/916018764_SNOHOMISH-COUNTY-PUBLIC-HOSPITAL-DISTRICT-NO1_standardcharges.csv",
+    "transparency_page": "https://www.evergreenhealth.com/patients-visitors/after-your-visit/billing-financial/get-a-cost-estimate/"
+  },
+  {
+    "detail_id": "fcf21850-d7d5-48ac-a7a4-65d351a5000b",
+    "ccn": "500088",
+    "hospital_name": "UW MEDICINE VALLEY MEDICAL CENTER",
+    "file_url": "https://www.valleymed.org/916000986-1649209230_PUBLIC-HOSPITAL-DISTRICT-NO-1-OF-KING-COUNTY-WASHINGTON-dba-VALLEY-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://www.valleymed.org/patients--visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "776a7136-a4ef-4d97-841f-0a3ee0e1c984",
+    "ccn": "500108",
+    "hospital_name": "ST. JOSEPH MEDICAL CENTER",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910564491_st-joseph-medical-center_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "03262e05-ba49-4d42-b74f-3ecf4fce7791",
+    "ccn": "500119",
+    "hospital_name": "MULTICARE VALLEY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8064/911352172-1538345251_multicare-valley-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ValleyHospital/8064"
+  },
+  {
+    "detail_id": "76c77cc4-01df-446c-a14c-611a756ffb6b",
+    "ccn": "500124",
+    "hospital_name": "EVERGREEN HOSPITAL MEDICAL CENTER",
+    "file_url": "https://stmlevergreenncus001.blob.core.windows.net/public/910844563_KING-COUNTY-PUBLIC-HOSPITAL-DISTRICT-NO2_standardcharges.csv",
+    "transparency_page": "https://www.evergreenhealth.com/patients-visitors/after-your-visit/billing-financial/get-a-cost-estimate/"
+  },
+  {
+    "detail_id": "84cbecb3-65fb-4cb1-bec9-2b02bb9174e9",
+    "ccn": "500129",
+    "hospital_name": "MULTICARE TACOMA GENERAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8062/911352172-1366556227_tacoma-general-allenmore-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/TacomaGeneralHospital/8062"
+  },
+  {
+    "detail_id": "dd8f26da-57e2-410e-afea-ada12a9a9848",
+    "ccn": "500138",
+    "hospital_name": "FRED HUTCHINSON CANCER CENTER",
+    "file_url": "https://www.fredhutch.org/content/dam/www/patient-care/insurance-billing/price-transparency/911935159_fred-hutchinson-cancer-center_standardcharges.json",
+    "transparency_page": "https://www.fredhutch.org/en/patient-care/patient-services/insurance-and-billing/patient-pricing-information.html"
+  },
+  {
+    "detail_id": "472a8049-71e2-483c-a568-c81472483388",
+    "ccn": "500139",
+    "hospital_name": "MULTICARE CAPITAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9371/911352172-1841258639_multicare-capital-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CapitalMedicalCenter/9371"
+  },
+  {
+    "detail_id": "b0bf8015-7ecf-49de-94f6-4e668b5bb1ec",
+    "ccn": "500141",
+    "hospital_name": "ST. FRANCIS HOSPITAL",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/911267921_st-francis-hospital_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "ec8e15ef-07b8-48d7-b4ce-72ff5869576d",
+    "ccn": "500148",
+    "hospital_name": "CONFLUENCE HEALTH HOSPITAL MARES CAMPUS",
+    "file_url": "https://www.confluencehealth.org/910171250_CentralWaHospital&Clinics_standardcharges.csv",
+    "transparency_page": "https://www.confluencehealth.org/patient-information/billing-insurance-information/price-transparency/"
+  },
+  {
+    "detail_id": "a74a2af0-c90b-4348-8420-854bf6fa884b",
+    "ccn": "500150",
+    "hospital_name": "LEGACY SALMON CREEK MEDICAL CENTER",
+    "file_url": "https://www.legacyhealth.org/-/media/Files/CSV/331065485_legacy-salmon-creek-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.legacyhealth.org/Patients-and-Visitors/paying-for-your-care/estimate-hospital-costs"
+  },
+  {
+    "detail_id": "2a924828-6ba7-4bb1-9b42-af1e99ab1a48",
+    "ccn": "500151",
+    "hospital_name": "ST. ANTHONY HOSPITAL",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/383769889_st-anthony-hospital_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "d014e8dc-65a1-4c3b-abc1-dd6b5ca28bb2",
+    "ccn": "500152",
+    "hospital_name": "SWEDISH MEDICAL CENTER - ISSAQUAH CAMPUS",
+    "file_url": "https://pricetransparency.providence.org/swedish/live/910433740_swedish-medical-center-issaquah_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "63a9dcb0-aaba-4f13-b845-0000eb0dddda",
+    "ccn": "500154",
+    "hospital_name": "MULTICARE COVINGTON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8060/911352172-1326564071_multicare-covington-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CovingtonMedicalCenter/8060"
+  },
+  {
+    "detail_id": "35bd5dff-f17a-4199-82f8-31d3363364dd",
+    "ccn": "501302",
+    "hospital_name": "COLUMBIA COUNTY HEALTH SYSTEM",
+    "file_url": "https://cchd.goredde.com/Estimator/Files/91-0741968_Columbia_County_Health_System_Standardcharges.csv",
+    "transparency_page": "https://cchd.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "4895344b-0634-4e7b-948e-3f7431520c08",
+    "ccn": "501303",
+    "hospital_name": "WILLAPA HARBOR HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/34ac41c1e7d6ab1cdbf6e81b5b7c3142/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/34ac41c1e7d6ab1cdbf6e81b5b7c3142/"
+  },
+  {
+    "detail_id": "f1284fe5-2e39-4797-bb44-8aa8d1281470",
+    "ccn": "501304",
+    "hospital_name": "SUMMIT PACIFIC MEDICAL CENTER",
+    "file_url": "https://summitpacificmedicalcenter.org/wp-content/uploads/2025/02/SPMC-Hospital-Chargemaster-2025.xlsx",
+    "transparency_page": "https://summitpacificmedicalcenter.org/patient-price-information-list/"
+  },
+  {
+    "detail_id": "319d8b7e-8ab3-43d0-b33c-96f7aa8e2b12",
+    "ccn": "501305",
+    "hospital_name": "LINCOLN HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLincolnHospitalWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Lincoln_V2.aspx"
+  },
+  {
+    "detail_id": "fbeb3e07-d554-4d02-8588-696ac2976eb6",
+    "ccn": "501307",
+    "hospital_name": "ODESSA MEMORIAL HEALTHCARE CENTER",
+    "file_url": "https://odessamemorial.goredde.com/Estimator/Files/91-6001722_Lincoln_County_Public_Hospital_District_1_standardcharges.csv",
+    "transparency_page": "https://odessamemorial.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "ec35ed6a-7b2e-4a04-a4d7-d62ccc710570",
+    "ccn": "501308",
+    "hospital_name": "COULEE MEDICAL CENTER",
+    "file_url": "https://couleemedical.goredde.com/Estimator/Files/91-1557904_Coulee_Medical_Center_standardcharges.csv",
+    "transparency_page": "https://couleemedical.goredde.com/Estimator/Location.aspx"
+  },
+  {
+    "detail_id": "145ed249-239e-46d9-b820-713a8b1753b9",
+    "ccn": "501309",
+    "hospital_name": "PROVIDENCE ST. JOSEPH'S HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/611570502_providence-st-joseph-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "05c6331c-dde9-4699-8af4-7c72c6a3bc52",
+    "ccn": "501310",
+    "hospital_name": "NEWPORT HOSPITAL & HEALTH SERVICES",
+    "file_url": "https://newporthospitalandhealth.org/wp-content/uploads/2025/10/910541383_newport-community-hospital_standardcharges-DOWNLOAD.csv",
+    "transparency_page": "https://newporthospitalandhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "4626e6af-4589-4d76-877a-1236410588dc",
+    "ccn": "501311",
+    "hospital_name": "EAST ADAMS RURAL HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbEARHRITZVILLEWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/EastAdams_V2.aspx"
+  },
+  {
+    "detail_id": "da940231-4186-45ac-ab6b-fac583afb9fe",
+    "ccn": "501312",
+    "hospital_name": "PROSSER MEMORIAL HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/prosser-health-site-416/media/r/c2ee872f47dd4fdfb01206296eeffaef/91-6013490_prosser-memorial-health-hospital_standardcharges72825.csv",
+    "transparency_page": "https://www.prosserhealth.org/patients-and-visitors/financial-services/price-transparency/"
+  },
+  {
+    "detail_id": "e343c3b1-fa50-4642-bc75-448e5548155b",
+    "ccn": "501314",
+    "hospital_name": "OCEAN BEACH HOSPITAL",
+    "file_url": "https://www.oceanbeachhospital.com/wp-content/uploads/2023/01/916001012_Ocean-Beach-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.oceanbeachhospital.com/patient-information/pricing-lists/"
+  },
+  {
+    "detail_id": "64bc9e07-740d-4b16-8119-130887bd1a0f",
+    "ccn": "501315",
+    "hospital_name": "SKYLINE HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSHWHITESALMONWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Skyline_V2.aspx"
+  },
+  {
+    "detail_id": "945d9c80-e166-46e0-8d92-b31db5c71ade",
+    "ccn": "501316",
+    "hospital_name": "KLICKITAT VALLEY HEALTH",
+    "file_url": "https://kvhealth.net/files/916001738_klickitat_county_public_hospital_district_no_1_standardcharges.json",
+    "transparency_page": "https://kvhealth.net/index.php/kvh/pages/Price-Transparency"
+  },
+  {
+    "detail_id": "acda55d6-7b7d-4af9-a5e6-8bfb9527e328",
+    "ccn": "501317",
+    "hospital_name": "COLUMBIA BASIN HOSPITAL",
+    "file_url": "https://cbh.goredde.com/Estimator/Files/91-6001946_Columbia_Basin_Hospital_standardcharges.csv",
+    "transparency_page": "https://cbh.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "07ac8e11-c350-4b20-a26b-9682cf88428b",
+    "ccn": "501318",
+    "hospital_name": "OTHELLO COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOthelloCommunity&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Othello_V2.aspx"
+  },
+  {
+    "detail_id": "2cf08256-ea8c-4137-8424-7354d4be962c",
+    "ccn": "501319",
+    "hospital_name": "ARBOR HEALTH MORTON HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMGHMORTONWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ArborHealth_V3.aspx"
+  },
+  {
+    "detail_id": "e7f16ff9-d1d1-4c13-9fb1-8016b8b865b8",
+    "ccn": "501320",
+    "hospital_name": "QUINCY VALLEY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbQVMCQUINCYWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Quincy_V2.aspx"
+  },
+  {
+    "detail_id": "c36c6da5-4e83-4436-b385-b5658535a9d3",
+    "ccn": "501321",
+    "hospital_name": "NORTH VALLEY HOSPITAL",
+    "file_url": "https://www.cdmpricing.com/bfe46f369e2a6c95ba3ca8faaf1e0c32/standard-charges",
+    "transparency_page": "https://www.nvhospital.org/patient-services"
+  },
+  {
+    "detail_id": "359384a3-b807-4451-9347-69342426361d",
+    "ccn": "501322",
+    "hospital_name": "FERRY COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://fcphd.org/910879683_Ferry-County-Health_standardcharges.csv",
+    "transparency_page": "https://fcphd.org/hospital.html"
+  },
+  {
+    "detail_id": "473e25f3-c60c-4e9b-bbf9-94bc6ae1bda8",
+    "ccn": "501324",
+    "hospital_name": "THREE RIVERS HOSPITAL",
+    "file_url": "https://threerivershospital.net/wp-content/uploads/2024/12/916001009_three-rivers-hospital_standardcharges.csv",
+    "transparency_page": "https://threerivershospital.net/resources/price-transparency/"
+  },
+  {
+    "detail_id": "207f84a7-7b7a-4bfe-849c-3916b966d331",
+    "ccn": "501325",
+    "hospital_name": "FORKS COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFCHFORKSWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ForksCommunity_V2.aspx"
+  },
+  {
+    "detail_id": "ba7d4e97-2bf2-4a2e-8837-bfdae978b881",
+    "ccn": "501326",
+    "hospital_name": "PROVIDENCE MOUNT CARMEL HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/320260353_providence-mount-carmel-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "e644279d-7ec5-4b74-a5fa-909587fa0ada",
+    "ccn": "501327",
+    "hospital_name": "WHITMAN MEDICAL CLINIC COLFAX",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/whitman-hospital-site-356/media/r/7275328843174e46a66a4498db00609c/911451777_whitman-hospital-and-medical-clinics_machine_readable_standardcharges.csv",
+    "transparency_page": "https://www.whmc.org/patients-guests/pricing/"
+  },
+  {
+    "detail_id": "88c9fc79-8066-487b-82fb-bc81e75919b6",
+    "ccn": "501328",
+    "hospital_name": "MID-VALLEY HOSPITAL",
+    "file_url": "https://mid-valley.goredde.com/Estimator/Files/91-0750229_Mid-Valley_Hospital_standardcharges.csv",
+    "transparency_page": "https://mid-valley.goredde.com/Estimator/Location.aspx"
+  },
+  {
+    "detail_id": "19dff715-bb4d-4c26-82d2-cbdd5c998134",
+    "ccn": "501329",
+    "hospital_name": "PEACEHEALTH UNITED GENERAL MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/51492878d96ce15d3ad32eec16ccc830/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "6b15b406-939e-44dd-bf28-d7c58deb2f33",
+    "ccn": "501331",
+    "hospital_name": "PULLMAN REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHPULLMANWA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Pullman.aspx"
+  },
+  {
+    "detail_id": "5cfa6a7d-274f-4019-87b9-bedad1debbed",
+    "ccn": "501332",
+    "hospital_name": "TRI-STATE MEMORIAL HOSPITAL",
+    "file_url": "https://www.tsh.org/wp-content/uploads/2024/03/TSMH-ChargeMaster-April-2022-Basic_-Temp-Publish-Version-2.21.2024.xlsx",
+    "transparency_page": "https://www.tsh.org/transparency/"
+  },
+  {
+    "detail_id": "4209ed50-c0b7-4d02-9fbb-530eacaa8f58",
+    "ccn": "501335",
+    "hospital_name": "ST. ELIZABETH HOSPITAL",
+    "file_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910715805_st-elizabeth-hospital_standardcharges.json",
+    "transparency_page": "https://www.vmfh.org/billing-insurance/price-transparency"
+  },
+  {
+    "detail_id": "9a8e2768-fcc7-4d38-80ee-5f300b486316",
+    "ccn": "501336",
+    "hospital_name": "MASON GENERAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/masongeneralhospital/911529293_mason-general-hospital_standardcharges.csv",
+    "transparency_page": "https://hospitalpricelists.org/MasonGeneralHospital"
+  },
+  {
+    "detail_id": "c7d14bbd-85e9-4567-a038-6981e241b328",
+    "ccn": "501337",
+    "hospital_name": "LOURDES MEDICAL CENTER",
+    "file_url": "https://www.yourlourdes.com/docs/ahlourdeshealthlibraries/hcl/mrf3q25/364850536_lourdes-health_standardcharges.csv",
+    "transparency_page": "https://www.yourlourdes.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "3089bf12-2026-44e8-afc0-62d8489a41f7",
+    "ccn": "501338",
+    "hospital_name": "SNOQUALMIE VALLEY HOSPITAL",
+    "file_url": "https://snoqualmievalleyhealth.org/wp-content/uploads/2025/02/910908129_PublicHospitalDistrictNo4KingCountyWA_standardcharges.csv",
+    "transparency_page": "https://snoqualmievalleyhealth.org/patient-resources/online-bill-pay/"
+  },
+  {
+    "detail_id": "37df6c6d-e16d-40bb-bb08-198bb2024146",
+    "ccn": "501339",
+    "hospital_name": "WHIDBEY MEDICAL CENTER",
+    "file_url": "https://whidbeyhealth.org/wp-content/uploads/2024/02/910843135_WhidbeyHealth_standardcharges.csv",
+    "transparency_page": "https://whidbeyhealth.org/patients-visitors/financial-services/price-transparency/"
+  },
+  {
+    "detail_id": "e393243f-b8bc-4826-93a1-4eaa982375e2",
+    "ccn": "501340",
+    "hospital_name": "PEACEHEALTH PEACE ISLAND MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/17195844a80108c8ef58c2ef7b741afc/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "5d6d6075-f1e4-41cb-b52a-a85518bae844",
+    "ccn": "503025",
+    "hospital_name": "PROVIDENCE ST. LUKE'S REHABILITATION MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/352347032_providence-st-lukes-rehabilitation-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency#Washington"
+  },
+  {
+    "detail_id": "33950caa-c8f3-4a36-9ea5-de36959ba98b",
+    "ccn": "503300",
+    "hospital_name": "SEATTLE CHILDREN'S HOSPITAL",
+    "file_url": "https://www.seattlechildrens.org/globalassets/documents/for-patients-and-families/910564748_seattle-childrens-hospital_standardcharges.csv",
+    "transparency_page": "https://www.seattlechildrens.org/clinics/paying-for-care/insurance/"
+  },
+  {
+    "detail_id": "5e6d9293-420a-448a-930d-fb4576685088",
+    "ccn": "503301",
+    "hospital_name": "MARY BRIDGE CHILDREN'S HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8057/911352172-1306952726_mary-bridge-childrens-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MaryBridgeChildrensHospital/8057"
+  },
+  {
+    "detail_id": "5eeecca8-d416-42ad-882b-370642e4ef45",
+    "ccn": "503302",
+    "hospital_name": "SHRINERS CHILDREN'S SPOKANE",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/eb7aea5bf2a98899deb44ad15177186b/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/eb7aea5bf2a98899deb44ad15177186b"
+  },
+  {
+    "detail_id": "96281e7c-46bd-4582-8e6d-12b671dfe2a1",
+    "ccn": "504002",
+    "hospital_name": "FAIRFAX BEHAVIORAL HEALTH KIRKLAND",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658528_fairfax_standardcharges.csv",
+    "transparency_page": "https://fairfaxhospital.com/standard-services/"
+  },
+  {
+    "detail_id": "cc1837e2-0de8-4c44-9427-5f2bcae53728",
+    "ccn": "504008",
+    "hospital_name": "LOURDES COUNSELING CENTER",
+    "file_url": "https://www.yourlourdes.com/docs/ahlourdeshealthlibraries/hcl/mrf3q25/364850536_lourdes-counseling-center_standardcharges.csv",
+    "transparency_page": "https://www.yourlourdes.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "050b83c8-7bbf-48d4-8882-8137b9091d10",
+    "ccn": "504009",
+    "hospital_name": "NAVOS BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8166/910848698-1194728105_navos-multitreatment-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/NavosMultiTreatmentCenter/8166"
+  },
+  {
+    "detail_id": "504472fb-6aa3-43a2-a95b-833e6fc825c8",
+    "ccn": "504013",
+    "hospital_name": "RANIER SPRINGS",
+    "file_url": "https://rainiersprings.com/docs/bhrainierspringslibraries/dec2025/300842738_rainier-springs_standardcharges.csv",
+    "transparency_page": "https://rainiersprings.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "73deb2e5-52be-4a7f-9491-4c36b9511fdb",
+    "ccn": "504015",
+    "hospital_name": "SOUTH SOUND BEHAVIORAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/d58e7d02-3e41-4e57-85a4-90310204367e/82-3035007_SouthSoundBehavioral_StandardCharges.csv",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=d58e7d02-3e41-4e57-85a4-90310204367e"
+  }
+]

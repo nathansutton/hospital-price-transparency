@@ -1,0 +1,517 @@
+[
+  {
+    "detail_id": "eff9daf5-a21c-4655-a2e8-7e917fc40525",
+    "ccn": "280013",
+    "hospital_name": "NEBRASKA MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTNMCOMAHANE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.nebraskamed.com/patients/billing/current-hospital-prices"
+  },
+  {
+    "detail_id": "2b9b7324-55d9-40f3-a377-94dd9dd307fb",
+    "ccn": "280023",
+    "hospital_name": "CHI HEALTH ST. FRANCIS",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470376601_chi-health-st-francis_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "137d3132-4bff-4422-af55-2dc9245bbf13",
+    "ccn": "280032",
+    "hospital_name": "MARY LANNING MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMaryLanningNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MaryLanning_V2.aspx"
+  },
+  {
+    "detail_id": "3d15e9ef-3775-4380-9537-32c5ebcd6cf0",
+    "ccn": "280040",
+    "hospital_name": "NEBRASKA METHODIST HOSPITAL",
+    "file_url": "https://bestcare.org/sites/default/files/2025-10/470376604-1427147883_Nebraska-Methodist-Hospital_standardcharges.7z",
+    "transparency_page": "https://bestcare.org/patient-resources/billing-and-insurance/patient-estimates-and-pricing"
+  },
+  {
+    "detail_id": "a0d1a2bb-bd2b-4029-ad5b-15761054be25",
+    "ccn": "280061",
+    "hospital_name": "REGIONAL WEST MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11829/470385129_regional-west-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/regionalwest/11829"
+  },
+  {
+    "detail_id": "68372b82-5d91-468a-af5e-4219f6ac3f41",
+    "ccn": "280065",
+    "hospital_name": "GREAT PLAINS REGIONAL MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/MAPH-1681850094272/machine-readable/470662290_great-plains-health_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/great-plains-health-ne"
+  },
+  {
+    "detail_id": "b461055c-21a5-4d5c-bc30-eb81ccf48c82",
+    "ccn": "280077",
+    "hospital_name": "METHODIST FREMONT HEALTH",
+    "file_url": "https://bestcare.org/sites/default/files/2025-10/831362276_methodist-fremont-health_standardcharges.zip",
+    "transparency_page": "https://bestcare.org/patient-resources/billing-and-insurance/patient-estimates-and-pricing"
+  },
+  {
+    "detail_id": "df6f817d-fbf8-4a94-b8ce-5c3b8449db53",
+    "ccn": "280081",
+    "hospital_name": "CHI HEALTH IMMANUEL",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470376615_chi-health-immanuel_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "c29f26af-6f12-44ab-9bcd-f4dd3ac37af2",
+    "ccn": "280105",
+    "hospital_name": "CHI HEALTH MIDLANDS",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470757164_chi-health-midlands_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "e40c9bb6-6606-4014-aef3-67e42254598d",
+    "ccn": "280111",
+    "hospital_name": "COLUMBUS COMMUNITY HOSPITAL",
+    "file_url": "https://www.columbushosp.org/Content/Uploads/ColumbusHosp/files/470542043_Columbus-Community-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://www.columbushosp.org/patients-visitors/price-estimator"
+  },
+  {
+    "detail_id": "66f19d9d-dd8a-4a42-8263-2bfbf1a6cdbb",
+    "ccn": "280125",
+    "hospital_name": "FAITH REGIONAL HEALTH SERVICES",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/5eddb342fb7c69ec735fb12beb8c886a/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/5eddb342fb7c69ec735fb12beb8c886a/"
+  },
+  {
+    "detail_id": "139faba8-14d6-48da-8632-c687833e4e4a",
+    "ccn": "280127",
+    "hospital_name": "LINCOLN SURGICAL HOSPITAL",
+    "address": "1710 SOUTH 70TH ST, SUITE 200",
+    "file_url": "https://lincolnsurgery.com/wp-content/uploads/2025/01/47-0807324_Lincoln-Surgical-Hospital_standardcharges-2.csv",
+    "transparency_page": "https://lincolnsurgery.com/financial/billing-policies/"
+  },
+  {
+    "detail_id": "9b48813c-1448-4acd-bdfb-92dd4fbb3885",
+    "ccn": "280128",
+    "hospital_name": "CHI HEALTH NEBRASKA HEART",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/392031968_chi-health-nebraska-heart_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "80a43733-5ccd-47e3-b575-222d388c58e7",
+    "ccn": "280129",
+    "hospital_name": "NEBRASKA ORTHOPAEDIC HOSPITAL",
+    "file_url": "https://orthonebraska.pt.panaceainc.com/MRFDownload/orthonebraska/orthonebraska",
+    "transparency_page": "https://orthonebraska.com/patients-visitors/billing-insurance/"
+  },
+  {
+    "detail_id": "41cdab8e-3683-458a-b00e-02c438c966ab",
+    "ccn": "280130",
+    "hospital_name": "CHI HEALTH LAKESIDE",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470757164_chi-health-lakeside_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "d933629b-e6f5-4a42-8030-40092b38c476",
+    "ccn": "280131",
+    "hospital_name": "MIDWEST SURGICAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/14677e342f2d86ddd5320d28b4b4eb86/charges/mrf",
+    "transparency_page": "https://mwsurgicalhospital.com/patients/"
+  },
+  {
+    "detail_id": "43d82d36-3930-430b-bb5c-030e5caac4f0",
+    "ccn": "280132",
+    "hospital_name": "NEBRASKA MEDICINE BELLEVUE MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBMCBELLEVUENE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.nebraskamed.com/patients/billing/current-hospital-prices"
+  },
+  {
+    "detail_id": "9e5d0469-f660-401e-9731-27bc38b0706e",
+    "ccn": "280133",
+    "hospital_name": "NEBRASKA SPINE HOSPITAL",
+    "address": "6901 NORTH 72ND STREET, SUITE 20300",
+    "file_url": "https://nebraskaspinehospital.com/wp-content/uploads/2022/01/NSH-Chargemaster_1.3.2022.xlsx",
+    "transparency_page": "https://nebraskaspinehospital.com/chargemaster/"
+  },
+  {
+    "detail_id": "fe87e2f8-dcef-489c-af9c-aab2eab32f90",
+    "ccn": "281301",
+    "hospital_name": "FILLMORE COUNTY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12701/470529089_fillmore-county-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FillmoreCountyHospital/12701"
+  },
+  {
+    "detail_id": "c342f2c3-5d13-4d0a-98e5-89e9d34b7483",
+    "ccn": "281302",
+    "hospital_name": "PAWNEE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://pawneehospital.socs.net/vimages/shared/vnews/stories/67d8844c63172/363169688_pawnee-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://pawneehospital.socs.net/vnews/display.v/SEC/Financial%20Services%7CPrice%20Transparency"
+  },
+  {
+    "detail_id": "1bf147ad-c08f-4c81-becd-3da8fe563d10",
+    "ccn": "281303",
+    "hospital_name": "NIOBRARA VALLEY HOSPITAL",
+    "file_url": "https://nvhcares.org/price/470537192_niobrara-valley-hospital_standardcharges.csv",
+    "transparency_page": "https://nvhcares.org/price-transparency/"
+  },
+  {
+    "detail_id": "f98c7a35-41af-41b3-99c6-f730c341090b",
+    "ccn": "281304",
+    "hospital_name": "THAYER COUNTY HEALTH SERVICES",
+    "file_url": "https://secure.claraprice.net/price-transparency/ZHMW-1745877193090/machine-readable/470627838_thayer-county-health-services_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/thayer-county-health-services"
+  },
+  {
+    "detail_id": "e4e18527-06f8-4bdd-aa3a-a0ea5752a356",
+    "ccn": "281305",
+    "hospital_name": "KIMBALL HEALTH SERVICES",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKHSKIMBALLNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kimball_Health.aspx"
+  },
+  {
+    "detail_id": "6d89901e-a8af-46f7-a7fd-e7168e4c84e2",
+    "ccn": "281306",
+    "hospital_name": "KEARNEY COUNTY HEALTH SERVICES HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/ECZN-1713298384823/machine-readable/476014070_kearney-county-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/kearney-county-ne"
+  },
+  {
+    "detail_id": "a210df1c-7b5e-4846-b40f-6433dfc6dacb",
+    "ccn": "281307",
+    "hospital_name": "SAUNDERS MEDICAL CENTER",
+    "file_url": "https://saundersmedicalcenter.com/file_download/inline/f27cb0d9-dc3c-4765-8ee1-fd7eebdc35f6",
+    "transparency_page": "https://saundersmedicalcenter.com/price-transparency.html"
+  },
+  {
+    "detail_id": "a8b1aefe-da86-48b1-a6b6-9ed71f21afde",
+    "ccn": "281308",
+    "hospital_name": "HENDERSON COMMUNITY HOSPITAL",
+    "file_url": "https://www.hhcsinc.org/hhc_pricetransparency/470366569_henderson-health-care-services,-inc._standardcharges.csv",
+    "transparency_page": "https://hendersonhealthcare.org/patient-info/hospital-price/"
+  },
+  {
+    "detail_id": "0b4f3ca8-9ab7-4060-9712-4b121301fad6",
+    "ccn": "281311",
+    "hospital_name": "FRANKLIN COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/PFNX-1743028154306/machine-readable/476007436_franklin-county-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/franklin-county-memorial-ne"
+  },
+  {
+    "detail_id": "59229996-1433-4dc6-b3c9-6e8b1e023b31",
+    "ccn": "281313",
+    "hospital_name": "GOTHENBURG MEMORIAL HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/YTLS-1743523485849/machine-readable/470532605_gothenburg-health_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/gothenburg-health-ne"
+  },
+  {
+    "detail_id": "eb61fee1-6589-4a56-b468-0a050dd6b717",
+    "ccn": "281314",
+    "hospital_name": "ANNIE JEFFREY MEMORIAL COUNTY HEALTH CENTER",
+    "file_url": "http://www.ajhc.org/476000710_annie-jeffrey-memorial-county-health-center_standardcharges.csv",
+    "transparency_page": "http://www.ajhc.org/price_transparency.html"
+  },
+  {
+    "detail_id": "6a81fda3-b2e2-4a57-8dd0-1539158dba09",
+    "ccn": "281316",
+    "hospital_name": "WEBSTER COUNTY COMMUNITY HOSPITAL",
+    "address": "621 N FRANKLIN ST, PO BOX 465",
+    "file_url": "https://www.websterhospital.org/docs/Price_Transparency_December_29_2021_MS_DOS.csv",
+    "transparency_page": "https://www.websterhospital.org/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "d238f260-d7a5-41c0-932d-ba785fd7e56e",
+    "ccn": "281318",
+    "hospital_name": "MORRILL COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/JBRE-1747325086649/machine-readable/470547317_morrill-county-community-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/morrill-county-community-hospital-ne"
+  },
+  {
+    "detail_id": "47f66c5f-6a0e-4d14-a51c-8f3dc0f115ad",
+    "ccn": "281319",
+    "hospital_name": "JEFFERSON COMMUNITY HEALTH CENTER",
+    "file_url": "https://www.jchealthandlife.org/wp-content/uploads/2025/11/470468078_Jefferson-Community-Health-Center-Inc._standardcharges.csv",
+    "transparency_page": "https://www.jchealthandlife.org/care-services/patient-resources/"
+  },
+  {
+    "detail_id": "d9da15e8-333f-4b34-9143-965baef95f7c",
+    "ccn": "281320",
+    "hospital_name": "MEMORIAL COMMUNITY HEALTH",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7911/470461859_memorial-community-health%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MemorialCommunityHealth/7911"
+  },
+  {
+    "detail_id": "f51393fc-e801-4e9f-8ca1-d9d7fbe98c93",
+    "ccn": "281322",
+    "hospital_name": "FRANCISCAN HEALTHCARE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7971/470486026_franciscan-care-services_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FranciscanHealthcare/7971"
+  },
+  {
+    "detail_id": "3c56f732-30d1-436c-a259-4538d65b03c9",
+    "ccn": "281323",
+    "hospital_name": "CHI HEALTH SCHUYLER",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470399853_chi-health-schuyler_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "a7f8842f-8c66-43da-a299-9ebc0cc549bd",
+    "ccn": "281324",
+    "hospital_name": "NEMAHA COUNTY HOSPITAL",
+    "file_url": "https://nemahacountyhospital.com/wp-content/uploads/2025/06/470471042_nemaha-county-hospital_standardcharges.csv",
+    "transparency_page": "https://nemahacountyhospital.com/business-office/"
+  },
+  {
+    "detail_id": "7c2a1d8c-86fb-4cb9-9d6a-e3a7969a396e",
+    "ccn": "281327",
+    "hospital_name": "COZAD COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/YWBX-1689949782535/machine-readable/476007486_cozad-community-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/cozad-community-ne"
+  },
+  {
+    "detail_id": "5a28aba5-e26e-4fe5-b5ee-bca9d1abd524",
+    "ccn": "281328",
+    "hospital_name": "MERRICK MEDICAL CENTER",
+    "file_url": "https://www.bryanhealth.com/app/files/public/0c8f55af-3354-471c-9d96-e1d3c2e2a445/470376552_bryan-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bryanhealth.com/patients-visitors/pricing-insurance-financial-assistance-billing/price-estimates/"
+  },
+  {
+    "detail_id": "74f7d6e4-d467-4129-83dc-6ac3c9363618",
+    "ccn": "281332",
+    "hospital_name": "BUTLER COUNTY HEALTH CARE CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/XJEN-1744822433611/machine-readable/470551144_butler-county-health_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/butler-county-health-nee"
+  },
+  {
+    "detail_id": "0690f28f-e781-451c-b8d2-acd304a3bd96",
+    "ccn": "281333",
+    "hospital_name": "ROCK COUNTY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/IXDF-1743091820455/machine-readable/476000999_rock-county-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/rock-county-ne"
+  },
+  {
+    "detail_id": "70a840fd-71e6-4885-b6ef-c4953af62ab0",
+    "ccn": "281335",
+    "hospital_name": "CALLAWAY DISTRICT HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/IHDY-1698614401401/machine-readable/470533576_callaway-district-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/callaway-district-ne"
+  },
+  {
+    "detail_id": "865a1d0d-1623-483e-b54e-b0d267eebe93",
+    "ccn": "281336",
+    "hospital_name": "YORK GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbYGHYORKNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/York_V2.aspx"
+  },
+  {
+    "detail_id": "69b46912-c4af-40f1-85ee-b9161f9c7494",
+    "ccn": "281338",
+    "hospital_name": "HOWARD COUNTY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8107/470681056_howard-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/HowardCountyMedicalCenter/8107"
+  },
+  {
+    "detail_id": "1705aed1-2287-4558-8e6a-edec6881140d",
+    "ccn": "281339",
+    "hospital_name": "MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMHCSEWARDNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MemorialSeward_V3.aspx"
+  },
+  {
+    "detail_id": "321a9a67-35ed-433d-834b-9567f5602c3e",
+    "ccn": "281340",
+    "hospital_name": "DUNDY COUNTY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/GGVV-1725057844241/machine-readable/47-0487831_dundy-county-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/dundy-county-ne"
+  },
+  {
+    "detail_id": "19ed8cf4-eeae-43e0-961f-da4bd36f3a01",
+    "ccn": "281341",
+    "hospital_name": "CHADRON COMMUNITY HOSPITAL AND HEALTH SERVICES",
+    "file_url": "https://secure.claraprice.net/price-transparency/KBWK-1689286808990/machine-readable/470482234_chadron-community-ne_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/chadron-community-ne"
+  },
+  {
+    "detail_id": "5ea6bb09-34f5-4048-94dc-7df64096cc01",
+    "ccn": "281342",
+    "hospital_name": "CHI HEALTH ST. MARY'S",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470443636_chi-health-st-marys_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "50505e2a-7ab6-4b54-be3b-404dcaaccfb7",
+    "ccn": "281343",
+    "hospital_name": "WEST HOLT MEMORIAL HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/NBIF-1745956795903/machine-readable/470544098_west-holt-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/west-holt-memorial-hospital-ne"
+  },
+  {
+    "detail_id": "dfd5a6f6-6940-45ae-9a5f-61f38b85f3bf",
+    "ccn": "281344",
+    "hospital_name": "CHERRY COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCCHVALENTINENE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CherryCounty_V2.aspx"
+  },
+  {
+    "detail_id": "b72335b5-ee00-43d1-b7e2-11212a667459",
+    "ccn": "281345",
+    "hospital_name": "PROVIDENCE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10169/470566524_providence-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ProvidenceMedicalCenter/10169"
+  },
+  {
+    "detail_id": "fe03ccbd-c128-44b3-ac1a-d49ec398dfc3",
+    "ccn": "281346",
+    "hospital_name": "CHI HEALTH PLAINVIEW",
+    "address": "704 NORTH THIRD ST, PO BOX 489",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/470757164_chi-health-plainview_standardcharges.json",
+    "transparency_page": "https://www.chihealth.com/patients-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "9e1746f7-277b-4ab2-966d-fb17a60ad2e9",
+    "ccn": "281347",
+    "hospital_name": "OSMOND GENERAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOGHOSMONDNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Osmond_V2.aspx"
+  },
+  {
+    "detail_id": "fc3617ad-1da5-4a80-9399-b198f9a3235b",
+    "ccn": "281348",
+    "hospital_name": "TRI VALLEY HEALTH SYSTEM",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTVHCAMBRIDGENE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/TriValley_V2.aspx"
+  },
+  {
+    "detail_id": "725bfef3-6681-4c8d-8306-a521a35be63c",
+    "ccn": "281349",
+    "hospital_name": "PENDER COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/TJON-1688566031190/machine-readable/470711662_pender-community-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/pender-community-ne"
+  },
+  {
+    "detail_id": "3e7663a6-98d0-4696-a480-14453bf49828",
+    "ccn": "281350",
+    "hospital_name": "JOHNSON COUNTY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/OPIU-1673956354318/machine-readable/476000874_johnson-county-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/johnson-county-ne"
+  },
+  {
+    "detail_id": "f01a8095-7d6c-4c2e-b11f-628eef4b0317",
+    "ccn": "281351",
+    "hospital_name": "CHASE COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/QSJB-1666892650444/machine-readable/476000803_chase-county-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/chase-county-ne"
+  },
+  {
+    "detail_id": "e46e2965-bbed-48f3-9afc-403db0b0481c",
+    "ccn": "281352",
+    "hospital_name": "COMMUNITY MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/NTWZ-1713817372531/machine-readable/470421272_community-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/community-medical"
+  },
+  {
+    "detail_id": "1564206c-6426-4676-ac64-8b353f7c24d5",
+    "ccn": "281353",
+    "hospital_name": "VALLEY COUNTY HEALTH SYSTEM",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10190/470485275_valley-county-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ValleyCountyHealthSystem/10190"
+  },
+  {
+    "detail_id": "74613875-f612-4769-a124-d2dc9faf383d",
+    "ccn": "281354",
+    "hospital_name": "CRETE AREA MEDICAL CENTER",
+    "file_url": "https://www.bryanhealth.com/app/files/public/0c8f55af-3354-471c-9d96-e1d3c2e2a445/470376552_bryan-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bryanhealth.com/patients-visitors/pricing-insurance-financial-assistance-billing/price-estimates/"
+  },
+  {
+    "detail_id": "80a57292-8e3c-4f30-aacf-1dea7131ce44",
+    "ccn": "281355",
+    "hospital_name": "OGALLALA COMMUNITY HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/470395795_banner-ogallala-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "8d0a1a1f-9f62-467b-b56d-f0aad6e7fc11",
+    "ccn": "281356",
+    "hospital_name": "PERKINS COUNTY HEALTH SERVICES",
+    "file_url": "https://www.pchsgrant.com/docs/476014365_perkins-county-hospital-district_standardcharges.csv",
+    "transparency_page": "https://www.pchsgrant.com/getpage.php?name=financial_policy&sub=Patient%2FVisitor%20Info"
+  },
+  {
+    "detail_id": "cf818117-c9c7-41b1-b765-228c67dcbaf2",
+    "ccn": "281357",
+    "hospital_name": "SIDNEY REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8186/470408242_sidney-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SidneyRegionalMedicalCenter/8186or"
+  },
+  {
+    "detail_id": "37f71927-62b9-472a-b00d-397bafa1dfd2",
+    "ccn": "281358",
+    "hospital_name": "GORDON MEMORIAL HOSPITAL DISTRICT",
+    "file_url": "https://secure.claraprice.net/price-transparency/FSVG-1715881425274/machine-readable/470533032_gordon-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/gordon-memorial-ne"
+  },
+  {
+    "detail_id": "01c0e5f9-1a97-44e7-9e02-72a008ce0ab0",
+    "ccn": "281359",
+    "hospital_name": "MEMORIAL COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCHBLAIRNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Blair_V2.aspx"
+  },
+  {
+    "detail_id": "d0f53c19-f7ad-49b4-aff6-f818ac6dd821",
+    "ccn": "281361",
+    "hospital_name": "LEXINGTON REGIONAL HEALTH CENTER",
+    "file_url": "https://lexington.pt.panaceainc.com/MRFDownload/lexington/lexington",
+    "transparency_page": "https://lexingtonregional.org/financial-assistance/"
+  },
+  {
+    "detail_id": "ffd852ad-ef8c-47e4-9b23-5fa08665b73a",
+    "ccn": "281362",
+    "hospital_name": "PHELPS MEMORIAL HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHCHOLDREGENE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Phelps_V2.aspx"
+  },
+  {
+    "detail_id": "72202bab-129d-49fe-82cd-68e913cd318c",
+    "ccn": "281363",
+    "hospital_name": "COMMUNITY HOSPITAL",
+    "file_url": "https://communitymccook.pt.panaceainc.com/MRFDownload/communitymccook/communitymccook",
+    "transparency_page": "https://chmccook.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "342cd57c-412c-4f81-bb73-a35ad1c9cbdb",
+    "ccn": "281364",
+    "hospital_name": "BEATRICE COMMUNITY HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/RNAV-1731102747513/machine-readable/470379834_beatrice-community-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/beatrice-community-hospital-ne"
+  },
+  {
+    "detail_id": "e5b8fcf8-1afc-4966-b645-46791a696bc7",
+    "ccn": "281365",
+    "hospital_name": "JENNIE M MELHAM MEMORIAL MEDICAL CENTER",
+    "file_url": "https://irp.cdn-website.com/a8c802d4/files/uploaded/470426530_melham-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.melham.org/jmmmmc-price-transparency"
+  },
+  {
+    "detail_id": "f4757a0e-d034-4c7e-aa9e-dbd320a0695d",
+    "ccn": "282000",
+    "hospital_name": "MADONNA REHABILITATION HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMRHLINCOLNNE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Madonna_Lincoln_V2.aspx"
+  },
+  {
+    "detail_id": "badae699-08b4-42d3-981c-136c4851939f",
+    "ccn": "282001",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - OMAHA (CENTRAL CAMPUS)",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/47-0815478_Select_Specialty_Hospital-Omaha_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "893a2abf-71b3-48f8-bbf0-a32e515aba9f",
+    "ccn": "282003",
+    "hospital_name": "MADONNA REHABILITATION SPECIALTY HOSPITAL OMAHA",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMRHOOMAHANE&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Madonna_Omaha_V2.aspx"
+  },
+  {
+    "detail_id": "ebdbc579-ebdb-4089-ac5d-12275126914b",
+    "ccn": "283301",
+    "hospital_name": "CHILDREN'S NEBRASKA",
+    "file_url": "https://childrensnebraska.pt.panaceainc.com/MRFDownload/childrensnebraska/childrensnebraska",
+    "transparency_page": "https://www.childrensnebraska.org/billing/price-transparency"
+  }
+]

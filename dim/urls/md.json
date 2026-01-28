@@ -1,546 +1,359 @@
 [
   {
-    "detail_id": "9fc616b2-d59f-4edb-9c2e-09a31e9375c2",
-    "ccn": "210060",
-    "hospital_name": "ADVENTIST HEALTHCARE FORT WASHINGTON MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/84-2670875_AdventistHealthCareFortWashingtonMedicalCenter_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "8b2687f2-4bf1-490d-8687-a0f122bc5dac",
-    "ccn": "",
-    "hospital_name": "ADVENTIST HEALTHCARE GERMANTOWN EMERGENCY CENTER",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/2c6c40a4-8ce1-412a-ba69-597e50570fdd/52-1532556_AdventistHealthCareGermantownEmergencyCenter_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "b53c7ae5-b624-4e1f-9d24-01d0b57303c3",
-    "ccn": "210057",
-    "hospital_name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/5234573e-a91f-456f-919e-dd37620e586c/52-1532556_AdventistHealthCareShadyGroveMedicalCenter_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "c1257134-52f3-4289-9aaa-49cb0f1d8ed6",
-    "ccn": "",
-    "hospital_name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER - OUTPATIENT MENTAL HEALTH",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/5234573e-a91f-456f-919e-dd37620e586c/52-1532556_AdventistHealthCareShadyGroveMedicalCenter_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "5f31ee57-b604-4129-8492-b725c2bbf668",
-    "ccn": "210016",
-    "hospital_name": "ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/d73a12fc-fecc-4674-9a62-03326b134182/52-1532556_AdventistHealthCareWhiteOakMedicalCenter_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "9342529a-cb48-4c2e-ac62-b33cd6f62a86",
-    "ccn": "213029",
-    "hospital_name": "ADVENTIST REHABILITATION HOSPITAL",
-    "address": "",
-    "file_url": "https://www.adventisthealthcare.com/app/files/public/90def31e-c6c7-43b7-b30f-6eb68b9d2844/20-1486678_AdventistHealthCareRehabilitation_StandardCharges.csv",
-    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
-  },
-  {
-    "detail_id": "3abf8e09-d5b5-4000-b487-5c6e7d99b9b8",
-    "ccn": "210011",
-    "hospital_name": "ASCENSION SAINT AGNES HOSPITAL",
-    "address": "",
-    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/md-csv/520591657_st-agnes-healthcare-inc_standardcharges.csv",
-    "transparency_page": "https://healthcare.ascension.org/price-transparency"
-  },
-  {
-    "detail_id": "ac1e8b4d-aff2-4742-880e-b3c84042fb12",
-    "ccn": "210061",
-    "hospital_name": "ATLANTIC GENERAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.atlanticgeneral.org/documents/biling/521656507_atlantic-general-hospital_standardcharges.csv",
-    "transparency_page": "https://www.atlanticgeneral.org/patients-visitors/billing-information/procedure-pricing/"
-  },
-  {
-    "detail_id": "a67515fd-abc8-45d5-86ed-85f14ced363a",
-    "ccn": "214003",
-    "hospital_name": "BROOK LANE HEALTH",
-    "address": "",
-    "file_url": "https://www.brooklane.org/wp-content/uploads/2025/08/52-0698850_BrookLaneHealthServices_standardcharges.csv",
-    "transparency_page": "https://www.brooklane.org/for-patients/cms-price-transparency/"
-  },
-  {
-    "detail_id": "781f9a58-89a6-4fc8-a36b-04fa0975e895",
-    "ccn": "210039",
-    "hospital_name": "CALVERT HEALTH MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.calverthealthmedicine.org/Uploads/Public/Documents/PatientResources/520619000_CalvertHealth%20Medical%20Center_standardcharges.csv",
-    "transparency_page": "https://www.calverthealthmedicine.org/Charge-Master-Dictionary-Price-Transparency"
-  },
-  {
-    "detail_id": "eb8939dc-98c9-46d9-90e9-b5e9ae25298f",
-    "ccn": "210033",
-    "hospital_name": "CARROLL HOSPITAL CENTER",
-    "address": "",
-    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-1452024_Carroll-Hospital-Center_standardcharges.csv",
-    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
-  },
-  {
-    "detail_id": "48e87d46-0454-4457-9a88-125185ebebea",
-    "ccn": "210032",
-    "hospital_name": "CHRISTIANACARE UNION HOSPITAL",
-    "address": "",
-    "file_url": "https://www.uhcc.com/wp-content/uploads/2025/01/520607945_union-hospital-of-cecil-county_standardcharges.csv",
-    "transparency_page": "https://www.uhcc.com/about-us/patient-financial-services/"
-  },
-  {
-    "detail_id": "3c17144d-0f26-4ea1-b1e3-6d2e129fd812",
-    "ccn": "213028",
-    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SALISBURY",
-    "address": "",
-    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/23-2655290_Encompass%20Health%20Rehabilitation%20Hospital%20of%20Salisbury_standardcharges.csv",
-    "transparency_page": "https://encompasshealth.com/locations/salisburyrehab/transparency-healthcare"
-  },
-  {
-    "detail_id": "c4a2d3e5-c008-41af-9a82-13cd1db93806",
-    "ccn": "210005",
-    "hospital_name": "FREDERICK MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.frederickhealth.org/documents/billing%20and%20finance/52-0591612_FrederickHealthHospital_standardcharges[2].csv",
-    "transparency_page": "https://www.frederickhealth.org/about/billing-financial-assistance/"
-  },
-  {
-    "detail_id": "e992e1dd-dea2-4db7-8f5c-58e520987342",
-    "ccn": "210017",
-    "hospital_name": "GARRETT REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/871846814_grmcinc_standardcharges432025.csv",
-    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
-  },
-  {
-    "detail_id": "fe8a485b-bd04-466c-93b2-30876cae08e0",
-    "ccn": "212749",
-    "hospital_name": "GRACE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0591555_Grace-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
-  },
-  {
-    "detail_id": "fe3a5e47-c7ec-43fe-adbe-ed63c8eadf16",
-    "ccn": "210044",
-    "hospital_name": "GREATER BALTIMORE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.gbmc.org/sites/default/files/documents/52-6049658_gbmc_standardcharges.csv",
-    "transparency_page": "https://www.gbmc.org/billing-estimates/billing-and-financial-support/hospital-and-physician-charges"
-  },
-  {
-    "detail_id": "34a008c3-0b76-4ae9-9e2b-e428595c16b1",
-    "ccn": "210065",
-    "hospital_name": "HOLY CROSS GERMANTOWN HOSPITAL",
-    "address": "",
-    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/holycrosshospital",
-    "transparency_page": "https://www.holycrosshealth.org/for-patients/billing-financial-assistance-and-insurance/charge-estimates"
-  },
-  {
-    "detail_id": "c7f9a876-0234-4f97-b89a-fc6937922ee5",
-    "ccn": "210004",
-    "hospital_name": "HOLY CROSS HOSPITAL",
-    "address": "",
-    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/holycrosshospital-silverspring",
-    "transparency_page": "https://www.holycrosshealth.org/for-patients/billing-financial-assistance-and-insurance/charge-estimates"
-  },
-  {
-    "detail_id": "bbc024a6-d419-436c-ac9c-7e4c4ccc6a40",
-    "ccn": "214020",
-    "hospital_name": "J KENT MCNEW FAMILY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/83-3856917_jkentmcnewfamilymedicalcenter_standardcharges.csv",
-    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
-  },
-  {
-    "detail_id": "508b96b8-a7a8-45f5-ab6e-e3974776b1c6",
-    "ccn": "210029",
-    "hospital_name": "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/521341890_JohnsHopkinsBayview_standardcharges.csv",
-    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
-  },
-  {
-    "detail_id": "5d9aff36-df56-4115-81c3-03a5f9ff84eb",
-    "ccn": "210048",
-    "hospital_name": "JOHNS HOPKINS HOWARD COUNTY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/522093120_HowardCountyGeneralHospital_standardcharges.csv",
-    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
-  },
-  {
-    "detail_id": "b4f6aeb5-5db9-490b-a52a-cf3e24a35b00",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "1740e42f-c545-4a1b-b3a0-6ad73908ddc5",
-    "ccn": "213301",
-    "hospital_name": "KENNEDY KREIGER INSTITUTE",
-    "address": "",
-    "file_url": "https://www.kennedykrieger.org/sites/default/files/library/documents/about-us/Financial%20Docs/520607971_kennedy-krieger-institute_standardcharges.csv",
-    "transparency_page": "https://www.kennedykrieger.org/patient-care/preparing-for-your-appointment-admission/make-an-appointment/hospital-charges"
-  },
-  {
-    "detail_id": "99e35a1f-565e-4d65-b842-ecd090b5ccfc",
-    "ccn": "210064",
-    "hospital_name": "LEVINDALE HOSPITAL",
-    "address": "",
-    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0607913_Levindale-Hebrew-Geriatric-Center-%26-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
-  },
-  {
-    "detail_id": "5ae17a63-6a62-4f0b-bd5e-4825222e178f",
-    "ccn": "210023",
-    "hospital_name": "LUMINIS HEALTH ANNE ARUNDEL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/52-1169362_annearundelmedicalcenter_standardcharges.csv",
-    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
-  },
-  {
-    "detail_id": "2c27fb3e-58e3-4e2e-9fe4-7085cd09926c",
-    "ccn": "210051",
-    "hospital_name": "LUMINIS HEALTH DOCTORS COMMUNITY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/52-1638026_doctorscommunitymedicalcenter_standardcharges.csv",
-    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
-  },
-  {
-    "detail_id": "094b8205-dcd6-4cd6-bf07-b688b5a7d4c1",
-    "ccn": "210015",
-    "hospital_name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520608007_medstar-franklin-square-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "6710cf82-2ebd-46bd-96e1-21c9f97ad346",
-    "ccn": "210056",
-    "hospital_name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520591607_medstar-good-samaritan-hospital_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "de2d23fa-b47d-4788-8187-40b247917d26",
-    "ccn": "210034",
-    "hospital_name": "MEDSTAR HARBOR HOSPITAL",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520491660_medstar-harbor-hospital_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "9726582e-89d4-459d-991d-8ac1e8333410",
-    "ccn": "",
-    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT ANNAPOLIS",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1669549614_national-rehabilitation-hospital-inc_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "49b3a0a4-b74c-4881-a986-9e343928aca1",
-    "ccn": "",
-    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT BRANDYWINE",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1528061827_national-rehabilitation-hospital-inc_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "64fa250f-6c0b-4c58-8ee2-629def181d7e",
-    "ccn": "",
-    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT COCKEYSVILLE",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1982478129_national-rehabilitation-hospital-inc_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "8d437cdb-66ea-4589-b8e5-1f5a1128964d",
-    "ccn": "",
-    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT HOLLYWOOD",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025/521369749-1578639761_national-rehabilitation-hospital-inc_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "57d4bfef-19a6-4a72-9c4b-80ccaadd30f5",
-    "ccn": "",
-    "hospital_name": "MEDSTAR HEALTH PHYSICAL THERAPY AT LEONARDTOWN",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/521369749_medstar-national-rehabilitation-hospital_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "8f313b2b-4d90-423b-894e-6bf2158f8929",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "b147d023-2862-46d2-8768-f85b0344c1c7",
-    "ccn": "210028",
-    "hospital_name": "MEDSTAR SAINT MARY'S HOSPITAL",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520619006_medstar-stmarys-hospital_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "81e49408-0c79-4c39-9ac3-a646763a6cf3",
-    "ccn": "210062",
-    "hospital_name": "MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/460726303_medstar-southern-maryland-hospital-center_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "b56b3350-91b7-4b35-ae98-f965c6cd5544",
-    "ccn": "210024",
-    "hospital_name": "MEDSTAR UNION MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520591685_medstar-union-memorial-hospital_standardcharges.csv",
-    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
-  },
-  {
-    "detail_id": "e2d5e02a-dd28-4549-bcc1-0edda72db43f",
-    "ccn": "210008",
-    "hospital_name": "MERCY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://mdmercy.com/-/media/files/about-mercy/policies-and-documents/520591658_mercymedicalcenter_standardcharges.ashx",
-    "transparency_page": "https://mdmercy.com/patients-and-visitors/billing-and-insurance/hospital-charge-and-facility-fee-information"
-  },
-  {
     "detail_id": "7a209da2-29bf-4a30-b968-aa74a9c57ffb",
     "ccn": "210001",
     "hospital_name": "MERITUS MEDICAL CENTER",
-    "address": "",
     "file_url": "https://www.meritushealth.com/files/52-0607949-meritusmedicalcenter-standardcharges.csv",
     "transparency_page": "https://www.meritushealth.com/about/patients-visitors/cms-price-transparency"
   },
   {
-    "detail_id": "2bd9ab09-2fbd-45ea-89ab-60af284b7780",
-    "ccn": "213300",
-    "hospital_name": "MOUNT WASHINGTON PEDIATRIC HOSPITAL",
-    "address": "",
-    "file_url": "https://www.mwph.org/standard-charges/520591483_Mt.-Washington-Pediatric-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.mwph.org/patients-and-guests/financial/price-transparency"
-  },
-  {
-    "detail_id": "388fa96f-10e3-477a-a58a-7571cc1a43d3",
-    "ccn": "210040",
-    "hospital_name": "NORTHWEST HOSPITAL CENTER",
-    "address": "",
-    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-1372665_Northwest-Hospital-Center_standardcharges.csv",
-    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
-  },
-  {
-    "detail_id": "a0f4b6f8-3a28-4b3a-b664-b48d4b6da90e",
-    "ccn": "213030",
-    "hospital_name": "REHABILITATION HOSPITAL OF BOWIE",
-    "address": "",
-    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/822257492_Rehabilitation-Hospital-of-Bowie_standardcharges.csv",
-    "transparency_page": "https://www.encompasshealth.com/locations/bowie-rehab/financial-information/price-transparency"
-  },
-  {
-    "detail_id": "d3935d1d-6a10-492b-b19c-0fc49f3d1281",
-    "ccn": "",
-    "hospital_name": "SAINT LUKE INSTITUTE",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "de28a0da-ffbf-4df0-8f6c-a4542269b562",
-    "ccn": "214000",
-    "hospital_name": "SHEPPARD AND ENOCH PRATT HOSPITAL",
-    "address": "",
-    "file_url": "https://www.sheppardpratt.org/files/resources/chgmaster2507.xlsx",
-    "transparency_page": "https://www.sheppardpratt.org/cms-price-transparency/"
-  },
-  {
-    "detail_id": "10536d8c-af88-4238-9163-f9d2b4874fb0",
-    "ccn": "210012",
-    "hospital_name": "SINAI HOSPITAL OF BALTIMORE",
-    "address": "",
-    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
-    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
-  },
-  {
-    "detail_id": "09689e7d-b1c3-46e4-9fb1-a522677eaa5e",
-    "ccn": "210009",
-    "hospital_name": "THE JOHNS HOPKINS HOSPITAL",
-    "address": "",
-    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/520591656_JohnsHopkinsHospital_standardcharges.csv",
-    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
-  },
-  {
-    "detail_id": "d966d857-fd31-4b40-9a49-ddb141e2ff4d",
-    "ccn": "",
-    "hospital_name": "TIDALHEALTH MCCREADY PAVILION",
-    "address": "",
-    "file_url": "https://www.tidalhealth.org/sites/default/files/2024-12/52-0591628_TIDALHEALTH-PENINSULA-REGIONAL-INC._standard%20charges.csv",
-    "transparency_page": "https://www.tidalhealth.org/medical-care/financial-admin-services/billing/hospital-based-price-billing-unit-information"
-  },
-  {
-    "detail_id": "5ec4abd1-91ba-47da-ba87-937483ef9140",
-    "ccn": "210019",
-    "hospital_name": "TIDALHEALTH PENINSULA REGIONAL",
-    "address": "",
-    "file_url": "https://www.tidalhealth.org/sites/default/files/2024-12/52-0591628_TIDALHEALTH-PENINSULA-REGIONAL-INC._standard%20charges.csv",
-    "transparency_page": "https://www.tidalhealth.org/medical-care/financial-admin-services/billing/hospital-based-price-billing-unit-information"
-  },
-  {
-    "detail_id": "031f985a-bb5c-479b-b947-642aad87e271",
-    "ccn": "",
-    "hospital_name": "UM R ADAMS COWLEY SHOCK TRAUMA CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521362793_UM-R-Adams-Cowley-Shock-Trauma-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "e4fef33b-03ff-4aef-bcaf-dd12e7cd13f4",
-    "ccn": "",
-    "hospital_name": "UM UPPER CHESAPEAKE BEHAVIOR HEALTH PAVILLION",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Behavior-Health-Pavilion-at-Aberdeen_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "ed7c6121-ef82-4483-8c90-1088bc5722a1",
-    "ccn": "",
-    "hospital_name": "UM UPPER CHESAPEAKE MEDICAL CENTER ABERDEEN",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Medical-Center-Aberdeen_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "44ac2e0a-5216-407d-9672-9f1ef35ef3c3",
-    "ccn": "210043",
-    "hospital_name": "UNIVERSITY OF MARYLAND BALTIMORE WASHINGTON MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/520689917_UM-Baltimore-Washington-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "00ea6741-c09a-46e8-8038-e2c8d3895c40",
-    "ccn": "",
-    "hospital_name": "UNIVERSITY OF MARYLAND BOWIE HEALTH CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521289729_UM-Bowie-Health-Center_standardcharges.csv",
+    "detail_id": "e9e33ca8-afcc-4946-b6b5-de9622a3c270",
+    "ccn": "210002",
+    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
+    "file_url": "https://www.umms.org/standard-charges/521362793_University-of-Maryland-Medical-Center_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
   },
   {
     "detail_id": "837ba4dd-b3b8-4e2a-98b0-e7714fbb5450",
     "ccn": "210003",
     "hospital_name": "UNIVERSITY OF MARYLAND CAPITAL REGION MEDICAL CENTER",
-    "address": "",
     "file_url": "https://www.umms.org/standard-charges/521289729_UM-Capital-Region-Medical-Center_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "c7f9a876-0234-4f97-b89a-fc6937922ee5",
+    "ccn": "210004",
+    "hospital_name": "HOLY CROSS HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/holycrosshospital-silverspring",
+    "transparency_page": "https://www.holycrosshealth.org/for-patients/billing-financial-assistance-and-insurance/charge-estimates"
+  },
+  {
+    "detail_id": "c4a2d3e5-c008-41af-9a82-13cd1db93806",
+    "ccn": "210005",
+    "hospital_name": "FREDERICK MEMORIAL HOSPITAL",
+    "file_url": "https://www.frederickhealth.org/documents/billing%20and%20finance/52-0591612_FrederickHealthHospital_standardcharges[2].csv",
+    "transparency_page": "https://www.frederickhealth.org/about/billing-financial-assistance/"
+  },
+  {
+    "detail_id": "e2d5e02a-dd28-4549-bcc1-0edda72db43f",
+    "ccn": "210008",
+    "hospital_name": "MERCY MEDICAL CENTER",
+    "file_url": "https://mdmercy.com/-/media/files/about-mercy/policies-and-documents/520591658_mercymedicalcenter_standardcharges.ashx",
+    "transparency_page": "https://mdmercy.com/patients-and-visitors/billing-and-insurance/hospital-charge-and-facility-fee-information"
+  },
+  {
+    "detail_id": "09689e7d-b1c3-46e4-9fb1-a522677eaa5e",
+    "ccn": "210009",
+    "hospital_name": "THE JOHNS HOPKINS HOSPITAL",
+    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/520591656_JohnsHopkinsHospital_standardcharges.csv",
+    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
+  },
+  {
+    "detail_id": "3abf8e09-d5b5-4000-b487-5c6e7d99b9b8",
+    "ccn": "210011",
+    "hospital_name": "ASCENSION SAINT AGNES HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/md-csv/520591657_st-agnes-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "10536d8c-af88-4238-9163-f9d2b4874fb0",
+    "ccn": "210012",
+    "hospital_name": "SINAI HOSPITAL OF BALTIMORE",
+    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
+    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "094b8205-dcd6-4cd6-bf07-b688b5a7d4c1",
+    "ccn": "210015",
+    "hospital_name": "MEDSTAR FRANKLIN SQUARE MEDICAL CENTER",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520608007_medstar-franklin-square-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "5f31ee57-b604-4129-8492-b725c2bbf668",
+    "ccn": "210016",
+    "hospital_name": "ADVENTIST HEALTHCARE WHITE OAK MEDICAL CENTER",
+    "file_url": "https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/84-2670875_AdventistHealthCareFortWashingtonMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
+  },
+  {
+    "detail_id": "e992e1dd-dea2-4db7-8f5c-58e520987342",
+    "ccn": "210017",
+    "hospital_name": "GARRETT REGIONAL MEDICAL CENTER",
+    "file_url": "https://wvumedicine.org/wp-content/uploads/2025/04/871846814_grmcinc_standardcharges432025.csv",
+    "transparency_page": "https://wvumedicine.org/bill-pay/pricing-transparency/"
+  },
+  {
+    "detail_id": "5ec4abd1-91ba-47da-ba87-937483ef9140",
+    "ccn": "210019",
+    "hospital_name": "TIDALHEALTH PENINSULA REGIONAL",
+    "file_url": "https://www.tidalhealth.org/sites/default/files/2024-12/52-0591628_TIDALHEALTH-PENINSULA-REGIONAL-INC._standard%20charges.csv",
+    "transparency_page": "https://www.tidalhealth.org/medical-care/financial-admin-services/billing/hospital-based-price-billing-unit-information"
+  },
+  {
+    "detail_id": "5ae17a63-6a62-4f0b-bd5e-4825222e178f",
+    "ccn": "210023",
+    "hospital_name": "LUMINIS HEALTH ANNE ARUNDEL MEDICAL CENTER",
+    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/52-1169362_annearundelmedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
+  },
+  {
+    "detail_id": "b56b3350-91b7-4b35-ae98-f965c6cd5544",
+    "ccn": "210024",
+    "hospital_name": "MEDSTAR UNION MEMORIAL HOSPITAL",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520591685_medstar-union-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "5200a361-350c-425f-9522-332e4cb62279",
+    "ccn": "210027",
+    "hospital_name": "UPMC WESTERN MARYLAND",
+    "file_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/western-maryland/patients-visitors/520591531_upmcwesternmaryland_standardcharges.csv?rev=84706e0bf7934c6c9439aadabcd336ad&hash=652E84CBD06CDB5C21B008B4B305AE2E",
+    "transparency_page": "https://www.upmc.com/locations/hospitals/western-maryland/patients-visitors/patients/price-transparency/machine-readable-file"
+  },
+  {
+    "detail_id": "b147d023-2862-46d2-8768-f85b0344c1c7",
+    "ccn": "210028",
+    "hospital_name": "MEDSTAR SAINT MARY'S HOSPITAL",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520619006_medstar-stmarys-hospital_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "508b96b8-a7a8-45f5-ab6e-e3974776b1c6",
+    "ccn": "210029",
+    "hospital_name": "JOHNS HOPKINS BAYVIEW MEDICAL CENTER",
+    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/521341890_JohnsHopkinsBayview_standardcharges.csv",
+    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
+  },
+  {
+    "detail_id": "9493ba53-284b-4ca4-8bd8-66881fce39e4",
+    "ccn": "210030",
+    "hospital_name": "UNIVERSITY OF MARYLAND SHORE MEDICAL CTR AT CHESTERTOWN",
+    "file_url": "https://www.umms.org/standard-charges/520679694_UM-Shore-Medical-Center-at-Chestertown_standardcharges.csv",
+    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "48e87d46-0454-4457-9a88-125185ebebea",
+    "ccn": "210032",
+    "hospital_name": "CHRISTIANACARE UNION HOSPITAL",
+    "file_url": "https://www.uhcc.com/wp-content/uploads/2025/01/520607945_union-hospital-of-cecil-county_standardcharges.csv",
+    "transparency_page": "https://www.uhcc.com/about-us/patient-financial-services/"
+  },
+  {
+    "detail_id": "eb8939dc-98c9-46d9-90e9-b5e9ae25298f",
+    "ccn": "210033",
+    "hospital_name": "CARROLL HOSPITAL CENTER",
+    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
+    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "de2d23fa-b47d-4788-8187-40b247917d26",
+    "ccn": "210034",
+    "hospital_name": "MEDSTAR HARBOR HOSPITAL",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520491660_medstar-harbor-hospital_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
   },
   {
     "detail_id": "a6a08193-0632-47f2-862e-367f20c184a3",
     "ccn": "210035",
     "hospital_name": "UNIVERSITY OF MARYLAND CHARLES REGIONAL MEDICAL CENTER",
-    "address": "",
     "file_url": "https://www.umms.org/standard-charges/520445374_UM-Charles-Regional-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "9ea37bd3-cfed-47cf-80c7-b01af41e5bdf",
-    "ccn": "210055",
-    "hospital_name": "UNIVERSITY OF MARYLAND LAUREL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521289729_UM-Laurel-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "e9e33ca8-afcc-4946-b6b5-de9622a3c270",
-    "ccn": "210002",
-    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/521362793_University-of-Maryland-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "0042114a-b635-4d5f-897b-2891efc2a4ae",
-    "ccn": "210038",
-    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER MIDTOWN CAMPUS",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/520591667_UMMC-Midtown-Campus_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "b9a6f30e-b98b-48fc-80c2-ff1e3e5c862f",
-    "ccn": "210058",
-    "hospital_name": "UNIVERSITY OF MARYLAND REHABILITATION & ORTHOPAEDIC INSTITUTE",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/520591639_UM-Rehabilitation-and-Orthopaedic-Institute_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "9aa0b59e-8b20-4ea4-a85b-8be67c651a5e",
-    "ccn": "210063",
-    "hospital_name": "UNIVERSITY OF MARYLAND SAINT JOSEPH MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/352445106_UM-St.-Joseph-Medical-Center_standardcharges.csv",
-    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
-  },
-  {
-    "detail_id": "a3b4b28f-086b-47fe-930e-f320d55a5365",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "85eb7c30-ba36-43fb-9101-b230fb865118",
-    "ccn": "",
-    "hospital_name": "UNIVERSITY OF MARYLAND SHORE MEDICAL CENTER AT CAMBRIDGE",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Medical-Center-at-Cambridge_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
   },
   {
     "detail_id": "012d4ea2-f580-42c7-9e0f-2a8880563fc1",
     "ccn": "210037",
     "hospital_name": "UNIVERSITY OF MARYLAND SHORE MEDICAL CENTER AT EASTON",
-    "address": "",
     "file_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Medical-Center-at-Easton_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
   },
   {
-    "detail_id": "9493ba53-284b-4ca4-8bd8-66881fce39e4",
-    "ccn": "210030",
-    "hospital_name": "UNIVERSITY OF MARYLAND SHORE MEDICAL CTR AT CHESTERTOWN",
-    "address": "",
-    "file_url": "https://www.umms.org/standard-charges/520679694_UM-Shore-Medical-Center-at-Chestertown_standardcharges.csv",
+    "detail_id": "0042114a-b635-4d5f-897b-2891efc2a4ae",
+    "ccn": "210038",
+    "hospital_name": "UNIVERSITY OF MARYLAND MEDICAL CENTER MIDTOWN CAMPUS",
+    "file_url": "https://www.umms.org/standard-charges/520591667_UMMC-Midtown-Campus_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "781f9a58-89a6-4fc8-a36b-04fa0975e895",
+    "ccn": "210039",
+    "hospital_name": "CALVERT HEALTH MEDICAL CENTER",
+    "file_url": "https://www.calverthealthmedicine.org/Uploads/Public/Documents/PatientResources/520619000_CalvertHealth%20Medical%20Center_standardcharges.csv",
+    "transparency_page": "https://www.calverthealthmedicine.org/Charge-Master-Dictionary-Price-Transparency"
+  },
+  {
+    "detail_id": "388fa96f-10e3-477a-a58a-7571cc1a43d3",
+    "ccn": "210040",
+    "hospital_name": "NORTHWEST HOSPITAL CENTER",
+    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
+    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "44ac2e0a-5216-407d-9672-9f1ef35ef3c3",
+    "ccn": "210043",
+    "hospital_name": "UNIVERSITY OF MARYLAND BALTIMORE WASHINGTON MEDICAL CENTER",
+    "file_url": "https://www.umms.org/standard-charges/520689917_UM-Baltimore-Washington-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "fe3a5e47-c7ec-43fe-adbe-ed63c8eadf16",
+    "ccn": "210044",
+    "hospital_name": "GREATER BALTIMORE MEDICAL CENTER",
+    "file_url": "https://www.gbmc.org/sites/default/files/documents/52-6049658_gbmc_standardcharges.csv",
+    "transparency_page": "https://www.gbmc.org/billing-estimates/billing-and-financial-support/hospital-and-physician-charges"
+  },
+  {
+    "detail_id": "5d9aff36-df56-4115-81c3-03a5f9ff84eb",
+    "ccn": "210048",
+    "hospital_name": "JOHNS HOPKINS HOWARD COUNTY MEDICAL CENTER",
+    "file_url": "https://jhm-web-assets.s3.amazonaws.com/hopkinsmedicine/prod/charge-fees/522093120_HowardCountyGeneralHospital_standardcharges.csv",
+    "transparency_page": "https://www.hopkinsmedicine.org/patient-care/patients-visitors/billing-insurance/pay-bill/charges-fees"
   },
   {
     "detail_id": "bdf3e172-3c00-42d6-af02-675207606311",
     "ccn": "210049",
     "hospital_name": "UNIVERSITY OF MARYLAND UPPER CHESAPEAKE MEDICAL CENTER",
-    "address": "",
     "file_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Medical-Center_standardcharges.csv",
     "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
   },
   {
-    "detail_id": "5200a361-350c-425f-9522-332e4cb62279",
-    "ccn": "210027",
-    "hospital_name": "UPMC WESTERN MARYLAND",
-    "address": "",
-    "file_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/western-maryland/patients-visitors/520591531_upmcwesternmaryland_standardcharges.csv?rev=84706e0bf7934c6c9439aadabcd336ad&hash=652E84CBD06CDB5C21B008B4B305AE2E",
-    "transparency_page": "https://www.upmc.com/locations/hospitals/western-maryland/patients-visitors/patients/price-transparency/machine-readable-file"
+    "detail_id": "2c27fb3e-58e3-4e2e-9fe4-7085cd09926c",
+    "ccn": "210051",
+    "hospital_name": "LUMINIS HEALTH DOCTORS COMMUNITY MEDICAL CENTER",
+    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/52-1638026_doctorscommunitymedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
+  },
+  {
+    "detail_id": "9ea37bd3-cfed-47cf-80c7-b01af41e5bdf",
+    "ccn": "210055",
+    "hospital_name": "UNIVERSITY OF MARYLAND LAUREL MEDICAL CENTER",
+    "file_url": "https://www.umms.org/standard-charges/521289729_UM-Laurel-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "6710cf82-2ebd-46bd-96e1-21c9f97ad346",
+    "ccn": "210056",
+    "hospital_name": "MEDSTAR GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/520591607_medstar-good-samaritan-hospital_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "b53c7ae5-b624-4e1f-9d24-01d0b57303c3",
+    "ccn": "210057",
+    "hospital_name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
+    "file_url": "https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/84-2670875_AdventistHealthCareFortWashingtonMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
+  },
+  {
+    "detail_id": "b9a6f30e-b98b-48fc-80c2-ff1e3e5c862f",
+    "ccn": "210058",
+    "hospital_name": "UNIVERSITY OF MARYLAND REHABILITATION & ORTHOPAEDIC INSTITUTE",
+    "file_url": "https://www.umms.org/standard-charges/520591639_UM-Rehabilitation-and-Orthopaedic-Institute_standardcharges.csv",
+    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "9fc616b2-d59f-4edb-9c2e-09a31e9375c2",
+    "ccn": "210060",
+    "hospital_name": "ADVENTIST HEALTHCARE FORT WASHINGTON MEDICAL CENTER",
+    "file_url": "https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/84-2670875_AdventistHealthCareFortWashingtonMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
+  },
+  {
+    "detail_id": "ac1e8b4d-aff2-4742-880e-b3c84042fb12",
+    "ccn": "210061",
+    "hospital_name": "ATLANTIC GENERAL HOSPITAL",
+    "file_url": "https://www.atlanticgeneral.org/documents/biling/521656507_atlantic-general-hospital_standardcharges.csv",
+    "transparency_page": "https://www.atlanticgeneral.org/patients-visitors/billing-information/procedure-pricing/"
+  },
+  {
+    "detail_id": "81e49408-0c79-4c39-9ac3-a646763a6cf3",
+    "ccn": "210062",
+    "hospital_name": "MEDSTAR SOUTHERN MARYLAND HOSPITAL CENTER",
+    "file_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2025update/460726303_medstar-southern-maryland-hospital-center_standardcharges.csv",
+    "transparency_page": "https://www.medstarhealth.org/price-transparency-disclosures"
+  },
+  {
+    "detail_id": "9aa0b59e-8b20-4ea4-a85b-8be67c651a5e",
+    "ccn": "210063",
+    "hospital_name": "UNIVERSITY OF MARYLAND SAINT JOSEPH MEDICAL CENTER",
+    "file_url": "https://www.umms.org/standard-charges/352445106_UM-St.-Joseph-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.umms.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "99e35a1f-565e-4d65-b842-ecd090b5ccfc",
+    "ccn": "210064",
+    "hospital_name": "LEVINDALE HOSPITAL",
+    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
+    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "34a008c3-0b76-4ae9-9e2b-e428595c16b1",
+    "ccn": "210065",
+    "hospital_name": "HOLY CROSS GERMANTOWN HOSPITAL",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/holycrosshospital",
+    "transparency_page": "https://www.holycrosshealth.org/for-patients/billing-financial-assistance-and-insurance/charge-estimates"
+  },
+  {
+    "detail_id": "fe8a485b-bd04-466c-93b2-30876cae08e0",
+    "ccn": "212749",
+    "hospital_name": "GRACE MEDICAL CENTER",
+    "file_url": "https://www.lifebridgehealth.org/sites/default/files/2025-04/52-0486540_Sinai-Hospital-of-Baltimore_standardcharges.csv",
+    "transparency_page": "https://www.lifebridgehealth.org/patients/price-transparency"
+  },
+  {
+    "detail_id": "3c17144d-0f26-4ea1-b1e3-6d2e129fd812",
+    "ccn": "213028",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SALISBURY",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/232655290_Encompass-Health-Rehabilitation-Hospital-of-Salisbury_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/salisburyrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "9342529a-cb48-4c2e-ac62-b33cd6f62a86",
+    "ccn": "213029",
+    "hospital_name": "ADVENTIST REHABILITATION HOSPITAL",
+    "file_url": "https://www.adventisthealthcare.com/app/files/public/91919297-0df2-4ab4-b788-71160672291c/84-2670875_AdventistHealthCareFortWashingtonMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://www.adventisthealthcare.com/patients-visitors/billing-financial/price-transparency/"
+  },
+  {
+    "detail_id": "a0f4b6f8-3a28-4b3a-b664-b48d4b6da90e",
+    "ccn": "213030",
+    "hospital_name": "REHABILITATION HOSPITAL OF BOWIE",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/822257492_Rehabilitation-Hospital-of-Bowie_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/bowie-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2bd9ab09-2fbd-45ea-89ab-60af284b7780",
+    "ccn": "213300",
+    "hospital_name": "MOUNT WASHINGTON PEDIATRIC HOSPITAL",
+    "file_url": "https://www.mwph.org/standard-charges/520591483_Mt.-Washington-Pediatric-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.mwph.org/patients-and-guests/financial/price-transparency"
+  },
+  {
+    "detail_id": "1740e42f-c545-4a1b-b3a0-6ad73908ddc5",
+    "ccn": "213301",
+    "hospital_name": "KENNEDY KREIGER INSTITUTE",
+    "file_url": "https://www.kennedykrieger.org/sites/default/files/library/documents/about-us/Financial%20Docs/520607971_kennedy-krieger-institute_standardcharges.csv",
+    "transparency_page": "https://www.kennedykrieger.org/patient-care/preparing-for-your-appointment-admission/make-an-appointment/hospital-charges"
+  },
+  {
+    "detail_id": "de28a0da-ffbf-4df0-8f6c-a4542269b562",
+    "ccn": "214000",
+    "hospital_name": "SHEPPARD AND ENOCH PRATT HOSPITAL",
+    "file_url": "https://www.sheppardpratt.org/files/resources/chgmaster2507.xlsx",
+    "transparency_page": "https://www.sheppardpratt.org/cms-price-transparency/"
+  },
+  {
+    "detail_id": "a67515fd-abc8-45d5-86ed-85f14ced363a",
+    "ccn": "214003",
+    "hospital_name": "BROOK LANE HEALTH",
+    "file_url": "https://www.brooklane.org/wp-content/uploads/2025/08/52-0698850_BrookLaneHealthServices_standardcharges.csv",
+    "transparency_page": "https://www.brooklane.org/for-patients/cms-price-transparency/"
+  },
+  {
+    "detail_id": "bbc024a6-d419-436c-ac9c-7e4c4ccc6a40",
+    "ccn": "214020",
+    "hospital_name": "J KENT MCNEW FAMILY MEDICAL CENTER",
+    "file_url": "https://www.luminishealth.org/sites/default/files/2024-12/83-3856917_jkentmcnewfamilymedicalcenter_standardcharges.csv",
+    "transparency_page": "https://www.luminishealth.org/en/price-transparency"
   }
 ]
