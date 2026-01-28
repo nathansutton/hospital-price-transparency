@@ -6,6 +6,7 @@ This format was updated in 2024 and uses different field names than earlier vers
 Reference: https://www.cms.gov/hospital-price-transparency/resources
 """
 
+from pathlib import Path
 from typing import Any
 
 import pandas as pd
@@ -14,6 +15,9 @@ from ..utils.logger import get_logger
 from .base import BaseScraper
 
 logger = get_logger(__name__)
+
+# Files larger than this will be processed with streaming (100 MB)
+LARGE_FILE_THRESHOLD = 100 * 1024 * 1024
 
 
 class CMSStandardJSONScraper(BaseScraper):
@@ -85,9 +89,35 @@ class CMSStandardJSONScraper(BaseScraper):
     # Valid CPT/HCPCS code type identifiers
     VALID_CODE_TYPES = {"CPT", "CPT4", "HCPCS", "CPT-4", "HCPC"}
 
-    def fetch_data(self) -> dict[Any, Any]:
-        """Fetch JSON data from the URL."""
-        result = self.http_client.get_json(self.hospital_config.file_url)
+    # Track if we're using streaming for large files
+    _temp_file: Path | None = None
+    _use_streaming: bool = False
+
+    def fetch_data(self) -> dict[Any, Any] | Path:
+        """Fetch JSON data from the URL.
+
+        For large files (>100MB), streams to a temp file for memory-efficient processing.
+
+        Returns:
+            dict: Parsed JSON for small files
+            Path: Path to temp file for large files (use streaming parsing)
+        """
+        url = self.hospital_config.file_url
+
+        # Check file size first for large file handling
+        content_length = self.http_client.get_content_length(url)
+        if content_length and content_length > LARGE_FILE_THRESHOLD:
+            self.logger.info(
+                "large_json_file_detected",
+                size_mb=content_length / (1024 * 1024),
+                threshold_mb=LARGE_FILE_THRESHOLD / (1024 * 1024),
+            )
+            self._use_streaming = True
+            self._temp_file = self.http_client.stream_to_tempfile(url)
+            return self._temp_file
+
+        # Normal fetch for smaller files
+        result = self.http_client.get_json(url)
         return dict(result) if isinstance(result, dict) else {}
 
     def _get_first_match(self, data: dict[str, Any], fields: list[str], default: Any = None) -> Any:
@@ -232,17 +262,130 @@ class CMSStandardJSONScraper(BaseScraper):
 
         return gross, cash
 
-    def parse_data(self, raw_data: bytes | str | dict | list) -> pd.DataFrame:
-        """Parse CMS standard JSON format (v2.0) with field variation handling.
+    def _parse_large_json_streaming(self, file_path: Path) -> pd.DataFrame:
+        """Parse a large JSON file using streaming with ijson.
 
         Args:
-            raw_data: Parsed JSON data following CMS schema
+            file_path: Path to the temp file containing JSON data
 
         Returns:
             DataFrame with vocabulary_id, concept_code, gross, cash columns
         """
+        import ijson
+
+        records = []
+        codes_seen = set()
+        parse_errors = 0
+        item_count = 0
+
+        try:
+            # Try to find the charges array path
+            # Common paths: standard_charge_information.item, charges.item, item (for root array)
+            charge_paths = [
+                "standard_charge_information.item",
+                "charges.item",
+                "standard_charges.item",
+                "items.item",
+                "chargemaster.item",
+                "item",  # Root array
+            ]
+
+            with open(file_path, "rb") as f:
+                # Try each path until we find items
+                for path in charge_paths:
+                    f.seek(0)
+                    try:
+                        parser = ijson.items(f, path)
+                        # Try to get first item to see if path works
+                        first_item = next(parser, None)
+                        if first_item is not None:
+                            f.seek(0)  # Reset for full parse
+                            self.logger.info("streaming_json_path_found", path=path)
+                            break
+                    except (ijson.JSONError, StopIteration):
+                        continue
+                else:
+                    # No path worked, fall back to loading full file
+                    self.logger.warning("streaming_json_no_path_found")
+                    f.seek(0)
+                    import json
+                    data = json.load(f)
+                    return self.parse_data(data)
+
+                # Parse using the found path
+                f.seek(0)
+                for item in ijson.items(f, path):
+                    item_count += 1
+                    if not isinstance(item, dict):
+                        continue
+
+                    try:
+                        codes = self._extract_codes(item)
+                        if not codes:
+                            continue
+
+                        gross, cash = self._extract_prices(item)
+
+                        for code, vocab_id in codes:
+                            key = (code, vocab_id)
+                            if key in codes_seen:
+                                continue
+                            codes_seen.add(key)
+
+                            records.append(
+                                {
+                                    "vocabulary_id": vocab_id,
+                                    "concept_code": code,
+                                    "gross": gross,
+                                    "cash": cash,
+                                }
+                            )
+                    except Exception as e:
+                        parse_errors += 1
+                        if parse_errors <= 10:
+                            self.logger.debug("item_parse_error", error=str(e))
+
+                    if item_count % 100000 == 0:
+                        self.logger.debug(
+                            "streaming_json_progress",
+                            items=item_count,
+                            records=len(records),
+                        )
+
+            self.logger.info(
+                "streaming_json_complete",
+                items=item_count,
+                records=len(records),
+                errors=parse_errors,
+            )
+
+        finally:
+            # Clean up temp file
+            if file_path.exists():
+                file_path.unlink()
+                self.logger.debug("temp_file_cleaned", path=str(file_path))
+
+        return (
+            pd.DataFrame(records)
+            if records
+            else pd.DataFrame(columns=["vocabulary_id", "concept_code", "gross", "cash"])
+        )
+
+    def parse_data(self, raw_data: bytes | str | dict | list | Path) -> pd.DataFrame:
+        """Parse CMS standard JSON format (v2.0) with field variation handling.
+
+        Args:
+            raw_data: Parsed JSON data following CMS schema, or Path for streaming
+
+        Returns:
+            DataFrame with vocabulary_id, concept_code, gross, cash columns
+        """
+        # Handle large file streaming
+        if isinstance(raw_data, Path):
+            return self._parse_large_json_streaming(raw_data)
+
         if not isinstance(raw_data, (dict, list)):
-            raise ValueError(f"Expected dict or list, got {type(raw_data).__name__}")
+            raise ValueError(f"Expected dict, list, or Path, got {type(raw_data).__name__}")
         charges = self._find_charges_array(raw_data)
 
         if not charges:

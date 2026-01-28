@@ -22,6 +22,7 @@ Usage:
 """
 
 import csv
+import multiprocessing as mp
 import sys
 from datetime import UTC, datetime
 from pathlib import Path
@@ -32,7 +33,7 @@ import click
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from src.config import ScraperConfig, load_concept_codes, load_hospital_configs_from_urls
+from src.config import ScraperConfig, get_data_age_days, load_concept_codes, load_hospital_configs_from_urls
 from src.models import HospitalConfig, ScrapeResult, ScrapeStats, ScrapeStatus
 from src.normalizers import CPTNormalizer
 from src.scrapers import get_scraper
@@ -97,6 +98,190 @@ def write_state_status(
     return status_file
 
 
+def _worker_process(
+    hospital: HospitalConfig,
+    config: ScraperConfig,
+    concept_df_path: Path,
+    validate_only: bool,
+    dry_run: bool,
+    max_age_days: int,
+    timeout: int,
+    result_queue: mp.Queue,
+) -> None:
+    """Worker process that scrapes a single hospital.
+
+    Creates its own HTTP client and normalizer (can't share across processes).
+    Sends result back via queue.
+    """
+    import pandas as pd
+
+    start_time = datetime.now()
+
+    try:
+        # Check if data is fresh enough to skip (incremental scraping)
+        if max_age_days > 0 and not validate_only:
+            data_age = get_data_age_days(config, hospital)
+            if data_age is not None and data_age < max_age_days:
+                result = ScrapeResult.skipped(
+                    hospital_npi=hospital.hospital_npi,
+                    file_url=hospital.file_url,
+                    reason=f"Data is {data_age:.1f} days old (max age: {max_age_days})",
+                    ccn=hospital.ccn,
+                )
+                result_queue.put((hospital, result, f"~ Skipped: Data is {data_age:.1f} days old"))
+                return
+
+        # Create HTTP client for this process
+        http_client = RetryHTTPClient(
+            timeout=timeout,
+            max_retries=config.max_retries,
+        )
+
+        # Load normalizer for this process
+        concept_df = pd.read_csv(concept_df_path, compression="gzip", sep="\t")
+        concept_df = concept_df[concept_df["vocabulary_id"].isin(["CPT4", "HCPCS"])]
+        normalizer = CPTNormalizer(concept_df[["concept_code"]])
+
+        if validate_only:
+            # Just check URL accessibility
+            accessible, status_msg = http_client.check_url(hospital.file_url)
+            status = ScrapeStatus.SUCCESS if accessible else ScrapeStatus.FAILURE
+
+            result = ScrapeResult(
+                hospital_npi=hospital.hospital_npi,
+                ccn=hospital.ccn,
+                status=status,
+                file_url=hospital.file_url,
+                error_message=None if accessible else status_msg,
+            )
+            symbol = "+" if accessible else "x"
+            result_queue.put((hospital, result, f"{symbol} URL: {status_msg}"))
+            return
+
+        # Get appropriate scraper
+        scraper = get_scraper(
+            hospital_config=hospital,
+            scraper_config=config,
+            http_client=http_client,
+            normalizer=normalizer,
+        )
+
+        if scraper is None:
+            result = ScrapeResult.skipped(
+                hospital_npi=hospital.hospital_npi,
+                file_url=hospital.file_url,
+                reason=f"No scraper for format: {hospital.type}",
+                ccn=hospital.ccn,
+            )
+            result_queue.put((hospital, result, f"- Skipped: No scraper for format {hospital.type}"))
+            return
+
+        if dry_run:
+            # Dry run: fetch and parse but don't save
+            raw_data = scraper.fetch_data()
+            df = scraper.parse_data(raw_data)
+            normalized = scraper.normalize(df)
+            duration = (datetime.now() - start_time).total_seconds()
+
+            result = ScrapeResult.success(
+                hospital_npi=hospital.hospital_npi,
+                file_url=hospital.file_url,
+                records_scraped=len(normalized),
+                duration_seconds=duration,
+                ccn=hospital.ccn,
+            )
+            result_queue.put((hospital, result, f"+ Dry run: {len(normalized)} records (not saved)"))
+            return
+
+        # Full scrape
+        result = scraper.scrape()
+        # Add CCN to result if not set
+        if not result.ccn:
+            result.ccn = hospital.ccn
+
+        if result.status == ScrapeStatus.SUCCESS:
+            result_queue.put((hospital, result, f"+ Success: {result.records_scraped} records"))
+        else:
+            result_queue.put((hospital, result, f"x Failed: {result.error_message}"))
+
+    except Exception as e:
+        duration = (datetime.now() - start_time).total_seconds()
+        result = ScrapeResult.failure(
+            hospital_npi=hospital.hospital_npi,
+            file_url=hospital.file_url,
+            error=e,
+            duration_seconds=duration,
+            ccn=hospital.ccn,
+        )
+        result_queue.put((hospital, result, f"x Error: {e}"))
+
+
+def _process_hospital_with_timeout(
+    hospital: HospitalConfig,
+    config: ScraperConfig,
+    concept_df_path: Path,
+    validate_only: bool,
+    dry_run: bool,
+    max_age_days: int,
+    timeout: int,
+) -> tuple[HospitalConfig, ScrapeResult, str]:
+    """Process a hospital with true timeout via process termination.
+
+    Spawns a subprocess that can be killed if it exceeds the timeout.
+    """
+    result_queue: mp.Queue = mp.Queue()
+
+    process = mp.Process(
+        target=_worker_process,
+        args=(
+            hospital,
+            config,
+            concept_df_path,
+            validate_only,
+            dry_run,
+            max_age_days,
+            timeout,
+            result_queue,
+        ),
+    )
+
+    process.start()
+    process.join(timeout=timeout)
+
+    if process.is_alive():
+        # Process exceeded timeout - kill it
+        process.terminate()
+        process.join(timeout=5)  # Give it 5s to terminate gracefully
+
+        if process.is_alive():
+            # Still alive after terminate, force kill
+            process.kill()
+            process.join(timeout=2)
+
+        result = ScrapeResult.failure(
+            hospital_npi=hospital.hospital_npi,
+            file_url=hospital.file_url,
+            error=TimeoutError(f"Killed after {timeout}s timeout"),
+            duration_seconds=float(timeout),
+            ccn=hospital.ccn,
+        )
+        return hospital, result, f"T Killed after {timeout}s"
+
+    # Process completed - get result from queue
+    try:
+        return result_queue.get_nowait()
+    except Exception:
+        # Queue empty means process crashed without sending result
+        result = ScrapeResult.failure(
+            hospital_npi=hospital.hospital_npi,
+            file_url=hospital.file_url,
+            error=RuntimeError("Worker process crashed"),
+            duration_seconds=0.0,
+            ccn=hospital.ccn,
+        )
+        return hospital, result, "! Worker crashed"
+
+
 @click.command()
 @click.option(
     "--state", "-s", default=None, help="Scrape only hospitals from this state (e.g., VT)"
@@ -106,6 +291,26 @@ def write_state_status(
 @click.option("--dry-run", is_flag=True, help="Fetch and parse but don't save files")
 @click.option("-v", "--verbose", is_flag=True, help="Enable verbose logging")
 @click.option("--json-logs", is_flag=True, help="Output logs in JSON format")
+@click.option(
+    "--max-age-days",
+    default=0,
+    type=int,
+    help="Skip hospitals with data newer than N days (0=always scrape)",
+)
+@click.option(
+    "--parallel",
+    "-p",
+    default=1,
+    type=int,
+    help="Number of parallel workers (default: 1, sequential)",
+)
+@click.option(
+    "--timeout",
+    "-t",
+    default=1200,
+    type=int,
+    help="Timeout per hospital in seconds (default: 1200 = 20 minutes)",
+)
 def main(
     state: str | None,
     ccn: str | None,
@@ -113,6 +318,9 @@ def main(
     dry_run: bool,
     verbose: bool,
     json_logs: bool,
+    max_age_days: int,
+    parallel: int,
+    timeout: int,
 ) -> None:
     """Scrape hospitals from URL JSON files.
 
@@ -134,11 +342,14 @@ def main(
 
     logger.info(
         "scraper_started",
-        version="2.0.0",
+        version="2.1.0",
         state_filter=state,
         ccn_filter=ccn,
         validate_only=validate_only,
         dry_run=dry_run,
+        max_age_days=max_age_days,
+        parallel=parallel,
+        timeout=timeout,
     )
 
     # Load hospital configurations from URL JSON files
@@ -166,119 +377,103 @@ def main(
         click.echo(f"Error loading configuration: {e}")
         sys.exit(1)
 
-    # Load CPT vocabulary
-    try:
-        concept_df = load_concept_codes(config)
-        normalizer = CPTNormalizer(concept_df)
-        logger.info("loaded_cpt_vocabulary", codes=len(concept_df))
-    except Exception as e:
-        logger.exception("vocabulary_load_failed", error=str(e))
-        click.echo(f"Error loading CPT vocabulary: {e}")
+    # Verify CPT vocabulary exists (workers load it themselves)
+    concept_df_path = config.concept_csv_path
+    if not concept_df_path.exists():
+        click.echo(f"Error: CPT vocabulary not found at {concept_df_path}")
         sys.exit(1)
 
-    # Initialize HTTP client
-    http_client = RetryHTTPClient(
-        timeout=config.http_timeout,
-        max_retries=config.max_retries,
-    )
+    logger.info("cpt_vocabulary_path", path=str(concept_df_path))
 
     # Track results by state for status file output
     stats = ScrapeStats(start_time=datetime.now())
     results_by_state: dict[str, list[tuple[HospitalConfig, ScrapeResult]]] = {}
 
-    # Process each hospital
-    with http_client:
-        for hospital in hospitals:
-            click.echo(f"\nProcessing: {hospital.hospital} ({hospital.ccn})")
+    # Process hospitals
+    if parallel <= 1:
+        # Sequential processing
+        for i, hospital in enumerate(hospitals, 1):
+            click.echo(f"\n[{i}/{len(hospitals)}] {hospital.hospital} ({hospital.ccn})")
             click.echo(f"  State: {hospital.state} | Format: {hospital.type}")
 
-            result: ScrapeResult
+            hospital, result, message = _process_hospital_with_timeout(
+                hospital=hospital,
+                config=config,
+                concept_df_path=concept_df_path,
+                validate_only=validate_only,
+                dry_run=dry_run,
+                max_age_days=max_age_days,
+                timeout=timeout,
+            )
+            click.echo(f"  {message}")
 
-            if validate_only:
-                # Just check URL accessibility
-                accessible, status_msg = http_client.check_url(hospital.file_url)
-                status = ScrapeStatus.SUCCESS if accessible else ScrapeStatus.FAILURE
-
-                result = ScrapeResult(
-                    hospital_npi=hospital.hospital_npi,
-                    ccn=hospital.ccn,
-                    status=status,
-                    file_url=hospital.file_url,
-                    error_message=None if accessible else status_msg,
-                )
-                stats.add_result(result)
-
-                symbol = "+" if accessible else "x"
-                click.echo(f"  {symbol} URL: {status_msg}")
-
-            else:
-                # Get appropriate scraper
-                scraper = get_scraper(
-                    hospital_config=hospital,
-                    scraper_config=config,
-                    http_client=http_client,
-                    normalizer=normalizer,
-                )
-
-                if scraper is None:
-                    result = ScrapeResult.skipped(
-                        hospital_npi=hospital.hospital_npi,
-                        file_url=hospital.file_url,
-                        reason=f"No scraper for format: {hospital.type}",
-                        ccn=hospital.ccn,
-                    )
-                    stats.add_result(result)
-                    click.echo(f"  - Skipped: No scraper for format {hospital.type}")
-
-                elif dry_run:
-                    # Dry run: fetch and parse but don't save
-                    start_time = datetime.now()
-                    try:
-                        raw_data = scraper.fetch_data()
-                        df = scraper.parse_data(raw_data)
-                        normalized = scraper.normalize(df)
-                        duration = (datetime.now() - start_time).total_seconds()
-
-                        result = ScrapeResult.success(
-                            hospital_npi=hospital.hospital_npi,
-                            file_url=hospital.file_url,
-                            records_scraped=len(normalized),
-                            duration_seconds=duration,
-                            ccn=hospital.ccn,
-                        )
-                        click.echo(f"  + Dry run: {len(normalized)} records (not saved)")
-
-                    except Exception as e:
-                        duration = (datetime.now() - start_time).total_seconds()
-                        result = ScrapeResult.failure(
-                            hospital_npi=hospital.hospital_npi,
-                            file_url=hospital.file_url,
-                            error=e,
-                            duration_seconds=duration,
-                            ccn=hospital.ccn,
-                        )
-                        click.echo(f"  x Error: {e}")
-
-                    stats.add_result(result)
-
-                else:
-                    # Full scrape
-                    result = scraper.scrape()
-                    # Add CCN to result if not set
-                    if not result.ccn:
-                        result.ccn = hospital.ccn
-                    stats.add_result(result)
-
-                    if result.status == ScrapeStatus.SUCCESS:
-                        click.echo(f"  + Success: {result.records_scraped} records")
-                    else:
-                        click.echo(f"  x Failed: {result.error_message}")
+            stats.add_result(result)
 
             # Track result by state
             state_key = hospital.state.upper()
             if state_key not in results_by_state:
                 results_by_state[state_key] = []
             results_by_state[state_key].append((hospital, result))
+
+    else:
+        # Parallel processing with process pool
+        click.echo(f"\nProcessing {len(hospitals)} hospitals with {parallel} workers (timeout: {timeout}s)...")
+        click.echo("Using multiprocessing - stuck workers will be killed.\n")
+
+        # Use a semaphore to limit concurrent processes
+        from concurrent.futures import ProcessPoolExecutor, as_completed
+
+        with ProcessPoolExecutor(max_workers=parallel) as executor:
+            # Submit all tasks
+            future_to_hospital = {
+                executor.submit(
+                    _process_hospital_with_timeout,
+                    hospital=h,
+                    config=config,
+                    concept_df_path=concept_df_path,
+                    validate_only=validate_only,
+                    dry_run=dry_run,
+                    max_age_days=max_age_days,
+                    timeout=timeout,
+                ): h
+                for h in hospitals
+            }
+
+            # Process results as they complete
+            completed = 0
+            for future in as_completed(future_to_hospital):
+                completed += 1
+                original_hospital = future_to_hospital[future]
+                try:
+                    hospital, result, message = future.result()
+
+                    # Compact output for parallel mode
+                    status_char = message[0] if message else "?"
+                    hospital_name = hospital.hospital[:30] + "..." if len(hospital.hospital) > 30 else hospital.hospital
+                    click.echo(f"[{completed}/{len(hospitals)}] {status_char} {hospital.ccn} ({hospital_name})")
+
+                    # Track result by state
+                    state_key = hospital.state.upper()
+                    if state_key not in results_by_state:
+                        results_by_state[state_key] = []
+                    results_by_state[state_key].append((hospital, result))
+
+                except Exception as e:
+                    click.echo(f"[{completed}/{len(hospitals)}] ! {original_hospital.ccn} Error: {e}")
+                    result = ScrapeResult.failure(
+                        hospital_npi=original_hospital.hospital_npi,
+                        file_url=original_hospital.file_url,
+                        error=e,
+                        duration_seconds=0.0,
+                        ccn=original_hospital.ccn,
+                    )
+
+                    state_key = original_hospital.state.upper()
+                    if state_key not in results_by_state:
+                        results_by_state[state_key] = []
+                    results_by_state[state_key].append((original_hospital, result))
+
+                stats.add_result(result)
 
     stats.end_time = datetime.now()
 

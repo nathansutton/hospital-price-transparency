@@ -1,105 +1,64 @@
 [
   {
-    "detail_id": "031c7ac9-7bc8-48b8-b98d-b4b87ce5a27c",
-    "ccn": "414003",
-    "hospital_name": "BRADLEY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258806_emma-pendleton-bradley-hospital_standardcharges.zip",
+    "detail_id": "259ce0d3-a239-4057-9d04-4a0799872ce6",
+    "ccn": "410004",
+    "hospital_name": "ROGER WILLIAMS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7917/464648465_chartercare-roger-williams_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CharterCAREHealthPartnersatRogerWilliams/7917"
+  },
+  {
+    "detail_id": "db5b599d-3fee-4dd3-9d80-db58f4fa7bae",
+    "ccn": "410005",
+    "hospital_name": "OUR LADY OF FATIMA HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7916/464661337_chartercare-our-lady-fatima_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/OurLadyOfFatima/7916"
+  },
+  {
+    "detail_id": "4f249926-16fb-4569-b989-90825910ae10",
+    "ccn": "410006",
+    "hospital_name": "NEWPORT HOSPITAL",
+    "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258914_newport-hospital_standardcharges.zip",
     "transparency_page": "https://www.brownhealth.org/patients-visitors/insurance-billing-and-financial-assistance/cost-care-and-price-transparency"
   },
   {
-    "detail_id": "3a5eb45a-79cb-46f7-933e-37d3e90f2864",
-    "ccn": "414000",
-    "hospital_name": "BUTLER HOSPITAL",
-    "address": "",
-    "file_url": "https://www.carenewengland.org/cs/c/?cta_guid=4fe0b3b9-f48a-4455-bc8d-9024ae61d3ba&signature=AAH58kHQn-0O-V9fRlfycaOYPOC0G8yszg&portal_id=6898349&pageId=39262948478&placement_guid=c1b8001c-44eb-43b7-87b4-f41fbb96fcf9&click=cf372f19-eb8f-47b6-ac89-086ef78a79fc&redirect_url=APefjpGZ_KIidYVlNfo5qUxw231nCTgANr0A5excVq3i1wXmXZzBU4xGRE0YCLifKKIAKDP9mnreR8fOiq3eNo59oKwrhehjTVIfiQjJPbk57D7jPCysdEh8nlTm2wpXqqsP7ifYfO2Es9mCU5scMWl6W-eSlfWkeTQgPxpPlIP5IG5zg4KTWdC-2LS3xjkQbO5lXI8QSReASl_shHq-0IssWAoGy5YSrA&hsutk=97de4922fd9272e1fd841d324c698a3e&canon=https%3A%2F%2Fwww.carenewengland.org%2Fprice-transparency&ts=1738887460806&__hstc=73991757.97de4922fd9272e1fd841d324c698a3e.1738887460661.1738887460661.1738887460661.1&__hssc=73991757.1.1738887460661&__hsfp=639849028&contentType=standard-page",
-    "transparency_page": "https://www.carenewengland.org/price-transparency"
-  },
-  {
-    "detail_id": "9c878c39-0e80-45fb-ac58-a0d98df08da0",
-    "ccn": "413026",
-    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF JOHNSTON",
-    "address": "",
-    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/841754425_Encompass-Health-Rehabilitation-Hospital-of-Johnston_standardcharges.csv",
-    "transparency_page": "https://www.encompasshealth.com/locations/johnston-rehab/financial-information/price-transparency"
-  },
-  {
-    "detail_id": "2f248e43-c6c6-4d39-acfa-fd6ffdca378b",
-    "ccn": "",
-    "hospital_name": "HASBRO CHILDRENS HOSPITAL",
-    "address": "",
+    "detail_id": "487f3651-b31a-431b-99c0-551e28a20681",
+    "ccn": "410007",
+    "hospital_name": "RHODE ISLAND HOSPITAL",
     "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258954_rhode-island-hospital_standardcharges.zip",
     "transparency_page": "https://www.brownhealth.org/locations/rhode-island-hospital/patients-visitors/insurance-and-billing/cost-care-and-price"
+  },
+  {
+    "detail_id": "26167481-e9f3-4f02-b2be-697e04888cf9",
+    "ccn": "410008",
+    "hospital_name": "SOUTH COUNTY HEALTH",
+    "file_url": "https://d11mkob3ld6ys.cloudfront.net/documents/050445136_south-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.southcountyhealth.org/patients-visitors/hospital-charging-information"
   },
   {
     "detail_id": "34cafda6-1fe9-4fa0-b6ff-522f50b4646e",
     "ccn": "410009",
     "hospital_name": "KENT COUNTY MEMORIAL HOSPITAL",
-    "address": "",
     "file_url": "https://www.carenewengland.org/cs/c/?cta_guid=82a582bd-8e20-4bb8-8def-ac28d8a53ef7&signature=AAH58kF3qi5oxqPQ9FxEdJ0I-z9CFCtI-A&portal_id=6898349&pageId=39262948478&placement_guid=a17577ba-9988-4aa8-80e2-15f58382b446&click=bcd43ea8-c158-4967-b25a-9c65fcf15a63&redirect_url=APefjpEBGKVDGSB6PrvYTdzVYXbKfh__J53dXzeo4vGJ0B3Dgo4ODW2wglBU1Wyie7HH9RD1opgVjHiso4RV0IEYQqneKxWWR_MxtI_CTvMvs0yWiEPEq7zd1NvYqMAeNfv9zgaNiN9WxXIUF3G2S5QX7D8VY_hYn1yGaNbJWWTgPKcF2COHx9YdacLAj79LuxiHd0xERAWu&hsutk=97de4922fd9272e1fd841d324c698a3e&canon=https%3A%2F%2Fwww.carenewengland.org%2Fprice-transparency&ts=1738887460581&__hstc=73991757.97de4922fd9272e1fd841d324c698a3e.1738887460661.1738887460661.1738887460661.1&__hssc=73991757.1.1738887460661&__hsfp=639849028&contentType=standard-page",
+    "transparency_page": "https://www.carenewengland.org/price-transparency"
+  },
+  {
+    "detail_id": "a5cc0d87-7893-4a61-98c4-1cb12b2759ff",
+    "ccn": "410010",
+    "hospital_name": "WOMEN AND INFANTS HOSPITAL",
+    "file_url": "https://www.carenewengland.org/cs/c/?cta_guid=80520327-161b-4d26-a063-a8cc9c808f91&signature=AAH58kH0SYqn9cmHTvP_gHPSEkcGJ0vpqw&portal_id=6898349&pageId=39262948478&placement_guid=f26648df-9d0e-4342-98bc-0a4a5852eae5&click=5a92531f-bbdf-4f9a-a918-384da07eba66&redirect_url=APefjpFdRfMWvr9yuktbsyAhoPWShTITNkq7bpYOahOEpGzcggKIklqUA0xxOI_am6i7eSWIFN7EBkN7AEwi37dt_h2EOgnm-q1yhjOpVRSyktHCJjULKApVw5s34BUYGLgjsYrwbLonKKVk8DTC2erNFnZIyFGA-Q5iH_gv4Ty1_tRVTF8QyoBla-OEYc0OrBOkVJ_TTZdqKtAsPy66LyFa0bTXDr-Mdw&hsutk=97de4922fd9272e1fd841d324c698a3e&canon=https%3A%2F%2Fwww.carenewengland.org%2Fprice-transparency&ts=1738887460672&__hstc=73991757.97de4922fd9272e1fd841d324c698a3e.1738887460661.1738887460661.1738887460661.1&__hssc=73991757.1.1738887460661&__hsfp=639849028&contentType=standard-page",
     "transparency_page": "https://www.carenewengland.org/price-transparency"
   },
   {
     "detail_id": "fdffca15-58a1-468d-b572-495521158885",
     "ccn": "410011",
     "hospital_name": "LANDMARK MEDICAL CENTER",
-    "address": "",
     "file_url": "https://landmarkmedical.org/wp-content/uploads/2024/12/461175423_LandmarkMedicalCenter_standardcharges.json",
     "transparency_page": "https://landmarkmedical.org/patients-visitors/patients-guide/financial-assistance/"
-  },
-  {
-    "detail_id": "4f249926-16fb-4569-b989-90825910ae10",
-    "ccn": "410006",
-    "hospital_name": "NEWPORT HOSPITAL",
-    "address": "",
-    "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258914_newport-hospital_standardcharges.zip",
-    "transparency_page": "https://www.brownhealth.org/patients-visitors/insurance-billing-and-financial-assistance/cost-care-and-price-transparency"
-  },
-  {
-    "detail_id": "db5b599d-3fee-4dd3-9d80-db58f4fa7bae",
-    "ccn": "410005",
-    "hospital_name": "OUR LADY OF FATIMA HOSPITAL",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7916/464661337_chartercare-our-lady-fatima_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/OurLadyOfFatima/7916"
-  },
-  {
-    "detail_id": "427ad012-05f0-40d7-8c08-c4d466cf57d4",
-    "ccn": "413025",
-    "hospital_name": "REHABILITATION HOSPITAL OF RHODE ISLAND",
-    "address": "",
-    "file_url": "https://www.rehabhospitalri.com/docs/irfrehabilitationhospitalofrhodeislandlibraries/aug2025/844845184_rhodeislandrehabilitationhospital_standardcharges.csv.zip",
-    "transparency_page": "https://www.rehabhospitalri.com/patient-experience/financial-assistance"
-  },
-  {
-    "detail_id": "487f3651-b31a-431b-99c0-551e28a20681",
-    "ccn": "410007",
-    "hospital_name": "RHODE ISLAND HOSPITAL",
-    "address": "",
-    "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258954_rhode-island-hospital_standardcharges.zip",
-    "transparency_page": "https://www.brownhealth.org/locations/rhode-island-hospital/patients-visitors/insurance-and-billing/cost-care-and-price"
-  },
-  {
-    "detail_id": "259ce0d3-a239-4057-9d04-4a0799872ce6",
-    "ccn": "410004",
-    "hospital_name": "ROGER WILLIAMS MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7917/464648465_chartercare-roger-williams_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CharterCAREHealthPartnersatRogerWilliams/7917"
-  },
-  {
-    "detail_id": "26167481-e9f3-4f02-b2be-697e04888cf9",
-    "ccn": "410008",
-    "hospital_name": "SOUTH COUNTY HEALTH",
-    "address": "",
-    "file_url": "https://d11mkob3ld6ys.cloudfront.net/documents/050445136_south-county-hospital_standardcharges.csv",
-    "transparency_page": "https://www.southcountyhealth.org/patients-visitors/hospital-charging-information"
   },
   {
     "detail_id": "561ac30d-6bdb-4f70-bf0b-a42ac4afdfa2",
     "ccn": "410012",
     "hospital_name": "THE MIRIAM HOSPITAL",
-    "address": "",
     "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258905_the-miriam-hospital_standardcharges.zip",
     "transparency_page": "https://www.brownhealth.org/patients-visitors/insurance-billing-and-financial-assistance/cost-care-and-price-transparency"
   },
@@ -107,16 +66,35 @@
     "detail_id": "cc8ba469-b320-4da5-ba0d-99fbaaec0e5f",
     "ccn": "410013",
     "hospital_name": "WESTERLY HOSPITAL",
-    "address": "",
     "file_url": "https://www.westerlyhospital.org/-/media/Files/YNHHS/sc/46-0543230-Westerly_Hospital_Standard_Charges-1.ashx",
     "transparency_page": "https://www.westerlyhospital.org/patients-visitors/billing-insurance/Pricing"
   },
   {
-    "detail_id": "a5cc0d87-7893-4a61-98c4-1cb12b2759ff",
-    "ccn": "410010",
-    "hospital_name": "WOMEN AND INFANTS HOSPITAL",
-    "address": "",
-    "file_url": "https://www.carenewengland.org/cs/c/?cta_guid=80520327-161b-4d26-a063-a8cc9c808f91&signature=AAH58kH0SYqn9cmHTvP_gHPSEkcGJ0vpqw&portal_id=6898349&pageId=39262948478&placement_guid=f26648df-9d0e-4342-98bc-0a4a5852eae5&click=5a92531f-bbdf-4f9a-a918-384da07eba66&redirect_url=APefjpFdRfMWvr9yuktbsyAhoPWShTITNkq7bpYOahOEpGzcggKIklqUA0xxOI_am6i7eSWIFN7EBkN7AEwi37dt_h2EOgnm-q1yhjOpVRSyktHCJjULKApVw5s34BUYGLgjsYrwbLonKKVk8DTC2erNFnZIyFGA-Q5iH_gv4Ty1_tRVTF8QyoBla-OEYc0OrBOkVJ_TTZdqKtAsPy66LyFa0bTXDr-Mdw&hsutk=97de4922fd9272e1fd841d324c698a3e&canon=https%3A%2F%2Fwww.carenewengland.org%2Fprice-transparency&ts=1738887460672&__hstc=73991757.97de4922fd9272e1fd841d324c698a3e.1738887460661.1738887460661.1738887460661.1&__hssc=73991757.1.1738887460661&__hsfp=639849028&contentType=standard-page",
+    "detail_id": "427ad012-05f0-40d7-8c08-c4d466cf57d4",
+    "ccn": "413025",
+    "hospital_name": "REHABILITATION HOSPITAL OF RHODE ISLAND",
+    "file_url": "https://www.rehabhospitalri.com/docs/irfrehabilitationhospitalofrhodeislandlibraries/aug2025/844845184_rhodeislandrehabilitationhospital_standardcharges.csv.zip",
+    "transparency_page": "https://www.rehabhospitalri.com/patient-experience/financial-assistance"
+  },
+  {
+    "detail_id": "9c878c39-0e80-45fb-ac58-a0d98df08da0",
+    "ccn": "413026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF JOHNSTON",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/841754425_Encompass-Health-Rehabilitation-Hospital-of-Johnston_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/johnston-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "3a5eb45a-79cb-46f7-933e-37d3e90f2864",
+    "ccn": "414000",
+    "hospital_name": "BUTLER HOSPITAL",
+    "file_url": "https://www.carenewengland.org/cs/c/?cta_guid=4fe0b3b9-f48a-4455-bc8d-9024ae61d3ba&signature=AAH58kHQn-0O-V9fRlfycaOYPOC0G8yszg&portal_id=6898349&pageId=39262948478&placement_guid=c1b8001c-44eb-43b7-87b4-f41fbb96fcf9&click=cf372f19-eb8f-47b6-ac89-086ef78a79fc&redirect_url=APefjpGZ_KIidYVlNfo5qUxw231nCTgANr0A5excVq3i1wXmXZzBU4xGRE0YCLifKKIAKDP9mnreR8fOiq3eNo59oKwrhehjTVIfiQjJPbk57D7jPCysdEh8nlTm2wpXqqsP7ifYfO2Es9mCU5scMWl6W-eSlfWkeTQgPxpPlIP5IG5zg4KTWdC-2LS3xjkQbO5lXI8QSReASl_shHq-0IssWAoGy5YSrA&hsutk=97de4922fd9272e1fd841d324c698a3e&canon=https%3A%2F%2Fwww.carenewengland.org%2Fprice-transparency&ts=1738887460806&__hstc=73991757.97de4922fd9272e1fd841d324c698a3e.1738887460661.1738887460661.1738887460661.1&__hssc=73991757.1.1738887460661&__hsfp=639849028&contentType=standard-page",
     "transparency_page": "https://www.carenewengland.org/price-transparency"
+  },
+  {
+    "detail_id": "031c7ac9-7bc8-48b8-b98d-b4b87ce5a27c",
+    "ccn": "414003",
+    "hospital_name": "BRADLEY HOSPITAL",
+    "file_url": "https://www.brownhealth.org/sites/default/files/2025-01/05-0258806_emma-pendleton-bradley-hospital_standardcharges.zip",
+    "transparency_page": "https://www.brownhealth.org/patients-visitors/insurance-billing-and-financial-assistance/cost-care-and-price-transparency"
   }
 ]

@@ -1,0 +1,317 @@
+[
+  {
+    "detail_id": "67e3f002-59df-4b95-96ac-748c7978c947",
+    "ccn": "460001",
+    "hospital_name": "INTERMOUNTAIN HEALTH UTAH VALLEY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_utah-valley-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/utah-valley-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "e5664cfa-d43d-4d07-aa64-6b21e8376f75",
+    "ccn": "460003",
+    "hospital_name": "COMMONSPIRIT - HOLY CROSS HOSPITAL - SALT LAKE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11399/621795214_holy-cross-hospital-salt-lake_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "5976ad01-73fa-4e3d-bcf4-5df6b5e4c87d",
+    "ccn": "460004",
+    "hospital_name": "INTERMOUNTAIN HEALTH MCKAY-DEE HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_mckaydee-hospital-center_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/mckay-dee-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "37fe127c-dd21-45fa-8f39-1af6244142af",
+    "ccn": "460005",
+    "hospital_name": "OGDEN REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/60297fd2cdf147a6bd8450b739878a54?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "a547d9d1-3cbc-4626-af8f-7320409a4b72",
+    "ccn": "460006",
+    "hospital_name": "INTERMOUNTAIN HEALTH LDS HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_lds-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/lds-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "38dfa6f7-7ec1-4404-960c-e3b2cf44424c",
+    "ccn": "460008",
+    "hospital_name": "COMMONSPIRIT HOLY CROSS HOSPITAL - JORDAN VALLEY WEST",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11397/820588653_holy-cross-hospital-jordan-valley-west_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "0c01129e-8003-4c21-8119-c9425da80da1",
+    "ccn": "460009",
+    "hospital_name": "UNIVERSITY OF UTAH HOSPITAL",
+    "file_url": "https://md.utah.edu/pricing/876000525_UNIVERSITY-OF-UTAH-HOSPITAL-AND-CLINICS_standardcharges.csv",
+    "transparency_page": "https://healthcare.utah.edu/pricing"
+  },
+  {
+    "detail_id": "93fcf592-7dcb-4173-823b-84cb499cc02b",
+    "ccn": "460010",
+    "hospital_name": "INTERMOUNTAIN HEALTH INTERMOUNTAIN MEDICAL CENTER",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_intermountain-medical-center_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/intermountain-medical-center/about/price-transparency"
+  },
+  {
+    "detail_id": "3fdd2a4b-cc53-481e-a366-82f28220aaf8",
+    "ccn": "460013",
+    "hospital_name": "MOUNTAIN VIEW HOSPITAL PAYSON",
+    "file_url": "https://www.hcadam.com/api/public/content/ed92b53525bd4968b7a7fc42d1e3b85d?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "faafef1d-162f-4a26-ad7f-1a4373832f99",
+    "ccn": "460014",
+    "hospital_name": "MOUNTAIN WEST MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMWMCTOOELEUT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MountainWest.aspx"
+  },
+  {
+    "detail_id": "3790d363-5949-4d56-b8c1-8540bf8cb7bc",
+    "ccn": "460015",
+    "hospital_name": "INTERMOUNTAIN HEALTH LOGAN REGIONAL HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_logan-regional-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/logan-regional-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "f17cac4e-7489-4a15-9c2c-e96e1548c969",
+    "ccn": "460019",
+    "hospital_name": "UINTAH BASIN MEDICAL CENTER",
+    "file_url": "https://s16736.pcdn.co/wp-content/uploads/sites/534/2021/11/460019_UintahBasinMedicalCenter_standardcharges.xlsx",
+    "transparency_page": "https://ubh.org/patient-billing-faqs/"
+  },
+  {
+    "detail_id": "dd0679f3-a223-4ca6-bf50-0664eb0e890d",
+    "ccn": "460021",
+    "hospital_name": "INTERMOUNTAIN HEALTH ST. GEORGE REGIONAL HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_st-george-regional-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/st-george-regional-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "5a320e87-db92-44a4-be80-2195f6f33cad",
+    "ccn": "460026",
+    "hospital_name": "INTERMOUNTAIN HEALTH SEVIER VALLEY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_sevier-valley-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/sevier-valley-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "bc2edd51-de6d-471d-a46b-6b0e9cd86ba7",
+    "ccn": "460030",
+    "hospital_name": "ASHLEY REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.ashleyregional.com/docs/ahashleyregionalmedicalcenterlibraries/hcl/mrf2q25/621762532_ashley-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.ashleyregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "19c82b84-02d6-4467-a361-deaed8bb82cb",
+    "ccn": "460041",
+    "hospital_name": "COMMONSPIRIT - HOLY CROSS HOSPITAL - DAVIS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11395/680562507_holy-cross-hospital-davis_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "b53cd4fd-e6c2-4a6a-abe6-dc11bff55996",
+    "ccn": "460042",
+    "hospital_name": "LAKEVIEW HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/ff147b50990440edae816f9adf8525e8?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "05b41d09-1386-448b-9203-5cadbcedc60a",
+    "ccn": "460043",
+    "hospital_name": "INTERMOUNTAIN HEALTH OREM COMMUNITY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_orem-community-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/orem-community-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "8c56b04b-802a-4457-aaa5-9f44c927bf09",
+    "ccn": "460044",
+    "hospital_name": "INTERMOUNTAIN HEALTH ALTA VIEW HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_alta-view-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/alta-view-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "42d48538-d358-4019-b74e-dff1a4b2d165",
+    "ccn": "460047",
+    "hospital_name": "ST. MARKS HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/2ddf8eab94114b028790e2ef86501adc?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "bea928e8-4f69-4e02-a020-cb83c6410971",
+    "ccn": "460051",
+    "hospital_name": "COMMONSPIRIT HOLY CROSS HOSPITAL - JORDAN VALLEY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11396/820588653_holy-cross-hospital-jordan-valley_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "1fc0c4d2-b10e-4fed-ab32-4fcb9203eba5",
+    "ccn": "460052",
+    "hospital_name": "TIMPANOGOS REGIONAL HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/66b2df40ef8849b7a94bf34274cf69c7?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "1bcb5140-ae1d-4561-b43a-47f0876b27f6",
+    "ccn": "460057",
+    "hospital_name": "INTERMOUNTAIN HEALTH PARK CITY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_park-city-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/park-city-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "6b3ed1c1-5217-4163-a2bc-e4b5cbbf212b",
+    "ccn": "460058",
+    "hospital_name": "INTERMOUNTAIN HEALTH RIVERTON HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_riverton-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/riverton-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "2618fbf2-7c87-4761-b796-229b2cc86601",
+    "ccn": "460060",
+    "hospital_name": "LONE PEAK HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/65ebdd902aea4b6d9ee5a03ee8ecef72?download=true",
+    "transparency_page": "https://www.mountainstar.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "66fe6533-5742-4336-872c-efe5f370bc1e",
+    "ccn": "460061",
+    "hospital_name": "INTERMOUNTAIN HEALTH LAYTON HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_layton-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/layton-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "df7c668f-ae47-4c3c-a5e6-e0ccf88ff34c",
+    "ccn": "460062",
+    "hospital_name": "INTERMOUNTAIN HEALTH SPANISH FORK HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_spanish-fork-hospital_standardcharges.ashx",
+    "transparency_page": "https://hospitalpricingfiles.org/details/Price%20transparency%20-%20Spanish%20Fork%20Hospital"
+  },
+  {
+    "detail_id": "f3dab4d5-d6c6-4be5-8ea0-721024900edf",
+    "ccn": "461302",
+    "hospital_name": "MOAB REGIONAL HOSPITAL",
+    "file_url": "http://mrhmoab.org/wp-content/uploads/2024/07/870543342_MoabRegionalHospital_Standardcharges-1-1.csv",
+    "transparency_page": "https://mrhmoab.org/billing-pricing/"
+  },
+  {
+    "detail_id": "75d36dfc-26cb-4ba8-849f-9fd2fd9e1156",
+    "ccn": "461303",
+    "hospital_name": "INTERMOUNTAIN HEALTH SANPETE VALLEY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_sanpete-valley-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/sanpete-valley-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "56f03939-6e45-4b42-8ffd-9e7de1255b87",
+    "ccn": "461304",
+    "hospital_name": "CENTRAL VALLEY MEDICAL CENTER",
+    "file_url": "https://cvmc.goredde.com/Estimator/Files/87-0419324_Central_Valley_Medical_Center_standardcharges.csv",
+    "transparency_page": "https://cvmc.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "285405ab-3b5d-442b-8f2c-b4291ca688d8",
+    "ccn": "461306",
+    "hospital_name": "GUNNISON VALLEY HOSPITAL",
+    "file_url": "https://www.gvhospital.org/images/pdfs-doc/GVH_Chargemaster_machine_readable_worksheet_posted_01_01_25_1.xlsx",
+    "transparency_page": "https://www.gvhospital.org/patient-resources/charge-master"
+  },
+  {
+    "detail_id": "c036bdff-524a-44c8-918b-ec10ba923ed9",
+    "ccn": "461307",
+    "hospital_name": "INTERMOUNTAIN HEALTH HEBER VALLEY HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_heber-valley-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/heber-valley-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "fc8cc92f-0c7c-476a-98c8-9408c7826198",
+    "ccn": "461308",
+    "hospital_name": "SAN JUAN HOSPITAL",
+    "file_url": "https://sanjuanhealth.goredde.com/Estimator/Files/87-6000616_San_Juan_Health_Hospital_standardcharges.xlsx",
+    "transparency_page": "https://sanjuanhealth.goredde.com/estimator/"
+  },
+  {
+    "detail_id": "a1b106f2-8ac1-49ec-8a1d-ab76b4b4bb15",
+    "ccn": "461309",
+    "hospital_name": "KANE COUNTY HOSPITAL",
+    "file_url": "https://kaneco.goredde.com/Estimator/Files/87-0467930_Kane_County_Hospital_standardcharges.csv",
+    "transparency_page": "https://kaneco.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "c34bcf05-a735-4c58-acb0-f9711404fa5a",
+    "ccn": "461310",
+    "hospital_name": "BLUE MOUNTAIN HOSPITAL",
+    "file_url": "https://machine-readable-files.com/blue-mountain-hospital/273785598_Blue-Mountain-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/blue-mountain-hospital"
+  },
+  {
+    "detail_id": "7f83054b-98c8-4f87-8abd-6027f1ff4406",
+    "ccn": "461333",
+    "hospital_name": "INTERMOUNTAIN HEALTH GARFIELD MEMORIAL HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_garfield-memorial-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/garfield-memorial-hospital/about/price-transparency"
+  },
+  {
+    "detail_id": "8981140a-7290-4ae9-a985-10ba9e800d18",
+    "ccn": "461335",
+    "hospital_name": "BEAVER VALLEY HOSPITAL",
+    "file_url": "https://machine-readable-files.com/beaver-valley-hospital/870271937_Beaver-Valley-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/beaver-valley-hospital"
+  },
+  {
+    "detail_id": "92f2539e-d2ca-4133-8302-fb0d8bec40cf",
+    "ccn": "462003",
+    "hospital_name": "WESTERN PEAKS SPECIALTY HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/western-peaks-specialty-hospital/87-0257692_southdaviscommunityhospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.healthcare/western-peaks-specialty-hospital/charges/"
+  },
+  {
+    "detail_id": "58e26c9e-1675-4758-92be-c469676ac427",
+    "ccn": "462004",
+    "hospital_name": "KPC PROMISE HOSPITAL OF SALT LAKE",
+    "file_url": "https://saltlake.kpcph.com/wp-content/uploads/sites/7/2023/11/83-4141873_KPC-Promise-Hospital-of-Salt-Lake_standardcharges.csv",
+    "transparency_page": "https://saltlake.kpcph.com/cms-price-transparency/"
+  },
+  {
+    "detail_id": "485235e5-dd72-42ae-bc0d-0cce33a7e629",
+    "ccn": "462005",
+    "hospital_name": "UTAH VALLEY SPECIALTY HOSPITAL",
+    "file_url": "https://uvsh.ernesthealth.com/wp-content/uploads/sites/38/2024/12/203800889_Utah-Valley-Specialty-Hospital_standard-charges.csv",
+    "transparency_page": "https://uvsh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "710c6bbc-017a-4df5-881e-cd029886fd6e",
+    "ccn": "463025",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF UTAH",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631105917_Encompass-Health-Rehabilitation-Hospital-of-Utah_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/utah-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "d65062ab-4cdc-4a46-b86a-4b49e7feaded",
+    "ccn": "463027",
+    "hospital_name": "NORTHERN UTAH REHABILITATION HOSPITAL",
+    "file_url": "https://nurh.ernesthealth.com/wp-content/uploads/sites/20/2024/12/462249421_Northern-Utah-Rehabilitation-Hospital_Standard-Charges.csv",
+    "transparency_page": "https://nurh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "30d27a1d-a8cd-4a34-8652-66f2ae8711d4",
+    "ccn": "463301",
+    "hospital_name": "INTERMOUNTAIN HEALTH PRIMARY CHILDREN'S HOSPITAL",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_primary-childrens-hospital_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/primary-childrens-salt-lake-city/about/standard-charges"
+  },
+  {
+    "detail_id": "2625805f-4674-4b85-a627-3d35fce9f558",
+    "ccn": "464013",
+    "hospital_name": "SALT LAKE BEHAVIORAL HEALTH",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/271365684_salt-lake_standardcharges.csv",
+    "transparency_page": "https://saltlakebehavioralhealth.com/standard-services-2/"
+  },
+  {
+    "detail_id": "c473a25e-d595-4d73-bfad-cf2f27681715",
+    "ccn": "464014",
+    "hospital_name": "ASPEN GROVE BEHAVIORAL HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/233044423_aspen-grove_standardcharges.csv",
+    "transparency_page": "https://aspengrovehospital.com/standard-services/"
+  }
+]

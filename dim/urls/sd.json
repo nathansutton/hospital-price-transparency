@@ -1,0 +1,310 @@
+[
+  {
+    "detail_id": "0ea40697-3196-4618-894a-3c57c543912d",
+    "ccn": "430005",
+    "hospital_name": "PRAIRIE LAKES HOSPITAL",
+    "file_url": "https://pricetransparency-cdn.azureedge.net/prairielakes/460391067_Prairie-Lakes-Health-Care-System-Inc._standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/prairielakes"
+  },
+  {
+    "detail_id": "2f4a63ee-6260-4166-8529-e25992451251",
+    "ccn": "430012",
+    "hospital_name": "AVERA SACRED HEART HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "2eb867a9-19ab-4c14-a75a-098d715c657c",
+    "ccn": "430015",
+    "hospital_name": "AVERA ST MARY'S HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "106564e8-cecd-4bb7-aacd-3302424766d2",
+    "ccn": "430027",
+    "hospital_name": "SANFORD UNIVERSITY OF SOUTH DAKOTA MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8368/460227855_sanford-usd-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordUSDMedicalCenter/8368"
+  },
+  {
+    "detail_id": "2173c6b7-d22f-4593-ab08-470744437d08",
+    "ccn": "430048",
+    "hospital_name": "REGIONAL HEALTH SPEARFISH HOSPITAL",
+    "file_url": "https://monument.health/wp-content/uploads/2025/07/460360899_Monument-Health-Network-Inc-Spearfish-Hospital_standardcharges.csv",
+    "transparency_page": "https://monument.health/price-transparency-cost-estimate/"
+  },
+  {
+    "detail_id": "fe580773-083a-49be-bbbe-11c50880b521",
+    "ccn": "430077",
+    "hospital_name": "MONUMENT HEALTH RAPID CITY HOSPITAL",
+    "file_url": "https://monument.health/wp-content/uploads/2025/07/460319070_Monument-Health-Rapid-City-Hospital_standardcharges.csv",
+    "transparency_page": "https://monument.health/price-transparency-cost-estimate/"
+  },
+  {
+    "detail_id": "df9eeebc-19e1-4670-a9b9-6511f9c8a346",
+    "ccn": "430089",
+    "hospital_name": "DUNES SURGICAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/460423353_DunesSurgicalHospital_standardcharges.json",
+    "transparency_page": "https://dunessurgicalhospital.com/Hospital-Pricing-Information"
+  },
+  {
+    "detail_id": "debb6acb-cded-494c-acbe-f89802a21b34",
+    "ccn": "430090",
+    "hospital_name": "SIOUX FALLS SPECIALTY HOSPITAL",
+    "file_url": "https://clariti-health.com/csp/clariti/machinereadable/460382492_Sioux%20Falls%20Specialty%20Hospital_standardcharges.csv",
+    "transparency_page": "https://clariti-health.com/csp/clariti/QuotableService.csp?orgKey=6248LN"
+  },
+  {
+    "detail_id": "7cf444c2-b0e1-4267-be5b-2f231fb2a28f",
+    "ccn": "430091",
+    "hospital_name": "BLACK HILLS SURGICAL HOSPITAL",
+    "file_url": "https://bhsh.com/wp-content/uploads/2023/03/460440466_black-hills-surgical-hospital_standardcharges.csv",
+    "transparency_page": "https://bhsh.com/patient-resources/price-transparency/"
+  },
+  {
+    "detail_id": "9ab92ba8-97e6-407e-9580-6cab7dfa0e93",
+    "ccn": "430092",
+    "hospital_name": "AVERA DAKOTA PLAINS SURGICAL CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "0b94b752-29ce-440d-b411-0b997782aa4b",
+    "ccn": "430093",
+    "hospital_name": "SAME DAY SURGERY CENTER",
+    "file_url": "https://www.samedaysurgerycenter.org/cms-hpt.txt",
+    "transparency_page": "https://www.samedaysurgerycenter.org/prices/"
+  },
+  {
+    "detail_id": "a7d7bdba-477e-42f4-808a-0684672d9f10",
+    "ccn": "430096",
+    "hospital_name": "AVERA FOX RUN HEALTH CAMPUS",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "e6547a25-c527-4d04-b63d-ac738971271d",
+    "ccn": "430097",
+    "hospital_name": "SANFORD ABERDEEN MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8384/460388596_sanford-aberdeen-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordAberdeenMedicalCenter/8384"
+  },
+  {
+    "detail_id": "b0bba277-56de-4a27-9ed8-2b944f05754f",
+    "ccn": "430779",
+    "hospital_name": "LANDMANN-JUNGMAN MEMORIAL HOSPITAL AVERA",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "f5a50675-71b7-4992-814b-8d04e8b11bf5",
+    "ccn": "431300",
+    "hospital_name": "MADISON COMMUNITY HOSPITAL",
+    "file_url": "https://madisonregionalhealth.org/wp-content/uploads/46-0228038_Madison_Regional_Health_System_standardcharges-July-2025-Prices.csv",
+    "transparency_page": "https://madisonregionalhealth.org/patient-visitor-guide/#price-estimates-cost-estimator"
+  },
+  {
+    "detail_id": "b5569262-fc89-4f1a-a1d8-78e9be4f70f1",
+    "ccn": "431302",
+    "hospital_name": "AVERA MISSOURI RIVER HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "6b12c91d-09f1-4688-ae08-21f6953b6821",
+    "ccn": "431305",
+    "hospital_name": "DOUGLAS COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8041/460400557_douglas-county-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DouglasCountyMemorialHospital/8041"
+  },
+  {
+    "detail_id": "82a2d41e-bf24-4902-8de0-b7f7c81b14fd",
+    "ccn": "431306",
+    "hospital_name": "PLATTE HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b6620af7-0019-45a9-9a01-43ae4596d333",
+    "ccn": "431307",
+    "hospital_name": "SANFORD CLEAR LAKE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8373/460388596_sanford-clear-lake-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordClearLakeMedicalCenter/8373"
+  },
+  {
+    "detail_id": "fc956b36-ada3-438c-9220-646227a4e9c6",
+    "ccn": "431308",
+    "hospital_name": "EUREKA COMMUNITY HEALTH SERVICES",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "d2a564cc-e8e8-4dfe-8426-70d8ab75fbd5",
+    "ccn": "431309",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8021/460219795_community-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CommunityMemorialHospitalBurke/8021"
+  },
+  {
+    "detail_id": "3eae2db3-6ad5-4934-be2d-fc05f51dc9d8",
+    "ccn": "431310",
+    "hospital_name": "AVERA FLANDREAU HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "a3362100-bd4d-4547-b1a8-8faa87777346",
+    "ccn": "431311",
+    "hospital_name": "SANFORD HOSPITAL WEBSTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8372/460388596_sanford-webster-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordHospitalWebster/8372"
+  },
+  {
+    "detail_id": "1342fb19-0ab6-4e3b-9809-2f37d039f3f3",
+    "ccn": "431312",
+    "hospital_name": "MARSHALL COUNTY HEALTHCARE CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "f3459f39-fa03-412d-b590-7a233c1f4310",
+    "ccn": "431315",
+    "hospital_name": "WAGNER COMMUNITY MEMORIAL HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "bfe01ce2-f82c-4591-bf02-3704b5859252",
+    "ccn": "431316",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "file_url": "https://www.redfieldcmh.org/wp-content/uploads/2025/03/466000400_redfield-community-memorial_standardcharges.csv",
+    "transparency_page": "https://www.redfieldcmh.org/price-transparency/"
+  },
+  {
+    "detail_id": "d3e65682-0b61-4d17-9a37-866d1a90140f",
+    "ccn": "431320",
+    "hospital_name": "REGIONAL HEALTH LEAD-DEADWOOD HOSPITAL",
+    "file_url": "https://monument.health/wp-content/uploads/2025/07/460360899_Monument-Health-Network-Inc-Lead-Deadwood-Hospital_standardcharges.csv",
+    "transparency_page": "https://monument.health/price-transparency-cost-estimate/"
+  },
+  {
+    "detail_id": "bd12ee35-f8d0-4e7b-b937-040377d74638",
+    "ccn": "431321",
+    "hospital_name": "MONUMENT HEALTH STURGIS HOSPITAL",
+    "file_url": "https://monument.health/wp-content/uploads/2025/07/460360899_Monument-Health-Network-Inc-Sturgis-Hospital_standardcharges.csv",
+    "transparency_page": "https://monument.health/price-transparency-cost-estimate/"
+  },
+  {
+    "detail_id": "f3a6bc26-bf45-4146-aacc-5e79f4451277",
+    "ccn": "431323",
+    "hospital_name": "MONUMENT HEALTH CUSTER HOSPITAL",
+    "file_url": "https://monument.health/wp-content/uploads/2025/07/460360899_Monument-Health-Network-Inc-Custer-Hospital_standardcharges.csv",
+    "transparency_page": "https://monument.health/price-transparency-cost-estimate/"
+  },
+  {
+    "detail_id": "9811c27f-4e72-49f0-a150-54424c0ef983",
+    "ccn": "431324",
+    "hospital_name": "AVERA WESKOTA MEMORIAL MEDICAL CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "d14fdaa3-e27a-40db-91ba-99eeee8d5b16",
+    "ccn": "431325",
+    "hospital_name": "MOBRIDGE REGIONAL HOSPITAL AND CLINIC",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMRHMOBRIDGESD&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mobridge_Regional.aspx"
+  },
+  {
+    "detail_id": "658aa2b5-64cd-4f08-83d0-5c62193003d3",
+    "ccn": "431326",
+    "hospital_name": "MILBANK AREA HOSPITAL / AVERA HEALTH",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7abc909c-b1f4-4ed6-905e-e62cea836fa9",
+    "ccn": "431327",
+    "hospital_name": "ST. MICHAEL'S HOSPITAL AVERA",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "0d51abaf-957e-47ad-baf2-44887836dcca",
+    "ccn": "431328",
+    "hospital_name": "PIONEER MEMORIAL HOSPITAL AND HEALTH SERVICES",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8088/460260288_pioneer-memorial-hospital-and-health-services_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PioneerMemorialHealth/8088"
+  },
+  {
+    "detail_id": "9fbb1416-464b-4dbb-8650-07afee1edca8",
+    "ccn": "431330",
+    "hospital_name": "AVERA SAINT BENEDICT HEALTH CENTER",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "f4830f18-a52a-4217-992e-e98a9d83e686",
+    "ccn": "431331",
+    "hospital_name": "AVERA DELLS AREA HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b4deaea2-5cc0-4e87-ab88-554eeaa06c56",
+    "ccn": "431332",
+    "hospital_name": "AVERA DE SMET MEMORIAL HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "a7f45f23-ec4e-4578-bb09-5cf9f5e35045",
+    "ccn": "431333",
+    "hospital_name": "SANFORD CANTON-INWOOD MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8376/460388596_sanford-canton-inwood-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordCantonInwoodMedicalCenter/8376"
+  },
+  {
+    "detail_id": "dee92380-68e4-479f-83dc-8b3c225c5d04",
+    "ccn": "431334",
+    "hospital_name": "WINNER REGIONAL HEALTHCARE CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8029/460274380_winner-regional-healthcare-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/WinnerRegionalHealthCenter/8029"
+  },
+  {
+    "detail_id": "774e784e-0de7-4923-9520-824259bd7b15",
+    "ccn": "431336",
+    "hospital_name": "SANFORD VERMILLION MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8371/460388596_sanford-vermillion-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordVermillionHospital/8371"
+  },
+  {
+    "detail_id": "0e51ea4f-42e2-42c3-a085-ba450f19ffe6",
+    "ccn": "431338",
+    "hospital_name": "AVERA GREGORY HOSPITAL",
+    "file_url": "https://www.avera.org/app/files/public/613f57be-d5e6-4ac9-84b7-e886a47e46a2/420680370_avera-holy-family-hospital_standardcharges.csv",
+    "transparency_page": "https://www.avera.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "f5ad4435-71b6-41bb-aeb7-b8166ff8eed3",
+    "ccn": "431339",
+    "hospital_name": "COTEAU HEALTH CARE SYSTEM HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9467/460278210_coteau-des-prairies-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CoteaudesPrairiesHealthCareSystem/9467"
+  },
+  {
+    "detail_id": "0faf9fae-435b-4be3-a893-70f6b536cf39",
+    "ccn": "432002",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - SOUTH DAKOTA",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/91-1773396_Select_Specialty_Hospital-South_Dakota_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "7b1406be-87a3-475b-815c-f3f0508e5ea5",
+    "ccn": "433027",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF SIOUX FALLS",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/832549368_Encompass-Health-Rehabilitation-Hospital-of-Sioux-Falls_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/sioux-falls-rehab/financial-information/price-transparency"
+  }
+]

@@ -1,0 +1,2697 @@
+[
+  {
+    "detail_id": "8c6a2e1f-0ab6-44e6-aaad-28cea8c682f9",
+    "ccn": "050002",
+    "hospital_name": "ST. ROSE HOSPITAL",
+    "file_url": "https://www.strosehospital.org/wp-content/uploads/2024/12/941668344_hayward-sisters-hospital-dba-st-rose-hospital_standardcharges.csv",
+    "transparency_page": "https://www.strosehospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "360c42ec-d3dd-4449-8164-3845cc2426e4",
+    "ccn": "050006",
+    "hospital_name": "PROVIDENCE ST. JOSEPH HOSPITAL EUREKA",
+    "file_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-st-joseph-hospital-eureka_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "45121a74-09d9-4615-b6a3-ae0e2acbe76d",
+    "ccn": "050007",
+    "hospital_name": "SUTTER MILLS-PENINSULA MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1043670334_mills-peninsula-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "1eab2319-8d9a-472a-985d-06921eacfafb",
+    "ccn": "050008",
+    "hospital_name": "CALIFORNIA PACIFIC MEDICAL CENTER - DAVIES CAMPUS",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1659439834_california-pacific-medical-center-davies-campus_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "78c3d931-157e-4284-b902-dbdf79f9f214",
+    "ccn": "050009",
+    "hospital_name": "PROVIDENCE QUEEN OF THE VALLEY MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-queen-of-the-valley-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "91f43c62-be25-48a4-b052-ed6bd8d5e20d",
+    "ccn": "050013",
+    "hospital_name": "ADVENTIST HEALTH ST. HELENA HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHSHSAINTHELENACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "e178db64-49a9-41d4-918c-090cdff77bbb",
+    "ccn": "050014",
+    "hospital_name": "SUTTER AMADOR HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1447494323_sutter-amador-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "d907e27d-1a59-4576-8c13-2094eae930fa",
+    "ccn": "050017",
+    "hospital_name": "MERCY GENERAL HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_mercy-general-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/mercymedical-merced/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "793d7f03-6994-4446-8029-5c828bd8722a",
+    "ccn": "050022",
+    "hospital_name": "RIVERSIDE COMMUNITY HOSPITAL",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/33-0751869_riverside-community-hospital_standardcharges.json",
+    "transparency_page": "https://riversidecommunityhospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "95dc49bb-663f-47fb-b343-88d9df1ed57f",
+    "ccn": "050024",
+    "hospital_name": "PARADISE VALLEY HOSPITAL",
+    "file_url": "https://paradisevalleyhospital.net/wp-content/uploads/2024/12/205837239_ParadiseValley_standardcharges.json",
+    "transparency_page": "https://paradisevalleyhospital.net/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "97d3b2a4-b2ba-4967-be16-0dafbe6c650b",
+    "ccn": "050025",
+    "hospital_name": "UC SAN DIEGO MEDICAL CENTER",
+    "file_url": "https://hsfiles.ucsd.edu/patientBilling/UC-San-Diego-Standard-Charges-956006144.json",
+    "transparency_page": "https://health.ucsd.edu/insurance-billing/standard-charges/"
+  },
+  {
+    "detail_id": "bfb472dc-4b98-4033-a945-f72297bb2c4f",
+    "ccn": "050026",
+    "hospital_name": "SHARP GROSSMONT HOSPITAL",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/67APgArFuJAX0Xm5GrDelr/90d91dfe65b4dfdbeaabfee2f5bb3b17/33-0449527_grossmont-hospital_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "30d8c755-6c89-4230-9bed-0cd08f12fd3b",
+    "ccn": "050028",
+    "hospital_name": "MAD RIVER COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8531/941698406_american-hospital-management-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MadRiverCommunityHospital/8531"
+  },
+  {
+    "detail_id": "8d4c3fc3-1ecf-4268-b7ec-01c633d227b9",
+    "ccn": "050030",
+    "hospital_name": "OROVILLE HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/ZZKG-1724785095238/machine-readable/94-1634554_oroville-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/oroville-ca"
+  },
+  {
+    "detail_id": "b3cb3c1c-4392-4966-9a8c-62e3b1ed775d",
+    "ccn": "050036",
+    "hospital_name": "BAKERSFIELD MEMORIAL HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/951802779_bakersfield-memorial-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/memorial-hospital/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "837b33c6-942c-4129-853d-93277f0d1985",
+    "ccn": "050038",
+    "hospital_name": "SANTA CLARA VALLEY MEDICAL CENTER",
+    "file_url": "https://scvmc.scvh.org/946000533_santa-clara-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.scvh.org/hospitals-clinics/patient-services/price-transparency-cost-estimator"
+  },
+  {
+    "detail_id": "06ae137b-f978-4dfa-b115-1784d155bddd",
+    "ccn": "050039",
+    "hospital_name": "ENLOE MEDICAL CENTER",
+    "file_url": "https://www.enloe.org/app/files/public/1eced6f9-2505-4f81-b1cf-2432f2e5af1e/941603784_Enloe%20Medical%20Center_StandardCharges.csv",
+    "transparency_page": "https://www.enloe.org/for-patients-visitors/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "b0031738-5cf6-49f1-92fe-691729b728b6",
+    "ccn": "050040",
+    "hospital_name": "OLIVE VIEW-UCLA MEDICAL CENTER",
+    "file_url": "https://file.lacounty.gov/SDSInter/dhs/1157355_956000927_OliveView-UCLAMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://dhs.lacounty.gov/patient-information/get-coverage/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "9a73f9fe-babd-4d63-861c-0fc04deb8142",
+    "ccn": "050042",
+    "hospital_name": "ST. ELIZABETH COMMUNITY HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_st-elizabeth-community-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/north-state/locations/stelizabethhospital/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "5422a614-1d49-42d4-9a02-acb0182f7e0a",
+    "ccn": "050043",
+    "hospital_name": "ALTA BATES SUMMIT MEDICAL CENTER-SUMMIT CAMPUS-HAWTHORNE",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1194171371_alta-bates-summit-medical-center-hawthorne-campus_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "aadc680f-48ed-4ef0-a7a1-ff11ce7eff4b",
+    "ccn": "050045",
+    "hospital_name": "EL CENTRO REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbElCentro&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ElCentro_V2.aspx"
+  },
+  {
+    "detail_id": "65a09d5d-8df1-47e3-8771-2cc050ad350f",
+    "ccn": "050054",
+    "hospital_name": "SAN GORGONIO MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/8488f242c158e777c19a25c23da04087/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/8488f242c158e777c19a25c23da04087/"
+  },
+  {
+    "detail_id": "567f030e-8c5a-4e6f-b2a3-6007cbb8337b",
+    "ccn": "050055",
+    "hospital_name": "CALIFORNIA PACIFIC MEDICAL CENTER - MISSION BERNAL CAMPUS",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1730238007_california-pacific-medical-center-mission-bernal-campus_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "7d971d5b-4794-4749-897e-344bcd77bfb6",
+    "ccn": "050056",
+    "hospital_name": "ANTELOPE VALLEY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/f961a5b495c6b41f2fca90c83cc92dcf/charges/mrf",
+    "transparency_page": "https://www.avmc.org/patients/billing-insurance-pricing/"
+  },
+  {
+    "detail_id": "712aeeb4-8f4c-4599-a63f-5c30dcddd8ca",
+    "ccn": "050057",
+    "hospital_name": "KAWEAH DELTA MEDICAL CENTER",
+    "file_url": "https://www.kaweahhealth.org/sites/default/files/hg_features/mercury_standard_layout/946078091_kaweah-health_standardcharges.csv",
+    "transparency_page": "https://www.kaweahhealth.org/chargemaster-access/chargemaster/"
+  },
+  {
+    "detail_id": "9cc0b94e-d9d9-452e-a535-787d1e61ca63",
+    "ccn": "050057",
+    "hospital_name": "KAWEAH HEALTH MEDICAL CENTER",
+    "file_url": "https://www.kaweahhealth.org/sites/default/files/hg_features/mercury_standard_layout/946078091_kaweah-health_standardcharges.csv",
+    "transparency_page": "https://www.kaweahhealth.org/chargemaster-access/chargemaster/"
+  },
+  {
+    "detail_id": "ffa1b713-5ecb-4b6c-992d-88188cd66a89",
+    "ccn": "050060",
+    "hospital_name": "COMMUNITY REGIONAL MEDICAL CENTER-FRESNO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8178/941156276-1104906569_fresno-community-hospital-and-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CommunityRegionalMedicalCenter/8178or"
+  },
+  {
+    "detail_id": "657405a9-32c8-4cbe-b94a-324a5bd594b3",
+    "ccn": "050063",
+    "hospital_name": "HOLLYWOOD PRESBYTERIAN MEDICAL CENTER",
+    "file_url": "https://www.hollywoodpresbyterian.com/wp-content/uploads/2025/10/hpmc-cms-report-with-ndc.json",
+    "transparency_page": "https://www.hollywoodpresbyterian.com/billing-and-financial-services/"
+  },
+  {
+    "detail_id": "78ec31e2-8290-492c-a545-4e66e0e84387",
+    "ccn": "050069",
+    "hospital_name": "PROVIDENCE ST. JOSEPH HOSPITAL - ORANGE",
+    "file_url": "https://pricetransparency.providence.org/socal/live/951643359_providence-st-joseph-hospital-orange_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "dff8d1cc-40c9-4178-b0b0-2f0d87b0368f",
+    "ccn": "050077",
+    "hospital_name": "SCRIPPS MERCY HOSPITAL",
+    "file_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Mercy-Hospital-San-Diego_standardcharges.csv",
+    "transparency_page": "https://www.scripps.org/patients-and-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "f3badadd-0012-4ecf-9470-7a71cad7661c",
+    "ccn": "050078",
+    "hospital_name": "PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER SAN PEDRO",
+    "file_url": "https://pricetransparency.providence.org/socal/live/421672806_providence-little-co-of-mary-med-center-san-pedro_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "bcf224c4-8360-4f9e-b36e-68b24aad87e1",
+    "ccn": "050082",
+    "hospital_name": "ST. JOHN'S REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_st-johns-regional-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-coast/locations/stjohnsregional/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "8557297e-1f44-4866-858c-30295301d28e",
+    "ccn": "050084",
+    "hospital_name": "ST. JOSEPH'S MEDICAL CENTER OF STOCKTON",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/465322209_st-josephs-medical-center-of-stockton_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/stjosephs-stockton/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "26b9a48b-d6ea-43a7-9b2a-4b0390643d82",
+    "ccn": "050089",
+    "hospital_name": "COMMUNITY HOSPITAL OF SAN BERNARDINO",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/951643373_community-hospital-of-san-bernardino_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/socal/locations/san-bernardino/patients-and-visitors/for-patients/billing-payment-financial-services/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "35caa9a7-a397-41aa-bdbb-dd8cb944e001",
+    "ccn": "050090",
+    "hospital_name": "SONOMA VALLEY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSonomaValley&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SonomaValley_V3.aspx"
+  },
+  {
+    "detail_id": "e1c33219-ce89-432c-9163-42ae6a45b8e7",
+    "ccn": "050091",
+    "hospital_name": "COMMUNITY HOSPITAL OF HUNTINGTON PARK",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8427/272133159_pipeline_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CommunityHospitalOfHuntingtonPark/8427"
+  },
+  {
+    "detail_id": "243ad345-9e38-45ee-bb0a-3f57b8850996",
+    "ccn": "050093",
+    "hospital_name": "SAINT AGNES MEDICAL CENTER",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/saintagnescenter",
+    "transparency_page": "https://www.samc.com/for-patients/billing-and-financial-information/price-estimator"
+  },
+  {
+    "detail_id": "b74f44bb-4559-4819-9e08-04ea5e673bdc",
+    "ccn": "050096",
+    "hospital_name": "WEST COVINA MEDICAL CENTER",
+    "file_url": "https://westcovinamc.com/downloads/954236723_WEST-COVINA-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://westcovinamc.com/pricing.html"
+  },
+  {
+    "detail_id": "b300c56b-2990-4afe-9f60-22d1e649c9f7",
+    "ccn": "050099",
+    "hospital_name": "SAN ANTONIO REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSACHUPLANDCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SACH_V2.aspx"
+  },
+  {
+    "detail_id": "90596493-56bd-4998-b867-431f41cdde37",
+    "ccn": "050100",
+    "hospital_name": "SHARP MEMORIAL HOSPITAL",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/1PQg4uvL9l6bbuWauLigal/c0dfdbdff6d7d39b1c515dcaa021f25d/95-3782169_sharp-memorial-hospital_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "6d29db20-d4b5-4675-a25b-67c258562ed4",
+    "ccn": "050101",
+    "hospital_name": "SUTTER SOLANO MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1366686248_sutter-solano-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "5a3d8326-0ac5-41e7-90ed-0c81415b47ce",
+    "ccn": "050102",
+    "hospital_name": "PARKVIEW COMMUNITY HOSPITAL MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/dhr/docs/PricingTransparency-Parkview-2268-20241228025916.csv",
+    "transparency_page": "https://www.ahmchealth.com/dhr/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "d8327faf-19ea-41f3-bb6c-10c41b3409ab",
+    "ccn": "050103",
+    "hospital_name": "ADVENTIST HEALTH WHITE MEMORIAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHWMLOSANGELESCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "a477968a-fe2e-4c4c-9cfa-00ead9590a8d",
+    "ccn": "050107",
+    "hospital_name": "DIGNITY HEALTH - MARIAN REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_marian-regional-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-coast/locations/marianregional/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "89a7ce2f-888a-4cb0-be4e-55f1476c263a",
+    "ccn": "050108",
+    "hospital_name": "SUTTER MEDICAL CENTER, SACRAMENTO",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1811946734_sutter-medical-center-sacramento_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "9fc48f58-f8c4-49a4-9172-82c342895a14",
+    "ccn": "050110",
+    "hospital_name": "LOMPOC VALLEY MEDICAL CENTER",
+    "file_url": "https://lompocvalleymedicalcenter.pg.revenuemasters.com/cdm-files/956001880_lompoc-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://lompocvalleymedicalcenter.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "4d39096a-a0d3-435a-add0-d78c2632d189",
+    "ccn": "050112",
+    "hospital_name": "UCLA SANTA MONICA MEDICAL CENTER",
+    "file_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/954541687_santa-monica-ucla-medical-center-and-orthopaedic-hospital_standardcharges.json",
+    "transparency_page": "https://www.uclahealth.org/patient-resources/billing-insurance/price-transparency/machine-readable-files"
+  },
+  {
+    "detail_id": "4378e896-0cea-46b2-8be8-c8566f364915",
+    "ccn": "050116",
+    "hospital_name": "NORTHRIDGE HOSPITAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/815009488_northridge-hospital-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/socal/locations/northridgehospital/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "06091caf-6c62-47c5-8b76-1a440dbc9e43",
+    "ccn": "050118",
+    "hospital_name": "DOCTORS HOSPITAL OF MANTECA",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752918966_DoctorsHospitalofManteca_standardcharges.json",
+    "transparency_page": "https://www.doctorsmanteca.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "b066769d-59e0-4258-bed0-98f09a41418c",
+    "ccn": "050121",
+    "hospital_name": "ADVENTIST HEALTH HANFORD",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCMCHANFORDCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "64ff7c85-9f95-45d3-8b90-b33d40f72241",
+    "ccn": "050122",
+    "hospital_name": "DAMERON HOSPITAL",
+    "file_url": "https://search.hospitalpriceindex.com/hpi2/machineReadable/DameronHospital/8185or",
+    "transparency_page": "https://www.dameronhospital.org/patients-visitors/hospital-pricing-transparency-tool/"
+  },
+  {
+    "detail_id": "a510db7a-49bf-4113-b716-ed24b2461d33",
+    "ccn": "050124",
+    "hospital_name": "USC VERDUGO HILLS HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=h0rmgXMGiSXmDqPqnFmWhA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=9pu5*_*S9I3IlIh8XJQHHcBw*-*"
+  },
+  {
+    "detail_id": "252a4c5a-b69d-4cf2-84d4-425d854c8928",
+    "ccn": "050125",
+    "hospital_name": "REGIONAL MEDICAL CENTER SANTA CLARA VALLEY HEALTHCARE",
+    "file_url": "https://rmc.scvh.org/946000533_regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://rmc.scvh.org/patients-visitors/patient-services/price-transparency-cost-estimator"
+  },
+  {
+    "detail_id": "ab1a4a19-4455-4a7d-8f69-45e0fc828a75",
+    "ccn": "050126",
+    "hospital_name": "VALLEY PRESBYTERIAN HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7856/951945832_valley-presbyterian-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/valleypresbyterianhospital/7856"
+  },
+  {
+    "detail_id": "b8a0b8fd-ed2b-4b20-8376-039f1ab9726c",
+    "ccn": "050127",
+    "hospital_name": "WOODLAND MEMORIAL HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/815009488_woodland-memorial-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/sacramento/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "11fd7781-192a-4a3a-a835-970334bcb687",
+    "ccn": "050128",
+    "hospital_name": "TRI-CITY MEDICAL CENTER",
+    "file_url": "https://www.tricitymed.org/wp-content/uploads/2025/10/952126937_Tri-City-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.tricitymed.org/price-transparency/"
+  },
+  {
+    "detail_id": "ce54b5c1-98e7-43af-b335-104875108cd4",
+    "ccn": "050129",
+    "hospital_name": "ST. BERNARDINE MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_st-bernardine-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/socal/locations/stbernardinemedical/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "ce480e7b-6fbc-4766-97a4-38fddc53a13d",
+    "ccn": "050131",
+    "hospital_name": "NOVATO COMMUNITY HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1104059153_novato-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "24ee60e5-2304-4ad0-aea8-2ee0ad70fef5",
+    "ccn": "050132",
+    "hospital_name": "SAN GABRIEL VALLEY MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-San_Gabriel_Valley_Medical_Center-2342-20250124232800.csv",
+    "transparency_page": "https://www.ahmchealth.com/sgvmc/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "cf2a016a-4168-46fd-a976-df8056994def",
+    "ccn": "050133",
+    "hospital_name": "ADVENTIST HEALTH AND RIDEOUT",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRMHMARYSVILLECA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "d429baea-0cd7-44aa-a1a9-87f51c6517d3",
+    "ccn": "050135",
+    "hospital_name": "SOUTHERN CALIFORNIA HOSPITAL AT HOLLYWOOD",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7923/954690845_prospect-medical-holdings-hollywood_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SouthernCaliforniaHospitalatHollywood/7923"
+  },
+  {
+    "detail_id": "65a2630e-557b-414a-8756-5fdd1728d057",
+    "ccn": "050136",
+    "hospital_name": "PETALUMA VALLEY HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/norcal/live/852390012_petaluma-valley-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "fff67f4d-39ec-4f7f-bebb-4ac50f283a11",
+    "ccn": "050145",
+    "hospital_name": "COMMUNITY HOSPITAL OF THE MONTEREY PENINSULA",
+    "file_url": "https://www.montagehealth.org/app/files/public/035422d6-6b4c-4d9b-9a7f-9da8873ba197/940760193_Community-Hospital-of-the-Monterey-Peninsula_standardcharges.csv",
+    "transparency_page": "https://www.montagehealth.org/patient-family-resources/financial/cost-care-estimates/"
+  },
+  {
+    "detail_id": "ac258ba1-5a9a-4f2e-9685-398d78983af3",
+    "ccn": "050146",
+    "hospital_name": "CITY OF HOPE DUARTE - MAIN CAMPUS",
+    "file_url": "https://www.cityofhope.org/951683875_city-of-hope-national-medical-center-_standardcharges.json",
+    "transparency_page": "https://www.cityofhope.org/patients/our-value-and-pricing/pricing-information"
+  },
+  {
+    "detail_id": "26aa254c-db88-4ceb-8316-694fea1922ad",
+    "ccn": "050149",
+    "hospital_name": "CALIFORNIA HOSPITAL MEDICAL CENTER - LOS ANGELES",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/815009488_california-hospital-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/socal/locations/californiahospital/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "c905813d-4423-4a96-81c0-798846e15180",
+    "ccn": "050150",
+    "hospital_name": "SIERRA NEVADA MEMORIAL HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941439787_sierra-nevada-memorial-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/sacramento/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "1f42cae1-91a6-4ea1-8b77-eea59625ccf9",
+    "ccn": "050152",
+    "hospital_name": "UCSF HEALTH SAINT FRANCIS HOSPITAL",
+    "file_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=8wogrqzbbev45c7pup8v9298ul2ymlpr&file_id=f_1732346032300",
+    "transparency_page": "https://sfcommunityhospitals.ucsfhealth.org/saint-francis/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "11c42643-7918-4a90-99dd-733adef9c64f",
+    "ccn": "050158",
+    "hospital_name": "ENCINO HOSPITAL MEDICAL CENTER",
+    "file_url": "https://encinomed.org/wp-content/uploads/2024/12/262128507_EncinoHospitalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://encinomed.org/for-patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "66edc19b-554b-45de-a43a-df6b27760dd5",
+    "ccn": "050159",
+    "hospital_name": "VENTURA COUNTY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbVentura&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Ventura_V3.aspx"
+  },
+  {
+    "detail_id": "d05e95b7-5b92-4275-9830-6f74f3a6c3c7",
+    "ccn": "050167",
+    "hospital_name": "SAN JOAQUIN GENERAL HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=9150f7c69ef6e33ccd3eab7900459e38729dcdbe49a0561ed9dd8d5b35f7449a",
+    "transparency_page": "https://www.sanjoaquingeneral.org/"
+  },
+  {
+    "detail_id": "0e7054eb-08da-4909-b4d1-304a0d341e92",
+    "ccn": "050168",
+    "hospital_name": "PROVIDENCE ST. JUDE MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/951643325_providence-st-jude-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "8d650970-beb8-429c-a2de-2366357876e8",
+    "ccn": "050169",
+    "hospital_name": "PIH HEALTH WHITTIER HOSPITAL",
+    "file_url": "https://www.pihhealth.org/app/files/public/b5d25562-6d49-4970-bb22-5e0a962647b8/951903935_PIH Downey Hospital_standardcharges.csv",
+    "transparency_page": "https://www.pihhealth.org/patients-visitors/billing-financial-assistance/cms-hospital-pricing/"
+  },
+  {
+    "detail_id": "8317416f-8232-49a5-9d09-28a7003b1950",
+    "ccn": "050174",
+    "hospital_name": "PROVIDENCE SANTA ROSA MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-santa-rosa-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "c2645dff-ff3e-445c-bd7f-1bd3f4591c2c",
+    "ccn": "050179",
+    "hospital_name": "EMANUEL MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752918774_EmanuelMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.emanuelmedicalcenter.org/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "7758202e-e6cb-4d87-8b3e-547fb4a3e102",
+    "ccn": "050180",
+    "hospital_name": "JOHN MUIR MEDICAL CENTER-WALNUT CREEK CAMPUS",
+    "file_url": "https://www.johnmuirhealth.com/content/dam/jmh/Documents/payments-and-insurance/machine-readable-files/94-1461843-1740215219_John-Muir-Health-Walnut-Creek-Medical-Center_standardcharges.zip",
+    "transparency_page": "https://www.johnmuirhealth.com/patients-and-visitors/payment-and-insurance/cost-estimator.html"
+  },
+  {
+    "detail_id": "2cd29ce8-6904-4e8c-a056-0d9f8905ef40",
+    "ccn": "050191",
+    "hospital_name": "ST. MARY MEDICAL CENTER",
+    "address": "1050 LINDEN AVENUE, BOX 887",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_st-mary-medical-center-long-beach_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/socal/locations/stmarymedical/patients-and-visitors/for-patients/billing-payment-financial-services/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "240912ed-8cf9-423e-8553-4f608dcc977f",
+    "ccn": "050192",
+    "hospital_name": "ADVENTIST HEALTH REEDLEY",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHRREEDLEYCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7627c45c-2a41-4be2-b1d7-5840a4a69cef",
+    "ccn": "050194",
+    "hospital_name": "WATSONVILLE COMMUNITY HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/e21d6544-b3b7-44c8-8df0-60cd8284ed13/911894113_WATSONVILLE-COMMUNITY-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://watsonvillehospital.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "00f9bf71-60cc-471c-ac29-1fdd685ffa9b",
+    "ccn": "050195",
+    "hospital_name": "WASHINGTON HOSPITAL - FREMONT",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWashingtonHospitalCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Washington_Fremont_V3.aspx"
+  },
+  {
+    "detail_id": "d499e45b-42ea-444e-b664-82bf37a1f2f5",
+    "ccn": "050197",
+    "hospital_name": "SEQUOIA HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/815009488_sequoia-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/bayarea/locations/sequoia/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "daf3cf00-5548-431e-b8e2-e77c347de321",
+    "ccn": "050204",
+    "hospital_name": "PALMDALE REGIONAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/953565954_palmdale-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.swhpalmdaleregional.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "146cdc53-fffd-4381-8f3f-854f457b5329",
+    "ccn": "050211",
+    "hospital_name": "ALAMEDA HOSPITAL",
+    "file_url": "https://www.alamedahealthsystem.org/wp-content/uploads/pricing/943302014_alameda-hospital_standardcharges.csv",
+    "transparency_page": "https://www.alamedahealthsystem.org/price-transparency/"
+  },
+  {
+    "detail_id": "2cd4cf73-1fd4-4c2b-9c10-7c9cb2919847",
+    "ccn": "050222",
+    "hospital_name": "SHARP CHULA VISTA MEDICAL CENTER",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/59hukKA0VGxboSj85aUP44/e961bebfc3495c73cf167d259a270120/95-2367304_sharp-chula-vista-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "14fb9f84-1ed8-4582-8cf0-b49370fed9e0",
+    "ccn": "050224",
+    "hospital_name": "HOAG HOSPITAL NEWPORT BEACH",
+    "file_url": "https://upload.cdn-hoag.org/wp-content/uploads/2025/07/09124439/951643327_hoag-memorial-hospital-presbyterian_standardcharges.csv",
+    "transparency_page": "https://www.hoag.org/patients-visitors/billing-information/"
+  },
+  {
+    "detail_id": "c40bfd01-1770-4624-b069-8c60f46ec8a1",
+    "ccn": "050226",
+    "hospital_name": "AHMC ANAHEIM REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-Anaheim_Regional_Medical_Center-2553-20250821.csv",
+    "transparency_page": "https://www.ahmchealth.com/armc/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "4e2f009d-f8e0-4e4d-82be-4cfec683919f",
+    "ccn": "050228",
+    "hospital_name": "ZUCKERBERG SAN FRANCISCO GENERAL HOSPITAL AND TRAUMA CENTER",
+    "file_url": "https://sfdph.box.com/shared/static/25v7xayq48oepf9w14bolc831496lepq.csv",
+    "transparency_page": "https://www.zuckerbergsanfranciscogeneral.org/services/billing-assistance/"
+  },
+  {
+    "detail_id": "a9488ed1-7b22-4b6d-9e05-916ca411a220",
+    "ccn": "050230",
+    "hospital_name": "GARDEN GROVE HOSPITAL AND MEDICAL CENTER",
+    "file_url": "https://gardengrovehospital.com/wp-content/uploads/2024/12/262583411_GardenGroveHospitalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://gardengrovehospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "d8ebfd12-e450-435a-b068-c6a6076245fe",
+    "ccn": "050231",
+    "hospital_name": "POMONA VALLEY HOSPITAL MEDICAL CENTER",
+    "file_url": "https://custom.pvhmc.org/CostEstimator/downloadable/Machine-Readable-File.csv",
+    "transparency_page": "https://www.pvhmc.org/patients-visitors/financial-and-insurance-information/machine-readable-file/"
+  },
+  {
+    "detail_id": "6ee76c73-d67c-4c81-b978-3b00adcf64fd",
+    "ccn": "050232",
+    "hospital_name": "FRENCH HOSPITAL MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/815009488_french-hospital-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-coast/locations/frenchhospital/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "20c0710c-bb6e-494c-9a5f-c0e7373ff66c",
+    "ccn": "050234",
+    "hospital_name": "SHARP CORONADO HOSPITAL AND HEALTHCARE CENTER",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/1Jor1cuP92Qtg6DoY6HIO5/d8d920be6700398530fd2165f80cd2cf/95-0651579_sharp-coronado-hospital-and-hlthcr-ctr_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "39360b8d-a794-479e-8cb5-9ac150e4e909",
+    "ccn": "050235",
+    "hospital_name": "PROVIDENCE SAINT JOSEPH MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/810463482_providence-st-joseph-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "f7e19e4f-721a-4810-b18f-91cd821bf1b2",
+    "ccn": "050236",
+    "hospital_name": "ADVENTIST HEALTH SIMI VALLEY",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHSVSIMIVALLEYCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "fd8b28d2-3591-4f37-99ae-363b8a5029af",
+    "ccn": "050238",
+    "hospital_name": "USC ARCADIA HOSPITAL",
+    "file_url": "https://www.uscarcadiahospital.org/documents/951643336_usc-arcadia-hospital_standardcharges.csv",
+    "transparency_page": "https://www.uscarcadiahospital.org/for-patients-visitors/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "053e06e1-a77d-43ac-b68d-5186d5f681dd",
+    "ccn": "050239",
+    "hospital_name": "ADVENTIST HEALTH GLENDALE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGAMCGLENDALECA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "0f591741-e13c-4eb6-9e08-cbd4d397d11a",
+    "ccn": "050242",
+    "hospital_name": "DOMINICAN HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_dominican-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/bayarea/locations/dominican/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "82ffbe6c-e22f-4b6b-a6b3-7cb1c8e47361",
+    "ccn": "050243",
+    "hospital_name": "DESERT REGIONAL MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752694137_DesertRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.desertcarenetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "c016efc7-630a-4f31-abf0-f05999628042",
+    "ccn": "050243",
+    "hospital_name": "DESERT REGIONAL MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752694137_DesertRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.desertcarenetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "310ddafe-bed3-422a-ad83-81dd3096d1ad",
+    "ccn": "050243",
+    "hospital_name": "DESERT REGIONAL MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752694137_DesertRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.desertcarenetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "46157eff-d1c2-4f83-99f7-83d5dee076e8",
+    "ccn": "050245",
+    "hospital_name": "ARROWHEAD REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8225/956002748_san-bernardino-county_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ArrowheadRegionalMedicalCenter/8225"
+  },
+  {
+    "detail_id": "e833f340-c41d-4b7d-ba98-b4cabc607dac",
+    "ccn": "050248",
+    "hospital_name": "NATIVIDAD HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNMCSALINASCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Natividad_V2.aspx"
+  },
+  {
+    "detail_id": "9151b521-54cf-4032-b5ca-38ffcb1f6340",
+    "ccn": "050254",
+    "hospital_name": "MARSHALL MEDICAL CENTER",
+    "file_url": "https://www.marshallmedical.org/documents/standard_charges/941450151_marshall-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.marshallmedical.org/patients-visitors/patient-information/insurance-billing-information/#PriceTransparency"
+  },
+  {
+    "detail_id": "9599236b-5591-4fde-b604-f2ddfdf3498f",
+    "ccn": "050257",
+    "hospital_name": "GOOD SAMARITAN HOSPITAL-BAKERSFIELD",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/16df7438d261bee057acf7b94fcb0bbb/charges/mrf",
+    "transparency_page": "https://hospitalpricingfiles.org/details/www.goodsamhospital.com/price-transparency"
+  },
+  {
+    "detail_id": "09f81911-f7aa-4835-b59c-188bdb1105db",
+    "ccn": "050270",
+    "hospital_name": "SCRIPPS MERCY HOSPITAL CHULA VISTA",
+    "file_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Mercy-Hospital-Chula-Vista_standardcharges.csv",
+    "transparency_page": "https://www.scripps.org/patients-and-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "81cd9b39-7f72-4dfe-9187-d1457c4ad739",
+    "ccn": "050276",
+    "hospital_name": "CONTRA COSTA REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.cchealth.org/home/showpublisheddocument/29234/638899840921930000",
+    "transparency_page": "https://www.cchealth.org/get-care/medical-center-services"
+  },
+  {
+    "detail_id": "ee021462-d4a4-4b93-a888-0ec73e8009b5",
+    "ccn": "050278",
+    "hospital_name": "PROVIDENCE HOLY CROSS MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/954582647_providence-holy-cross-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "b1860b1d-25dd-4597-b65a-0dfcd27b7ca7",
+    "ccn": "050279",
+    "hospital_name": "HI-DESERT MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/473550779_HiDesertMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.desertcarenetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "cffc0eae-7473-43b0-bae1-ce0cbeaa1403",
+    "ccn": "050280",
+    "hospital_name": "MERCY MEDICAL CENTER REDDING",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_mercy-medical-center-redding_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/north-state/locations/mercy-redding/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "3604fb3c-e460-496f-be92-87f8fb546105",
+    "ccn": "050281",
+    "hospital_name": "ALHAMBRA HOSPITAL",
+    "file_url": "http://www.alhambrahospital.com/docs/PricingTransparency-Alhambra_Hospital_Medical_Center-2495-20250512173206.csv",
+    "transparency_page": "https://www.alhambrahospital.com/getpage.php?name=Pricing_Transparency_Page&sub=Visitors&menu_item_id=88239"
+  },
+  {
+    "detail_id": "8830b3b7-bb99-4c37-9736-48b1077d13fe",
+    "ccn": "050283",
+    "hospital_name": "STANFORD HEALTH CARE TRI-VALLEY",
+    "file_url": "https://stanfordhealthcare.org/content/dam/valleycare/patients-visitors/941429628_stanford-health-care---tri-valley_standardcharges.json",
+    "transparency_page": "https://stanfordhealthcare.org/for-patients-visitors/price-transparency.html"
+  },
+  {
+    "detail_id": "f1608f91-a3a8-42e0-bed5-b2184a51689e",
+    "ccn": "050289",
+    "hospital_name": "SETON MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-Seton_Medical_Center-2367-20250211205037.csv",
+    "transparency_page": "https://www.ahmchealth.com/smc/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "8c1b804e-1754-450e-8875-367bc95459a6",
+    "ccn": "050290",
+    "hospital_name": "PROVIDENCE ST. JOHN'S HEALTH CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/951684082_providence-st-johns-health-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "14676d8b-d4d9-4d9e-96ce-dde2475a7823",
+    "ccn": "050291",
+    "hospital_name": "SUTTER SANTA ROSA REGIONAL HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1740413798_sutter-santa-rosa-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "6ca78618-d9b6-4ce5-aa01-a8d53673b410",
+    "ccn": "050292",
+    "hospital_name": "RIVERSIDE UNIVERSITY HEALTH SYSTEM MEDICAL CENTER",
+    "file_url": "https://www.ruhealth.org/956000930_riverside-university-health-system_standardcharges.csv",
+    "transparency_page": "https://www.ruhealth.org/resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "e9e12073-7137-4aa1-95c5-b1ca91786050",
+    "ccn": "050295",
+    "hospital_name": "MERCY HOSPITAL DOWNTOWN",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_mercy-hospital_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/mercy-bakersfield/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "35feb6ac-0548-4233-971f-b26cfb7601e5",
+    "ccn": "050298",
+    "hospital_name": "BARSTOW COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBCHBARSTOWCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Barstow.aspx"
+  },
+  {
+    "detail_id": "e5c2f736-8837-42bc-90a5-67e542a028a5",
+    "ccn": "050300",
+    "hospital_name": "PROVIDENCE ST. MARY REGIONAL MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/951914489_providence-st-mary-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "50d30f2e-0620-4455-83b4-769175623fb0",
+    "ccn": "050305",
+    "hospital_name": "ALTA BATES SUMMIT MED CTR-ALTA BATES CAMPUS",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1639523004_alta-bates-summit-medical-center-alta-bates-campus_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "177ae969-6cd9-41b2-bf52-8d8088184682",
+    "ccn": "050308",
+    "hospital_name": "EL CAMINO HOSPITAL MOUNTAIN VIEW",
+    "file_url": "https://www.elcaminohealth.org/sites/default/files/2025-10/943167314_el-camino-hospital_standardcharges.json",
+    "transparency_page": "https://www.elcaminohealth.org/patients-visitors/guide/before-you-arrive/pricing-estimates/price-transparency"
+  },
+  {
+    "detail_id": "be93b8d6-917d-4ec5-928e-1b4cbc6700c1",
+    "ccn": "050309",
+    "hospital_name": "SUTTER ROSEVILLE MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1356390264_sutter-roseville-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "88b2f67b-b97d-4366-b407-aaa72d408ec0",
+    "ccn": "050313",
+    "hospital_name": "SUTTER TRACY COMMUNITY HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1821442864_sutter-tracy-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "b15b8782-a042-4d05-8fef-c98ba1227fd2",
+    "ccn": "050320",
+    "hospital_name": "WILMA CHAN HIGHLAND HOSPITAL",
+    "file_url": "https://www.alamedahealthsystem.org/wp-content/uploads/pricing/943302014_highland-hospital_standardcharges.csv",
+    "transparency_page": "https://www.alamedahealthsystem.org/price-transparency/"
+  },
+  {
+    "detail_id": "2cf56c42-071b-4289-9800-8a822a49c225",
+    "ccn": "050324",
+    "hospital_name": "SCRIPPS MEMORIAL HOSPITAL LA JOLLA",
+    "file_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Memorial-Hospital-La-Jolla_standardcharges.csv",
+    "transparency_page": "https://www.scripps.org/patients-and-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "91c36a54-90e3-45c1-8d60-b74148d01c91",
+    "ccn": "050327",
+    "hospital_name": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
+    "file_url": "https://pricetransparency.healthcare/llu-mc/charges/export",
+    "transparency_page": "https://lluh.org/patients-visitors/patients/patient-rights-notices/price-transparency"
+  },
+  {
+    "detail_id": "f3548b65-88a1-43e2-b7c5-a6069b9054f9",
+    "ccn": "050329",
+    "hospital_name": "CORONA REGIONAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/432035443_corona-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.swhcoronaregional.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "744ec0c5-9784-43a7-8f29-0b7686ad0d43",
+    "ccn": "050334",
+    "hospital_name": "SALINAS VALLEY MEMORIAL HOSPITAL",
+    "file_url": "https://www.salinasvalleyhealth.com/documents/946004020_Salinas-Valley-Health-Medical-Center_STANDARDCHARGES_CSV.csv",
+    "transparency_page": "http://salinasvalleyhealth.com/standard-charges/"
+  },
+  {
+    "detail_id": "8dee6c36-1c1d-4366-b2a4-94c7a2dd528b",
+    "ccn": "050335",
+    "hospital_name": "ADVENTIST HEALTH SONORA",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHSSONORACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "924219e3-b405-4727-870b-442cf53eecd3",
+    "ccn": "050336",
+    "hospital_name": "ADVENTIST HEALTH LODI MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHLMLODICA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b8bf6811-4573-4790-9b31-7fb40b40aea4",
+    "ccn": "050342",
+    "hospital_name": "PIONEERS MEMORIAL HOSPITAL",
+    "file_url": "https://pmhd.org/wp-content/uploads/2025/07/Pioneers-Memorial-Healthcare-District-standardcharges-B-version-1.csv",
+    "transparency_page": "https://pmhd.org/price-transparency/"
+  },
+  {
+    "detail_id": "a320de2a-0a05-4d43-a94d-b0720e64238a",
+    "ccn": "050348",
+    "hospital_name": "UNIVERSITY OF CALIFORNIA IRVINE MEDICAL CENTER",
+    "file_url": "https://ucihealth.org/pricetransparency/952226406_regents-of-the-university-of-california-at-irvine-hospital_standardcharges.json",
+    "transparency_page": "https://www.ucihealth.org/patients-and-visitors/financial-resources/price-transparency"
+  },
+  {
+    "detail_id": "14e1073d-7799-403f-a178-247517a1061d",
+    "ccn": "050350",
+    "hospital_name": "ADVENTISTHEALTH WHITE MEMORIAL MONTEBELLO",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHWMLOSANGELESCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "f1ed8b6b-2c82-4fca-a177-30e8c4eb9cc3",
+    "ccn": "050351",
+    "hospital_name": "TORRANCE MEMORIAL MEDICAL CENTER",
+    "file_url": "https://www.torrancememorial.org/app/files/public/72290ad6-2a3d-4b7e-acf0-1daa4ba8ba5e/951644042_TORRANCE-MEMORIAL-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://www.torrancememorial.org/patients-visitors/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "7b37f6f6-4bd7-41e3-be66-697bb117501e",
+    "ccn": "050352",
+    "hospital_name": "BARTON MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/30e503ebb1af329423bf2825174aa646/charges/mrf",
+    "transparency_page": "https://www.bartonhealth.org/patients-family/billing-financial-services/hospital-pricing/"
+  },
+  {
+    "detail_id": "1e031906-dd0d-402b-819b-6a3bb864b235",
+    "ccn": "050353",
+    "hospital_name": "PROVIDENCE LITTLE COMPANY OF MARY MEDICAL CENTER TORRANCE",
+    "file_url": "https://pricetransparency.providence.org/socal/live/421672810_providence-little-company-of-mary-med-center-torrance_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "c101cadf-7ce0-4a99-8c7d-51100791ac90",
+    "ccn": "050357",
+    "hospital_name": "GOLETA VALLEY COTTAGE HOSPITAL",
+    "file_url": "https://www.cottagehealth.org/app/files/public/73845ed9-a256-4683-a051-5f53e1e7dfa6/952413596_GoletaValleyCottageHospital_standardcharges.csv",
+    "transparency_page": "https://www.cottagehealth.org/billing/cost-of-care-estimates/"
+  },
+  {
+    "detail_id": "afed1c7c-4918-4820-bf13-8992751b82fe",
+    "ccn": "050360",
+    "hospital_name": "MARINHEALTH MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/cc145ba21e574ef7da4a1ed8325d54f9/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/cc145ba21e574ef7da4a1ed8325d54f9"
+  },
+  {
+    "detail_id": "3a26e6bf-a1cb-42dc-8448-7fe6906c8e1f",
+    "ccn": "050367",
+    "hospital_name": "NORTH BAY MEDICAL CENTER",
+    "file_url": "https://www.northbay.org/upload/941458282_northbay-medical-center_standardcharges.json",
+    "transparency_page": "https://www.northbay.org/patients-visitors/price-transparency.html"
+  },
+  {
+    "detail_id": "e84df3d1-f9c1-4379-8bff-6e318f083f97",
+    "ccn": "050373",
+    "hospital_name": "LOS ANGELES GENERAL MEDICAL CENTER",
+    "file_url": "https://file.lacounty.gov/SDSInter/dhs/1157354_956000927_LosAngelesGeneralMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://dhs.lacounty.gov/patient-information/get-coverage/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "b6b6449f-4a6c-428e-9402-19ccdded2410",
+    "ccn": "050378",
+    "hospital_name": "PACIFICA HOSPITAL OF THE VALLEY",
+    "file_url": "https://secure.claraprice.net/price-transparency/ZFYY-1731000747134/machine-readable/330737312_pacifica-hospital-of-the-valley_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/pacifica-hospital-of-the-valley-ca"
+  },
+  {
+    "detail_id": "ff723519-af78-4223-bb71-12ae95de5efe",
+    "ccn": "050380",
+    "hospital_name": "GOOD SAMARITAN HOSPITAL-SAN JOSE",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/62-1763090_good-samaritan-hospital_standardcharges.json",
+    "transparency_page": "https://goodsamsanjose.com/about/legal-information/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "62af5ebb-cc7b-415c-b2fc-31342f6faa60",
+    "ccn": "050382",
+    "hospital_name": "EMANATE HEALTH INTER-COMMUNITY HOSPITAL",
+    "file_url": "https://www.emanatehealth.org/media/p/19400/956006469_emanate-health-inter-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.emanatehealth.org/patients-visitors/financial-resources-assistance/"
+  },
+  {
+    "detail_id": "b63affe5-b0af-40c1-9c8b-c9ff07f24847",
+    "ccn": "050390",
+    "hospital_name": "KPC HEALTH HEMET GLOBAL MEDICAL CENTER",
+    "file_url": "http://www.hemetglobalmedcenter.com/wp-content/uploads/2025/02/270636387_hemet-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.hemetglobalmedcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "859fc560-f98e-4c42-8839-8cbbdb8a6d4f",
+    "ccn": "050393",
+    "hospital_name": "PIH HEALTH DOWNEY HOSPITAL",
+    "file_url": "https://www.pihhealth.org/app/files/public/b5d25562-6d49-4970-bb22-5e0a962647b8/951903935_PIH Downey Hospital_standardcharges.csv",
+    "transparency_page": "https://www.pihhealth.org/patients-visitors/billing-financial-assistance/cms-hospital-pricing/"
+  },
+  {
+    "detail_id": "5aeba910-3ecc-446b-8b7f-88a422e0e55b",
+    "ccn": "050394",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL",
+    "file_url": "https://www.mycmh.org/documents/951683892_community-memorial-healthcare-ventura_standardcharges.csv.csv",
+    "transparency_page": "https://www.mycmh.org/patients-visitors/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "8fed024f-1c0d-4343-a00a-4b8b4e5e71ba",
+    "ccn": "050396",
+    "hospital_name": "SANTA BARBARA COTTAGE HOSPITAL",
+    "file_url": "https://www.cottagehealth.org/app/files/public/73845ed9-a256-4683-a051-5f53e1e7dfa6/952413596_GoletaValleyCottageHospital_standardcharges.csv",
+    "transparency_page": "https://www.cottagehealth.org/billing/cost-of-care-estimates/"
+  },
+  {
+    "detail_id": "9a499778-ee33-4d0f-9cae-7ca8094af29c",
+    "ccn": "050414",
+    "hospital_name": "MERCY HOSPITAL OF FOLSOM",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_mercy-hospital-of-folsom_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/sacramento/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "7800136b-28ef-4fa1-a71e-58b66ddbd6ab",
+    "ccn": "050417",
+    "hospital_name": "SUTTER COAST HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/942988520-1457367062_sutter-coast-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "ebf9f33b-aa71-4680-94d1-4fc25c583341",
+    "ccn": "050424",
+    "hospital_name": "SCRIPPS GREEN HOSPITAL",
+    "file_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Green-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.scripps.org/patients-and-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "750a6003-9a47-409e-8e80-9a7aecc43eb3",
+    "ccn": "050426",
+    "hospital_name": "WEST ANAHEIM MEDICAL CENTER",
+    "file_url": "https://westanaheimmedctr.com/wp-content/uploads/2024/12/205245674_WestAnaheimMedicalCenter_standardcharges.json",
+    "transparency_page": "https://westanaheimmedctr.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7c8ee6e1-d0a9-4a5b-97d8-57099ce2eaea",
+    "ccn": "050438",
+    "hospital_name": "HUNTINGTON HOSPITAL",
+    "file_url": "https://media.huntingtonhealth.org/951644036_HUNTINGTON-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://www.huntingtonhealth.org/price-transparency/"
+  },
+  {
+    "detail_id": "7d8b24a1-2760-4e20-8d04-52d5e5327f3c",
+    "ccn": "050441",
+    "hospital_name": "STANFORD HOSPITAL",
+    "file_url": "https://stanfordhealthcare.org/content/dam/SHC/patientsandvisitors/pricingtransparency/946174066_stanford-health-care_standardcharges.json",
+    "transparency_page": "https://stanfordhealthcare.org/for-patients-visitors/price-transparency.html"
+  },
+  {
+    "detail_id": "3007db79-3347-4f9e-92ba-e990ff03a882",
+    "ccn": "050444",
+    "hospital_name": "MERCY MEDICAL CENTER MERCED",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_mercy-medical-center-merced_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/mercymedical-merced/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "2dc0813d-dd9b-4d87-ac88-cc6739b6cf6f",
+    "ccn": "050454",
+    "hospital_name": "UCSF MEDICAL CENTER",
+    "file_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ldckxfm5nm9wah74gqi7fdhe6mrtpg5e&file_id=f_1959275070690",
+    "transparency_page": "https://www.ucsfhealth.org/about/pricing-transparency"
+  },
+  {
+    "detail_id": "909bc12a-5065-40ba-a11b-670a41aa43fe",
+    "ccn": "050455",
+    "hospital_name": "ADVENTIST HEALTH BAKERSFIELD",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHBBAKERSFIELDCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "ef0525fb-91dc-449c-b619-9d14173ffcfe",
+    "ccn": "050457",
+    "hospital_name": "UCSF HEALTH SAINT MARY'S HOSPITAL",
+    "file_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=xsx8jxwcakpxzg78pfllolwmhrhcifxh&file_id=f_1732344688129",
+    "transparency_page": "https://sfcommunityhospitals.ucsfhealth.org/st-marys/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "eae83ec6-536d-46d3-8723-29fb43e33311",
+    "ccn": "050464",
+    "hospital_name": "DOCTORS MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752918774_DoctorsMedicalCenterofModesto_standardcharges.json",
+    "transparency_page": "https://www.dmc-modesto.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "9f29db61-5a6d-4d48-bfc7-69a1ce186818",
+    "ccn": "050468",
+    "hospital_name": "MEMORIAL HOSPITAL OF GARDENA",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8430/760594558_pipeline_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MemorialHospitalofGardena/8430"
+  },
+  {
+    "detail_id": "ccf183e3-964a-4008-a47f-4bc8204d3607",
+    "ccn": "050471",
+    "hospital_name": "PIH HEALTH GOOD SAMARITAN HOSPITAL",
+    "file_url": "https://www.pihhealth.org/app/files/public/b5d25562-6d49-4970-bb22-5e0a962647b8/951903935_PIH Downey Hospital_standardcharges.csv",
+    "transparency_page": "https://www.pihhealth.org/patients-visitors/billing-financial-assistance/cms-hospital-pricing/"
+  },
+  {
+    "detail_id": "45f11bd5-a2a0-44b0-979e-993e728ddf6e",
+    "ccn": "050481",
+    "hospital_name": "UCLA WEST VALLEY MEDICAL CENTER",
+    "file_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/95-6006143_UCLA-West-Valley-Medical-Center_standardcharges.json",
+    "transparency_page": "https://www.uclahealth.org/patient-resources/billing-insurance/price-transparency/machine-readable-files"
+  },
+  {
+    "detail_id": "08b6403e-b836-462b-8ad4-519db37710f3",
+    "ccn": "050485",
+    "hospital_name": "MEMORIALCARE LONG BEACH MEDICAL CENTER",
+    "file_url": "https://www.memorialcare.org/sites/default/files/_images/content/Patient-Financial-Services/953527031-1477596583_long-beach-memorial-medical-center_standardcharges.json",
+    "transparency_page": "https://www.memorialcare.org/patients-visitors/patient-financial-tools-and-resources#MRF"
+  },
+  {
+    "detail_id": "ac3a29fc-8d12-4557-bac4-9632f9054cd0",
+    "ccn": "050488",
+    "hospital_name": "EDEN MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1063812907_eden-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "b59888e7-4c02-4757-b2fd-46534397fc35",
+    "ccn": "050492",
+    "hospital_name": "CLOVIS COMMUNITY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8229/941156276-1316027709_fresno-community-hospital-and-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ClovisCommunityMedicalCenter/8229or"
+  },
+  {
+    "detail_id": "a67a3be5-4e3b-489b-b421-e4013cbe665b",
+    "ccn": "050496",
+    "hospital_name": "JOHN MUIR MEDICAL CENTER-CONCORD CAMPUS",
+    "file_url": "https://www.johnmuirhealth.com/content/dam/jmh/Documents/payments-and-insurance/machine-readable-files/68-0396600-1801821376_John-Muir-Health-Concord-Medical-Center_standardcharges.zip",
+    "transparency_page": "https://www.johnmuirhealth.com/patients-and-visitors/payment-and-insurance/cost-estimator.html"
+  },
+  {
+    "detail_id": "b5b281e0-bfca-4606-9253-03725e2a8f66",
+    "ccn": "050498",
+    "hospital_name": "SUTTER AUBURN FAITH HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1194774299_sutter-auburn-faith-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "e20f0709-3ba8-4b41-b888-9e03fb2cc73b",
+    "ccn": "050503",
+    "hospital_name": "SCRIPPS MEMORIAL HOSPITAL ENCINITAS",
+    "file_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Memorial-Hospital-Encinitas_standardcharges.csv",
+    "transparency_page": "https://www.scripps.org/patients-and-visitors/billing/price-transparency"
+  },
+  {
+    "detail_id": "60b3f187-a39c-49c2-85a0-757a79e5f287",
+    "ccn": "050506",
+    "hospital_name": "ADVENTIST HEALTH SIERRA VISTA",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSVRMSANLUISOBISPOCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AdventistHealthSierraVista.aspx"
+  },
+  {
+    "detail_id": "40e397f9-c089-4674-950f-6e2c936543c5",
+    "ccn": "050516",
+    "hospital_name": "MERCY SAN JUAN HOSPITAL",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_mercy-san-juan-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/sacramento/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "bfceaa2a-814b-469b-87fd-95d5b806e180",
+    "ccn": "050517",
+    "hospital_name": "VICTOR VALLEY GLOBAL MEDICAL CENTER",
+    "file_url": "http://victorvalleyglobalmedicalcenter.com/wp-content/uploads/2025/02/273777887_victor-valley-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://victorvalleyglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "dcfd0810-9a6d-400b-a23f-961ec1da48be",
+    "ccn": "050523",
+    "hospital_name": "SUTTER DELTA MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1467808659_sutter-delta-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "a7420fcd-81ee-4a0c-a75e-d4b4eefe9f4d",
+    "ccn": "050526",
+    "hospital_name": "HUNTINGTON BEACH HOSPITAL",
+    "file_url": "https://hbhospital.org/wp-content/uploads/2024/12/205252882_HuntingtonBeachHospital_standardcharges.json",
+    "transparency_page": "https://hbhospital.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "05bbfa9c-28e8-4960-a009-6066292be3aa",
+    "ccn": "050528",
+    "hospital_name": "MEMORIAL HOSPITAL LOS BANOS",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1366896300_memorial-hospital-los-banos_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "1632249d-1cc4-4f52-bdc6-20715967a7e4",
+    "ccn": "050534",
+    "hospital_name": "JOHN F KENNEDY MEMORIAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752919774_JFKMemorialHospital_standardcharges.json",
+    "transparency_page": "https://www.desertcarenetwork.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "c50bba05-ace7-48ab-9282-166a83e5af19",
+    "ccn": "050537",
+    "hospital_name": "SUTTER DAVIS HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1770532608_sutter-davis-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "2af191d5-1c52-4512-9d94-fdbf0c9b5024",
+    "ccn": "050543",
+    "hospital_name": "COLLEGE HOSPITAL COSTA MESA",
+    "file_url": "https://chc.la/954124770_college-hospital-costa-mesa_standardcharges.csv",
+    "transparency_page": "https://chc.la/ch-costa-mesa/"
+  },
+  {
+    "detail_id": "1b4b3148-c11c-4862-886b-61c87d84e16e",
+    "ccn": "050549",
+    "hospital_name": "LOS ROBLES HOSPITAL AND MEDICAL CENTER",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/95-2321136_los-robles-hospital-and-medical-center_standardcharges.json",
+    "transparency_page": "https://losrobleshospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "a3186dcd-39de-4bd4-a4ce-a2c94e08ef0b",
+    "ccn": "050551",
+    "hospital_name": "UCI HEALTH - LOS ALAMITOS",
+    "file_url": "https://ucihealth.org/pricetransparency/952226406_uci-health-los-alamitos_standardcharges.json",
+    "transparency_page": "https://www.ucihealth.org/patients-and-visitors/financial-resources/price-transparency"
+  },
+  {
+    "detail_id": "60f74c55-672b-4bcd-b5fa-41260bc458bf",
+    "ccn": "050557",
+    "hospital_name": "MEMORIAL MEDICAL CENTER",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1699129601_memorial-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency/"
+  },
+  {
+    "detail_id": "a2f1ee6f-3168-4241-b3fe-6fa3bc4b4ece",
+    "ccn": "050570",
+    "hospital_name": "UCI HEALTH - FOUNTAIN VALLEY",
+    "file_url": "https://ucihealth.org/pricetransparency/952226406_uci-health-fountain-valley_standardcharges.json",
+    "transparency_page": "https://www.ucihealth.org/patients-and-visitors/financial-resources/price-transparency"
+  },
+  {
+    "detail_id": "d5eb2710-4a11-4825-b56c-bb09a149acef",
+    "ccn": "050573",
+    "hospital_name": "EISENHOWER MEDICAL CENTER",
+    "file_url": "https://eisenhowerhealth.org/sites/emcorg/assets/downloads/956130458_eisenhower-medical-center_standardcharges.csv",
+    "transparency_page": "https://eisenhowerhealth.org/resources/billing/"
+  },
+  {
+    "detail_id": "f8d9cc4e-e593-452d-ab35-452f83f558e9",
+    "ccn": "050580",
+    "hospital_name": "LA PALMA INTERCOMMUNITY HOSPITAL",
+    "file_url": "https://lapalmaintercommunityhospital.com/wp-content/uploads/2024/12/205253134_LaPalmaIntercommunityHospital_standardcharges.json",
+    "transparency_page": "https://lapalmaintercommunityhospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "e7e24b0c-af6e-43b4-89a2-8065c1e51635",
+    "ccn": "050581",
+    "hospital_name": "UCI HEALTH - LAKEWOOD",
+    "file_url": "https://www.ucihealth.org/-/media/files/json/952226406-ucihealthlakewood-standardcharges.json",
+    "transparency_page": "https://www.ucihealth.org/patients-visitors/price-transparency"
+  },
+  {
+    "detail_id": "48b1b545-52de-4fb0-99b0-126362978693",
+    "ccn": "050586",
+    "hospital_name": "CHINO VALLEY MEDICAL CENTER",
+    "file_url": "https://cvmc.com/wp-content/uploads/2024/12/330928285_ChinoValleyMedicalCenter_standardcharges.json",
+    "transparency_page": "https://cvmc.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7fa0708f-387a-4130-8251-acbf8073d3e2",
+    "ccn": "050588",
+    "hospital_name": "SAN DIMAS COMMUNITY HOSPITAL",
+    "file_url": "https://sandimashospital.com/wp-content/uploads/2024/12/262583397_SanDimasCommunityHospital_standardcharges.json",
+    "transparency_page": "https://sandimashospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "02a37a22-17be-4209-908f-31bdf8b4d944",
+    "ccn": "050589",
+    "hospital_name": "UCI HEALTH - PLACENTIA LINDA",
+    "file_url": "https://ucihealth.org/pricetransparency/952226406_uci-health-placentia-linda_standardcharges.json",
+    "transparency_page": "https://www.ucihealth.org/patients-and-visitors/financial-resources/price-transparency"
+  },
+  {
+    "detail_id": "9a8985c8-2c2e-4f58-8f1d-eedae2749113",
+    "ccn": "050590",
+    "hospital_name": "METHODIST HOSPITAL OF SACRAMENTO",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/815009488_methodist-hospital-of-sacramento_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/sacramento/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "2216c7d3-74b6-4d23-8d80-7e93a501fb30",
+    "ccn": "050597",
+    "hospital_name": "EMANATE HEALTH FOOTHILL PRESBYTERIAN HOSPITAL",
+    "file_url": "https://www.emanatehealth.org/media/p/19401/952413054_emanate-health-foothill-presbyterian-hospital_standardcharges.csv",
+    "transparency_page": "https://www.emanatehealth.org/patients-visitors/financial-resources-assistance/"
+  },
+  {
+    "detail_id": "bfcca4c5-311d-4424-9d0c-d62bb237a59e",
+    "ccn": "050599",
+    "hospital_name": "UC DAVIS MEDICAL CENTER",
+    "file_url": "https://health.ucdavis.edu/media-resources/news/documents/json/946036494_university-of-california-davis-medical-center_standardcharges.json",
+    "transparency_page": "https://health.ucdavis.edu/news/public-reporting/chargemaster"
+  },
+  {
+    "detail_id": "2cb185fb-ed87-4eae-9530-636e3781f113",
+    "ccn": "050603",
+    "hospital_name": "MEMORIALCARE SADDLEBACK MEDICAL CENTER",
+    "file_url": "https://www.memorialcare.org/sites/default/files/_images/content/Patient-Financial-Services/952585792_memorialcare-saddleback-medical-center_standardcharges.json",
+    "transparency_page": "https://www.memorialcare.org/patients-visitors/patient-financial-tools-and-resources#MRF"
+  },
+  {
+    "detail_id": "0fda7946-9c24-4f64-8279-2d1bb1d8ea6d",
+    "ccn": "050608",
+    "hospital_name": "ADVENTIST HEALTH DELANO",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbDRMCDELANOCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "77e2d7a6-2d41-484b-97fc-6556ce699c75",
+    "ccn": "050616",
+    "hospital_name": "ST. JOHN'S HOSPITAL CAMARILLO",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/941196203_st-johns-hospital-camarillo_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-coast/locations/pleasantvalley/patients-and-visitors/for-patients/billing-and-payment/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "33a1b32d-b6a0-4db4-9903-2e9201242914",
+    "ccn": "050624",
+    "hospital_name": "HENRY MAYO NEWHALL MEMORIAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/fc339dd35c58584a4313b267cb170a7d/charges/mrf",
+    "transparency_page": "https://www.henrymayo.com/patients-visitors/billing-insurance-and-financial-assistance/cost-of-care/"
+  },
+  {
+    "detail_id": "c3060121-e665-4e92-b27f-f322d4d01873",
+    "ccn": "050625",
+    "hospital_name": "CEDARS SINAI MEDICAL CENTER",
+    "file_url": "https://www.cedars-sinai.org/content/dam/cedars-sinai/billing-insurance/documents/951644600_CEDARS-SINAI-MEDICAL-CENTER_STANDARDCHARGES.json",
+    "transparency_page": "https://www.cedars-sinai.org/price-transparency.html"
+  },
+  {
+    "detail_id": "19f96337-d1ad-4e71-9452-273db184f3cd",
+    "ccn": "050633",
+    "hospital_name": "ADVENTIST HEALTH TWIN CITIES",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTCCHTEMPLETONCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Adventist_Twin_Cities.aspx"
+  },
+  {
+    "detail_id": "1ea9c9db-9d29-4ced-8ebc-ddd3591def17",
+    "ccn": "050636",
+    "hospital_name": "PALOMAR MEDICAL CENTER POWAY",
+    "file_url": "https://pricetransparency.blob.core.windows.net/palomar/956003843_Palomar-Health---Poway_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/palomar"
+  },
+  {
+    "detail_id": "a2a04c6c-d831-4b74-8363-ea2bc9abf6f8",
+    "ccn": "050641",
+    "hospital_name": "EAST LOS ANGELES DOCTORS HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8429/760594559_pipeline_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/EastLosAngelesDoctorsHospital/8429"
+  },
+  {
+    "detail_id": "d6c49ee4-25b0-4140-bfe1-8debcae6f0e5",
+    "ccn": "050660",
+    "hospital_name": "USC NORRIS COMPREHENSIVE CANCER CENTER AND HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=ksKjyMbyRELl8UdC2a3rOg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=9pu5*_*S9I3IlIh8XJQHHcBw*-*"
+  },
+  {
+    "detail_id": "290b2e4f-018a-4a0f-ac07-326de78fe98a",
+    "ccn": "050663",
+    "hospital_name": "LOS ANGELES COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7919/954691839_los-angeles-community-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/LosAngelesCommunityHospital/7919"
+  },
+  {
+    "detail_id": "dbe29c46-db85-4669-bb23-f21d4bfbfbcd",
+    "ccn": "050668",
+    "hospital_name": "LAGUNA HONDA HOSPITAL AND REHABILITATION CENTER",
+    "file_url": "https://sfdph.box.com/shared/static/9njsgvqu40m8kau5n9mqs19paeccwem5.csv",
+    "transparency_page": "https://www.sf.gov/information/laguna-honda-hospital-admission-discharge-and-price-transparency"
+  },
+  {
+    "detail_id": "4d34cd1a-89ef-4d8c-9e9c-a699d81220bd",
+    "ccn": "050678",
+    "hospital_name": "MEMORIALCARE ORANGE COAST MEDICAL CENTER",
+    "file_url": "https://www.memorialcare.org/sites/default/files/_images/content/Patient-Financial-Services/330687414_memorialcare-orange-coast-medical-center_standardcharges.json",
+    "transparency_page": "https://www.memorialcare.org/patients-visitors/patient-financial-tools-and-resources#MRF"
+  },
+  {
+    "detail_id": "660e5c75-534f-4226-baba-8ad5a5cac312",
+    "ccn": "050680",
+    "hospital_name": "NORTHBAY VACAVALLEY HOSPITAL",
+    "file_url": "https://www.northbay.org/upload/941458282_northbay-vacavalley-hospital_standardcharges.json",
+    "transparency_page": "https://www.northbay.org/patients-visitors/price-transparency.html"
+  },
+  {
+    "detail_id": "f75e3816-6e5e-4742-a994-063fa11eefa7",
+    "ccn": "050684",
+    "hospital_name": "MENIFEE GLOBAL MEDICAL CENTER",
+    "file_url": "http://www.menifeeglobalmedicalcenter.com/wp-content/uploads/2025/02/270636387_menifee-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.menifeeglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "77a8d7b6-7334-436f-9bda-55284e62cb77",
+    "ccn": "050689",
+    "hospital_name": "SAN RAMON REGIONAL MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/TenetHealth/752918809_SanRamonRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://www.sanramonmedctr.com/patients/pricing-info-estimates/hospital-pricing-information"
+  },
+  {
+    "detail_id": "3ff62b44-54c6-44fd-bfa7-6c9fa3896e13",
+    "ccn": "050696",
+    "hospital_name": "KECK HOSPITAL OF USC",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=5fSixiuBb0ZpZwZgOthF7A*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=9pu5*_*S9I3IlIh8XJQHHcBw*-*"
+  },
+  {
+    "detail_id": "80ce5237-9550-48a1-a95c-a46dc70ae2b5",
+    "ccn": "050701",
+    "hospital_name": "SOUTHWEST HEALTHCARE RANCHO SPRINGS HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/233059262_southwest-healthcare-system_standardcharges.csv",
+    "transparency_page": "https://www.southwesthealthcare.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "49755746-803f-4526-a6d3-cfac6c86f923",
+    "ccn": "050708",
+    "hospital_name": "FRESNO SURGICAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/770011624_FresnoSurgicalHospital_standardcharges.json",
+    "transparency_page": "https://fresnosurgicalhospital.com/Hospital-Pricing-Information"
+  },
+  {
+    "detail_id": "0264412e-7473-482e-b4db-13e2a3ccd8ed",
+    "ccn": "050714",
+    "hospital_name": "SUTTER MATERNITY AND SURGERY CENTER OF SANTA CRUZ",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1689035628_sutter-maternity-surgery-center-of-santa-cruz_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "65855a3f-036f-4bb6-8136-842e5a89cb1e",
+    "ccn": "050717",
+    "hospital_name": "RANCHO LOS AMIGOS NATIONAL REHAB CENTER",
+    "file_url": "https://file.lacounty.gov/SDSInter/dhs/1157356_956000927_RanchoLosAmigosNationalRehab.CenterCenter_standardcharges.csv",
+    "transparency_page": "https://dhs.lacounty.gov/patient-information/get-coverage/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "6f19f2a5-27d4-4579-9847-a996a756afcb",
+    "ccn": "050722",
+    "hospital_name": "SHARP MARY BIRCH HOSPITAL FOR WOMEN AND NEWBORNS",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/1PQg4uvL9l6bbuWauLigal/c0dfdbdff6d7d39b1c515dcaa021f25d/95-3782169_sharp-memorial-hospital_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "218733b5-7772-44e7-a3b6-b4b82f8f4155",
+    "ccn": "050724",
+    "hospital_name": "ADVENTISTHEALTH SPECIALTY BAKERSFIELD",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHBBAKERSFIELDCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "337b2674-8bb5-41e3-815a-27738bdf0026",
+    "ccn": "050735",
+    "hospital_name": "WHITTIER HOSPITAL MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-Whittier_Hosp-2298-20250107212113.csv",
+    "transparency_page": "https://www.ahmchealth.com/whmc/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "32e709af-d7b1-442a-9e9f-33bebae6177b",
+    "ccn": "050737",
+    "hospital_name": "AHMC GARFIELD MEDICAL CENTER",
+    "file_url": "https://www.ahmchealth.com/docs/510519167_ahmc-garfield-medical-center-lp-dba-garfield-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.ahmchealth.com/gmc/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "2f4668e1-6eaf-4e8a-b836-a44cfcf4209b",
+    "ccn": "050738",
+    "hospital_name": "AHMC GREATER EL MONTE COMMUNITY HOSPITAL",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-Greater_El_Monte_Community_Hosp-2278-20241231003729.csv",
+    "transparency_page": "https://www.ahmchealth.com/gemch/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "ca56c99d-a56b-4c7b-8b10-407734a46517",
+    "ccn": "050739",
+    "hospital_name": "CENTINELA HOSPITAL MEDICAL CENTER",
+    "file_url": "https://centinelamed.com/wp-content/uploads/2024/12/261150758_CentinelaHospitalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://centinelamed.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b7e2f33e-8ae1-460d-8344-96bcea101979",
+    "ccn": "050740",
+    "hospital_name": "CEDARS SINAI MARINA DEL REY HOSPITAL",
+    "file_url": "https://www.marinahospital.com/administration/media/files/201645949_CEDARS-SINAI-MARINA-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://www.marinahospital.com/price-transparency"
+  },
+  {
+    "detail_id": "a2325a22-4854-4daa-a969-99417f745ca1",
+    "ccn": "050744",
+    "hospital_name": "ANAHEIM GLOBAL MEDICAL CENTER",
+    "file_url": "https://www.anaheimglobalmedicalcenter.com/wp-content/uploads/2025/02/550883859_anaheim-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.anaheimglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "3f517cb6-ad52-47a8-ab50-7e93360c6099",
+    "ccn": "050745",
+    "hospital_name": "CHAPMAN GLOBAL MEDICAL CENTER",
+    "file_url": "http://www.chapmanglobalmedicalcenter.com/wp-content/uploads/2025/02/550883864_chapman-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.chapmanglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "e8ce3080-8c50-48c7-a94a-d794d02836bf",
+    "ccn": "050746",
+    "hospital_name": "ORANGE COUNTY GLOBAL MEDICAL CENTER",
+    "file_url": "https://orangecountyglobalmedicalcenter.com/wp-content/uploads/2025/01/550883862_orange-county-global-medical-center_standardcharges.xlsx",
+    "transparency_page": "https://orangecountyglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "d4f8bd88-3f0a-4987-918e-3f1aae838313",
+    "ccn": "050747",
+    "hospital_name": "SOUTH COAST GLOBAL MEDICAL CENTER",
+    "file_url": "https://www.southcoastglobalmedicalcenter.com/wp-content/uploads/2025/02/550883863_south-coast-global-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.southcoastglobalmedicalcenter.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "4a101982-c3f2-49f1-b7b9-65ea5618807a",
+    "ccn": "050749",
+    "hospital_name": "THOUSAND OAKS SURGICAL HOSPITAL",
+    "file_url": "https://core.secure.ehc.com/src/util/json-detail-price-list/95-2321136_los-robles-hospital-and-medical-center_standardcharges.json",
+    "transparency_page": "https://losrobleshospital.com/about/legal/pricing-transparency-cms-required-file-of-standard-charges.dot"
+  },
+  {
+    "detail_id": "799c8c84-63a1-4612-984d-46556b1932d0",
+    "ccn": "050755",
+    "hospital_name": "SHERMAN OAKS HOSPITAL",
+    "file_url": "https://shermanoakshospital.org/wp-content/uploads/2024/12/202546649_ShermanOaksHospital_standardcharges.json",
+    "transparency_page": "https://shermanoakshospital.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "777c3136-dc14-46cd-a1c3-e51c1a2223ee",
+    "ccn": "050757",
+    "hospital_name": "EAST CAMPUS MEDICAL CENTER AT UC SAN DIEGO HEALTH",
+    "file_url": "https://hsfiles.ucsd.edu/patientBilling/UC-San-Diego-Standard-Charges-956006144.json",
+    "transparency_page": "https://health.ucsd.edu/insurance-billing/standard-charges/"
+  },
+  {
+    "detail_id": "5f0481d5-73d1-499b-82e5-9573fd25ed8e",
+    "ccn": "050758",
+    "hospital_name": "MONTCLAIR HOSPITAL MEDICAL CENTER",
+    "file_url": "https://montclair-hospital.org/wp-content/uploads/2024/12/202898771_MontclairHospitalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://montclair-hospital.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "126e5515-e124-40a1-a23f-0e19cee0bc80",
+    "ccn": "050761",
+    "hospital_name": "PROVIDENCE CEDARS-SINAI TARZANA MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/833972614_providence-cedars-sinai-tarzana-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "dd725112-e62f-4bf4-97e6-821104e7569d",
+    "ccn": "050763",
+    "hospital_name": "LA DOWNTOWN MEDICAL CENTER",
+    "file_url": "https://ladowntownmc.com/downloads/841913047_LA-DOWNTOWN-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://ladowntownmc.com/estimator/pricing.html"
+  },
+  {
+    "detail_id": "3e870cbb-b3af-44a8-8cda-47894a286e31",
+    "ccn": "050764",
+    "hospital_name": "SHASTA REGIONAL MEDICAL CENTER",
+    "file_url": "https://shastaregional.com/wp-content/uploads/2024/12/263487583_ShastaRegionalMedicalCenter_standardcharges.json",
+    "transparency_page": "https://shastaregional.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "454396be-9463-412d-b081-4f3707576d2b",
+    "ccn": "050766",
+    "hospital_name": "SUTTER SURGICAL HOSPITAL NORTH VALLEY",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/352182617-1336333954_sutter-north-valley-surgical-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "0d1edc70-eb9f-4642-9205-f051175f9ea2",
+    "ccn": "050769",
+    "hospital_name": "HOAG HOSPITAL IRVINE",
+    "file_url": "https://upload.cdn-hoag.org/wp-content/uploads/2025/07/09124439/951643327_hoag-memorial-hospital-presbyterian_standardcharges.csv",
+    "transparency_page": "https://www.hoag.org/patients-visitors/billing-information/"
+  },
+  {
+    "detail_id": "76f36229-b90a-4a91-bb34-154f99d7a21a",
+    "ccn": "050769",
+    "hospital_name": "HOAG ORTHOPEDIC INSTITUTE",
+    "file_url": "https://www.hoagorthopedicinstitute.com/documents/611588294_hoag-orthopedic-institute_standardcharges.csv",
+    "transparency_page": "https://www.hoagorthopedicinstitute.com/for-patients/billing-and-insurance/"
+  },
+  {
+    "detail_id": "5606fbcf-082d-4e62-acd8-5cae8592b798",
+    "ccn": "050770",
+    "hospital_name": "LOMA LINDA UNIVERSITY MEDICAL CENTER-MURRIETA",
+    "file_url": "https://pricetransparency.healthcare/llu-murrieta/charges/export",
+    "transparency_page": "https://lluh.org/patients-visitors/patients/patient-rights-notices/price-transparency"
+  },
+  {
+    "detail_id": "da99e3a6-7ea5-4d95-ad67-e07c831f78f8",
+    "ccn": "050771",
+    "hospital_name": "COAST PLAZA HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8428/451738512_pipeline_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/CoastPlazaHospital/8428"
+  },
+  {
+    "detail_id": "b59b38b8-2852-4991-90a5-4658e76a0960",
+    "ccn": "050773",
+    "hospital_name": "SAN LEANDRO HOSPITAL",
+    "file_url": "https://www.alamedahealthsystem.org/wp-content/uploads/pricing/943302014_san-leandro-hospital_standardcharges.csv",
+    "transparency_page": "https://www.alamedahealthsystem.org/price-transparency/"
+  },
+  {
+    "detail_id": "465784d2-5590-48bc-b223-123bb4045241",
+    "ccn": "050775",
+    "hospital_name": "TEMECULA VALLEY HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/461246570_temecula-valley-hospital_standardcharges.csv",
+    "transparency_page": "https://www.swhtemeculavalley.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "d4c3b200-a161-454c-9955-5f5851e47dca",
+    "ccn": "050776",
+    "hospital_name": "COLLEGE MEDICAL CENTER",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=c03ea0e53387f2e22f8262e5ee5ac871e45c53fb6ce9ca014b7159b7175da354",
+    "transparency_page": "https://collegemedicalcenter.com/price-transparency/"
+  },
+  {
+    "detail_id": "8c5b617b-63c3-47ec-a79f-08a257fd2b98",
+    "ccn": "050778",
+    "hospital_name": "LOMA LINDA UNIVERSITY CHILDREN'S HOSPITAL",
+    "file_url": "https://pricetransparency.healthcare/llu-ch/charges/export",
+    "transparency_page": "https://lluh.org/patients-visitors/patients/patient-rights-notices/price-transparency"
+  },
+  {
+    "detail_id": "5d1ccae2-91be-44c7-835a-d59df9795442",
+    "ccn": "050779",
+    "hospital_name": "MARTIN LUTHER KING, JR. COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7906/274658935_martin-luther-king%2C-jr-los-angeles-mlkla-healthcare-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MartinLutherKingJrCommunityHospital/7906"
+  },
+  {
+    "detail_id": "4a0751aa-4810-4904-be43-9475c8fff38f",
+    "ccn": "050780",
+    "hospital_name": "FOOTHILL REGIONAL MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7918/300804393_prospect-medical-holdings-foothill_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FoothillRegionalMedicalCenter/7918"
+  },
+  {
+    "detail_id": "b79068b0-6781-4cf1-9dc4-8f205295788f",
+    "ccn": "050782",
+    "hospital_name": "CASA COLINA HOSPITAL AND CENTERS FOR HEALTHCARE",
+    "file_url": "https://www.casacolina.org/documents/content/95-1643989_Casa-Colina-Hospital-and-Centers-for-Healthcare_standardcharges-03-2025.csv",
+    "transparency_page": "https://www.casacolina.org/patients-families/hospital-charges/"
+  },
+  {
+    "detail_id": "ef572098-ae42-4ade-86a2-6ead2a93e275",
+    "ccn": "050783",
+    "hospital_name": "COLUSA MEDICAL CENTER-ACUTE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCRMCCOLUSACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AmericanAdvancedColusa.aspx"
+  },
+  {
+    "detail_id": "33b2fcc3-8b7f-453f-b93f-8585e9e39e95",
+    "ccn": "050784",
+    "hospital_name": "ADVENTIST HEALTH TULARE REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHTTULARECA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "bceb1afe-3849-49ed-ad19-2b0d59775057",
+    "ccn": "051300",
+    "hospital_name": "EASTERN PLUMAS HEALTH CARE",
+    "file_url": "https://www.ephc.org/documents/EPHC-charge-master.csv",
+    "transparency_page": "https://www.ephc.org/price-transparency.php"
+  },
+  {
+    "detail_id": "19ffed1c-fa79-4cd3-941d-164e1a52aa15",
+    "ccn": "051301",
+    "hospital_name": "ADVENTIST HEALTH TEHACHAPI VALLEY",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTHTEHACHAPICA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "ed711899-6a87-4eb1-bb1a-1b35691203e4",
+    "ccn": "051303",
+    "hospital_name": "MAMMOTH HOSPITAL",
+    "file_url": "https://mammothhospital.org/wp-content/uploads/2025/07/95-3154560_SouthernMonoHealthcareDistrictdbaMammothHospital_standardcharges.csv",
+    "transparency_page": "https://mammothhospital.org/home/patients-visitors/billing/"
+  },
+  {
+    "detail_id": "ad374481-d702-4587-a77f-b2047a8acb95",
+    "ccn": "051305",
+    "hospital_name": "MAYERS MEMORIAL HEALTHCARE DISTRICT",
+    "file_url": "https://www.mayersmemorial.com/docs/FY23_Charges.csv",
+    "transparency_page": "https://www.mayersmemorial.com/getpage.php?name=dtp"
+  },
+  {
+    "detail_id": "836593d6-8e26-4ad7-ad18-ee796b30e9d8",
+    "ccn": "051307",
+    "hospital_name": "CATALINA ISLAND MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCIMCAVALONCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Catalina_V2.aspx"
+  },
+  {
+    "detail_id": "349706d1-ea0d-40a6-9568-d44b199548c2",
+    "ccn": "051308",
+    "hospital_name": "SURPRISE VALLEY COMMUNITY HOSPITAL",
+    "file_url": "https://drive.google.com/file/d/1i8VLp6mat3yGdE69gCIK7aN2J3gClE_E/view",
+    "transparency_page": "https://sites.google.com/view/svhealthcaredistrict/price-transparency"
+  },
+  {
+    "detail_id": "902ac1ab-8ce4-408d-82a6-31397f335b86",
+    "ccn": "051310",
+    "hospital_name": "ADVENTIST HEALTH HOWARD MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHHMWILLITSCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "51302917-9ef7-4373-96c2-8a9a0f4d25f5",
+    "ccn": "051311",
+    "hospital_name": "ORCHARD HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOHGRIDLEYCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Orchard_V2.aspx"
+  },
+  {
+    "detail_id": "efc397e1-9bb1-42a7-a30e-dd7b9c1383eb",
+    "ccn": "051312",
+    "hospital_name": "MOUNTAINS COMMUNITY HOSPITAL",
+    "file_url": "https://mountains.pt.panaceainc.com/MRFDownload/mountains/mountainscommunityhospital",
+    "transparency_page": "https://www.mchcares.com/price-transparency/"
+  },
+  {
+    "detail_id": "2b7eac51-0441-49a2-8db9-02ccf8a118a9",
+    "ccn": "051314",
+    "hospital_name": "KERN VALLEY HEALTHCARE DISTRICT",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKVHDLAKEISABELLACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kern_Valley.aspx"
+  },
+  {
+    "detail_id": "e74e402e-2fc1-4243-a915-b910c326767d",
+    "ccn": "051315",
+    "hospital_name": "MOUNTAIN COMMUNITIES HEALTHCARE DISTRICT",
+    "file_url": "blob:https://www.mcmedical.org/c0801b09-d44e-47bb-8dae-3248bdd50079",
+    "transparency_page": "https://www.mcmedical.org/price-transparency"
+  },
+  {
+    "detail_id": "85d3a994-c610-4bcb-bfcc-61b8e1f69697",
+    "ccn": "051316",
+    "hospital_name": "FAIRCHILD MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFMCYREKACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/FairChild.aspx"
+  },
+  {
+    "detail_id": "9fddd728-8341-4acd-9ec6-66f973936e95",
+    "ccn": "051317",
+    "hospital_name": "ADVENTIST HEALTH CLEAR LAKE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHCLCLEARLAKECA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "19c0dcee-d42f-4d29-a270-1b2c504ee959",
+    "ccn": "051318",
+    "hospital_name": "PROVIDENCE REDWOOD MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-redwood-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "c1ebbc43-dd27-4926-85e1-72ad545dfcdc",
+    "ccn": "051319",
+    "hospital_name": "MERCY MEDICAL CENTER MT. SHASTA",
+    "address": "914 PINE STREET, BOX 239",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/northern-california/json/941196203_mercy-medical-center-mt-shasta_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/north-state/locations/mercy-mtshasta/patients-and-visitors/for-patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "f3574f8c-ead8-4a68-beaf-61b7d734de82",
+    "ccn": "051320",
+    "hospital_name": "BANNER LASSEN MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/680422620_banner-lassen-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "daba002e-cff0-46dd-ba93-69abbd90989f",
+    "ccn": "051324",
+    "hospital_name": "NORTHERN INYO HEALTHCARE DISTRICT",
+    "file_url": "https://www.nih.org/documents/956005449_northern-inyo-hospital_standardcharges.csv",
+    "transparency_page": "https://www.nih.org/resources/price-transparency/"
+  },
+  {
+    "detail_id": "9bbc1681-6dbd-4e5b-8233-965be3c02c29",
+    "ccn": "051325",
+    "hospital_name": "ADVENTIST HEALTH MENDOCINO COAST",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCDHFORTBRAGGCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "690e1314-a3b6-4a6c-bb85-feb623c26959",
+    "ccn": "051326",
+    "hospital_name": "PLUMAS DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPDHQUINCYCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Plumas_V2.aspx"
+  },
+  {
+    "detail_id": "8ce1d1ae-56d5-413f-a5b1-cb6cc0df4f19",
+    "ccn": "051327",
+    "hospital_name": "SENECA HEALTHCARE DISTRICT",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSDHCHESTERCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Seneca_V4.aspx#"
+  },
+  {
+    "detail_id": "bf80b63e-8c04-4d30-93f1-77a7a36addad",
+    "ccn": "051328",
+    "hospital_name": "TAHOE FOREST HOSPITAL",
+    "address": "10121 PINE STREET, POB 759",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTFHDTruckeeCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/TahoeForest_V3.aspx"
+  },
+  {
+    "detail_id": "362bfb3b-6fff-469f-a4a4-a05441ca8140",
+    "ccn": "051329",
+    "hospital_name": "SUTTER LAKESIDE HOSPITAL",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/940562680-1952634008_sutter-lakeside-hospital_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "6cc3e53d-0c68-4706-8644-78b67cfeb795",
+    "ccn": "051330",
+    "hospital_name": "MODOC MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMMCALTURASCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Modoc_Medical_Center.aspx"
+  },
+  {
+    "detail_id": "0a2197c6-27b8-41d7-adbf-cddae5535a40",
+    "ccn": "051332",
+    "hospital_name": "MARK TWAIN MEDICAL CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/680127677_mark-twain-medical-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/marktwainmedical/patients-and-visitors/patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "4335b142-440a-4db6-b78d-dc6c0c2ec598",
+    "ccn": "051334",
+    "hospital_name": "COMMUNITY MEMORIAL HOSPITAL - OJAI",
+    "file_url": "https://www.mycmh.org/documents/951683892_community-memorial-healthcare-ventura_standardcharges.csv.csv",
+    "transparency_page": "https://www.mycmh.org/patients-visitors/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "d9798876-42b1-4aee-ac29-b0b18e25cfcc",
+    "ccn": "051335",
+    "hospital_name": "BEAR VALLEY COMMUNITY HOSPITAL",
+    "file_url": "https://bvchd.com/wp-content/uploads/2024/09/330294751_BEAR-VALLEY-COMMUNITY-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://bvchd.com/for-patients/price-transparency/"
+  },
+  {
+    "detail_id": "afc8447b-4007-4f1e-87fc-0d58a56e8644",
+    "ccn": "051336",
+    "hospital_name": "MEE MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbMeeMemorial&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mee_V2.aspx"
+  },
+  {
+    "detail_id": "93d8d111-b513-43b0-aaa8-74b28de01a35",
+    "ccn": "051337",
+    "hospital_name": "HAZEL HAWKINS MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHHMHHOLLISTERCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hazel_V2.aspx"
+  },
+  {
+    "detail_id": "f1bdfe3e-706a-4e3e-b6f8-2ed6d5f39de9",
+    "ccn": "051338",
+    "hospital_name": "COALINGA REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCRMCCOALINGACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AmericanAdvancedCoalinga.aspx"
+  },
+  {
+    "detail_id": "4fcbfada-1e2c-452a-9c73-50d1715f344c",
+    "ccn": "051339",
+    "hospital_name": "PALO VERDE HOSPITAL",
+    "file_url": "https://www.paloverdehospital.org/DocumentCenter/View/211",
+    "transparency_page": "https://www.paloverdehospital.org/124/PaymentBilling"
+  },
+  {
+    "detail_id": "24ae346f-c9d7-41b1-9de7-a6e29bc4fe37",
+    "ccn": "052031",
+    "hospital_name": "BARLOW RESPIRATORY HOSPITAL",
+    "file_url": "https://www.barlowhospital.org/documents/content/BARLOW-CDM-PRICE-TRANSPARENCY.xlsx",
+    "transparency_page": "https://www.barlowhospital.org/for-physicians/"
+  },
+  {
+    "detail_id": "44c8d95b-3869-4b2a-9741-816144cbbbe5",
+    "ccn": "052032",
+    "hospital_name": "KINDRED HOSPITAL LOS ANGELES",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=sfjRzZ*_*rd4YvmrrUvTJxbg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=sfjRzZ*_*rd4YvmrrUvTJxbg*-*"
+  },
+  {
+    "detail_id": "5d72539c-dbff-4118-baaf-272ceaebd27d",
+    "ccn": "052033",
+    "hospital_name": "VIBRA HOSPITAL OF SACRAMENTO",
+    "file_url": "https://vhsacramento.com/wp-content/uploads/sites/34/2025/09/462632244_vibra-hopital-of-sacramento_standardcharges.csv",
+    "transparency_page": "https://vhsacramento.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "17511265-8151-4709-a501-a78ac5b90936",
+    "ccn": "052034",
+    "hospital_name": "KINDRED HOSPITAL SAN FRANCISCO BAY AREA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=sOTH2lETFx7uPyLW0w2VfQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=sOTH2lETFx7uPyLW0w2VfQ*-*"
+  },
+  {
+    "detail_id": "5b92f2f6-3fb0-4df9-8539-9846de0f6c58",
+    "ccn": "052035",
+    "hospital_name": "KINDRED HOSPITAL WESTMINSTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=00N*_*DvigfdWnpkT*__*UybSRQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=00N*_*DvigfdWnpkT*__*UybSRQ*-*"
+  },
+  {
+    "detail_id": "644a653c-98d0-4f9e-b071-f1efa8c5b217",
+    "ccn": "052036",
+    "hospital_name": "KINDRED HOSPITAL SAN DIEGO",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=KbpF*__*gXMyZOR4N*__*7IM3qYA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=KbpF*__*gXMyZOR4N*__*7IM3qYA*-*"
+  },
+  {
+    "detail_id": "0649a072-acfd-4cdf-8ff5-3a6e790c5e0e",
+    "ccn": "052037",
+    "hospital_name": "KINDRED HOSPITAL ONTARIO",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=UYy32en5uMsEzLZKsWkYSQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=UYy32en5uMsEzLZKsWkYSQ*-*"
+  },
+  {
+    "detail_id": "636ce16e-da13-4616-a35f-9191db7ea9b2",
+    "ccn": "052038",
+    "hospital_name": "KINDRED HOSPITAL LA MIRADA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=2fxgBZOAr6rLO5JigCHRrw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=2fxgBZOAr6rLO5JigCHRrw*-*"
+  },
+  {
+    "detail_id": "fa424d87-e4da-4163-915a-5f9c429f0912",
+    "ccn": "052039",
+    "hospital_name": "KINDRED HOSPITAL BREA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=D6z3SsUBiiOS9RRgqbgO5w*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=D6z3SsUBiiOS9RRgqbgO5w*-*"
+  },
+  {
+    "detail_id": "5850876a-d0d8-487e-9f14-0d4d644e2544",
+    "ccn": "052043",
+    "hospital_name": "KENTFIELD HOSPITAL",
+    "file_url": "https://kentfieldhospital.org/932713167_kentfield-hospital_standardcharges.csv",
+    "transparency_page": "https://kentfieldhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "b7a14e26-0dae-4d81-a24b-fdfb610fd590",
+    "ccn": "052044",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - SAN DIEGO",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/26-1466122_Select_Specialty_Hospital-San_Diego_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "80ef3048-a3a8-4b7c-b690-6d55e259e258",
+    "ccn": "052045",
+    "hospital_name": "KINDRED HOSPITAL BALDWIN PARK",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=3M2fBsf9vRz1ZdbwYKNHBg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=3M2fBsf9vRz1ZdbwYKNHBg*-*"
+  },
+  {
+    "detail_id": "3a6d09bf-4ad8-4c3d-b158-592a6e60945e",
+    "ccn": "052046",
+    "hospital_name": "KINDRED HOSPITAL PARAMOUNT",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=hQX58XjOlegqPIRshj7Abw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=hQX58XjOlegqPIRshj7Abw*-*"
+  },
+  {
+    "detail_id": "5aae1922-5073-404c-ab30-242b4055158d",
+    "ccn": "052047",
+    "hospital_name": "VIBRA HOSPITAL OF NORTHERN CALIFORNIA",
+    "file_url": "https://norcalrehab.com/wp-content/uploads/sites/30/2025/09/202995340_vibra-hospital-of-northern-california_standardcharges.csv",
+    "transparency_page": "https://norcalrehab.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "b3f669ef-d3ac-4c32-b4da-548cd0617663",
+    "ccn": "052049",
+    "hospital_name": "KINDRED HOSPITAL RANCHO",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=1cgHkGTTDp4y1*__*iJPNaJFQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=1cgHkGTTDp4y1*__*iJPNaJFQ*-*"
+  },
+  {
+    "detail_id": "3b9650b3-aea4-4d4f-b518-ed9a63eec5f2",
+    "ccn": "052050",
+    "hospital_name": "KINDRED HOSPITAL SOUTH BAY",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Grf*_*4s0nvNLCTlUupwN0kw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=Grf*_*4s0nvNLCTlUupwN0kw*-*"
+  },
+  {
+    "detail_id": "5e5ed1c6-20a3-4d30-886f-25ef7e04664b",
+    "ccn": "052052",
+    "hospital_name": "KINDRED HOSPITAL RIVERSIDE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=YmbPGMbcEpsgT0BKTJ2zrQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=YmbPGMbcEpsgT0BKTJ2zrQ*-*"
+  },
+  {
+    "detail_id": "83d64c11-c8e6-4c5e-8cb2-88c6f50d16c7",
+    "ccn": "052054",
+    "hospital_name": "MONROVIA MEMORIAL HOSPITAL",
+    "file_url": "https://monroviamemorial.com/wp-content/uploads/2024/07/421621455_MonroviaMemorialHospital_standardcharges.csv",
+    "transparency_page": "https://monroviamemorial.com/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "fcb63c18-1a1e-42d5-b62f-48e0455114b3",
+    "ccn": "052055",
+    "hospital_name": "CENTRAL VALLEY SPECIALTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCVSHMODESTOCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AmericanAdvancedCentral.aspx"
+  },
+  {
+    "detail_id": "d59e09f0-c849-4089-b191-c4609fa741fd",
+    "ccn": "052056",
+    "hospital_name": "KENTFIELD HOSPITAL SAN FRANCISCO",
+    "file_url": "https://kentfieldsanfrancisco.org/wp-content/uploads/2025/11/932713167_kentfield-hospital-san-francisco_standardcharges.csv",
+    "transparency_page": "https://kentfieldsanfrancisco.org/price-transparency/"
+  },
+  {
+    "detail_id": "ee528670-2d17-4353-b78b-c6b48a9ea239",
+    "ccn": "052057",
+    "hospital_name": "SONOMA SPECIALTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSSHSEBASTOPOLCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/AmericanAdvancedSonoma.aspx"
+  },
+  {
+    "detail_id": "0aa360b6-dc9d-4aad-95b6-364153891e01",
+    "ccn": "053031",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF BAKERSFIELD",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/631184845_Encompass-Health-Rehabilitation-Hospital-of-Bakersfield_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/bakersfieldrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "0ee55b16-fae1-4bda-a50c-04bd0ab7647f",
+    "ccn": "053032",
+    "hospital_name": "SAN JOAQUIN VALLEY REHABILITATION HOSPITAL",
+    "file_url": "https://sjvrehab.com/wp-content/uploads/sites/15/2025/09/030501943_san-joaquin-valley-rehab_standardcharges.csv",
+    "transparency_page": "https://sjvrehab.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "47139c90-0d9b-4409-9470-8575c78f1380",
+    "ccn": "053034",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF TUSTIN",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/330695017_Encompass-Health-Rehabilitation-Hospital-of-Tustin_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/tustinrehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "ed909523-d1b6-4ad8-91f0-810e63581f98",
+    "ccn": "053037",
+    "hospital_name": "BALLARD REHABILITATION HOSPITAL",
+    "file_url": "https://ballardrehab.com/wp-content/uploads/sites/4/2025/09/261465945_Ballard-Rehab-Hospital_standardcharges.csv",
+    "transparency_page": "https://ballardrehab.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "aa25bc7d-1972-405c-9b73-b734422c714b",
+    "ccn": "053038",
+    "hospital_name": "TOTALLY KIDS REHABILITATION CENTER",
+    "file_url": "https://totallykids.com/wp-content/uploads/2025/03/Machine-Readable-CSV.csv",
+    "transparency_page": "https://totallykids.com/legal-and-notices/price-transparency/"
+  },
+  {
+    "detail_id": "1f0c876e-ba3f-4426-96ec-cb27eda5bc10",
+    "ccn": "053039",
+    "hospital_name": "CALIFORNIA REHABILITATION INSTITUTE",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/inpatient-rehabilitation/61-1725865_California_Rehab_Institute_standardcharges.csv",
+    "transparency_page": "https://www.californiarehabinstitute.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "f97bff24-bbdf-4776-8787-68d5178f4631",
+    "ccn": "053040",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MODESTO",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/464417320_Encompass-Health-Rehabilitation-Hospital-of-Modesto_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/modestorehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "3fdb989e-2295-4781-a226-445c12f95d04",
+    "ccn": "053041",
+    "hospital_name": "REHABILITATION HOSPITAL OF SOUTHERN CALIFORNIA",
+    "file_url": "https://rhsc.ernesthealth.com/wp-content/uploads/sites/39/2024/12/811012327_Rehabilitation-Hospital-of-Southern-CA_Standard-Charges.csv",
+    "transparency_page": "https://rhsc.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "236fb030-2aad-4dfb-8f7d-8e302144960a",
+    "ccn": "053042",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF MURRIETA",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/823473130_Encompass-Health-Rehabilitation-Hospital-of-Murrieta_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/murrietarehab/transparency-healthcare"
+  },
+  {
+    "detail_id": "8630cf79-b21c-4bb0-aded-aa184bc8b521",
+    "ccn": "053300",
+    "hospital_name": "VALLEY CHILDREN'S HOSPITAL",
+    "file_url": "https://www.valleychildrens.org/sites/default/files/2025-10/941294954_Valley-Childrens-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.valleychildrens.org/your-visit/billing-and-insurance/financial-assistance/cost-estimates"
+  },
+  {
+    "detail_id": "7afa338a-f229-4bb3-ba1a-84442b6085e7",
+    "ccn": "053301",
+    "hospital_name": "UCSF BENIOFF CHILDRENS HOSPITAL AND RESEARCH CTR AT OAKLAND",
+    "file_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=pkobyi0jmi5a4ybe6wu06bk99lki5qnu&file_id=f_1959275788430",
+    "transparency_page": "https://www.ucsfbenioffchildrens.org/billing-and-insurance/pricing-transparency"
+  },
+  {
+    "detail_id": "d0e5e401-ff4c-4567-abfd-ad1f720300a9",
+    "ccn": "053303",
+    "hospital_name": "RADY CHILDREN'S HOSPITAL - SAN DIEGO",
+    "file_url": "https://www.rchsd.org/wp-content/uploads/2025/06/95-1691313_rady-children-_s-hospital-san-diego_standardcharges.csv",
+    "transparency_page": "https://www.rchsd.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "4b1685a4-40b5-402b-890f-f14a423d0638",
+    "ccn": "053304",
+    "hospital_name": "CHOC HOSPITAL MAIN CAMPUS \u2013 ORANGE",
+    "file_url": "https://choc.org/files/charges/952321786_Childrens-Hospital-of-Orange_standardcharges.csv",
+    "transparency_page": "https://choc.org/patients/billing/price-transparency/"
+  },
+  {
+    "detail_id": "9640dd33-53df-49d0-8f81-cea2c22c1524",
+    "ccn": "053305",
+    "hospital_name": "LUCILE PACKARD CHILDREN\u2019S HOSPITAL STANFORD",
+    "file_url": "https://www.stanfordchildrens.org/content/dam/sch/config-public/charges/01302025-mrf-lucile-packard-childrens-hospital-stanford.json",
+    "transparency_page": "https://www.stanfordchildrens.org/en/patients-families/finance-assistance/pricing-transparency.html"
+  },
+  {
+    "detail_id": "207ef62d-260e-47de-a454-d6b57f90cfab",
+    "ccn": "053306",
+    "hospital_name": "CHILDREN'S HOSPITAL AT MISSION",
+    "address": "27700 MEDICAL CTR. RD., 5TH FL",
+    "file_url": "https://choc.org/files/charges/330528802_Childrens-Hospital-at-Mission_standardcharges.csv",
+    "transparency_page": "https://choc.org/patients/billing/price-transparency/"
+  },
+  {
+    "detail_id": "a87804f9-260d-4f6b-934c-5ec447eeca45",
+    "ccn": "053306",
+    "hospital_name": "CHILDREN'S HOSPITAL AT MISSION",
+    "address": "27700 MEDICAL CTR. RD., 5TH FL",
+    "file_url": "https://choc.org/files/charges/330528802_Childrens-Hospital-at-Mission_standardcharges.csv",
+    "transparency_page": "https://choc.org/patients/billing/price-transparency/"
+  },
+  {
+    "detail_id": "94db303c-a3cd-435d-aa0d-76afd92023e4",
+    "ccn": "053306",
+    "hospital_name": "CHILDREN'S HOSPITAL AT MISSION",
+    "address": "27700 MEDICAL CTR. RD., 5TH FL",
+    "file_url": "https://choc.org/files/charges/330528802_Childrens-Hospital-at-Mission_standardcharges.csv",
+    "transparency_page": "https://choc.org/patients/billing/price-transparency/"
+  },
+  {
+    "detail_id": "2d53c93e-d432-4662-a400-ce22564d3bdb",
+    "ccn": "053308",
+    "hospital_name": "HEALTHBRIDGE CHILDREN'S HOSPITAL-ORANGE",
+    "file_url": "https://healthbridgekids.pt.panaceainc.com/MRFDownload/healthbridgekids/healthbridgekids",
+    "transparency_page": "https://healthbridgekids.com/locations/orange-county-ca-region-pediatric-hospital/#price-transparency"
+  },
+  {
+    "detail_id": "1f60af06-9651-41d1-9c91-682f03a7e937",
+    "ccn": "053309",
+    "hospital_name": "MEMORIALCARE MILLER CHILDRENS AND WOMENS HOSPITAL",
+    "file_url": "https://www.memorialcare.org/sites/default/files/_images/content/Patient-Financial-Services/953527031-1962442012_memorialcare-miller-children-_s-%26-women-_s-hospital-long-beach_standardcharges.json",
+    "transparency_page": "https://www.memorialcare.org/patients-visitors/patient-financial-tools-and-resources#MRF"
+  },
+  {
+    "detail_id": "93d3e47f-7fd0-4aa7-a539-e4d5768acf80",
+    "ccn": "053311",
+    "hospital_name": "SHRINERS HOSPITALS FOR CHILDREN NORTHERN CALIF.",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/82f7c2f5b9cfc8c957f18f792ad43572/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/82f7c2f5b9cfc8c957f18f792ad43572"
+  },
+  {
+    "detail_id": "83b2c5ac-04ad-4878-92d1-7b21a6df3e20",
+    "ccn": "054009",
+    "hospital_name": "UCLA RESNICK NEUROPSYCHIATRIC HOSPITAL",
+    "file_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/953701255_resnick-neuropsychiatric-hospital-at-ucla_standardcharges.json",
+    "transparency_page": "https://www.uclahealth.org/patient-resources/billing-insurance/price-transparency/machine-readable-files"
+  },
+  {
+    "detail_id": "4613640f-e234-468a-bec0-65ebe9d68266",
+    "ccn": "054028",
+    "hospital_name": "GATEWAYS HOSPITAL AND MENTAL HEALTH CENTER",
+    "file_url": "https://www.gatewayshospital.org/wp-content/uploads/2025/10/95-1691011_gateways-hospital-and-mental-health-center_standardcharges.csv",
+    "transparency_page": "https://www.gatewayshospital.org/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "9172760d-6afd-4ff0-94e0-617c52f3c0f4",
+    "ccn": "054032",
+    "hospital_name": "BHC ALHAMBRA HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658521_alhambra_standardcharges.csv",
+    "transparency_page": "https://www.bhcalhambra.com/standard-services/"
+  },
+  {
+    "detail_id": "097be62f-255f-48d7-9137-6f4719394255",
+    "ccn": "054053",
+    "hospital_name": "DEL AMO BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232646424_del-amo_standardcharges.csv",
+    "transparency_page": "https://delamobehavioralhealth.com/standard-services/"
+  },
+  {
+    "detail_id": "423b0754-a6d4-4f7f-bfc2-e26d8e56c29f",
+    "ccn": "054069",
+    "hospital_name": "AURORA CHARTER OAK",
+    "file_url": "https://www.charteroakhospital.com/Standard_Charges.csv",
+    "transparency_page": "https://www.charteroakhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "2e2a70d3-f0a3-4a38-baf2-c541ecd71d63",
+    "ccn": "054074",
+    "hospital_name": "ADVENTIST HEALTH VALLEJO",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHSHSAINTHELENACA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "8c97449d-be23-4cd0-ad65-4dad9634e391",
+    "ccn": "054077",
+    "hospital_name": "VISTA DEL MAR HOSPITAL",
+    "file_url": "https://www.vistadelmarhospital.com/sites/default/files/vista/Standard%20Charges.xls",
+    "transparency_page": "https://www.vistadelmarhospital.com/standard-services"
+  },
+  {
+    "detail_id": "2282a128-0474-459f-aab5-eabab4f8ce17",
+    "ccn": "054078",
+    "hospital_name": "AURORA LAS ENCINAS HOSPITAL, LLC",
+    "file_url": "https://www.lasencinashospital.com/sites/default/files/32-0039155_Aurora%20Las%20Encinas%20LLC_standardcharges_1.csv",
+    "transparency_page": "https://www.lasencinashospital.com/resources/external-links"
+  },
+  {
+    "detail_id": "5b82b11e-815f-4118-b558-5913b82cb3f6",
+    "ccn": "054083",
+    "hospital_name": "KEDREN COMMUNITY MENTAL HEALTH CENTER",
+    "file_url": "https://www.kedren.org/wp-content/uploads/2025/12/95-2459796_kedren_health_standardcharges-1.csv",
+    "transparency_page": "https://www.kedren.org/hospital-price-transparency/"
+  },
+  {
+    "detail_id": "cf9b6ee1-5607-4643-acee-e729b8a826ca",
+    "ccn": "054087",
+    "hospital_name": "SIERRA VISTA HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658512_sierra-vista_standardcharges.csv",
+    "transparency_page": "https://sierravistahospital.com/standard-services/"
+  },
+  {
+    "detail_id": "b1035dbf-4486-4e5c-9160-17bf767eae17",
+    "ccn": "054089",
+    "hospital_name": "SAN FRANCISCO CAMPUS FOR JEWISH LIVING",
+    "file_url": "https://sfcjl.org/images/940545320_Hebrew-Home-For-Aged-Disabled_SNFStandardCharges.csv",
+    "transparency_page": "http://sfcjl.org/about-admission-information.htm"
+  },
+  {
+    "detail_id": "e6a1515d-0fb7-4167-a0fb-39a900b0701d",
+    "ccn": "054093",
+    "hospital_name": "LOMA LINDA UNIVERSITY BEHAVIORAL MEDICINE CENTER",
+    "file_url": "https://pricetransparency.healthcare/llu-bmc/charges/export",
+    "transparency_page": "https://lluh.org/patients-visitors/patients/patient-rights-notices/price-transparency"
+  },
+  {
+    "detail_id": "9921c434-52d8-4f86-a699-8e2ba2b58240",
+    "ccn": "054095",
+    "hospital_name": "AURORA SAN DIEGO",
+    "file_url": "https://www.aurorasandiego.com/sites/default/files/943369426_aurora-san-diego_standardcharges.csv",
+    "transparency_page": "https://www.aurorasandiego.com/standard-services"
+  },
+  {
+    "detail_id": "5c85f1be-4510-47ee-9118-eae82df1287c",
+    "ccn": "054096",
+    "hospital_name": "SUTTER CENTER FOR PSYCHIATRY",
+    "file_url": "https://www.sutterhealth.org/-/media/Project/SutterHealth/SutterHealth/files/billing-insurance/costs-and-charges/941156621-1952350944_sutter-center-for-psychiatry_standardcharges.csv",
+    "transparency_page": "https://www.sutterhealth.org/billing-insurance/costs-and-charges/cost-transparency"
+  },
+  {
+    "detail_id": "81d0044b-7ff3-4ebe-9093-5dc8bdae6579",
+    "ccn": "054104",
+    "hospital_name": "HERITAGE OAKS HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658494_heritage-oaks_standardcharges.csv",
+    "transparency_page": "https://heritageoakshospital.com/standard-services/"
+  },
+  {
+    "detail_id": "6a7b0cf0-0130-48af-b2cc-2dbac97925a2",
+    "ccn": "054110",
+    "hospital_name": "FREMONT HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658532_fremont_standardcharges.csv",
+    "transparency_page": "https://fremonthospital.com/standard-services/"
+  },
+  {
+    "detail_id": "52b36464-2385-4b49-9ad2-d425744d218d",
+    "ccn": "054111",
+    "hospital_name": "CANYON RIDGE HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/202935031_canyon-ridge_standardcharges.csv",
+    "transparency_page": "https://canyonridgehospital.com/standard-services/"
+  },
+  {
+    "detail_id": "32eb0cb6-f50f-439a-9732-1fea19bc41db",
+    "ccn": "054123",
+    "hospital_name": "ST. JOSEPH'S BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southern-california/json/465322209_st-josephs-behavioral-health-center_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/central-california/locations/stjosephsbehavioral/patients-and-visitors/patients/billing-information/hospital-pricing-transparency"
+  },
+  {
+    "detail_id": "69097886-5616-41a0-832e-3b39ca386724",
+    "ccn": "054130",
+    "hospital_name": "PACIFIC GROVE HOSPITAL",
+    "file_url": "https://www.pacificgrovehospital.com/wp-content/uploads/pricing/2025/208/80-0951740_Vista-Behavioral-Hospital-LLC_StandardCharges.csv",
+    "transparency_page": "https://www.pacificgrovehospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "c4d86ba5-ed3e-4590-96d7-527e092091e1",
+    "ccn": "054131",
+    "hospital_name": "JOHN MUIR BEHAVIORAL HEALTH CENTER",
+    "file_url": "https://www.johnmuirhealth.com/content/dam/jmh/Documents/payments-and-insurance/machine-readable-files/68-0249685-1215962782_John-Muir-Health-Behavioral-Health-Center_standardcharges.zip",
+    "transparency_page": "https://www.johnmuirhealth.com/patients-and-visitors/payment-and-insurance/cost-estimator.html"
+  },
+  {
+    "detail_id": "02acb3ed-7d4a-40fa-825c-2f139f30392c",
+    "ccn": "054144",
+    "hospital_name": "UCSF LANGLEY PORTER PSYCHIATRIC HOSPITAL",
+    "address": "1600 DIVISADERO STREET, 7TH FLOOR",
+    "file_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=3qwt5aex5xogbxxsjw6cz5u50kf15vxt&file_id=f_1959272306335",
+    "transparency_page": "https://www.ucsfhealth.org/about/pricing-transparency"
+  },
+  {
+    "detail_id": "ce91771e-4221-40ca-8727-674a225cc3e6",
+    "ccn": "054145",
+    "hospital_name": "SHARP MESA VISTA HOSPITAL",
+    "file_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/2GfaRaSyiOcZT5sms1AIuH/d466183904e627dd60acb43ff14ba079/95-3782169_sharp-mesa-vista-hospital_standardcharges.zip",
+    "transparency_page": "https://www.sharp.com/billing/estimate"
+  },
+  {
+    "detail_id": "c11fd696-4955-436e-a7b0-270d07f0c14d",
+    "ccn": "054146",
+    "hospital_name": "HERITAGE PSYCHIATRIC HEALTH CENTER",
+    "file_url": "https://www.telecarecorp.com/s/941735271_telecare-heritage-psychiatric-health-facility_standardcharges.csv",
+    "transparency_page": "https://www.telecarecorp.com/price-transparency"
+  },
+  {
+    "detail_id": "be847066-8a5a-4034-aa22-81a789adbb93",
+    "ccn": "054147",
+    "hospital_name": "JOYCE EISENBERG KEEFER MEDICAL CENTER",
+    "file_url": "https://www.lajhealth.org/documents/JEKMC-AGPU_Standard_Charges-updated-062025_2025-06-13-004257_dppz.xlsx",
+    "transparency_page": "https://www.lajhealth.org/help-paying-your-bill"
+  },
+  {
+    "detail_id": "d9992dba-e0a6-40a2-b24b-997fed0478c2",
+    "ccn": "054149",
+    "hospital_name": "TELECARE WILLOW ROCK CENTER",
+    "file_url": "https://www.telecarecorp.com/s/941735271_telecare-willow-rock-center_standardcharges.csv",
+    "transparency_page": "https://www.telecarecorp.com/price-transparency"
+  },
+  {
+    "detail_id": "adadfc78-b1d6-48a2-bc6b-2a4db23d56b9",
+    "ccn": "054151",
+    "hospital_name": "SANTA ROSA BEHAVIORAL HEALTHCARE HOSPITAL",
+    "file_url": "https://norcalbehavioral.com/wp-content/uploads/2025/03/84-2365032_Santa-Rosa-Behavioral-Healthcare-Hospital_standardcharges.csv",
+    "transparency_page": "https://norcalbehavioral.com/faq-community-resources/"
+  },
+  {
+    "detail_id": "a19258a7-d139-4316-a2df-902260efc9a5",
+    "ccn": "054152",
+    "hospital_name": "TELECARE SANTA CRUZ PHF",
+    "file_url": "https://www.telecarecorp.com/s/941735271_telecare-santa-cruz-psychiatric-health-facility_standardcharges.csv",
+    "transparency_page": "https://www.telecarecorp.com/price-transparency"
+  },
+  {
+    "detail_id": "5e2cd7a2-7f34-4ada-8bcd-744f9a156132",
+    "ccn": "054153",
+    "hospital_name": "OCEAN VIEW PSYCHIATRIC HEALTH FACILITY",
+    "file_url": "https://ovphf.com/wp-content/uploads/2025/11/421585322_ocean-view-psychiatric-health-facility_standardcharges-1.csv",
+    "transparency_page": "https://ovphf.com/standard-services-pricing/"
+  },
+  {
+    "detail_id": "7006b3d3-620a-411c-bd22-4af722da962a",
+    "ccn": "054154",
+    "hospital_name": "SAN JOSE BEHAVIORAL HEALTH",
+    "file_url": "https://www.sanjosebh.com/wp-content/uploads/pricing/2025/360/36-4801100_SJBH-LLC_standardcharges.csv",
+    "transparency_page": "https://www.sanjosebh.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "46818f80-c01d-46d2-9720-fe4c28c16695",
+    "ccn": "054155",
+    "hospital_name": "BAKERSFIELD BEHAVIORAL HEALTHCARE HOSPITAL",
+    "file_url": "https://www.bakersfieldbehavioral.com/sites/default/files/bakersfield/474433670_bakersfield-behavioral-healthcare-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bakersfieldbehavioral.com/standard-services"
+  },
+  {
+    "detail_id": "46426d59-7b5c-4dbd-9188-9295f6ac3916",
+    "ccn": "054157",
+    "hospital_name": "GLENDORA COMMUNITY HOSPITAL",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=c03ea0e53387f2e22f8262e5ee5ac871e45c53fb6ce9ca014b7159b7175da354",
+    "transparency_page": "https://collegemedicalcenter.com/price-transparency/"
+  },
+  {
+    "detail_id": "85fecddd-51fb-4fd3-a4e4-1fdc0b266b8e",
+    "ccn": "054159",
+    "hospital_name": "SACRAMENTO BEHAVIORAL HEALTHCARE HOSPITAL",
+    "file_url": "https://norcalbehavioral.com/wp-content/uploads/2025/03/84-2365032_Sacramento_Behavioral_Healthcare_Hospital_standardcharges.csv",
+    "transparency_page": "https://norcalbehavioral.com/faq-community-resources/"
+  },
+  {
+    "detail_id": "446dac6f-bf02-427b-b226-057b1eabe2ab",
+    "ccn": "055034",
+    "hospital_name": "MOTION PICTURE AND TELEVISION HOSPITAL",
+    "file_url": "https://a71eba20.delivery.rocketcdn.me/wp-content/uploads/2020/10/MPTF-Skilled-Nursing-Memory-Care-12-23-20.xlsx",
+    "transparency_page": "https://mptf.com/help-paying-your-bill/"
+  },
+  {
+    "detail_id": "e443638f-bbce-4625-94f8-54cbadadf3f3",
+    "ccn": "056155",
+    "hospital_name": "OAKDALE NURSING AND REHABILITATION CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbOVHOAKDALECA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/OakValley_V2.aspx"
+  },
+  {
+    "detail_id": "4f2ae337-f972-4f6b-9bf0-ee73b9007b54",
+    "ccn": "056499",
+    "hospital_name": "PROVIDENCE LITTLE COMPANY OF MARY TRANSITIONAL CARE CENTER",
+    "file_url": "https://pricetransparency.providence.org/socal/live/421672810_providence-little-company-of-mary-med-center-torrance_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "b485439b-9018-46bc-b75f-e78eb26dddd8",
+    "ccn": "058597",
+    "hospital_name": "EASTERN PLUMAS HOSPITAL-LOYALTON CAMPUS",
+    "file_url": "https://www.ephc.org/price-transparency.php",
+    "transparency_page": "https://www.ephc.org/documents/EPHC-charge-master.csv"
+  },
+  {
+    "detail_id": "a82a8c2f-451b-4028-92c2-a2e933979d35",
+    "ccn": "058617",
+    "hospital_name": "ADVENTIST HEALTH SELMA",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCMCHANFORDCA&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "c6d1d83b-d891-4de2-9565-c82ab6bde35a",
+    "ccn": "100028",
+    "hospital_name": "KAISER PERMANENTE WEST LOS ANGELES MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-west-los-angeles-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "19dc17c8-5262-4d0d-b713-d02035826229",
+    "ccn": "100045",
+    "hospital_name": "KAISER PERMANENTE WOODLAND HILLS MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-woodland-hills-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "1fa0999d-1610-42fe-9814-849597fbcaf3",
+    "ccn": "100049",
+    "hospital_name": "KAISER PERMANENTE SOUTH BAY MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-south-bay-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "38b1787f-1d83-401a-9d8a-e06bac1cd7f6",
+    "ccn": "100062",
+    "hospital_name": "KAISER PERMANENTE RIVERSIDE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-riverside-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "36051a56-ef3d-4ba1-958f-9a19f5da7245",
+    "ccn": "100084",
+    "hospital_name": "KAISER PERMANENTE ZION MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-diego-zion-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "350dbc0e-560e-4c95-b3f9-321f6c168cf9",
+    "ccn": "100099",
+    "hospital_name": "KAISER PERMANENTE LOS ANGELES SUNSET MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-los-angeles-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "8409b4b1-aad0-4514-bc91-333694983ab4",
+    "ccn": "100167",
+    "hospital_name": "KAISER PERMANENTE BALDWIN PARK MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-baldwin-park-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "8df9e5c5-439a-4447-8006-d3fd1e8ec5d4",
+    "ccn": "100173",
+    "hospital_name": "KAISER PERMANENTE ORANGE COUNTY - ANAHEIM MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-anaheim-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "8ea031ef-c221-4a5a-ab2f-a3150078fa25",
+    "ccn": "100301",
+    "hospital_name": "KAISER PERMANENTE MODESTO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-modesto-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "fb549f80-9016-4b7e-8d33-cd6b6426257a",
+    "ccn": "100305",
+    "hospital_name": "KAISER PERMANENTE SANTA CLARA MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-santa-clara-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "2e53ecf6-0251-41ac-9689-6b01b1147592",
+    "ccn": "100313",
+    "hospital_name": "KAISER PERMANENTE WALNUT CREEK MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-walnut-creek-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "0ea15cc4-f72c-4c0b-9667-37c5c0fffa49",
+    "ccn": "100315",
+    "hospital_name": "KAISER PERMANENTE VACAVILLE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-vacaville-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "15eb2ebb-4d9c-46fa-8180-36c2d94fe01d",
+    "ccn": "100316",
+    "hospital_name": "KAISER PERMANENTE VALLEJO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-vallejo-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "ce24287b-6e36-4748-9ef4-afd8f264b7e6",
+    "ccn": "100319",
+    "hospital_name": "KAISER PERMANENTE SOUTH SAN FRANCISCO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-south-san-francisco-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "7d944f67-11c7-4b13-981b-030900ff3abe",
+    "ccn": "100320",
+    "hospital_name": "KAISER PERMANENTE SOUTH SACRAMENTO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-south-sacramento-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "dc136235-5c0d-4a68-8e68-1a0554611605",
+    "ccn": "100322",
+    "hospital_name": "KAISER PERMANENTE SAN JOSE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-jose-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "22e69fe0-433f-4d6b-84a7-9576b1267b85",
+    "ccn": "100324",
+    "hospital_name": "KAISER PERMANENTE SANTA ROSA MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-santa-rosa-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "1de212bd-13a2-4744-81f2-3244626eab19",
+    "ccn": "100327",
+    "hospital_name": "KAISER PERMANENTE SAN RAFAEL MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-rafael-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "6c253fa9-dce5-4978-89e0-92227f784b02",
+    "ccn": "100328",
+    "hospital_name": "KAISER PERMANENTE SAN FRANCISCO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-francisco-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "10377d1b-8bc0-4c65-931a-14a86ad2b0ba",
+    "ccn": "100330",
+    "hospital_name": "KAISER PERMANENTE SACRAMENTO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-sacramento-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "68ffde5d-8e71-4bcf-bf3d-6ab76d5df4ee",
+    "ccn": "100331",
+    "hospital_name": "KAISER PERMANENTE ROSEVILLE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-roseville-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "a9cf8e09-1382-4341-ac33-265cd45496e0",
+    "ccn": "100336",
+    "hospital_name": "KAISER PERMANENTE RICHMOND MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-richmond-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "fea6e37f-08d0-486a-a3fd-e9ec2c3b1ed1",
+    "ccn": "100337",
+    "hospital_name": "KAISER PERMANENTE REDWOOD CITY MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-redwood-city-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "bb316a69-3809-4363-83b8-343875887a29",
+    "ccn": "100344",
+    "hospital_name": "KAISER PERMANENTE OAKLAND MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-oakland-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "08e4bbdf-c103-4f94-b0a7-ff4e54d6f48b",
+    "ccn": "100356",
+    "hospital_name": "KAISER PERMANENTE MANTECA MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-manteca-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "b0ac1f95-3374-45f9-8c3c-cdd859f03739",
+    "ccn": "100363",
+    "hospital_name": "KAISER PERMANENTE FRESNO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-fresno-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "cfd8362e-582f-4a59-b915-e9bd2a71311e",
+    "ccn": "100382",
+    "hospital_name": "KAISER PERMANENTE ANTIOCH MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-antioch-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "7672432b-6974-4da9-a94b-e3a292ff70fc",
+    "ccn": "100619",
+    "hospital_name": "KAISER PERMANENTE ORANGE COUNTY - IRVINE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-irvine-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "b85d8fc7-0028-4723-9b84-325fb726b919",
+    "ccn": "139213",
+    "hospital_name": "KAISER PERMANENTE SAN MARCOS MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-marcos-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "82397a38-ac34-4d68-9433-47ee00168ae0",
+    "ccn": "202412",
+    "hospital_name": "MONTEREY PARK HOSPITAL",
+    "file_url": "https://www.ahmchealth.com/docs/PricingTransparency-Monterey_Park_Hosp-202412.csv",
+    "transparency_page": "https://www.ahmchealth.com/mph/getpage.php?name=Price_Transparency"
+  },
+  {
+    "detail_id": "df5a4d4f-0433-4419-9e6f-a7fc4eb0532e",
+    "ccn": "300025",
+    "hospital_name": "KAISER PERMANENTE DOWNEY MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-downey-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "a884f470-31e9-4206-94e6-4e2fc991ded8",
+    "ccn": "300025",
+    "hospital_name": "KAISER PERMANENTE DOWNEY MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-downey-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "2af15755-d480-4965-9b8e-1453c4d7347f",
+    "ccn": "300025",
+    "hospital_name": "KAISER PERMANENTE DOWNEY MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-downey-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "597a49ae-e3b6-4e41-8293-7ded6f4e141f",
+    "ccn": "300511",
+    "hospital_name": "KAISER PERMANENTE ONTARIO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-ontario-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "157dfea6-d140-47e0-bff4-d21b0c99ad40",
+    "ccn": "301981",
+    "hospital_name": "KAISER PERMANENTE SAN LEANDRO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-leandro-medical-center-standard-charges-ncal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/northern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "3ebdb036-0ea0-420b-b572-b67234ef27f6",
+    "ccn": "331581",
+    "hospital_name": "KAISER PERMANENTE SAN DIEGO MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-diego-clairemont-medical-center-standard-charges-scal-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/southern-california/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "e7ae57aa-67e2-4cd5-89fd-67aeaf0c204e",
+    "ccn": "555874",
+    "hospital_name": "SOUTHERN CALIFORNIA HOSPITAL AT CULVER CITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7922/954690845_prospect-medical-holdings-culver-city_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SouthernCaliforniaHospitalatCulverCity/7922"
+  },
+  {
+    "detail_id": "47dc286c-065a-4180-8af4-2f28ab6cbc90",
+    "ccn": "555916",
+    "hospital_name": "O'CONNOR HOSPITAL",
+    "file_url": "https://och.scvh.org/946000533_o-connor-hospital_standardcharges.csv",
+    "transparency_page": "https://och.scvh.org/about-us/price-transparency-cost-estimator"
+  }
+]

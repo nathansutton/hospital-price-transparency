@@ -41,11 +41,13 @@ class CMSStandardXLSXScraper(CMSStandardCSVScraper):
     def fetch_data(self) -> str:
         """Fetch XLSX file and convert to CSV text.
 
+        Handles cases where .xlsx URLs actually serve CSV or other formats.
+
         Returns:
             CSV text content converted from the XLSX file
 
         Raises:
-            ValueError: If the file cannot be read as XLSX
+            ValueError: If the file cannot be read as XLSX or CSV
         """
         url = self.hospital_config.file_url
 
@@ -69,16 +71,48 @@ class CMSStandardXLSXScraper(CMSStandardCSVScraper):
             url=self.hospital_config.file_url,
         )
 
+        # Check if this is actually a CSV file (some servers mislabel files)
+        # CSV files often start with UTF-8 BOM or text characters
+        is_csv = (
+            xlsx_bytes.startswith(b"\xef\xbb\xbf")  # UTF-8 BOM
+            or xlsx_bytes[:20].startswith(b"hospital")
+            or xlsx_bytes[:20].startswith(b'"')
+            or b"," in xlsx_bytes[:100]
+            and not xlsx_bytes.startswith(b"PK")  # Not a ZIP (XLSX is ZIP-based)
+        )
+
+        if is_csv:
+            self.logger.info(
+                "xlsx_url_is_csv",
+                url=url[:80],
+            )
+            # Decode as CSV
+            try:
+                return xlsx_bytes.decode("utf-8-sig")
+            except UnicodeDecodeError:
+                return xlsx_bytes.decode("latin-1")
+
         # Read XLSX with pandas (openpyxl engine)
         # Read all data as strings to preserve formatting consistency
-        df = pd.read_excel(
-            io.BytesIO(xlsx_bytes),
-            sheet_name=0,  # First sheet
-            header=None,  # No header - let parent class handle skiprows
-            dtype=str,
-            keep_default_na=False,
-            engine="openpyxl",
-        )
+        try:
+            df = pd.read_excel(
+                io.BytesIO(xlsx_bytes),
+                sheet_name=0,  # First sheet
+                header=None,  # No header - let parent class handle skiprows
+                dtype=str,
+                keep_default_na=False,
+                engine="openpyxl",
+            )
+        except Exception as e:
+            # If XLSX parsing fails, try as CSV
+            self.logger.warning(
+                "xlsx_parse_failed_trying_csv",
+                error=str(e)[:100],
+            )
+            try:
+                return xlsx_bytes.decode("utf-8-sig")
+            except UnicodeDecodeError:
+                return xlsx_bytes.decode("latin-1")
 
         self.logger.debug(
             "xlsx_parsed",

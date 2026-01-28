@@ -1,0 +1,1006 @@
+[
+  {
+    "detail_id": "99d18504-d8b7-4e73-83d3-c50803df210f",
+    "ccn": "520002",
+    "hospital_name": "ASPIRUS STEVENS POINT HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390808443_aspirus-stevens-point-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "443631ff-6681-48c3-96ed-88670e050ec1",
+    "ccn": "520004",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM FRANCISCAN MEDICAL CENTER LA CROSSE",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390806374_mayo-clinic-health-system-franciscan-healthcare-la-crosse_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "78441b02-c862-4b95-8ce2-7ce75d5cde27",
+    "ccn": "520008",
+    "hospital_name": "PROHEALTH WAUKESHA MEMORIAL HOSPITAL",
+    "file_url": "https://www.prohealthcare.org/app/files/public/acd46025-e103-4176-adb7-469e53656d4d/39-0910727_ProHealth_Care_Waukesha_and_Mukwonago_Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.prohealthcare.org/patients-families/cost-of-care/"
+  },
+  {
+    "detail_id": "4b6336b9-5b42-45cb-bb91-18ac274539cb",
+    "ccn": "520009",
+    "hospital_name": "ASCENSION NE WISCONSIN ST. ELIZABETH HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816818-1407803638_ascension-ne-wisconsin-inc-fka-st-elizabeth-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "70fa52a9-902a-4695-8115-cfb9a6d83b3d",
+    "ccn": "520011",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - RICE LAKE",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/390837206_marshfield-medical-center--rice-lake_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "448107bf-2445-4e1b-bd82-7c3469e8087a",
+    "ccn": "520019",
+    "hospital_name": "ASPIRUS RHINELANDER HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/391390638_aspirus-rhinelander-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "1b9084c2-3c6e-4dd7-bb7a-9ed1a1baf091",
+    "ccn": "520021",
+    "hospital_name": "FROEDTERT PLEASANT PRARIE HOSPITAL",
+    "file_url": "https://drive.google.com/file/d/1W6S2Zsal7L5cPL5AtlN1OaG6MqwayXsV/view",
+    "transparency_page": "https://www.froedtertsouth.com/patients-visitors/billing-and-insurance/"
+  },
+  {
+    "detail_id": "eb76144d-9ddf-48f6-b353-0910d7bd0856",
+    "ccn": "520027",
+    "hospital_name": "ASCENSION COLUMBIA ST MARYS HOSPITAL OZAUKEE",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390807063_columbia-st-marys-hospital-ozaukee-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "19512fc3-55a9-4e1f-9860-bbd776868a91",
+    "ccn": "520028",
+    "hospital_name": "SSM HEALTH MONROE HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=uwouo8M1Pxif8Aqw5LntXw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "7035bf51-a0ed-43ee-a113-04a6cf46d834",
+    "ccn": "520030",
+    "hospital_name": "ASPIRUS PLOVER HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/391138241_aspirus-plover-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "948646e7-2fff-4902-9a03-5f75901c1095",
+    "ccn": "520030",
+    "hospital_name": "ASPIRUS WAUSAU HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/391138241_aspirus-wausau-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "df4290c0-8374-44b2-9444-e8b717138fc4",
+    "ccn": "520033",
+    "hospital_name": "ASPIRUS WISCONSIN RAPIDS HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390868982_aspirus-wisconsin-rapids-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "9f23d5d7-0d27-4f94-a257-a75142b20fd2",
+    "ccn": "520034",
+    "hospital_name": "AURORA MEDICAL CENTER MANITOWOC COUNTY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11248/391211629_aurora-medical-center-manitowoc_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "4d796d4e-cd74-4591-a9c1-a0908cc46e53",
+    "ccn": "520035",
+    "hospital_name": "AURORA MEDICAL CENTER SHEBOYGAN",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11255/390930748_aurora-medical-center-sheboygan-county_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "95e518d3-028c-4450-a93d-5de74697fc7a",
+    "ccn": "520037",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - MARSHFIELD",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--marshfield_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "33a14d81-b260-48f2-86ee-62afcf3ec5c4",
+    "ccn": "520038",
+    "hospital_name": "AURORA MEDICAL CENTER WASHINGTON COUNTY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11250/391150165_aurora-medical-center-washington-county_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "28462a4b-f93d-462b-bf67-0b5d70b07f83",
+    "ccn": "520041",
+    "hospital_name": "ASPIRUS DIVINE SAVIOR HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390806250_aspirus-divine-savior-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "c981ea2e-a087-40f4-95a2-c342fde45fc0",
+    "ccn": "520044",
+    "hospital_name": "HSHS ST. NICHOLAS HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/b928544b-92df-4678-b544-d21192639566/390808480_ST-NICHOLAS-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "95b31a14-66c2-4179-8369-5f95e262d6db",
+    "ccn": "520045",
+    "hospital_name": "THEDACARE REGIONAL MEDICAL CENTER-NEENAH",
+    "file_url": "https://thedacare.org/390830664_thedacare-neenah_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "eab8c821-e5d4-4a0e-bf84-efc53c8fb54c",
+    "ccn": "520048",
+    "hospital_name": "ASCENSION NE WISCONSIN MERCY CAMPUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816818-1912527193_ascension-ne-wisconsin-inc-fka-st-elizabeth-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "fb8ad25a-df4d-4b86-9000-672bfbd77a09",
+    "ccn": "520049",
+    "hospital_name": "BELLIN HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/bellin-memorial",
+    "transparency_page": "https://bellin.org/patients-visitors/billing-insurance-services"
+  },
+  {
+    "detail_id": "4dd5bc02-db61-4dd7-ad37-a4221fb7bc7d",
+    "ccn": "520051",
+    "hospital_name": "ASCENSION COLUMBIA ST MARYS HOSPITAL MILWAUKEE",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390806315_columbia-st-marys-hospital-milwaukee-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "b0d8ab1d-3269-434e-a767-0a616b29078c",
+    "ccn": "520057",
+    "hospital_name": "SSM HEALTH ST. CLARE HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=99Sd1Zpo0h2mFLZqX8n*_*mA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "f14eed9a-9a71-44c2-ab25-e96c3abe57f0",
+    "ccn": "520059",
+    "hospital_name": "AURORA MEDICAL CENTER BURLINGTON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11246/390806347_aurora-medical-center-burlington_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "a96178ca-16b7-4b7c-8865-0ca4448d5284",
+    "ccn": "520062",
+    "hospital_name": "PROHEALTH OCONOMOWOC MEMORIAL HOSPITAL",
+    "file_url": "https://www.prohealthcare.org/app/files/public/acd46025-e103-4176-adb7-469e53656d4d/39-0910727_ProHealth_Care_Waukesha_and_Mukwonago_Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.prohealthcare.org/patients-families/cost-of-care/"
+  },
+  {
+    "detail_id": "31102381-b0cd-4e5d-80cd-cb5c45f014ad",
+    "ccn": "520063",
+    "hospital_name": "FROEDTERT WEST BEND HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8142/390806302_st-josephs-community-hospital-of-west-bend-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FroedtertStJosephsHospital/8142"
+  },
+  {
+    "detail_id": "8aa2e9c8-af25-4a51-80e0-68c6ffc07b47",
+    "ccn": "520064",
+    "hospital_name": "AURORA SINAI MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11256/390806181_aurora-sinai-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "c46f9a48-f306-44b6-bf13-b8191592b9bb",
+    "ccn": "520066",
+    "hospital_name": "MERCYHEALTH HOSPITAL AND TRAUMA CENTER - JANESVILLE",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/fl_attachment/mercyhealth-site-398/media/r/87fdddfc55a14d4fbafdf4aefaa2f04e/390816848-mercyjanesvillehospital-standardcharges.json",
+    "transparency_page": "https://www.mercyhealthsystem.org/patientsvisitors/billing-information/chargemaster/"
+  },
+  {
+    "detail_id": "455f4d07-ffc7-48dd-8088-593a8f5236aa",
+    "ccn": "520070",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM EAU CLAIRE",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390813418_mayo-clinic-health-system-eau-claire_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "368f6703-5de3-483e-830e-8adf98835f68",
+    "ccn": "520071",
+    "hospital_name": "FORT MEMORIAL HEALTHCARE",
+    "file_url": "https://fortmemorial.pt.panaceainc.com/MRFDownload/fortmemorial/fortmemorial",
+    "transparency_page": "https://www.forthealthcare.com/patient-info/financial-aid-pricing/estimate-costs-of-care/"
+  },
+  {
+    "detail_id": "5baddbf6-b9d4-426b-be27-6d629c538c2c",
+    "ccn": "520076",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - BEAVER DAM",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/391157876_marshfield-medical-center--beaver-dam_standardcharges.csv",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "595fead3-6d4b-4a23-8012-08c8b1a6c634",
+    "ccn": "520078",
+    "hospital_name": "ASCENSION ST FRANCIS HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390907740_ascension-st-francis-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "283f8066-0286-44fd-88e4-c8bc0a3ebdac",
+    "ccn": "520083",
+    "hospital_name": "SSM HEALTH ST. MARY'S HOSPITAL - MADISON",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=yDWVdHK8N1Nd0zB7mYL6Zw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "02c18de1-374f-447e-96b8-6d4632366dfc",
+    "ccn": "520087",
+    "hospital_name": "GUNDERSEN LUTHERAN MEDICAL CENTER",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-lutheran",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "9ba0e285-f345-4d9b-a7e8-63aa308d690f",
+    "ccn": "520088",
+    "hospital_name": "SSM HEALTH ST. AGNES HOSPITAL - FOND DU LAC",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=PjFhO32dAPBRj2MaHOd4Xg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency#machinefiles"
+  },
+  {
+    "detail_id": "03224585-76bf-44d6-a4c6-1d4142dbe0cb",
+    "ccn": "520091",
+    "hospital_name": "HOWARD YOUNG MEDICAL CENTER",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390873606_howard-young-medical-center_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "2f6ab566-4183-4625-9ca9-e4f4be234d4b",
+    "ccn": "520094",
+    "hospital_name": "ASCENSION ALL SAINTS HOSPITAL WISCONSIN AVENUE CAMPUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/391264986_ascension-all-saints-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "c7e63537-0002-407c-a269-5840f88f0cb6",
+    "ccn": "520095",
+    "hospital_name": "SAUK PRAIRIE HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9451/390872080_sauk-prairie-healthcare_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SaukPrairieHealthcare/9451"
+  },
+  {
+    "detail_id": "dd2b727e-f915-47cf-836e-d36e4eb5363f",
+    "ccn": "520096",
+    "hospital_name": "ASCENSION ALL SAINTS HOSPITAL SPRING STREET CAMPUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/391264986_ascension-all-saints-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "954f089e-0804-427e-8edc-16a12c91541c",
+    "ccn": "520097",
+    "hospital_name": "HSHS ST. MARY'S HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/5c7b28de-22d3-4798-9639-c62b5504531e/390818682_ST-MARYS-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "11101fb1-5045-4ca4-9205-fbc3d6ca8089",
+    "ccn": "520098",
+    "hospital_name": "UW HEALTH UNIVERSITY HOSPITAL",
+    "file_url": "https://bynder.uwhealth.org/m/35d806d784d4cdbd/original/391835630_University-of-Wisconsin-Hospital-and-Clinics-Authority_standardcharges.csv",
+    "transparency_page": "https://www.uwhealth.org/billing-insurance/cms-price-transparency"
+  },
+  {
+    "detail_id": "52e19e63-ac1d-489a-871a-f1ee32ac3d09",
+    "ccn": "520100",
+    "hospital_name": "BELOIT MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.healthcare/beloit-memorial-hospital/charges/export",
+    "transparency_page": "https://pricetransparency.healthcare/beloit-memorial-hospital/charges/"
+  },
+  {
+    "detail_id": "1514325f-e890-4801-8f07-1268a06498c7",
+    "ccn": "520102",
+    "hospital_name": "AURORA LAKELAND MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11244/390806347_aurora-lakeland-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "2c50d8a6-e79f-4210-b737-d9af60ebed0e",
+    "ccn": "520103",
+    "hospital_name": "FROEDTERT MENOMONEE FALLS HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8143/390987025_community-memorial-hospital-of-menomonee-falls-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FroedtertMenomoneeFallsHospital/8143"
+  },
+  {
+    "detail_id": "161360fb-794a-4a98-add9-cb332b7f0acd",
+    "ccn": "520107",
+    "hospital_name": "HOLY FAMILY MEMORIAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10297/390806395_holy-family-memorial-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/HolyFamilyMemorialMedicalCenter/10297"
+  },
+  {
+    "detail_id": "d1a83357-246e-48a6-b703-67779fc804bc",
+    "ccn": "520109",
+    "hospital_name": "MILE BLUFF MEDICAL CENTER",
+    "file_url": "https://www.milebluff.com/documents/standard_charges/390992883_mile-bluff-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.milebluff.com/patient-visitors/billing-information/understanding-medical-bill/price-estimates/"
+  },
+  {
+    "detail_id": "4cc17bc7-ef20-49e6-8a2b-c1602a689c7b",
+    "ccn": "520113",
+    "hospital_name": "AURORA MEDICAL CENTER BAY AREA",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11260/391528430_aurora-medical-center-bay-area_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "b741e92a-21ad-4161-a09e-d36818ce8211",
+    "ccn": "520116",
+    "hospital_name": "WATERTOWN REGIONAL MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=ogdlopNDdhPXQBHfTqbnOg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=ogdlopNDdhPXQBHfTqbnOg*-*"
+  },
+  {
+    "detail_id": "62414ec6-dc64-477d-9bb7-94d39cbc79e5",
+    "ccn": "520136",
+    "hospital_name": "ASCENSION SE WISCONSIN HOSPITAL ST JOSEPH",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816857-1427007384_ascension-se-wisconsin-hospital-inc-st-joseph_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "e3678553-0da2-4919-9b3d-cbfdd5cb0abe",
+    "ccn": "520138",
+    "hospital_name": "AURORA ST LUKES MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11257/390806181_aurora-st-lukes-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "7efda7df-da14-40f0-acc3-cb213cf4e4da",
+    "ccn": "520139",
+    "hospital_name": "AURORA WEST ALLIS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11259/391022464_aurora-west-allis-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "e1089447-ad5e-4c61-8f40-c0aeede8a028",
+    "ccn": "520139",
+    "hospital_name": "ROGERS BEHAVIORAL HEALTH IN WEST ALLIS",
+    "file_url": "https://rogersbh.org/wp-content/uploads/2025/06/391139101_RogersMemorialHospitalInc_Standardcharges.csv",
+    "transparency_page": "https://rogersbh.org/what-expect/insurance-pricing-calculator/"
+  },
+  {
+    "detail_id": "61128eb6-ab94-4c94-a894-5e061ba397a2",
+    "ccn": "520160",
+    "hospital_name": "THEDACARE REGIONAL MEDICAL CENTER APPLETON",
+    "file_url": "https://thedacare.org/390824015_thedacare-appleton_standardcharges-3/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "6fd93add-fb18-46b5-8eb6-5842e4415e91",
+    "ccn": "520170",
+    "hospital_name": "ASCENSION SE WISCONSIN HOSPITAL - ELMBROOK CAMPUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816857-1427007384_ascension-se-wisconsin-hospital-inc-elmbroook_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "6704a9b0-ed6a-46b6-a970-babf2fbd7a89",
+    "ccn": "520177",
+    "hospital_name": "FROEDTERT HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7864/396105970_froedtert-memorial-lutheran-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FroedtertHospital/7864"
+  },
+  {
+    "detail_id": "b7b94a1c-6513-4deb-a514-75800045bc41",
+    "ccn": "520189",
+    "hospital_name": "AURORA MEDICAL CENTER KENOSHA",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11251/390806347_aurora-medical-center-kenosha_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "3458b195-f930-4ec8-ac76-99a5dc863110",
+    "ccn": "520193",
+    "hospital_name": "AURORA BAYCARE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11243/391947472_aurora-baycare-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "e507db4c-f76f-4c13-b605-e5c00153370b",
+    "ccn": "520194",
+    "hospital_name": "ORTHOPAEDIC HOSPITAL OF WISCONSIN",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/392015655_orthopaedic-hospital-of-wisconsin-llc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "97f6f274-316d-4929-ae8d-76b0928d03ea",
+    "ccn": "520196",
+    "hospital_name": "OAKLEAF SURGICAL HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/9b6eb97fb433de65f56684ef2ab01f4c/charges/mrf",
+    "transparency_page": "https://www.oakleafsurgical.com/pricing.htm"
+  },
+  {
+    "detail_id": "7c080e88-4570-4eef-8f3c-2366a0d00d3c",
+    "ccn": "520198",
+    "hospital_name": "AURORA MEDICAL CENTER OSHKOSH",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11252/391027676_aurora-medical-center-oshkosh_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "d36bc8ef-677d-4d47-bb2f-d76f766952f2",
+    "ccn": "520202",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - WESTON",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--weston_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "69661ca6-6299-425d-81fb-a8f7890654f2",
+    "ccn": "520204",
+    "hospital_name": "ASCENSION SE WISCONSIN HOSPITAL - FRANKLIN CAMPUS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816857-1427007384_ascension-se-wisconsin-hospital-inc-franklin_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "6071ac52-39c8-4dc7-b12f-40bd77b78302",
+    "ccn": "520205",
+    "hospital_name": "MIDWEST ORTHOPEDIC SPECIALTY HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/562592868_wheaton-franciscan-healthcare-franklin-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "db9cdaf2-e5e6-48e6-ae20-44c872537c14",
+    "ccn": "520206",
+    "hospital_name": "AURORA MEDICAL CENTER SUMMIT",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11249/390806347_aurora-medical-center-summit_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "09de5472-4d3d-4064-964a-93ae50c2e9b2",
+    "ccn": "520207",
+    "hospital_name": "AURORA MEDICAL CENTER GRAFTON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11247/272953799_aurora-medical-center-grafton_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "7bfd2872-f74a-4d53-ab89-3cbf22d8ca1f",
+    "ccn": "520208",
+    "hospital_name": "SSM HEALTH ST MARYS HOSPITAL JANESVILLE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=p*_*6Ox07Zg5NzRgUvb8KrmA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "37b7c8e7-2c7d-4de2-9a77-8a757727dd2d",
+    "ccn": "520210",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - EAU CLAIRE",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--eau-claire_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "8c88d94e-3b1a-43fb-b9e0-09e8a9d14516",
+    "ccn": "520212",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - MINOCQUA",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--minocqua_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "7c37a139-403f-4173-84aa-2a51b8e63739",
+    "ccn": "520213",
+    "hospital_name": "FROEDTERT COMMUNITY HOSPITAL - NEW BERLIN",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8215/843381796_froedtert-community-hospital-new-berlin_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/FroedtertCommunityHospitalNewBerlin/8215"
+  },
+  {
+    "detail_id": "8a86e85e-153e-45d8-b7b7-43ea0fdc4d49",
+    "ccn": "520214",
+    "hospital_name": "ASCENSION WISCONSIN HOSPITAL MENOMONEE FALLS",
+    "file_url": "https://ascensionwisconsinhospital.org/wp-content/uploads/forms/38-4118568_Ascension-Wisconsin-Emerus-Menomonee-Falls-LLC_standardcharges.csv",
+    "transparency_page": "https://ascensionwisconsinhospital.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "48d0f5db-3920-4699-b391-9b2410d74a7d",
+    "ccn": "520215",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER RIVER REGION STEVENS POINT CAMPUS",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--river-region-at-stevens-point_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "44fcd049-9513-484e-a259-11950da8c516",
+    "ccn": "521300",
+    "hospital_name": "ASPIRUS EAGLE RIVER HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390985690_aspirus-eagle-river-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "a19bd8c8-c25d-4fb6-a1db-9e408125b835",
+    "ccn": "521302",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM OAKRIDGE OSSEO",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390813418_mayo-clinic-health-system-oakridge_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "36694bfc-bd6f-482b-b2f7-2eb89abfb159",
+    "ccn": "521303",
+    "hospital_name": "THEDACARE MEDICAL CENTER-WILD ROSE",
+    "address": "601 GROVE AVE, PO BOX 243",
+    "file_url": "https://thedacare.org/396089134_thedacare-wild-rose_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "64ada5ec-20bf-4215-8031-13311fe6b2f6",
+    "ccn": "521304",
+    "hospital_name": "GUNDERSEN ST JOSEPHS HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-st-josephs",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "d8361a53-bede-4a8d-a5cc-2172e4c59150",
+    "ccn": "521305",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM FRANCISCAN HEALTHCARE SPARTA",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390806374_mayo-clinic-health-system-franciscan-healthcare-sparta_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "e299da31-2aac-4855-b5b1-f10764d83a05",
+    "ccn": "521307",
+    "hospital_name": "ADVENTHEALTH DURAND",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/391365168_AdventHealth-Durand_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "34dda847-f6a8-4512-9a05-e4b5dcff5bb7",
+    "ccn": "521308",
+    "hospital_name": "AMERY HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/390908320_AmeryHospital_HospitalStandardCharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/amery/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "9cc98329-e15b-4b07-a1a8-3c093ad034b6",
+    "ccn": "521309",
+    "hospital_name": "GUNDERSEN MOUNDVIEW HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-moundview",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "c0181e83-921c-4bdb-aeac-e778b8907d89",
+    "ccn": "521310",
+    "hospital_name": "HSHS ST CLARE MEMORIAL HOSPITAL",
+    "file_url": "https://www.hshs.org/getmedia/9fca86a9-a1ab-454e-94c7-c1ad572d3c98/390848401_ST-CLARE-MEMORIAL-HOSPTIAL_STANDARDCHARGES.zip",
+    "transparency_page": "https://www.hshs.org/about-us/patient-financial-services/price-transparency/hshs-hospital-price-tools"
+  },
+  {
+    "detail_id": "438b8a4b-98f2-421b-b7b2-d019b1e9d3f5",
+    "ccn": "521311",
+    "hospital_name": "ASPIRUS STANLEY HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390807065_aspirus-stanley-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "bd7e6754-c0e7-4e20-98ea-f75ca592688f",
+    "ccn": "521312",
+    "hospital_name": "MEMORIAL HOSPITAL OF LAFAYETTE COUNTY",
+    "address": "800 CLAY ST, PO BOX 70",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10335/395005711_lafayette-county_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/MemorialHospitalofLafayetteCounty/10335"
+  },
+  {
+    "detail_id": "0a061347-32c5-4787-9de3-7601c870595a",
+    "ccn": "521313",
+    "hospital_name": "ASPIRUS TOMAHAWK HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/391390638_aspirus-tomahawk-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "4d77d0fe-2159-4a76-b709-caa37e79a7a7",
+    "ccn": "521314",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM CHIPPEWA VALLEY",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390813418_mayo-clinic-health-system-chippewa-valley_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "1c1c734f-2d32-4a07-bfb5-f367a6d66327",
+    "ccn": "521315",
+    "hospital_name": "MAYO CLINIC HEALTH SYSTEM NORTHLAND",
+    "file_url": "https://mcorgstatic.blob.core.windows.net/cms-price/390813418_mayo-clinic-health-system-northland_standardcharges.csv",
+    "transparency_page": "https://www.mayoclinichealthsystem.org/for-patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "280637f4-b75a-4759-a346-9cb6cb018b36",
+    "ccn": "521316",
+    "hospital_name": "GUNDERSEN TRI COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-tricounty",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "c18ae305-66db-4f17-8460-7735660825cc",
+    "ccn": "521317",
+    "hospital_name": "ASCENSION CALUMET HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390905385_ascension-calumet-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "90c1e9c4-2633-465b-976c-656f535e4627",
+    "ccn": "521318",
+    "hospital_name": "OSCEOLA MEDICAL CENTER",
+    "file_url": "https://b0609c06-fe30-4819-b2b4-e545e7f8b563.usrfiles.com/ugd/377c03_27950844a1a94632b9e908909e70b32c.csv",
+    "transparency_page": "https://www.myomc.org/policies-terms-bylaws/price-transparency"
+  },
+  {
+    "detail_id": "fc0ec671-1cef-4276-8a4f-29ec3e7f0d18",
+    "ccn": "521319",
+    "hospital_name": "EDGERTON HOSPITAL",
+    "file_url": "https://www.edgertonhospital.com/media/2921/390819992-1083310908_edgerton-hospital-and-health-services_standardchargescsv.csv",
+    "transparency_page": "https://www.edgertonhospital.com/patients-visitors/estimate-your-cost/"
+  },
+  {
+    "detail_id": "53b79836-acdc-4325-8275-fa337abbe3c2",
+    "ccn": "521320",
+    "hospital_name": "TOMAH HEALTH HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTomah&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Tomah.aspx"
+  },
+  {
+    "detail_id": "54ae57c4-05e6-498b-940f-ae6f1ba00ddd",
+    "ccn": "521321",
+    "hospital_name": "SSM HEALTH RIPON COMMUNITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=cCiJ3uXo623a69s9G*__*VgNw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "05a25a76-9b37-40d5-8129-728b48acb172",
+    "ccn": "521323",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER NEILLSVILLE",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/390806828_marshfield-medical-center--neillsville_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "07964b78-328e-4e29-8fb2-d2263ca1bb8a",
+    "ccn": "521324",
+    "hospital_name": "ASPIRUS MEDFORD HOSPITAL & CLINICS, INC",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390964813_aspirus-medford-hospital-_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "c219fdf8-0b4a-443e-814a-b1bd2da56d8c",
+    "ccn": "521325",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER - PARK FALLS",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/390973724_marshfield-medical-center--park-falls_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "9b6a18d7-aa2c-421f-9927-0070c9e553b3",
+    "ccn": "521326",
+    "hospital_name": "THEDACARE MEDICAL CENTER NEW LONDON",
+    "file_url": "https://thedacare.org/390869788_thedacare-newlondon_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "992501db-1bf3-45ce-b772-6c2319b2c493",
+    "ccn": "521327",
+    "hospital_name": "SSM HEALTH WAUPUN MEMORIAL HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=qrjjGipjrFx4NGWFLmvnSg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "6ad27a82-cb2f-4223-85fc-2394596fabcc",
+    "ccn": "521328",
+    "hospital_name": "MARSHFIELD MEDICAL CENTER LADYSMITH",
+    "file_url": "https://www.marshfieldclinic.org/mPatientResources/Documents/810977948_marshfield-medical-center--ladysmith_standardcharges.zip",
+    "transparency_page": "https://www.marshfieldclinic.org/patient-resources/billing/cms-hospital-transparency-requirement"
+  },
+  {
+    "detail_id": "e908ef33-9a5f-4aab-ab05-20442ab467b8",
+    "ccn": "521329",
+    "hospital_name": "ESSENTIA HEALTH ST. MARY'S HOSPITAL-SUPERIOR",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates/"
+  },
+  {
+    "detail_id": "eda60275-8db6-4f2e-8c3c-355f130c46be",
+    "ccn": "521330",
+    "hospital_name": "CROSSING RIVERS HEALTH MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPrairieduChien&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CrossingRivers_V2.aspx"
+  },
+  {
+    "detail_id": "950d9f94-8401-4e53-baad-75886d30b6b2",
+    "ccn": "521331",
+    "hospital_name": "BURNETT MEDICAL CENTER",
+    "file_url": "https://burnettmedicalcenter.com/wp-content/uploads/2025/03/390938661_BurnettMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://burnettmedicalcenter.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7610127b-c507-481c-b045-36f3c75c0fe4",
+    "ccn": "521332",
+    "hospital_name": "SPOONER HEALTH",
+    "file_url": "https://machine-readable-files.com/spooner-health/390892183_spooner-health_standardcharges.csv",
+    "transparency_page": "https://spoonerhealth.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "fd065734-f7be-4039-8fb4-9c7554325f6e",
+    "ccn": "521333",
+    "hospital_name": "BLACK RIVER MEMORIAL HOSPITAL",
+    "file_url": "https://www.brmh.net/sites/brmh.net/assets/files/default/391027536_BlackRiverMemorialHospital_standardcharges.csv",
+    "transparency_page": "https://www.brmh.net/cost-of-care"
+  },
+  {
+    "detail_id": "902e93fe-fab7-4174-86ec-b011cd80eb02",
+    "ccn": "521334",
+    "hospital_name": "THEDACARE MEDICAL CENTER - WAUPACA",
+    "file_url": "https://thedacare.org/390871113_thedacare-waupaca_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "49f4cbca-5e7a-45f9-8d63-78992404007b",
+    "ccn": "521335",
+    "hospital_name": "HUDSON HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/390804125_hudsonhospital_standardcharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/hudson/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "4adc91b1-d2cf-46d3-b1c5-de450c8a986c",
+    "ccn": "521336",
+    "hospital_name": "TAMARACK HEALTH HAYWARD MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/tamarack-health-hayward-medical-center/391536207_Tamarack-Health-Hayward-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.tamarackhealth.org/patients-visitors/billing-services/price-transparency/"
+  },
+  {
+    "detail_id": "4f37fd6f-a2a5-40da-a08b-77de5e3a619d",
+    "ccn": "521337",
+    "hospital_name": "ST CROIX REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.saintcroixhealth.org/documents/financial-information/390890676_St-Croix-Regional-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.saintcroixhealth.org/patients-visitors/insurance-billing/price-transparency/"
+  },
+  {
+    "detail_id": "2da1cc56-cd83-4bf7-a868-7e0a7ce6d973",
+    "ccn": "521338",
+    "hospital_name": "PRAIRIE RIDGE HEALTH HOSPITAL",
+    "file_url": "https://prairieridge.pt.panaceainc.com/MRFDownload/prairieridge/prairieridge",
+    "transparency_page": "https://prairieridge.health/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "0f071a8f-e27c-4901-a9f9-64a0393ca7b1",
+    "ccn": "521339",
+    "hospital_name": "ASPIRUS MERRILL HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390808503_aspirus-merrill-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "35b4b3da-4054-424d-ad90-57f345130316",
+    "ccn": "521341",
+    "hospital_name": "RICHLAND HOSPITAL CLINIC",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8733/390808498_richland-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/richlandhospital/8733"
+  },
+  {
+    "detail_id": "cd9f5bef-a95a-4ea2-9d3b-34266eeafb62",
+    "ccn": "521342",
+    "hospital_name": "INDIANHEAD MEDICAL CENTER",
+    "file_url": "https://indianheadmedicalcenter.com/521651949_indianhead-medical-center-shell-lake-inc._standardcharges.csv",
+    "transparency_page": "https://indianheadmedicalcenter.com/?page_id=618"
+  },
+  {
+    "detail_id": "59fa1c1d-a520-49a4-be3b-2d5fe0f88ac5",
+    "ccn": "521343",
+    "hospital_name": "STOUGHTON HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRWHCStoughton&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Stoughton_V2.aspx"
+  },
+  {
+    "detail_id": "b89f9497-5496-4804-94d5-5d93a04658bf",
+    "ccn": "521344",
+    "hospital_name": "GUNDERSEN BOSCOBEL AREA HOSPITAL AND CLINICS",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/gundersen-boscobel",
+    "transparency_page": "https://www.gundersenhealth.org/cost-estimates/charges"
+  },
+  {
+    "detail_id": "87b49a55-7436-4361-923f-22fe2a78b6fd",
+    "ccn": "521345",
+    "hospital_name": "WESTFIELDS HOSPITAL",
+    "file_url": "https://www.healthpartners.com/content/dam/brand-identity/pdfs/care/390908320_WestfieldsHospital_standardcharges.csv",
+    "transparency_page": "https://www.healthpartners.com/care/hospitals/westfields/patient-guest/patient-information/financial-support/"
+  },
+  {
+    "detail_id": "e4b07b69-a821-4268-ab00-f747fd9ef912",
+    "ccn": "521346",
+    "hospital_name": "THEDACARE MEDICAL CENTER SHAWANO",
+    "file_url": "https://thedacare.org/390807068_thedacare-shawano_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "98edea5d-56fe-4551-9617-609a84e5a9bd",
+    "ccn": "521347",
+    "hospital_name": "WESTERN WISCONSIN HEALTH",
+    "file_url": "https://westernwi.pt.panaceainc.com/MRFDownload/westernwi/westernwihealth",
+    "transparency_page": "https://www.wwhealth.org/your-visit/price-transparency/"
+  },
+  {
+    "detail_id": "53c3678b-faae-4c96-957c-626ef7b56e37",
+    "ccn": "521348",
+    "hospital_name": "VERNON MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/vernon-memorial-hospital/390806404_Vernon-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Vernon-Memorial-Hospital"
+  },
+  {
+    "detail_id": "f982fef9-be0d-48ca-98a4-ed34ff8d3e1b",
+    "ccn": "521349",
+    "hospital_name": "RIVER FALLS AREA HOSPITAL",
+    "file_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_river-falls-area-hospital_standardcharges.csv",
+    "transparency_page": "https://www.allinahealth.org/customer-service/billing-and-insurance"
+  },
+  {
+    "detail_id": "67cf43d8-138d-4d0d-a75b-57cdcfcdb3f5",
+    "ccn": "521350",
+    "hospital_name": "ASPIRUS LANGLADE HOSPITAL",
+    "file_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390806429_aspirus-langlade-hospital_standardcharges.json",
+    "transparency_page": "https://www.aspirus.org/price-estimate"
+  },
+  {
+    "detail_id": "bce3bae7-e881-49e6-bc12-3a735376d767",
+    "ccn": "521351",
+    "hospital_name": "REEDSBURG AREA MEDICAL CENTER",
+    "file_url": "https://ramchealth.com/price-transparency/1144487372_Reedsburg-Area-Medical-Center_standardcharges_0.csv",
+    "transparency_page": "https://ramchealth.com/billing-finances/about-your-bill/"
+  },
+  {
+    "detail_id": "ee79bc0c-ed31-48a5-9e35-4bc99f632001",
+    "ccn": "521352",
+    "hospital_name": "UPLAND HILLS HEALTH",
+    "file_url": "https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fupland.pt.panaceainc.com%2FMRFDownload%2Fupland%2Fupland&data=04%7C01%7Ccecilj%40uplandhillshealth.org%7C4241ef449d944cbf60ff08da1cb9d8f2%7C56862a9ccd344a0b84ad713061f8c59b%7C0%7C0%7C637853881778338798%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=oK6wVfvkZ9NdXj6p6HMnjzLQk5Qev%2FjQZMEqsQN98zo%3D&reserved=0",
+    "transparency_page": "https://www.uplandhillshealth.org/patient-visitors/quality-and-pricing/"
+  },
+  {
+    "detail_id": "71aeff6f-e589-4b75-b698-e5ef7e3cee15",
+    "ccn": "521353",
+    "hospital_name": "CUMBERLAND HEALTHCARE",
+    "file_url": "https://cumberlandhealthcare.com/wp-content/uploads/2024/07/price-transparency-csv-file.csv",
+    "transparency_page": "https://cumberlandhealthcare.com/patients-visitors/patient-financial-services/"
+  },
+  {
+    "detail_id": "7aacb136-4544-4581-82fa-f6733145715e",
+    "ccn": "521354",
+    "hospital_name": "SOUTHWEST HEALTH CENTER",
+    "file_url": "https://southwesthealth.pt.panaceainc.com/MRFDownload/southwesthealth/southwesthealth",
+    "transparency_page": "https://www.southwesthealth.org/patients-visitors/quality-and-pricing/"
+  },
+  {
+    "detail_id": "cec6efbc-e0bb-4b5d-b1e3-a5c760f81f83",
+    "ccn": "521355",
+    "hospital_name": "THEDACARE MEDICAL CENTER BERLIN",
+    "file_url": "https://thedacare.org/390806359_thedacare-berlin_standardcharges/",
+    "transparency_page": "https://thedacare.org/patients-and-visitors/billing-and-payment/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "bfcd0366-3334-4ab4-a0fe-23628d044a8a",
+    "ccn": "521356",
+    "hospital_name": "BELLIN HEALTH OCONTO HOSPITAL",
+    "address": "820 ARBUTUS AVE, PO BOX 357",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/bellin-oconto",
+    "transparency_page": "https://bellin.org/patients-visitors/billing-insurance-services"
+  },
+  {
+    "detail_id": "cb4eb6f3-203b-45b8-982e-8d4be05ed328",
+    "ccn": "521357",
+    "hospital_name": "MERCYHEALTH HOSPITAL AND MEDICAL CENTER WALWORTH",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/fl_attachment/mercyhealth-site-398/media/r/5164272593a44bf7b23c3bb34035a488/390816848-mercywalworthhospital-standardcharges.json",
+    "transparency_page": "https://www.mercyhealthsystem.org/patientsvisitors/billing-information/chargemaster/"
+  },
+  {
+    "detail_id": "f7e11bec-bc8f-4471-b9d2-29390c8cfbd3",
+    "ccn": "521358",
+    "hospital_name": "DOOR COUNTY MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/door-county-medical-center/390806324_Door-County-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.dcmedical.org/billing-and-payments"
+  },
+  {
+    "detail_id": "e3e91592-a7c3-499d-a7ea-6900cf1fe50a",
+    "ccn": "521359",
+    "hospital_name": "TAMARACK HEALTH ASHLAND MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/tamarack-health-ashland-medical-center/237013497_Tamarack-Health-Ashland-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.tamarackhealth.org/patients-visitors/billing-services/price-transparency/"
+  },
+  {
+    "detail_id": "9909c2e5-d689-4eff-88ce-eaed0191e50d",
+    "ccn": "522005",
+    "hospital_name": "LAKEVIEW SPECIALTY HOSPITAL & REHAB CENTER",
+    "file_url": "https://lakeviewsystem.com/wp-content/uploads/2025/04/Lakeview-Standard-Charges.csv",
+    "transparency_page": "https://lakeviewsystem.com/resources/"
+  },
+  {
+    "detail_id": "eaaf1fc3-71f5-46fa-8a18-f614c506767d",
+    "ccn": "522006",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - MILWAUKEE - WEST ALLIS",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1820734_Select_Specialty_Hospital-Milwaukee_West_Allis_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "44c915e8-c20a-4b68-aa4b-05550b39bcce",
+    "ccn": "522008",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL MADISON",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/73-1674792_Select_Specialty_Hospital-Madison_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "62cc3440-1c30-4724-a7c1-8aa588acbeb0",
+    "ccn": "523027",
+    "hospital_name": "REHABILITATION HOSPITAL OF WISCONSIN",
+    "file_url": "https://www.rehabhospitalwi.com/docs/irfrehabilitationhospitalofwisconsinlibraries/aug2025/262332250_rehabilitation-hospital-of-wi-llc_standardcharges.csv.zip",
+    "transparency_page": "https://www.rehabhospitalwi.com/patient-experience/financial-assistance"
+  },
+  {
+    "detail_id": "11ba49f9-80fd-48e1-ac8a-07107e09b4d8",
+    "ccn": "523028",
+    "hospital_name": "UW HEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://bynder.uwhealth.org/m/35d806d784d4cdbd/original/391835630_University-of-Wisconsin-Hospital-and-Clinics-Authority_standardcharges.csv",
+    "transparency_page": "https://www.uwhealth.org/billing-insurance/cms-price-transparency"
+  },
+  {
+    "detail_id": "0feadc58-5ffc-4ee4-90fa-11587d529e4c",
+    "ccn": "523033",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF FITCHBURG",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/862918445_Encompass-Health-Rehabilitation-Hospital-of-Fitchburg_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/fitchburg-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "471f63d7-8e01-461c-9f99-0d27e76a297f",
+    "ccn": "523300",
+    "hospital_name": "MILWAUKEE CAMPUS-CHILDREN'S WISCONSIN",
+    "file_url": "https://7pgcgohua4yc5gik.public.blob.vercel-storage.com/390812532-1750482022_Childrens-Hospital-of-Wisconsin_standardcharges.csv",
+    "transparency_page": "https://childrenswi.org/family-resources/insurance-billing-payments/price-transparency"
+  },
+  {
+    "detail_id": "1957b448-cef0-4ae6-9825-048e8524e02c",
+    "ccn": "523302",
+    "hospital_name": "FOX VALLEY HOSPITAL-CHILDREN'S WISCONSIN",
+    "file_url": "https://edge.sitecorecloud.io/childrensho3e59-cw60b4-prod2126-77fc/media/CHWLIBRARY/Files/Patient-Family-experience/Billing/390812532-1881780302_Childrens-Hospital-of-Wisconsin_standardcharges.csv",
+    "transparency_page": "https://childrenswi.org/family-resources/insurance-billing-payments/price-transparency"
+  },
+  {
+    "detail_id": "0296d614-6e9e-4086-b461-d4e47d17c956",
+    "ccn": "524000",
+    "hospital_name": "AURORA PSYCHIATRIC HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11254/390872192_aurora-psychiatric-hospital_standardcharges.csv",
+    "transparency_page": "https://www.aurorahealthcare.org/patients-visitors/billing-payment/health-care-costs"
+  },
+  {
+    "detail_id": "8380912a-e465-45b9-93fe-b0a892c89c20",
+    "ccn": "524017",
+    "hospital_name": "NORTH CENTRAL HEALTH CARE",
+    "file_url": "https://machine-readable-files.com/north-central-health-care/930801810_North-Central-Health-Care_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/North-Central-Health-Care"
+  },
+  {
+    "detail_id": "7b318350-3ae5-4843-963f-669a6ac29582",
+    "ccn": "524018",
+    "hospital_name": "ROGERS BEHAVIORAL HEALTH OCONOMOWOC",
+    "file_url": "https://rogersbh.org/wp-content/uploads/2025/06/391139101_RogersMemorialHospitalInc_Standardcharges.csv",
+    "transparency_page": "https://rogersbh.org/what-expect/insurance-pricing-calculator/"
+  },
+  {
+    "detail_id": "11a600fd-5512-45d0-a677-7cffb2c31f8c",
+    "ccn": "524018",
+    "hospital_name": "ROGERS MEMORIAL HOSPITAL OCONOMOWOC",
+    "file_url": "https://rogersbh.org/wp-content/uploads/2025/06/391139101_RogersMemorialHospitalInc_Standardcharges.csv",
+    "transparency_page": "https://rogersbh.org/what-expect/insurance-pricing-calculator/"
+  },
+  {
+    "detail_id": "77e944cb-6f40-45af-a116-34f486d51f99",
+    "ccn": "524038",
+    "hospital_name": "BELLIN HEALTH PSYCHIATRIC HOSPITAL",
+    "file_url": "https://bellin-ghs.pt.panaceainc.com/MRFDownload/bellin-ghs/bellin-psychiatric",
+    "transparency_page": "https://bellin.org/patients-visitors/billing-insurance-services"
+  },
+  {
+    "detail_id": "7d40a4c3-b3b9-4d4c-a2ee-58e68929c8c6",
+    "ccn": "524041",
+    "hospital_name": "WILLOW CREEK BEHAVIORAL HEALTH",
+    "file_url": "https://willowcreekbh.com/wp-content/uploads/2025/03/47-3778682_willow-creek-behavioral-health_standardcharges.csv",
+    "transparency_page": "https://willowcreekbh.com/price-transparency/"
+  },
+  {
+    "detail_id": "9e7811d6-75cc-4609-a198-78938d6bd7ab",
+    "ccn": "524046",
+    "hospital_name": "ROGERS MEMORIAL HOSPITAL BROWN DEER",
+    "file_url": "https://rogersbh.org/wp-content/uploads/2025/06/391139101_RogersMemorialHospitalInc_Standardcharges.csv",
+    "transparency_page": "https://rogersbh.org/what-expect/insurance-pricing-calculator/"
+  },
+  {
+    "detail_id": "15b0bdff-94df-4d89-8131-3c287b91ffdc",
+    "ccn": "524047",
+    "hospital_name": "ROGERS MEMORIAL HOSPITAL WEST ALLIS",
+    "file_url": "https://rogersbh.org/wp-content/uploads/2025/06/391139101_RogersMemorialHospitalInc_Standardcharges.csv",
+    "transparency_page": "https://rogersbh.org/what-expect/insurance-pricing-calculator/"
+  }
+]

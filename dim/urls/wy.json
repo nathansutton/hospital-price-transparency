@@ -1,0 +1,149 @@
+[
+  {
+    "detail_id": "d5ca2965-4e2c-415c-98f3-9cca92621bd0",
+    "ccn": "530008",
+    "hospital_name": "SAGEWEST RIVERTON",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=aoYxoUPTxKbYJUPeM0nw6A*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://www.sagewesthealthcare.com/cost-estimator"
+  },
+  {
+    "detail_id": "d112cc26-312f-4343-bd38-0ea8007724a0",
+    "ccn": "530011",
+    "hospital_name": "MEMORIAL HOSPITAL OF SWEETWATER COUNTY",
+    "file_url": "https://sweetwater.goredde.com/Estimator/Files/83-6000295_Memorial_Hospital_of_Sweetwater_county_standardcharges.csv",
+    "transparency_page": "https://sweetwater.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "061c6c0b-c2f4-4d30-ac56-6e11dc2cbb03",
+    "ccn": "530025",
+    "hospital_name": "IVINSON MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8078/300975387_ivinson-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/IvinsonMemorialHospital/8078or"
+  },
+  {
+    "detail_id": "78643d41-cdf5-4823-a3a0-e86b280667ba",
+    "ccn": "530032",
+    "hospital_name": "EVANSTON REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbERHEVANSTONWY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Evanston.aspx"
+  },
+  {
+    "detail_id": "dac2c0e2-6c0c-49a6-80ed-a29afd11b143",
+    "ccn": "530034",
+    "hospital_name": "SUMMIT MEDICAL CENTER CASPER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/966271d9-392f-4763-af53-b6f343c6e2f9/461413732_SUMMIT-MEDICAL-LLC_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=966271d9-392f-4763-af53-b6f343c6e2f9"
+  },
+  {
+    "detail_id": "5ae04274-c61a-4ec1-a173-9003d480d5ad",
+    "ccn": "531301",
+    "hospital_name": "THREE RIVERS HEALTH",
+    "file_url": "https://www.trhealth.com/wp-content/uploads/2024/01/TRHWebsite-CDM-1.xlsx",
+    "transparency_page": "https://www.trhealth.com/services/hospital/"
+  },
+  {
+    "detail_id": "77efcd3f-edbe-4e32-9948-92a65e1d5e9d",
+    "ccn": "531302",
+    "hospital_name": "MEMORIAL HOSPITAL OF CONVERSE COUNTY",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/f8bfd33ee3ef0de934dcd806e09fcd05/charges/mrf",
+    "transparency_page": "https://www.conversehospital.com/patients-visitors/pricing-information/"
+  },
+  {
+    "detail_id": "10826f8f-3eef-4887-aa25-0faa412052d3",
+    "ccn": "531303",
+    "hospital_name": "WESTON COUNTY HEALTH SERVICES",
+    "file_url": "https://www.wchs-wy.org/_files/ugd/783f2c_c0d12469728c46beb2a92a5b27cd39bf.csv?dn=WCHS%20Standard%20Charges.csv",
+    "transparency_page": "https://www.wchs-wy.org/standard-charges/"
+  },
+  {
+    "detail_id": "dfcefd7f-9433-416e-acf7-b686b9afbdfb",
+    "ccn": "531304",
+    "hospital_name": "HOT SPRINGS HEALTH THERMOPOLIS",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHSCMHTHERMOPOLISWY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HotSprings.aspx"
+  },
+  {
+    "detail_id": "3f34deda-988b-4f24-a854-d0550807f751",
+    "ccn": "531305",
+    "hospital_name": "PLATTE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/830249710_platte-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "4fe5b07e-f185-4f93-b6cf-cea64b44249b",
+    "ccn": "531306",
+    "hospital_name": "WASHAKIE MEDICAL CENTER",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/830249708_washakie-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "2c0c02b4-a5d8-401d-a206-6f08b5adc118",
+    "ccn": "531307",
+    "hospital_name": "COMMUNITY HOSPITAL",
+    "file_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/510147309_banner-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.bannerhealth.com/patients/billing/pricing-resources/hospital-price-transparency"
+  },
+  {
+    "detail_id": "84437bc2-669f-4790-b88e-0efaa9fe78ad",
+    "ccn": "531308",
+    "hospital_name": "JOHNSON COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://www.jchealthcare.com/wp-content/uploads/830249721_johnson-county-healthcare-center_standardcharges.csv",
+    "transparency_page": "https://www.jchealthcare.com/about/financial-information/"
+  },
+  {
+    "detail_id": "e5aa9eed-4779-4d5f-af0d-ac8bfcf04571",
+    "ccn": "531309",
+    "hospital_name": "NORTH BIG HORN HOSPITAL DISTRICT",
+    "file_url": "https://pricetransparency.blob.core.windows.net/northbighorn/836000891_North-Big-Horn-Hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.accureg.net/northbighorn"
+  },
+  {
+    "detail_id": "5519883e-6dce-436a-a214-8737e3097eb5",
+    "ccn": "531310",
+    "hospital_name": "POWELL VALLEY HEALTHCARE",
+    "file_url": "https://www.pvhc.org/wp-content/uploads/830300467_powell-valley-healthcare-inc_standardcharges.csv",
+    "transparency_page": "https://www.pvhc.org/patients-visitors/our-prices/"
+  },
+  {
+    "detail_id": "346ce050-1f78-41b0-b2bc-c634c193979c",
+    "ccn": "531311",
+    "hospital_name": "CROOK COUNTY HOSPITAL",
+    "file_url": "http://ccmsd.org/wp-content/uploads/2025/12/830210617_CROOKCOUNTYMEDICALSERVICESDISTRICT_STANDARDCHARGES-2025.csv",
+    "transparency_page": "https://ccmsd.org/patient-liability/"
+  },
+  {
+    "detail_id": "d7994d53-dca8-4de9-94c7-8fa899717431",
+    "ccn": "531312",
+    "hospital_name": "WEST PARK HOSPITAL - CODY REGIONAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWPHCODYWY&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/WestPark_V2.aspx"
+  },
+  {
+    "detail_id": "64a8a85f-9c42-4dd4-aef1-0453ed31d11b",
+    "ccn": "531314",
+    "hospital_name": "NIOBRARA HEALTH AND LIFE CENTER",
+    "file_url": "https://niobrarahospital.slicedhealth.io/pricer/87-0725536_NiobraraHospital_StandardCharges.csv",
+    "transparency_page": "https://niobrarahospital.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "df256658-c9a7-4ea4-ac16-98ee3215c959",
+    "ccn": "531316",
+    "hospital_name": "MEMORIAL HOSPITAL OF CARBON COUNTY",
+    "file_url": "https://memorialhospitalofcarboncounty.pg.revenuemasters.com/cdm-files/836000025_memorial-hospital-of-carbon-county_standardcharges.csv",
+    "transparency_page": "https://www.imhcc.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "7b237693-8c76-4a09-9ee4-7f80066a1870",
+    "ccn": "533027",
+    "hospital_name": "ELKHORN VALLEY REHABILITATION HOSPITAL",
+    "file_url": "https://evrh.ernesthealth.com/wp-content/uploads/sites/6/2025/07/260893115_Elkhorn-Valley-Rehabilitation-Hospital_Standard-Charges.csv",
+    "transparency_page": "https://evrh.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "fb18616b-9b2a-4f04-810f-6d7d2a39b466",
+    "ccn": "534004",
+    "hospital_name": "WYOMING BEHAVIORAL INSTITUTE",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/203367209_wyoming_standardcharges.csv",
+    "transparency_page": "https://wbihelp.com/standard-services/"
+  }
+]

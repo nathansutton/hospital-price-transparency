@@ -1,0 +1,289 @@
+[
+  {
+    "detail_id": "94d24095-6abf-42a5-a6b5-aca7c2a9c6ae",
+    "ccn": "202022",
+    "hospital_name": "TIOGA MEDICAL CENTER",
+    "file_url": "https://www.tiogahealth.org/_files/ugd/51e5d7_dd1fd19b96444b428ff0f7b66aaf91af.xls?dn=Charge%20Master%202022.xls",
+    "transparency_page": "https://www.tiogahealth.org/payments"
+  },
+  {
+    "detail_id": "57c76187-7aa5-4cb8-bcb1-7de09b18156c",
+    "ccn": "350004",
+    "hospital_name": "SANFORD SOUTH UNIVERSITY MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8383/450226909_sanford-fargo-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordMedicalCenterFargo/8383"
+  },
+  {
+    "detail_id": "53f230a6-e191-4883-944c-b6309a143dbd",
+    "ccn": "350006",
+    "hospital_name": "TRINITY HEALTH ST. JOSEPH\u2019S HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=9hCt*__*1vhfhFOMtLQdioowA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=T5EyO8gUuOWgH1PWaXHIAQ*-*"
+  },
+  {
+    "detail_id": "151124d4-2ee5-4503-84d1-07bc3c0c21e8",
+    "ccn": "350011",
+    "hospital_name": "SANFORD MEDICAL CENTER FARGO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8383/450226909_sanford-fargo-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordMedicalCenterFargo/8383"
+  },
+  {
+    "detail_id": "612d1804-65f5-4fb6-b5e3-36f00ffbaf75",
+    "ccn": "350015",
+    "hospital_name": "SANFORD MEDICAL CENTER - BISMARCK",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8388/450226700_sanford-bismarck-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordMedicalCenterBismarck/8388"
+  },
+  {
+    "detail_id": "d0f8104c-7fd5-4c6f-a135-906b9e7da7da",
+    "ccn": "350019",
+    "hospital_name": "ALTRU HOSPITAL",
+    "file_url": "https://www.altru.org/documents/450310462altru-hospitalstandardchargescsv",
+    "transparency_page": "https://www.altru.org/patients-visitors/billing-insurance/price-estimates-transparency"
+  },
+  {
+    "detail_id": "202ac614-332b-44f5-966a-4b76ecc5a043",
+    "ccn": "350043",
+    "hospital_name": "TRINITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=9hCt*__*1vhfhFOMtLQdioowA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=T5EyO8gUuOWgH1PWaXHIAQ*-*"
+  },
+  {
+    "detail_id": "1415254a-0c9e-4c8f-a54a-e1b31091b9db",
+    "ccn": "350070",
+    "hospital_name": "ESSENTIA HEALTH FARGO",
+    "file_url": "https://www.essentiahealth.org/standard-charges/2026/200479568_Essentia-Ada_standardcharges.csv",
+    "transparency_page": "https://www.essentiahealth.org/patients-visitors/billing/price-estimates"
+  },
+  {
+    "detail_id": "d4f88376-c14c-43b9-a660-956107f34785",
+    "ccn": "351301",
+    "hospital_name": "MOUNTRAIL COUNTY MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/KNHL-1747862097603/machine-readable/450447670_mountrail-county-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/mountrail-county-medical-center-nd"
+  },
+  {
+    "detail_id": "71d91009-f8c3-443e-b90e-a657933714a4",
+    "ccn": "351302",
+    "hospital_name": "MCKENZIE COUNTY HEALTHCARE SYSTEMS",
+    "file_url": "https://search.hospitalpriceindex.com/hpi2/allServices/McKenzieCountyHealthcareSystem/8104or/all?q=**&m=s",
+    "transparency_page": "https://mckenziehealth.com/patient-services/billing/"
+  },
+  {
+    "detail_id": "8150272c-b86a-4b22-b28a-8cad08462f2e",
+    "ccn": "351303",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH GARRISON",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450227752_chi-st-alexius-health-garrison_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "39d1def3-4b73-4289-bcb2-8a03a97f9e42",
+    "ccn": "351304",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH TURTLE LAKE",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450226711_chi-st-alexius-health-turtle-lake_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "1056432c-3b15-4328-914d-97feb06e994f",
+    "ccn": "351306",
+    "hospital_name": "DAKOTA REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.dakotaregional.com/_files/ugd/f0a0c4_0586188b2eb04329a4b2b280013e9916.csv?dn=2%20Copy%20of%20DRMC%20Charge%20Master%20Updates%2012-2024.csv",
+    "transparency_page": "https://www.dakotaregional.com/about-7"
+  },
+  {
+    "detail_id": "73244170-27d8-4d46-ad33-0b661d1baa79",
+    "ccn": "351308",
+    "hospital_name": "NELSON COUNTY HEALTH SYSTEM",
+    "file_url": "https://nelsoncountyhealthsystem.org/file_download/8e3945ca-d2d6-4a29-84a1-555661a687eb",
+    "transparency_page": "https://nelsoncountyhealthsystem.org/what-we-do/important-links/"
+  },
+  {
+    "detail_id": "09a7e69f-800a-4165-bb77-fa18f1ea8bb0",
+    "ccn": "351309",
+    "hospital_name": "SANFORD MEDICAL CENTER MAYVILLE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8381/450409348_sanford-mayville-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordMedicalCenterMayville/8381"
+  },
+  {
+    "detail_id": "64099927-da1b-49e2-a0ba-48893e5bba68",
+    "ccn": "351310",
+    "hospital_name": "SAKAKAWEA MEDICAL CENTER - CAH",
+    "file_url": "https://machine-readable-files.com/sakakawea-medical-center/450308379_sakakawea-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.smcnd.org/financial-services"
+  },
+  {
+    "detail_id": "803030f4-263c-4cb9-8d6f-44ecca24d7dc",
+    "ccn": "351311",
+    "hospital_name": "CHI LISBON HEALTH",
+    "file_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/2025/upper-mw/820558836_chi-lisbon-health_standardcharges.json",
+    "transparency_page": "https://lisbonhospital.com/standard-charges/"
+  },
+  {
+    "detail_id": "74e7689c-ffb1-45d1-9442-f981c6d1dd68",
+    "ccn": "351314",
+    "hospital_name": "JACOBSON MEMORIAL HOSPITAL CARE CENTER",
+    "file_url": "http://www.jacobsonhospital.org/450222079_JacobsonMemorial_standardcharges.csv",
+    "transparency_page": "http://www.jacobsonhospital.org/Patients-Visitors.html"
+  },
+  {
+    "detail_id": "818223ad-1135-4c27-9f96-da8bcf74c96c",
+    "ccn": "351316",
+    "hospital_name": "SMP HEALTH ST. KATERI",
+    "file_url": "https://secure.claraprice.net/price-transparency/IIVO-1760710869693/machine-readable/450227391_smp-health---st-kateri_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/smp-health-st-kateri-nd"
+  },
+  {
+    "detail_id": "f218df6a-3286-4092-8147-f0eff2c6df5b",
+    "ccn": "351318",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH CARRINGTON",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450227311_chi-st-alexius-health-carrington_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "5a38dc89-965e-4363-affa-519af8a010e1",
+    "ccn": "351319",
+    "hospital_name": "PEMBINA COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/pembina-county-memorial-hospital/456013474_Pembina_County_Memorial_Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/pembina-county-memorial-hospital"
+  },
+  {
+    "detail_id": "4cf5124f-e0fc-4924-bcd5-27ed47d1ae1b",
+    "ccn": "351320",
+    "hospital_name": "UNITY MEDICAL CENTER",
+    "file_url": "https://machine-readable-files.com/unity-medical-center/450310159_UnityMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://www.unitymedcenter.com/about-us/price-transparency.html"
+  },
+  {
+    "detail_id": "f1af4339-2735-40af-aa0a-83bcaa03fbd4",
+    "ccn": "351321",
+    "hospital_name": "SOUTH CENTRAL HEALTH",
+    "file_url": "https://schealthnd.com/wp-content/uploads/2024/12/450358986_wishek-hospital-clinic-association_standardcharges.csv",
+    "transparency_page": "https://schealthnd.com/patient-resources/patient-portal-2/"
+  },
+  {
+    "detail_id": "a990b211-a95f-4b1a-ab6f-4f0216b70d5d",
+    "ccn": "351322",
+    "hospital_name": "ASHLEY MEDICAL CENTER",
+    "file_url": "https://irp.cdn-website.com/5b245649/files/uploaded/450255914_ashley-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.amctoday.org/financial"
+  },
+  {
+    "detail_id": "82a64e90-4d4a-4ee1-8afc-15bc290a1f33",
+    "ccn": "351323",
+    "hospital_name": "LANGDON PRAIRIE HEALTH",
+    "file_url": "https://machine-readable-files.com/langdon-prairie-health/363617578_Langdon-Prairie-Health_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Langdon-Prairie-Health"
+  },
+  {
+    "detail_id": "f5947ac1-7f5a-405b-a9ba-e155959fb4e4",
+    "ccn": "351325",
+    "hospital_name": "ST LUKE'S MEDICAL CENTER",
+    "file_url": "https://www.dcstlukes.org/_files/ugd/bbb1a5_a86541ee3f5441edb50bd9f104d5ba0a.csv?dn=450254692_st.-luke%27s-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.dcstlukes.org/resources"
+  },
+  {
+    "detail_id": "cc79b8d6-6df8-44f5-aa3c-b87203b81d2c",
+    "ccn": "351326",
+    "hospital_name": "FIRST CARE HEALTH CENTER",
+    "file_url": "https://www.firstcarehc.com/wp-content/uploads/2024/06/450232743_First-Care-Health-Center_standardcharges.csv",
+    "transparency_page": "https://www.firstcarehc.com/resources/"
+  },
+  {
+    "detail_id": "cd908756-4d02-464b-8f34-18d6f5e14dd1",
+    "ccn": "351328",
+    "hospital_name": "LINTON REGIONAL MEDICAL CENTER",
+    "file_url": "https://lintonregionalmedicalcenter.org/wp-content/uploads/2024/05/Chargemaster-2024-4-1...xlsx",
+    "transparency_page": "https://lintonregionalmedicalcenter.org/patient-resources/payments-finance/"
+  },
+  {
+    "detail_id": "ccc83bbc-8f40-44d0-a6b9-6a4d4b6d058b",
+    "ccn": "351329",
+    "hospital_name": "SANFORD MEDICAL CENTER HILLSBORO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8382/450409348_sanford-hillsboro-medical-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SanfordMedicalCenterHillsboro/8382"
+  },
+  {
+    "detail_id": "005b11fc-e81c-4eb5-aa0b-e44e28aa1565",
+    "ccn": "351330",
+    "hospital_name": "WEST RIVER HEALTH SERVICES",
+    "file_url": "https://machine-readable-files.com/west-river-health/450340688_west-river-health_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/West-River-Health"
+  },
+  {
+    "detail_id": "de6f0481-449b-41a7-8aca-aac31f5405fc",
+    "ccn": "351331",
+    "hospital_name": "TOWNER COUNTY MEDICAL CENTER",
+    "file_url": "https://u3z8y4g3.stackpathcdn.com/wp-content/uploads/2023/01/TCMC-Charge-List-2019.csv",
+    "transparency_page": "https://tcmedcenter.org/resources/"
+  },
+  {
+    "detail_id": "082d231f-6b3d-4d01-a0fc-94c205a52661",
+    "ccn": "351332",
+    "hospital_name": "HEART OF AMERICA MEDICAL CENTER",
+    "file_url": "https://irp.cdn-website.com/43c3af16/files/uploaded/Price_Transparency_Website_2025_updated_prices_Feb_1.xlsx",
+    "transparency_page": "https://www.hamc.com/billpay"
+  },
+  {
+    "detail_id": "4cc7bfe3-f87c-48a7-a441-305efadc4321",
+    "ccn": "351333",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH DEVILS LAKE",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450227012_chi-st-alexius-health-devils-lake_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "d38a537f-6c01-4d39-b2a0-f497e0693902",
+    "ccn": "351334",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH WILLISTON",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450231183_chi-st-alexius-health-williston_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "56df9b0b-1540-418b-adc7-9676deb96094",
+    "ccn": "351335",
+    "hospital_name": "JAMESTOWN REGIONAL MEDICAL CENTER",
+    "file_url": "https://jrmcnd.com/wp-content/uploads/2023-JRMC-Chargemaster.xlsx",
+    "transparency_page": "https://jrmcnd.com/resources/patient-accounts/"
+  },
+  {
+    "detail_id": "78305015-3882-4e49-9998-3b171d844f78",
+    "ccn": "351336",
+    "hospital_name": "CHI ST. ALEXIUS HEALTH DICKINSON",
+    "file_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-2025/450226429_chi-st-alexius-health-dickinson_standardcharges.json",
+    "transparency_page": "https://www.chistalexiushealth.org/patients-and-visitors/financial-assistance"
+  },
+  {
+    "detail_id": "01e8c8ab-ffcc-4397-b0ac-b6d45dc3a763",
+    "ccn": "352004",
+    "hospital_name": "VIBRA HOSPITAL OF FARGO",
+    "file_url": "https://vhfargo.com/wp-content/uploads/sites/28/2025/09/462632428_vibra-hospital-of-fargo_standardcharges.csv",
+    "transparency_page": "https://vhfargo.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "4a534f47-c3e8-404a-ae0c-d159c231a4fc",
+    "ccn": "352005",
+    "hospital_name": "VIBRA HOSPITAL OF CENTRAL DAKOTAS",
+    "file_url": "https://vhcentraldakotas.com/wp-content/uploads/sites/25/2025/09/462632340_vibra-hospital-of-central-dakota_standardcharges.csv",
+    "transparency_page": "https://vhcentraldakotas.com/about-us/price-transparency/"
+  },
+  {
+    "detail_id": "1314f082-3a4c-4d5c-a33b-470e3bd48c1c",
+    "ccn": "353026",
+    "hospital_name": "PAM HEALTH REHABILITATION HOSPITAL FARGO",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10966/850945971_pam-cubed-rehabilitation-hospital-of-fargo-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PostAcuteMedical/10966"
+  },
+  {
+    "detail_id": "33a8a5fd-32f7-4342-9680-8328cd81659d",
+    "ccn": "353027",
+    "hospital_name": "ALTRU REHABILITATION HOSPITAL, AFFILIATE OF ENCOMPASS HEALTH",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/870885335_Altru-Rehabilitation-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/grandforks-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "57b2cc5d-b657-4b69-a5b8-71dc38be64b0",
+    "ccn": "354004",
+    "hospital_name": "PRAIRIE SAINT JOHN'S",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/264314533_prairie-st-john_standardcharges.csv",
+    "transparency_page": "https://prairie-stjohns.com/standard-services/"
+  }
+]

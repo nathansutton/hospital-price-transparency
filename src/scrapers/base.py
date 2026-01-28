@@ -100,14 +100,76 @@ class BaseScraper(ABC):
         """
         return self.normalizer.normalize(df)
 
+    def _find_local_raw_file(self) -> Path | None:
+        """Check if a locally downloaded raw file exists.
+
+        Looks for CSV or JSON files that were manually downloaded
+        to bypass WAF/403 errors.
+
+        Returns:
+            Path to local file if found, None otherwise
+        """
+        output_path = get_output_path(self.scraper_config, self.hospital_config)
+        base_dir = output_path.parent
+        ccn = self.hospital_config.ccn
+
+        # Check for raw files (not .jsonl which is our output format)
+        for ext in [".csv", ".json", ".zip", ".xlsx"]:
+            local_path = base_dir / f"{ccn}{ext}"
+            if local_path.exists():
+                return local_path
+        return None
+
+    def _load_local_file(self, path: Path) -> bytes | str | dict:
+        """Load a local raw file.
+
+        Args:
+            path: Path to the local file
+
+        Returns:
+            File contents in appropriate format for the scraper
+        """
+        import io
+        import json
+
+        self.logger.info("using_local_file", path=str(path))
+
+        if path.suffix == ".json":
+            text = path.read_text(encoding="utf-8-sig")
+            return json.loads(text)
+        elif path.suffix == ".csv":
+            try:
+                return path.read_text(encoding="utf-8-sig")
+            except UnicodeDecodeError:
+                return path.read_text(encoding="latin-1")
+        elif path.suffix == ".xlsx":
+            # Convert XLSX to CSV text for the parser
+            xlsx_bytes = path.read_bytes()
+            df = pd.read_excel(
+                io.BytesIO(xlsx_bytes),
+                sheet_name=0,
+                header=None,
+                dtype=str,
+                keep_default_na=False,
+                engine="openpyxl",
+            )
+            csv_buffer = io.StringIO()
+            df.to_csv(csv_buffer, index=False, header=False)
+            return csv_buffer.getvalue()
+        elif path.suffix == ".zip":
+            return path.read_bytes()
+        else:
+            return path.read_bytes()
+
     def scrape(self) -> ScrapeResult:
         """Execute the full scrape workflow.
 
         This is the main entry point that orchestrates:
-        1. Fetch raw data
-        2. Parse to DataFrame
-        3. Normalize to standard schema
-        4. Save to JSONL file
+        1. Check for local raw file (manually downloaded)
+        2. If not found, fetch raw data from URL
+        3. Parse to DataFrame
+        4. Normalize to standard schema
+        5. Save to JSONL file
 
         Returns:
             ScrapeResult with success/failure status and metadata
@@ -120,9 +182,14 @@ class BaseScraper(ABC):
             self.hospital_config.hospital,
         ) as log_ctx:
             try:
-                # Fetch raw data
-                self.logger.debug("fetching_data", url=self.hospital_config.file_url)
-                raw_data = self.fetch_data()
+                # Check for locally downloaded raw file first
+                local_file = self._find_local_raw_file()
+                if local_file:
+                    raw_data = self._load_local_file(local_file)
+                else:
+                    # Fetch raw data from URL
+                    self.logger.debug("fetching_data", url=self.hospital_config.file_url)
+                    raw_data = self.fetch_data()
 
                 # Parse to DataFrame
                 self.logger.debug("parsing_data")
@@ -137,6 +204,11 @@ class BaseScraper(ABC):
                 # Save to file
                 output_path = get_output_path(self.scraper_config, self.hospital_config)
                 self._save_jsonl(normalized, output_path)
+
+                # Clean up local raw file after successful processing
+                if local_file and local_file.exists():
+                    local_file.unlink()
+                    self.logger.info("removed_local_file", path=str(local_file))
 
                 duration = (datetime.now() - start_time).total_seconds()
                 log_ctx.set_records_scraped(len(normalized))

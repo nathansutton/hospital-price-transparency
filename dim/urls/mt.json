@@ -1,0 +1,212 @@
+[
+  {
+    "detail_id": "ab09024e-3530-456c-9986-1c7f25abd8f5",
+    "ccn": "270012",
+    "hospital_name": "BENEFIS HEALTH CARE (EAST CAMPUS)",
+    "file_url": "https://www.benefis.org/app/files/public/84debe18-3084-4d06-8ffb-44d809073c11/473448483_BenefisCommunityHospitalsInc_standardcharges.csv",
+    "transparency_page": "https://www.benefis.org/patients-visitors/billing-financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "e3df34f7-245b-4aa2-a77e-93597cc44cc9",
+    "ccn": "270014",
+    "hospital_name": "PROVIDENCE ST PATRICK HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/810231793_st-patrick-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "7575b2b7-e48c-4535-b5a6-8ea835c6cd12",
+    "ccn": "270051",
+    "hospital_name": "LOGAN HEALTH MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=nlnNge8MhLiec440RvxqVQ*-*",
+    "transparency_page": "https://www.logan.org/pay-bill/price-transparency/"
+  },
+  {
+    "detail_id": "b783bac7-d730-4560-a99c-f6146bb0e5e7",
+    "ccn": "271306",
+    "hospital_name": "MOUNTAINVIEW MEDICAL CENTER",
+    "file_url": "https://www.mvmc.org/documents/content/977_CHARGEMASTER2022_20220131162614.csv",
+    "transparency_page": "https://www.mvmc.org/resources/"
+  },
+  {
+    "detail_id": "85f6137f-75f5-4a92-ab1f-fb11bd10aae7",
+    "ccn": "271307",
+    "hospital_name": "BENEFIS TETON MEDICAL CENTER",
+    "file_url": "https://www.benefis.org/app/files/public/84debe18-3084-4d06-8ffb-44d809073c11/473448483_BenefisCommunityHospitalsInc_standardcharges.csv",
+    "transparency_page": "https://www.benefis.org/patients-visitors/billing-financial-assistance/price-transparency/"
+  },
+  {
+    "detail_id": "9c64a411-097c-4055-88c5-71579612ac0e",
+    "ccn": "271309",
+    "hospital_name": "PRAIRIE COMMUNITY HOSPITAL",
+    "file_url": "https://www.prairiecommunityhospital.com/uploads/1/4/8/4/148409791/mrf112224.json",
+    "transparency_page": "https://www.prairiecommunityhospital.com/insurance--pricing.html"
+  },
+  {
+    "detail_id": "03d8224c-60f3-421e-b5f4-2c3169ec35b2",
+    "ccn": "271311",
+    "hospital_name": "BIG SANDY MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/ZVEI-1742918921118/machine-readable/810291695_big-sandy-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/big-sandy-medical-center-mt"
+  },
+  {
+    "detail_id": "63c6e334-e6dd-43f3-9ccc-84f93eafa5ba",
+    "ccn": "271313",
+    "hospital_name": "PIONEER MEDICAL CENTER - CAH",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMCBIGTIMBERMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Pioneer_V2.aspx"
+  },
+  {
+    "detail_id": "05283417-507a-479a-b072-c896c650971b",
+    "ccn": "271314",
+    "hospital_name": "DEER LODGE MEDICAL CENTER",
+    "file_url": "https://www.dlmed.org/documents/810469886_Powell-County-Memorial-Hospital-Association-Inc._standardcharges.csv",
+    "transparency_page": "https://www.dlmed.org/our-services/patient-financial-services/"
+  },
+  {
+    "detail_id": "da51d055-ca1f-4693-b10a-d87decbe59ce",
+    "ccn": "271317",
+    "hospital_name": "LIVINGSTON HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Livingston.aspx#",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Livingston.aspx"
+  },
+  {
+    "detail_id": "4f0fc4c1-79bc-459b-9d30-fc3c8bf5dad4",
+    "ccn": "271318",
+    "hospital_name": "BARRETT HOSPITAL & HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBarrettHospital&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Barrett_V2.aspx"
+  },
+  {
+    "detail_id": "061f4f98-5c4b-4780-bd4e-b6373575bec1",
+    "ccn": "271321",
+    "hospital_name": "WHEATLAND MEMORIAL HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWMHHARLOWTONMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Wheatland_V2.aspx"
+  },
+  {
+    "detail_id": "303a3e54-a986-4154-adf8-80d7a487dd17",
+    "ccn": "271322",
+    "hospital_name": "SHERIDAN MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSMPLENTYWOODMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/SheridanMemorial_V2.aspx"
+  },
+  {
+    "detail_id": "33a899b1-bdaa-403b-a852-678028f5fee2",
+    "ccn": "271324",
+    "hospital_name": "LOGAN HEALTH CONRAD",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=7Ibd9esQPMReZy5CCZbmTw*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?pi=7Ibd9esQPMReZy5CCZbmTw*-*"
+  },
+  {
+    "detail_id": "73d78c11-9894-4b7f-a80c-733997d41c50",
+    "ccn": "271325",
+    "hospital_name": "ST LUKE COMMUNITY HOSPITAL",
+    "file_url": "https://stlukehealthcare.org/wp-content/uploads/2024/01/810221486-ST-LUKE-COMMUNITY-HOSPITAL-STANDARDCHARGES.csv",
+    "transparency_page": "https://stlukehealthcare.org/price-transparency/"
+  },
+  {
+    "detail_id": "4987c178-fb87-4c8d-bc87-ee455a956792",
+    "ccn": "271326",
+    "hospital_name": "BEARTOOTH BILLINGS CLINIC",
+    "file_url": "https://pricetransparency.blob.core.windows.net/beartooth/81-0224734_Beartooth-Billings-Clinic_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/beartooth"
+  },
+  {
+    "detail_id": "928811ac-dea2-41d5-801d-66b24fbe0b7a",
+    "ccn": "271327",
+    "hospital_name": "ROSEBUD HEALTH CARE CENTER HOSPITAL",
+    "file_url": "https://www.rosebudhcc.org/wp-content/uploads/2025/06/810405434_rosebud-community-hospital_standardcharges.csv",
+    "transparency_page": "https://www.rosebudhcc.org/price-transparency/"
+  },
+  {
+    "detail_id": "439f9c41-793d-4a69-9784-b875ce69c670",
+    "ccn": "271331",
+    "hospital_name": "MINERAL COMMUNITY HOSPITAL",
+    "file_url": "https://mineralcommunityhospital.com/wp-content/uploads/2024/07/810421823_Mineral-Community-Hospital_standardcharges07.2024.csv",
+    "transparency_page": "https://mineralcommunityhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "9f093030-fd46-494f-9ef1-1c4f48fce72c",
+    "ccn": "271332",
+    "hospital_name": "GLENDIVE MEDICAL CENTER",
+    "file_url": "https://pricetransparency.blob.core.windows.net/glendive/81-6016016_Glendive-Medical-Center_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/glendive"
+  },
+  {
+    "detail_id": "f5ad246b-adaa-4a4a-a5dd-cd9dcb62e718",
+    "ccn": "271333",
+    "hospital_name": "BILLINGS CLINIC BROADWATER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBHCTOWNSENDMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/BroadWater_V2.aspx"
+  },
+  {
+    "detail_id": "b9ecacd4-6326-468d-9c35-383e724887bf",
+    "ccn": "271334",
+    "hospital_name": "LOGAN HEALTH CHESTER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=envg*__*KSrd*__*pv3yoiW0zB4g*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?pi=envg*__*KSrd*__*pv3yoiW0zB4g*-*"
+  },
+  {
+    "detail_id": "5639f9bd-6744-406a-aad9-5483d8fd2d31",
+    "ccn": "271336",
+    "hospital_name": "LOGAN HEALTH WHITEFISH",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pi=FdPNqgcn*_*TDE47QlrE*__*fuQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/Default.aspx?pi=FdPNqgcn*_*TDE47QlrE*__*fuQ*-*"
+  },
+  {
+    "detail_id": "847c331a-d80e-4334-bd6b-03d4a2ec29d3",
+    "ccn": "271337",
+    "hospital_name": "LOGAN HEALTH CUT BANK",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNRMCICutBankMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/NorthernRockies_V2.aspx"
+  },
+  {
+    "detail_id": "5427b9ed-df14-468a-8ddc-551ee4a3506e",
+    "ccn": "271338",
+    "hospital_name": "BIG HORN COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://bighorn.goredde.com/Estimator/Files/81-0384618_Big_Horn_Hospital_Standardcharges.csv",
+    "transparency_page": "https://bighorn.goredde.com/Estimator/"
+  },
+  {
+    "detail_id": "f6b3e29f-71bd-4ded-b4a3-bcfe3a163e02",
+    "ccn": "271340",
+    "hospital_name": "BITTERROOT HEALTH - DALY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8431/810240726_marcus-daly-memorial-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/hospital/MarcusDalyMemorialHospital/8431or"
+  },
+  {
+    "detail_id": "06fc7b71-6785-4ce9-b16b-e6e5f005e1df",
+    "ccn": "271343",
+    "hospital_name": "PROVIDENCE ST JOSEPH MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/wamt/live/810463482_providence-st-joseph-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "bdbb92b1-3cd4-47e7-ba61-662a5a09e32c",
+    "ccn": "271344",
+    "hospital_name": "SIDNEY HEALTH CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8028/810233499_sidney-health-center_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SidneyHealthCenter/8028or"
+  },
+  {
+    "detail_id": "7ca0059d-6b7e-4a23-bb18-ce0a6d998a78",
+    "ccn": "271347",
+    "hospital_name": "HOLY ROSARY HEALTHCARE",
+    "file_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/810231792_holy-rosary-healthcare_standardcharges.ashx",
+    "transparency_page": "https://intermountainhealthcare.org/locations/intermountain-health-holy-rosary-hospital/about/hospital-pricing"
+  },
+  {
+    "detail_id": "e70743f2-29ea-4d4c-9fcf-60cecddeaf8b",
+    "ccn": "272001",
+    "hospital_name": "ADVANCED CARE HOSPITAL OF MONTANA",
+    "file_url": "https://achm.ernesthealth.com/wp-content/uploads/sites/32/2024/12/205292745_Advanced-Care-Hospital-of-Montana_Standard-Charges.csv",
+    "transparency_page": "https://achm.ernesthealth.com/price-transparency/"
+  },
+  {
+    "detail_id": "49bb8edf-ac80-4d4b-ab8c-c171f91c5ec7",
+    "ccn": "274004",
+    "hospital_name": "SHODAIR CHILDRENS HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSHHELENAMT&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Shodair.aspx"
+  }
+]

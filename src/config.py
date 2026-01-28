@@ -16,6 +16,16 @@ from .utils.logger import get_logger
 
 logger = get_logger(__name__)
 
+# Valid US state codes
+VALID_STATES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
+    "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
+    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
+    "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
+    "DC", "PR", "VI", "GU", "AS", "MP",  # Territories
+}
+
 
 class ScraperConfig(BaseModel):
     """Global scraper configuration."""
@@ -126,6 +136,10 @@ def _detect_format_from_url(url: str) -> DataFormat | None:
         return DataFormat.XML
     elif ".zip" in url_lower:
         return DataFormat.ZIP
+    elif ".ashx" in url_lower:
+        # ASP.NET handlers (Yale-New Haven, Bon Secours, St. Luke's, Mercy)
+        # These typically serve CSV content based on filename patterns
+        return DataFormat.CSV
 
     # 2. Check known provider URL patterns that indicate format
     # ClaraPrice machine-readable endpoints -> JSON
@@ -176,8 +190,7 @@ def load_hospital_configs_from_urls(
     Returns:
         List of validated HospitalConfig objects
     """
-    assert config.dim_dir is not None  # Set in model_post_init
-    urls_dir = config.dim_dir / "urls"
+    urls_dir = config.urls_dir
     if not urls_dir.exists():
         logger.warning("urls_dir_not_found", path=str(urls_dir))
         return []
@@ -197,6 +210,10 @@ def load_hospital_configs_from_urls(
 
         # Extract state from filename (e.g., vt.json -> VT)
         state = json_file.stem.upper()
+
+        # Skip non-state files (e.g., needs_review.json)
+        if state not in VALID_STATES:
+            continue
 
         try:
             with open(json_file) as f:
@@ -301,3 +318,26 @@ def get_output_path(config: ScraperConfig, hospital: HospitalConfig) -> Path:
     # Fallback for hospitals without CCN (shouldn't happen with new system)
     config.data_dir.mkdir(parents=True, exist_ok=True)
     return config.data_dir / f"{hospital.identifier}.jsonl"
+
+
+def get_data_age_days(config: ScraperConfig, hospital: HospitalConfig) -> float | None:
+    """Get the age of existing data file in days.
+
+    Used for incremental scraping to skip hospitals with recent data.
+
+    Args:
+        config: Scraper configuration
+        hospital: Hospital configuration
+
+    Returns:
+        Age in days as a float, or None if no data file exists
+    """
+    from datetime import datetime
+
+    output_path = get_output_path(config, hospital)
+    if not output_path.exists():
+        return None
+
+    mtime = datetime.fromtimestamp(output_path.stat().st_mtime)
+    age_seconds = (datetime.now() - mtime).total_seconds()
+    return age_seconds / 86400  # Convert to days

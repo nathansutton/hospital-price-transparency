@@ -2710,6 +2710,7 @@
 {"cpt":"64484","type":"gross","price":592.0}
 {"cpt":"64486","type":"cash","price":890.4}
 {"cpt":"64486","type":"gross","price":1113.0}
+{"cpt":"64488","type":"gross","price":24381.64}
 {"cpt":"64490","type":"cash","price":804.0}
 {"cpt":"64490","type":"gross","price":1005.0}
 {"cpt":"64491","type":"cash","price":427.2}
@@ -4592,6 +4593,18 @@
 {"cpt":"90834","type":"gross","price":135.0}
 {"cpt":"90837","type":"cash","price":216.0}
 {"cpt":"90837","type":"gross","price":270.0}
+{"cpt":"90846","type":"gross","price":100.0}
+{"cpt":"90847","type":"gross","price":100.0}
+{"cpt":"90849","type":"gross","price":50.0}
+{"cpt":"90853","type":"gross","price":50.0}
+{"cpt":"90857","type":"gross","price":50.0}
+{"cpt":"90862","type":"gross","price":50.0}
+{"cpt":"90870","type":"gross","price":999999999.0}
+{"cpt":"90871","type":"gross","price":150.0}
+{"cpt":"90875","type":"gross","price":50.0}
+{"cpt":"90876","type":"gross","price":100.0}
+{"cpt":"90880","type":"gross","price":100.0}
+{"cpt":"90882","type":"gross","price":100.0}
 {"cpt":"90901","type":"cash","price":93.4}
 {"cpt":"90901","type":"gross","price":116.75}
 {"cpt":"90912","type":"cash","price":93.4}
@@ -5074,6 +5087,10 @@
 {"cpt":"99214","type":"gross","price":1085.0}
 {"cpt":"99215","type":"cash","price":1288.0}
 {"cpt":"99215","type":"gross","price":1610.0}
+{"cpt":"99217","type":"gross","price":38.0}
+{"cpt":"99218","type":"gross","price":52.0}
+{"cpt":"99219","type":"gross","price":92.0}
+{"cpt":"99220","type":"gross","price":115.0}
 {"cpt":"99221","type":"cash","price":180.8}
 {"cpt":"99221","type":"gross","price":226.0}
 {"cpt":"99222","type":"cash","price":252.8}
@@ -5096,6 +5113,7 @@
 {"cpt":"99238","type":"gross","price":162.0}
 {"cpt":"99239","type":"cash","price":180.8}
 {"cpt":"99239","type":"gross","price":226.0}
+{"cpt":"99241","type":"gross","price":23.5}
 {"cpt":"99242","type":"cash","price":191.2}
 {"cpt":"99242","type":"gross","price":239.0}
 {"cpt":"99243","type":"cash","price":230.4}
@@ -5104,6 +5122,7 @@
 {"cpt":"99244","type":"gross","price":371.0}
 {"cpt":"99245","type":"cash","price":401.6}
 {"cpt":"99245","type":"gross","price":502.0}
+{"cpt":"99251","type":"gross","price":34.5}
 {"cpt":"99252","type":"cash","price":180.8}
 {"cpt":"99252","type":"gross","price":226.0}
 {"cpt":"99253","type":"cash","price":227.2}
@@ -5112,6 +5131,9 @@
 {"cpt":"99254","type":"gross","price":398.0}
 {"cpt":"99255","type":"cash","price":399.2}
 {"cpt":"99255","type":"gross","price":499.0}
+{"cpt":"99261","type":"gross","price":34.5}
+{"cpt":"99262","type":"gross","price":34.5}
+{"cpt":"99263","type":"gross","price":55.0}
 {"cpt":"99281","type":"cash","price":308.8}
 {"cpt":"99281","type":"gross","price":386.0}
 {"cpt":"99282","type":"cash","price":459.0}
@@ -5126,6 +5148,9 @@
 {"cpt":"99291","type":"gross","price":4790.0}
 {"cpt":"99292","type":"cash","price":1591.6}
 {"cpt":"99292","type":"gross","price":1989.5}
+{"cpt":"99301","type":"gross","price":23.5}
+{"cpt":"99302","type":"gross","price":55.0}
+{"cpt":"99303","type":"gross","price":100.0}
 {"cpt":"99304","type":"cash","price":117.6}
 {"cpt":"99304","type":"gross","price":147.0}
 {"cpt":"99305","type":"cash","price":141.6}
@@ -5140,8 +5165,10 @@
 {"cpt":"99309","type":"gross","price":160.0}
 {"cpt":"99310","type":"cash","price":156.0}
 {"cpt":"99310","type":"gross","price":195.0}
+{"cpt":"99311","type":"gross","price":23.5}
 {"cpt":"99312","type":"cash","price":102.4}
 {"cpt":"99312","type":"gross","price":128.0}
+{"cpt":"99313","type":"gross","price":55.0}
 {"cpt":"99315","type":"cash","price":128.0}
 {"cpt":"99315","type":"gross","price":160.0}
 {"cpt":"99316","type":"cash","price":152.0}
@@ -5150,6 +5177,7 @@
 {"cpt":"99341","type":"gross","price":154.0}
 {"cpt":"99342","type":"cash","price":192.8}
 {"cpt":"99342","type":"gross","price":241.0}
+{"cpt":"99343","type":"gross","price":100.0}
 {"cpt":"99344","type":"cash","price":312.0}
 {"cpt":"99344","type":"gross","price":390.0}
 {"cpt":"99345","type":"cash","price":373.6}

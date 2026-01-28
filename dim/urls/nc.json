@@ -1,121 +1,337 @@
 [
   {
-    "detail_id": "98e2c834-5f40-41db-9bf4-63627ba74626",
-    "ccn": "340023",
-    "hospital_name": "ADVENTHEALTH HENDERSONVILLE",
-    "address": "",
-    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/560543246_AdventHealth-Hendersonville_standardcharges.json",
-    "transparency_page": "https://www.adventhealth.com/pricelist"
-  },
-  {
-    "detail_id": "2baeb035-76d8-4ab2-8dcc-9ff06ad97093",
-    "ccn": "341322",
-    "hospital_name": "ADVENTHEALTH POLK",
-    "address": "",
-    "file_url": "https://www.machine-readable-files.com/saint-lukes-hospital/560554222_Saint-Lukes-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.adventhealth.com/pricelist"
-  },
-  {
-    "detail_id": "911f9cb0-229d-4dae-aae0-02b145191d59",
-    "ccn": "341320",
-    "hospital_name": "ALLEGHANY MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13448/560525657_alleghany-county-memorial-hospital,-inc_standardcharges.csv",
-    "transparency_page": "https://alleghanyhealth.org/pricing-transparency/"
-  },
-  {
-    "detail_id": "b0832029-fc71-435f-b320-cbf9055d7372",
-    "ccn": "341326",
-    "hospital_name": "ANGEL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/4e8c79acd9774072b8f4cec67eb8b2bb?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "c5bb7ae3-502b-4854-9f55-289d83665539",
-    "ccn": "341325",
-    "hospital_name": "ASHE MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://machine-readable-files.com/ashe-memorial-hospital/560603900_Ashe_Memorial-Hospital_standardcharges.csv",
-    "transparency_page": "https://ezcost.info/ashe-memorial-hospital"
-  },
-  {
-    "detail_id": "3d87f20a-db9c-426b-9f2b-57911c270bb9",
-    "ccn": "340084",
-    "hospital_name": "ATRIUM HEALTH ANSON",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11164/560529945-1659856060_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "0a597acf-bbe2-470e-8c50-22dc53924a25",
-    "ccn": "",
-    "hospital_name": "ATRIUM HEALTH BEHAVIORAL HEALTH CHARLOTTE",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11173/561398929-1053358945_carolinas-medical-center_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
     "detail_id": "8d8419b5-faca-40e2-b940-e21ad616b1ac",
     "ccn": "340001",
     "hospital_name": "ATRIUM HEALTH CABARRUS",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11165/560529945-1487866315_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
   },
   {
-    "detail_id": "960dcd8b-6af4-41cf-b719-f1ff489d79dc",
-    "ccn": "340113",
-    "hospital_name": "ATRIUM HEALTH CAROLINAS MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11170/561398929-1295789907_carolinas-medical-center_standardcharges.csv",
+    "detail_id": "fbb019c2-e1f2-48b5-861c-2b383d517fc5",
+    "ccn": "340002",
+    "hospital_name": "MISSION HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/9995062d911c4dce9c2a73c479104f33?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "344cfea6-3c77-4156-8a0b-f3f6eacfcc80",
+    "ccn": "340003",
+    "hospital_name": "NORTHERN REGIONAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/northern-regional-hospital/566015416_Northern-Regional-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/Northern-Regional-Hospital"
+  },
+  {
+    "detail_id": "7dd5d6e2-eda9-4825-9e4a-bbaeff5eb405",
+    "ccn": "340004",
+    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST HIGH POINT MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11240/560532309_high-point-regional-health_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "b6bcbe75-2adb-4798-8d96-71597e3602f2",
+    "ccn": "340007",
+    "hospital_name": "CONE HEALTH ANNIE PENN HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=5513c0b0708cfdba6ecf6c72ebc0ceff139528327651bb768f8dc97ad86227ee",
+    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
+  },
+  {
+    "detail_id": "98932cc1-816b-4ca3-87f6-b2eba021eee9",
+    "ccn": "340008",
+    "hospital_name": "SCOTLAND MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/scotland-memorial-hospital/560583151_scotland-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.scotlandhealth.org/patients-visitors/financial-assistance-and-standard-charges"
+  },
+  {
+    "detail_id": "675577c0-4753-4bc3-b1d9-d8a59289f634",
+    "ccn": "340010",
+    "hospital_name": "WAYNE UNC HEALTHCARE",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896"
+  },
+  {
+    "detail_id": "e33577ed-8365-4699-851d-11901eb4410b",
+    "ccn": "340013",
+    "hospital_name": "RUTHERFORD REGIONAL HEALTH SYSTEM",
+    "file_url": "https://www.myrutherfordregional.com/docs/ahrutherfordregionalhealthsystemlibraries/hcl/mrf2q25/300811171_rutherford-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.myrutherfordregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "2b8df042-f804-4f48-97de-383881f8d950",
+    "ccn": "340014",
+    "hospital_name": "NOVANT HEALTH FORSYTH MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0928089_novant_health_forsyth_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "1230f429-a894-4ea4-b146-debb6113c994",
+    "ccn": "340015",
+    "hospital_name": "NOVANT HEALTH ROWAN MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0547479_novant_health_rowan_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "4f1c845c-bc09-4dd8-bbf3-9c98a69b220e",
+    "ccn": "340016",
+    "hospital_name": "HARRIS REGIONAL HOSPITAL",
+    "file_url": "https://www.myharrisregional.com/docs/ahharrisregionallibraries/hcl/mrf2q25/383932775_harris-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.myharrisregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "d27c20d8-bd42-4ce5-9e03-27dd16c74d16",
+    "ccn": "340017",
+    "hospital_name": "UNC HEALTH PARDEE",
+    "file_url": "https://rca.centaurihs.com/ptapp/#ba3c4e2c4a2e1f7ea210c970fc4319b1465e1ac06ec9ea1c4d6cfc8c1be9351c",
+    "transparency_page": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=ba3c4e2c4a2e1f7ea210c970fc4319b1465e1ac06ec9ea1c4d6cfc8c1be9351c"
+  },
+  {
+    "detail_id": "534c86e4-833a-4294-badf-fb217b4ee69f",
+    "ccn": "340020",
+    "hospital_name": "CENTRAL CAROLINA HOSPITAL",
+    "file_url": "https://www.centralcarolinahosp.com/docs/ahcentralcarolinahospitallibraries/hcl/mrf3q25/810691912_central-carolina-hospital_standardcharges.csv",
+    "transparency_page": "https://www.centralcarolinahosp.com/hospital-charges-listing"
   },
   {
     "detail_id": "fc7ee98c-1064-4db0-9f89-f79734af07f0",
     "ccn": "340021",
     "hospital_name": "ATRIUM HEALTH CLEVELAND",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11166/560529945-1326442336_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "98e2c834-5f40-41db-9bf4-63627ba74626",
+    "ccn": "340023",
+    "hospital_name": "ADVENTHEALTH HENDERSONVILLE",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/560543246_AdventHealth-Hendersonville_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "4b6898d5-ca26-483d-b3d7-14aba4daf944",
+    "ccn": "340024",
+    "hospital_name": "SAMPSON REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSRMCCLINTONNC&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Sampson_V2.aspx"
+  },
+  {
+    "detail_id": "68d46e5d-56f9-4c87-8536-d983591b840e",
+    "ccn": "340027",
+    "hospital_name": "UNC LENOIR HEALTH CARE",
+    "file_url": "https://rca.centaurihs.com/ptapp/#3903c4d6330984f9b7e84e01ab9e392c4786dfac56f8105778ef27c66cdf035",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#3903c4d6330984f9b7e84e01ab9e392c4786dfac56f8105778ef27c66cdf035"
+  },
+  {
+    "detail_id": "95c6dd03-fed8-4bd8-8132-82fc659baff6",
+    "ccn": "340028",
+    "hospital_name": "CAPE FEAR VALLEY MEDICAL CENTER",
+    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560845796_CFV-Medical-Center_standardcharges.zip",
+    "transparency_page": "https://www.capefearvalley.com/price-transparency"
+  },
+  {
+    "detail_id": "832ab5f4-b313-4603-98bd-5a0fbcecc9d1",
+    "ccn": "340030",
+    "hospital_name": "DUKE UNIVERSITY HOSPITAL",
+    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-University-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
+  },
+  {
+    "detail_id": "540fbb40-9928-44c4-a05e-c9829049ee7e",
+    "ccn": "340032",
+    "hospital_name": "CAROMONT REGIONAL MEDICAL CENTER",
+    "file_url": "https://caromonthealth.org/media/0nkb3bup/560619359_caromont-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://caromonthealth.org/patients-visitors/care-cost-estimate/"
   },
   {
     "detail_id": "50a93f41-0003-447e-b3e1-a9c7ad831e92",
     "ccn": "340037",
     "hospital_name": "ATRIUM HEALTH KINGS MOUNTAIN",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11166/560529945-1326442336_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
   },
   {
-    "detail_id": "8fe4d06d-f928-44ff-89fa-d204234e565a",
-    "ccn": "",
-    "hospital_name": "ATRIUM HEALTH LEVINE CHILDREN'S BRENNER CHILDREN'S HOSPITAL",
-    "address": "",
+    "detail_id": "6b1c4bf2-e691-4aa1-876c-b650e90ce721",
+    "ccn": "340038",
+    "hospital_name": "ECU HEALTH BEAUFORT HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560585243_ecu-health-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
+  },
+  {
+    "detail_id": "8d6907c2-3a73-41e8-b220-5a3743eace2c",
+    "ccn": "340039",
+    "hospital_name": "IREDELL MEMORIAL HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/iredell-health-system-site-359/media/r/8e24a90b6c444f498d9e8a8f2a618bcf/560591303_iredell-memorial-hospital_standardcharges_2024-final.csv",
+    "transparency_page": "https://www.iredellhealth.org/patients-and-visitors/billing-and-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "79cff2da-4674-4e26-a535-25bc4915735c",
+    "ccn": "340040",
+    "hospital_name": "ECU HEALTH MEDICAL CENTER",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560585243_ecu-health-medical-center_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
+  },
+  {
+    "detail_id": "c6eba304-2907-4dcb-a4ce-aa7f33e995c0",
+    "ccn": "340041",
+    "hospital_name": "CALDWELL MEMORIAL HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/#62bfdf8b1690285fcd35da91d1edbbbbf2c5721dcbbbd16e7e2e7b7d8de3e597",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#62bfdf8b1690285fcd35da91d1edbbbbf2c5721dcbbbd16e7e2e7b7d8de3e597"
+  },
+  {
+    "detail_id": "8e58de17-ecd9-4be4-8e69-9f9e5efbbb1c",
+    "ccn": "340042",
+    "hospital_name": "ONSLOW MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11821/562014989_onslow-memorial-hospital%2C-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/onslowmemorialhospital/11821"
+  },
+  {
+    "detail_id": "bb2fe677-fbfa-45d2-8917-69a6f74f7d1f",
+    "ccn": "340047",
+    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11239/560552787_north-carolina-baptist-hospital_standardcharges.csv",
     "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
   },
   {
-    "detail_id": "275a0eec-b011-4067-86c8-e4977fc8f421",
-    "ccn": "",
-    "hospital_name": "ATRIUM HEALTH LEVINE CHILDREN'S HOSPITAL",
-    "address": "1000 BLYTHE BOULEVARD, 4TH FLOOR",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12676/561398929-1366870503_carolinas-medical-center_standardcharges.csv",
+    "detail_id": "90667acf-4f89-4a0f-9285-1c88a85e4091",
+    "ccn": "340049",
+    "hospital_name": "NORTH CAROLINA SPECIALTY HOSPITAL",
+    "file_url": "https://www.ncspecialty.com/files/562109998_North-Carolina-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.ncspecialty.com/patient-resources/patient-info/patient-price-transparency/"
+  },
+  {
+    "detail_id": "e2e97958-bfba-463e-aa4e-4eaf8cb5c33d",
+    "ccn": "340050",
+    "hospital_name": "UNC HEALTH SOUTHEASTERN",
+    "file_url": "https://rca.centaurihs.com/ptapp/#12c87a4c8957c9e1c0c94af03a352d556b2a5c7551aa4df448609ce6dc2da33b",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#12c87a4c8957c9e1c0c94af03a352d556b2a5c7551aa4df448609ce6dc2da33bvv"
+  },
+  {
+    "detail_id": "e6a30a8c-8b43-40ca-875b-d40ec85a2264",
+    "ccn": "340051",
+    "hospital_name": "WATAUGA MEDICAL CENTER",
+    "file_url": "https://rca.centaurihs.com/ptapp/#e1e8fab320553614a36ca3531242dfa4110541e14f64b03b7f6e035372d21468",
+    "transparency_page": "https://www.unchealth.org/records-insurance/standard-charges"
+  },
+  {
+    "detail_id": "bc9c4832-e824-4013-9b28-03bceb9692e6",
+    "ccn": "340053",
+    "hospital_name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0554230_novant_health_presbyterian_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "13112a88-11bf-4715-9c88-bc180ee1affc",
+    "ccn": "340060",
+    "hospital_name": "UNC ROCKINGHAM HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/#ce2afee182dc4f67a537e90e9a8037e82a0deb7d7bc758280d0cd5d66c634ada",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#ce2afee182dc4f67a537e90e9a8037e82a0deb7d7bc758280d0cd5d66c634ada"
+  },
+  {
+    "detail_id": "d0d649a4-3bee-4e20-8cce-bf14264b1859",
+    "ccn": "340061",
+    "hospital_name": "UNC MEDICAL CENTER",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=d4ccc071fab9c79f17e52dc5b243ef668affc5e569aafa907c5b4c81f0a89284",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#d4ccc071fab9c79f17e52dc5b243ef668affc5e569aafa907c5b4c81f0a89284"
+  },
+  {
+    "detail_id": "bd2b771a-4b7e-4230-ae9e-2941feb70eee",
+    "ccn": "340064",
+    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST WILKES MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11242/830343789_wrmc-hospital-operating-corporation_standardcharges.csv",
+    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
+  },
+  {
+    "detail_id": "00ef6797-7330-4014-af0c-4076fc729eca",
+    "ccn": "340068",
+    "hospital_name": "COLUMBUS REGIONAL HEALTHCARE SYSTEM",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11292/560538020_columbus-regional-healthcare-system_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ColumbusRegionalHealthcareSystem/11292"
+  },
+  {
+    "detail_id": "154549b8-7454-4ba8-8bac-41a45cb5be76",
+    "ccn": "340070",
+    "hospital_name": "CONE HEALTH ALAMANCE REGIONAL MEDICAL CENTER",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=a5e93e8d15b2bbb0ce0ad1118574abf834f0ad95725353933ca98f85ca817b2f",
+    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
+  },
+  {
+    "detail_id": "89dfcc96-d77c-45f8-b028-b98e23141154",
+    "ccn": "340071",
+    "hospital_name": "CAPE FEAR VALLEY BETSY JOHNSON HOSPITAL",
+    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560603898_CFV-Betsy-Johnson-Hospital_standardcharges.zip",
+    "transparency_page": "https://www.capefearvalley.com/price-transparency"
+  },
+  {
+    "detail_id": "eca32b30-8edb-485b-b493-6e0279ba6d20",
+    "ccn": "340073",
+    "hospital_name": "DUKE RALEIGH HOSPITAL",
+    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-Raleigh-Hospital-a-Campus-of-Duke-University-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
+  },
+  {
+    "detail_id": "d9d587c9-1982-427e-9920-ef689f23d672",
+    "ccn": "340075",
+    "hospital_name": "UNC HEALTH BLUE RIDGE",
+    "file_url": "https://rca.centaurihs.com/ptapp/#80fc95fc4f9f50bd5597b8e3db03d0cd2cd99dd204827250b1b8c71cbc626d48",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#80fc95fc4f9f50bd5597b8e3db03d0cd2cd99dd204827250b1b8c71cbc626d48"
+  },
+  {
+    "detail_id": "3d87f20a-db9c-426b-9f2b-57911c270bb9",
+    "ccn": "340084",
+    "hospital_name": "ATRIUM HEALTH ANSON",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11164/560529945-1659856060_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
   },
   {
-    "detail_id": "a728179a-c306-4e3c-a66c-d68024092a9c",
-    "ccn": "340145",
-    "hospital_name": "ATRIUM HEALTH LINCOLN",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11169/560529945-1326088139_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+    "detail_id": "9296c2d1-be5f-4c83-bf3f-7d262f060b04",
+    "ccn": "340085",
+    "hospital_name": "NOVANT HEALTH THOMASVILLE MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0636250_novant_health_thomasville_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "05d7803f-5b6f-4c02-86ee-7119c2db2f70",
+    "ccn": "340087",
+    "hospital_name": "MISSION HOSPITAL MCDOWELL",
+    "file_url": "https://www.hcadam.com/api/public/content/9995062d911c4dce9c2a73c479104f33?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "c824830e-e591-4a8f-a15a-7ba5c00e4d56",
+    "ccn": "340090",
+    "hospital_name": "UNC HEALTH JOHNSTON",
+    "file_url": "https://rca.centaurihs.com/ptapp/#1bebae81d06505b29fc9a5323fb9dac3f480979f0fa32bf4004915e0207d36a9",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#1bebae81d06505b29fc9a5323fb9dac3f480979f0fa32bf4004915e0207d36a9"
+  },
+  {
+    "detail_id": "2afecce0-a37f-4a78-998e-01f33347d39b",
+    "ccn": "340091",
+    "hospital_name": "CONE HEALTH MOSES CONE HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=0f29cfd75455d1ead9097328c3e094a89457e2c3083c52041f6674342300e674",
+    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
+  },
+  {
+    "detail_id": "396b595b-2fa4-4a0c-8aa3-7fd493684dbe",
+    "ccn": "340094",
+    "hospital_name": "NOVANT HEALTH NEW HANOVER ORTHOPEDIC HOSPITAL",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0887181_novant_health_new_hanover_regional_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "9cb4e8b5-3df5-4712-a184-44581bc4f7cf",
+    "ccn": "340096",
+    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST LEXINGTON MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11241/560543238_lexington-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
+  },
+  {
+    "detail_id": "f979c099-2477-4880-afa5-5a1f8eeaadc5",
+    "ccn": "340097",
+    "hospital_name": "HUGH CHATHAM MEMORIAL HOSPITAL, INC.",
+    "file_url": "https://hughchatham.org/wp-content/uploads/2024/12/560642846_HughChathamMemorialHospital_standardcharges.csv",
+    "transparency_page": "https://hughchatham.org/patient-visitor-guide/price-transparency/"
   },
   {
     "detail_id": "8c2a88f0-d29b-42c8-8a95-d3874d597ae2",
     "ccn": "340098",
     "hospital_name": "ATRIUM HEALTH MERCY",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11171/561398929-1376985135_carolinas-medical-center_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
   },
@@ -123,201 +339,421 @@
     "detail_id": "3d248c2d-26d3-49ee-9e31-cf7981dea6e9",
     "ccn": "340098",
     "hospital_name": "ATRIUM HEALTH PINEVILLE",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11172/560529945-1417432840_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "e9c12ae1-ccfa-46f1-a9c7-831a512938ce",
+    "ccn": "340099",
+    "hospital_name": "ECU HEALTH ROANOKE-CHOWAN HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562003393_ecu-health-roanoke-chowan-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
+  },
+  {
+    "detail_id": "a8822c35-49e4-441f-80fd-b1441ba45036",
+    "ccn": "340107",
+    "hospital_name": "ECU HEALTH EDGECOMBE HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562093700_ecu-health-edgecombe-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
+  },
+  {
+    "detail_id": "70318f67-d184-47b8-93f0-a50c2b320881",
+    "ccn": "340109",
+    "hospital_name": "SENTARA ALBEMARLE MEDICAL CENTER",
+    "file_url": "https://www.sentara.com/Documents/s/sentaraalbemarlemedicalcenterstandardchargesxlsx-1395240",
+    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
+  },
+  {
+    "detail_id": "960dcd8b-6af4-41cf-b719-f1ff489d79dc",
+    "ccn": "340113",
+    "hospital_name": "ATRIUM HEALTH CAROLINAS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11170/561398929-1295789907_carolinas-medical-center_standardcharges.csv",
+    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "e1d722a9-6fca-425c-bfd6-ea2a20379a27",
+    "ccn": "340113",
+    "hospital_name": "CAROLINAS REHABILITATION CHARLOTTE",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11174/561398930-1790727550_carolinas-rehabilitation_standardcharges.csv",
+    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "2aceff83-ae75-443d-adde-8a36df351912",
+    "ccn": "340114",
+    "hospital_name": "UNC REX HOSPITAL",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=8d086f6527295fbb6f6d253f3b5548b85ef9fcad8319564656464e552fff3d1e",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#8d086f6527295fbb6f6d253f3b5548b85ef9fcad8319564656464e552fff3d1e"
+  },
+  {
+    "detail_id": "327c4af4-6a40-40ef-ab12-6eb06ef9d35c",
+    "ccn": "340115",
+    "hospital_name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL",
+    "file_url": "https://stmlfirsthealthncus001.blob.core.windows.net/public/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "e49bbd49-897a-4972-9eab-015b2a41abdd",
+    "ccn": "340116",
+    "hospital_name": "FRYE REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.fryemedctr.com/docs/ahfryemedicalcenterlibraries/hcl/mrf3q25/352547114_frye-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.fryemedctr.com/hospital-charges-listing"
   },
   {
     "detail_id": "35d8fe5d-1ae7-4785-9cb5-72fa4febf915",
     "ccn": "340119",
     "hospital_name": "ATRIUM HEALTH STANLY",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11177/560529945-1073988994_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "0a52f4c7-f914-4b20-943e-e5a9eef2785b",
+    "ccn": "340120",
+    "hospital_name": "ECU HEALTH DUPLIN HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/566011594_ecu-health-duplin-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
+  },
+  {
+    "detail_id": "99616132-5ba2-4da3-9dce-93b2d16cf26c",
+    "ccn": "340123",
+    "hospital_name": "RANDOLPH HOSPITAL",
+    "file_url": "https://www.randolphhealth.org/media/1636/854354835_randolphhealth_standardcharges.csv",
+    "transparency_page": "https://www.randolphhealth.org/patients-and-visitors/billing-and-insurance/hospital-chargemaster/"
+  },
+  {
+    "detail_id": "25a707db-af7b-4daf-a5d1-8678a925ca78",
+    "ccn": "340126",
+    "hospital_name": "WILSON MEDICAL CENTER",
+    "file_url": "https://www.wilsonmedical.com/docs/ahwilsonmedicalcenterlibraries/hcl/mrf2q25/464317222_wilson-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.wilsonmedical.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "e51aaa2f-d1dc-40fc-b7ad-671103fd069e",
+    "ccn": "340127",
+    "hospital_name": "GRANVILLE HEALTH SYSTEM",
+    "file_url": "https://ghshospital.org/wp-content/uploads/2025/09/560593547_granville-medical-center_standardcharges_9.15.25.csv",
+    "transparency_page": "https://ghshospital.org/"
   },
   {
     "detail_id": "729e2024-32a5-4688-9c4e-b99e6ba07ce4",
     "ccn": "340130",
     "hospital_name": "ATRIUM HEALTH UNION",
-    "address": "",
     "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11178/560529945-1396790325_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
     "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "4dc210d1-7acf-4a4c-b3d9-123a6d1bb2e1",
-    "ccn": "",
-    "hospital_name": "ATRIUM HEALTH UNION WEST",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11178/560529945-1396790325_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "5ca2d753-9185-4771-8e20-86aea3d9c9a3",
-    "ccn": "340166",
-    "hospital_name": "ATRIUM HEALTH UNIVERSITY CITY",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11179/560529945-1346297892_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "bb2fe677-fbfa-45d2-8917-69a6f74f7d1f",
-    "ccn": "340047",
-    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11239/560552787_north-carolina-baptist-hospital_standardcharges.csv",
-    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
-  },
-  {
-    "detail_id": "4022b1f8-aa45-4d23-afb0-0f1217a8f432",
-    "ccn": "340187",
-    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST DAVIE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12945/560552787_north-carolina-baptist-hospital_standardcharges.csv",
-    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
-  },
-  {
-    "detail_id": "7dd5d6e2-eda9-4825-9e4a-bbaeff5eb405",
-    "ccn": "340004",
-    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST HIGH POINT MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11240/560532309_high-point-regional-health_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "9cb4e8b5-3df5-4712-a184-44581bc4f7cf",
-    "ccn": "340096",
-    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST LEXINGTON MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11241/560543238_lexington-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
-  },
-  {
-    "detail_id": "bd2b771a-4b7e-4230-ae9e-2941feb70eee",
-    "ccn": "340064",
-    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST WILKES MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11242/830343789_wrmc-hospital-operating-corporation_standardcharges.csv",
-    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
-  },
-  {
-    "detail_id": "064642d1-97fa-4f8a-a2ff-e56f392eb273",
-    "ccn": "341329",
-    "hospital_name": "BLUE RIDGE REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/e7b100f7065547c1acb149d7b943ff17?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "98f1a90b-90aa-4806-8b02-538da67a2017",
-    "ccn": "345431",
-    "hospital_name": "BRYAN HEALTH AND REHABILITATION",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "bf5e935e-9447-4e9f-8136-b10b46a787e1",
-    "ccn": "344016",
-    "hospital_name": "BRYNN MARR HOSPITAL",
-    "address": "",
-    "file_url": "https://uhsfilecdn.eskycity.net/bh/561317433_brynn-marr_standardcharges.csv",
-    "transparency_page": "https://brynnmarr.org/standard-services/"
-  },
-  {
-    "detail_id": "c6eba304-2907-4dcb-a4ce-aa7f33e995c0",
-    "ccn": "340041",
-    "hospital_name": "CALDWELL MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#62bfdf8b1690285fcd35da91d1edbbbbf2c5721dcbbbd16e7e2e7b7d8de3e597",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#62bfdf8b1690285fcd35da91d1edbbbbf2c5721dcbbbd16e7e2e7b7d8de3e597"
-  },
-  {
-    "detail_id": "83982070-368e-4ff4-9cf8-0e66f90adb60",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "89dfcc96-d77c-45f8-b028-b98e23141154",
-    "ccn": "340071",
-    "hospital_name": "CAPE FEAR VALLEY BETSY JOHNSON HOSPITAL",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560603898_CFV-Betsy-Johnson-Hospital_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "1af576ec-d252-49f6-a313-7b7cc8c00710",
-    "ccn": "341315",
-    "hospital_name": "CAPE FEAR VALLEY BLADEN COUNTY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/800164702_CFV-Bladen-County-Hospital_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "d7e42b6e-6bcd-4f15-879d-30327a8f8937",
-    "ccn": "",
-    "hospital_name": "CAPE FEAR VALLEY CENTRAL HARNETT HOSPITAL",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560603898_CFV-Betsy-Johnson-Hospital_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "92ba9416-dde0-4711-a97e-d24827e72d68",
-    "ccn": "342014",
-    "hospital_name": "CAPE FEAR VALLEY HIGHSMITH-RAINEY SPECIALTY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560845796_Highsmith-Rainey-Specialty-Hospital_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "4746d82f-abf3-4040-82bc-daba824097fd",
-    "ccn": "340188",
-    "hospital_name": "CAPE FEAR VALLEY HOKE HOSPITAL",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/272763125_CFV-Hoke-Hospital_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "95c6dd03-fed8-4bd8-8132-82fc659baff6",
-    "ccn": "340028",
-    "hospital_name": "CAPE FEAR VALLEY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560845796_CFV-Medical-Center_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "6cc0bdf1-699d-4e81-8fd7-54a186e4c435",
-    "ccn": "",
-    "hospital_name": "CAPE FEAR VALLEY REHABILITATION CENTER",
-    "address": "",
-    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560845796_CFV-Medical-Center_standardcharges.zip",
-    "transparency_page": "https://www.capefearvalley.com/price-transparency"
-  },
-  {
-    "detail_id": "6b33ab52-a0f6-4cf7-bcf0-6aeb886bc22c",
-    "ccn": "343025",
-    "hospital_name": "CAREPARTNERS REHABILITATION HOSPITAL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/569fc7d62b6f4d82af86e4a4132f31f1?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "b7d03543-abd9-4e85-9465-6a6a5bc7b017",
-    "ccn": "344030",
-    "hospital_name": "CAROLINA DUNES BEHAVIORAL HEALTH",
-    "address": "",
-    "file_url": "https://carolinadunesbh.com/wp-content/uploads/2025/03/20-8405354_CarolinaDunes-Behavioral-Health_standardcharges.csv",
-    "transparency_page": "https://carolinadunesbh.com/resources/price-transparency/"
   },
   {
     "detail_id": "edc92149-340a-472e-b437-f42dc37fddf8",
     "ccn": "340131",
     "hospital_name": "CAROLINA EAST HEALTH",
-    "address": "",
     "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbCarolinaEastMC&type=CDMWithoutLabel&fileType=CSV",
     "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CarolinaEast_V2.aspx"
+  },
+  {
+    "detail_id": "238027b7-351b-4e3f-abbd-7c1eafeb7612",
+    "ccn": "340132",
+    "hospital_name": "MARIA PARHAM MEDICAL CENTER",
+    "file_url": "https://www.mariaparham.com/docs/ahmariaparhamhealthlibraries/hcl/mrf2q25/452743520_maria-parham-med-ctr_standardcharges.csv",
+    "transparency_page": "https://www.mariaparham.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "4d95f6cb-5901-4326-9700-92736abe25a4",
+    "ccn": "340141",
+    "hospital_name": "NOVANT HEALTH NEW HANOVER REGIONAL MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0887181_novant_health_new_hanover_regional_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "cbb61e9f-d01c-451d-bb3c-93296fdae163",
+    "ccn": "340142",
+    "hospital_name": "CARTERET HEALTH CARE",
+    "file_url": "https://machine-readable-files.com/carteret-health-care/560952955_carteret-health-care_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/carteret-healthcare/estimate_cost"
+  },
+  {
+    "detail_id": "407ed286-4dde-400b-a0d9-7794d0e26e59",
+    "ccn": "340143",
+    "hospital_name": "CATAWBA VALLEY MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/KNAL-1701801986440/machine-readable/560789196_catawba-valley-health-system_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/catawba-valley-nc"
+  },
+  {
+    "detail_id": "a728179a-c306-4e3c-a66c-d68024092a9c",
+    "ccn": "340145",
+    "hospital_name": "ATRIUM HEALTH LINCOLN",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11169/560529945-1326088139_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
+    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "87ceed71-e7f9-4c6a-a842-0ad83c9b72ec",
+    "ccn": "340147",
+    "hospital_name": "UNC HEALTH NASH",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=6864cd865dc9126d1ceb5dba82cccac976f64b50ff09491ea3ef6d72ac9bcffd",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#6864cd865dc9126d1ceb5dba82cccac976f64b50ff09491ea3ef6d72ac9bcffd"
+  },
+  {
+    "detail_id": "982a4642-0201-4e70-b65c-05c0c45ed55a",
+    "ccn": "340148",
+    "hospital_name": "NOVANT HEALTH MEDICAL PARK HOSPITAL",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-1340424_novant_health_medical_park_hospital_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "5d26eadb-07b0-40a8-a400-e260cc06a1da",
+    "ccn": "340151",
+    "hospital_name": "ECU HEALTH NORTH HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560989789_ecu-health-north-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
+  },
+  {
+    "detail_id": "d746424a-a943-4df4-9a8b-5ecd2de19f6f",
+    "ccn": "340155",
+    "hospital_name": "DUKE REGIONAL HOSPITAL",
+    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-Regional-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
+  },
+  {
+    "detail_id": "b688cf5c-ec47-4b76-84ca-59707a39ea9e",
+    "ccn": "340156",
+    "hospital_name": "CHEROKEE INDIAN HOSPITAL AUTHORITY",
+    "file_url": "https://cherokeehospital.org/wp-content/uploads/2025/01/2025-Chargemaster.xlsx",
+    "transparency_page": "https://cherokeehospital.org/patients/purchased-and-referred-care/"
+  },
+  {
+    "detail_id": "9696b108-7704-4fbc-993b-0165725b280f",
+    "ccn": "340158",
+    "hospital_name": "NOVANT HEALTH BRUNSWICK MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/20-4278130_novant_health_brunswick_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "d64dece5-3b75-4737-a885-7969f7b6c10a",
+    "ccn": "340159",
+    "hospital_name": "PERSON MEMORIAL HOSPITAL",
+    "file_url": "https://www.personhospital.com/docs/ahpersonmemorialhospitallibraries/hcl/mrf2q25/452909143_person-memorial-_standardcharges.csv",
+    "transparency_page": "https://www.personhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "5ca2d753-9185-4771-8e20-86aea3d9c9a3",
+    "ccn": "340166",
+    "hospital_name": "ATRIUM HEALTH UNIVERSITY CITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11179/560529945-1346297892_the-charlotte-mecklenburg-hospital-authority_standardcharges.csv",
+    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
+  },
+  {
+    "detail_id": "bec044e2-bc02-46a1-8d6b-bf1a9dbdaafe",
+    "ccn": "340168",
+    "hospital_name": "WILMINGTON TREATMENT CENTER",
+    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896",
+    "transparency_page": "https://www.wilmingtontreatment.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "6e49cdaf-cf81-4a11-98d2-8bc4959dbfa1",
+    "ccn": "340171",
+    "hospital_name": "NOVANT HEALTH MATTHEWS MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-1376368_novant_health_matthews_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "0413543f-68f8-47c6-b2da-805c6a0216fc",
+    "ccn": "340173",
+    "hospital_name": "WAKEMED CARY HOSPITAL",
+    "file_url": "https://www.wakemed.org/sites/default/files/PricingTransparency/566017737_wakemed-cary-hospital_standardcharges.csv",
+    "transparency_page": "https://www.wakemed.org/patients-and-visitors/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "87a561b8-553e-4482-8a6b-522fe65a6b1a",
+    "ccn": "340183",
+    "hospital_name": "NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0554230_novant_health_huntersville_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "3a86625a-8c6b-4a8d-a382-428a921c1356",
+    "ccn": "340184",
+    "hospital_name": "HAYWOOD REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.myhaywoodregional.com/docs/ahhaywoodregionalmedicalcenterlibraries/hcl/mrf2q25/300830918_haywood-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.myhaywoodregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "4022b1f8-aa45-4d23-afb0-0f1217a8f432",
+    "ccn": "340187",
+    "hospital_name": "ATRIUM HEALTH WAKE FOREST BAPTIST DAVIE MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12945/560552787_north-carolina-baptist-hospital_standardcharges.csv",
+    "transparency_page": "https://www.wakehealth.edu/patient-and-family-resources/billing-and-insurance/your-health-care-costs"
+  },
+  {
+    "detail_id": "4746d82f-abf3-4040-82bc-daba824097fd",
+    "ccn": "340188",
+    "hospital_name": "CAPE FEAR VALLEY HOKE HOSPITAL",
+    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/272763125_CFV-Hoke-Hospital_standardcharges.zip",
+    "transparency_page": "https://www.capefearvalley.com/price-transparency"
+  },
+  {
+    "detail_id": "ce14bbbf-6d0d-43e8-ac89-8eb0f4168e45",
+    "ccn": "340190",
+    "hospital_name": "NOVANT HEALTH MINT HILL MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/26-0599536_novant_health_mint_hill_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "5188cff4-4ff1-4304-a9b2-06f8d6c2d196",
+    "ccn": "340195",
+    "hospital_name": "NOVANT HEALTH BALLANTYNE MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/86-3305323_novant_health_ballantyne_medical_center_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "9e63015b-0c88-48a1-8467-726c25ce9883",
+    "ccn": "341303",
+    "hospital_name": "FIRSTHEALTH MONTGOMERY MEMORIAL HOSPITAL",
+    "file_url": "https://www.firsthealth.org/app/files/public/9aff0b99-d6cf-475a-9718-c1bc3010ed5e/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "dd659b5f-fcd4-417d-a60e-9f933a9ea54e",
+    "ccn": "341304",
+    "hospital_name": "ECU HEALTH BERTIE HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562072002_ecu-health-bertie-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
+  },
+  {
+    "detail_id": "ffab45f1-c1d7-4b48-9c5f-64f85d3779af",
+    "ccn": "341305",
+    "hospital_name": "SWAIN COMMUNITY HOSPITAL",
+    "file_url": "https://www.myswaincommunity.com/docs/ahswaincommunityhospitallibraries/hcl/mrf2q25/320441929_swain-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.myswaincommunity.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "e7e94c5b-a492-4596-be01-586fbe5647dd",
+    "ccn": "341307",
+    "hospital_name": "NOVANT HEALTH PENDER MEDICAL CENTER",
+    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0653348_novant_health_pender_memorial_hospital_standardcharges.csv",
+    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
+  },
+  {
+    "detail_id": "eadc3ddb-ad47-43dd-ad0d-c738197d9346",
+    "ccn": "341311",
+    "hospital_name": "CHATHAM HOSPITAL",
+    "file_url": "https://rca.centaurihs.com/ptapp/#b1f9dd1570d8e8f2b7f3cc8cfdd353c8dd2f856b654beeed377bcea39a1d9196",
+    "transparency_page": "https://rca.centaurihs.com/ptapp/#b1f9dd1570d8e8f2b7f3cc8cfdd353c8dd2f856b654beeed377bcea39a1d9196"
+  },
+  {
+    "detail_id": "df71bbcf-8122-45b5-b7b1-1873be21fa38",
+    "ccn": "341314",
+    "hospital_name": "WASHINGTON REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.washingtonregionalmedical.org/wp-content/uploads/2024/09/842516855_Washington_Regional_Medical_Center_NC_standardcharges.csv",
+    "transparency_page": "https://www.washingtonregionalmedical.org/price-information-and-transparency/"
+  },
+  {
+    "detail_id": "1af576ec-d252-49f6-a313-7b7cc8c00710",
+    "ccn": "341315",
+    "hospital_name": "CAPE FEAR VALLEY BLADEN COUNTY HOSPITAL",
+    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/800164702_CFV-Bladen-County-Hospital_standardcharges.zip",
+    "transparency_page": "https://www.capefearvalley.com/price-transparency"
+  },
+  {
+    "detail_id": "08536ad3-6693-46f7-b8a2-6c9e86416cd3",
+    "ccn": "341316",
+    "hospital_name": "HIGHLANDS-CASHIERS HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/9b8091bcc49d4cc5a9d327615d533661?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "0aece776-7ff0-4cb4-af51-f7815539c92c",
+    "ccn": "341317",
+    "hospital_name": "LIFEBRITE COMMUNITY HOSPITAL OF STOKES",
+    "file_url": "https://lifebritestokes.com/wp-content/uploads/814216501_Lifebrite-Community_Hospital-Stokes_standard-charges-5.csv",
+    "transparency_page": "https://lifebritestokes.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "70d4f138-0671-4aca-8309-9cd783677a76",
+    "ccn": "341318",
+    "hospital_name": "ECU HEALTH CHOWAN HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562101090_ecu-health-chowan-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
+  },
+  {
+    "detail_id": "6d2979f0-c203-449e-81b8-0a5d9523de90",
+    "ccn": "341319",
+    "hospital_name": "TRANSYLVANIA REGIONAL HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/3b00d5da653e45fa9346e4e0f4baabfe?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "911f9cb0-229d-4dae-aae0-02b145191d59",
+    "ccn": "341320",
+    "hospital_name": "ALLEGHANY MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13448/560525657_alleghany-county-memorial-hospital,-inc_standardcharges.csv",
+    "transparency_page": "https://alleghanyhealth.org/pricing-transparency/"
+  },
+  {
+    "detail_id": "2baeb035-76d8-4ab2-8dcc-9ff06ad97093",
+    "ccn": "341322",
+    "hospital_name": "ADVENTHEALTH POLK",
+    "file_url": "https://www.machine-readable-files.com/saint-lukes-hospital/560554222_Saint-Lukes-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "9f69ab87-fd0e-4833-a4c2-63d9095f1ccd",
+    "ccn": "341324",
+    "hospital_name": "THE OUTER BANKS HOSPITAL",
+    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562112733_the-outer-banks-hospital_standardcharges.zip",
+    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
+  },
+  {
+    "detail_id": "c5bb7ae3-502b-4854-9f55-289d83665539",
+    "ccn": "341325",
+    "hospital_name": "ASHE MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/ashe-memorial-hospital/560603900_Ashe_Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://ezcost.info/ashe-memorial-hospital"
+  },
+  {
+    "detail_id": "b0832029-fc71-435f-b320-cbf9055d7372",
+    "ccn": "341326",
+    "hospital_name": "ANGEL MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/4e8c79acd9774072b8f4cec67eb8b2bb?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "7a0c9108-b21d-4359-a7f5-1fe7b587e04d",
+    "ccn": "341327",
+    "hospital_name": "DOSHER MEMORIAL HOSPITAL",
+    "file_url": "https://www.dosher.org/docs/560845824_j-arthur-dosher-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.dosher.org/"
+  },
+  {
+    "detail_id": "58756592-1897-47d4-bf44-0288643b8a51",
+    "ccn": "341328",
+    "hospital_name": "ERLANGER WESTERN CAROLINA HOSPITAL",
+    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/westcarolina",
+    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
+  },
+  {
+    "detail_id": "064642d1-97fa-4f8a-a2ff-e56f392eb273",
+    "ccn": "341329",
+    "hospital_name": "BLUE RIDGE REGIONAL HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/e7b100f7065547c1acb149d7b943ff17?download=true",
+    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "8f83f3d5-73d2-4edd-b0af-b5871e8019d5",
+    "ccn": "342012",
+    "hospital_name": "KINDRED HOSPITAL - GREENSBORO",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=R1aJh8PdcPIS5ZsS*__*P2pwA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=R1aJh8PdcPIS5ZsS*__*P2pwA*-*"
+  },
+  {
+    "detail_id": "4d8ffbcb-ea26-4563-9e74-352027aa3b95",
+    "ccn": "342013",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF ROCKY MOUNT",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10973/842694136_pam-specialty-hospital-of-rocky-mount-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PostAcuteMedical/10973"
+  },
+  {
+    "detail_id": "92ba9416-dde0-4711-a97e-d24827e72d68",
+    "ccn": "342014",
+    "hospital_name": "CAPE FEAR VALLEY HIGHSMITH-RAINEY SPECIALTY HOSPITAL",
+    "file_url": "https://www.capefearvalley.com/sites/default/files/Pricing%20and%20Billing/560845796_Highsmith-Rainey-Specialty-Hospital_standardcharges.zip",
+    "transparency_page": "https://www.capefearvalley.com/price-transparency"
   },
   {
     "detail_id": "9173f1d4-6734-4e42-a04f-6474a013c3c3",
@@ -326,622 +762,6 @@
     "address": "10628 PARK ROAD, 3RD FLOOR",
     "file_url": "https://secure.claraprice.net/price-transparency/ALTF-1730315629247/machine-readable/753054855_carolinas-continuecare-hospital-at-pineville_standardcharges.json",
     "transparency_page": "https://secure.claraprice.net/price-transparency/continuecare-pineville-nc"
-  },
-  {
-    "detail_id": "e1d722a9-6fca-425c-bfd6-ea2a20379a27",
-    "ccn": "340113",
-    "hospital_name": "CAROLINAS REHABILITATION CHARLOTTE",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11174/561398930-1790727550_carolinas-rehabilitation_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "af802f25-fa29-454a-b03e-679413fcec32",
-    "ccn": "",
-    "hospital_name": "CAROLINAS REHABILITATION MOUNT HOLLY",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11174/561398930-1790727550_carolinas-rehabilitation_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "ca8ad676-ef2b-42f7-9ad2-85f3a4ad02f3",
-    "ccn": "",
-    "hospital_name": "CAROLINAS REHABILITATION - NORTHEAST",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11174/561398930-1790727550_carolinas-rehabilitation_standardcharges.csv",
-    "transparency_page": "https://atriumhealth.org/for-patients-visitors/financial-assistance/pricing"
-  },
-  {
-    "detail_id": "540fbb40-9928-44c4-a05e-c9829049ee7e",
-    "ccn": "340032",
-    "hospital_name": "CAROMONT REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://caromonthealth.org/media/0nkb3bup/560619359_caromont-regional-medical-center_standardcharges.csv",
-    "transparency_page": "https://caromonthealth.org/patients-visitors/care-cost-estimate/"
-  },
-  {
-    "detail_id": "cbb61e9f-d01c-451d-bb3c-93296fdae163",
-    "ccn": "340142",
-    "hospital_name": "CARTERET HEALTH CARE",
-    "address": "",
-    "file_url": "https://machine-readable-files.com/carteret-health-care/560952955_carteret-health-care_standardcharges.csv",
-    "transparency_page": "https://ezcost.info/carteret-healthcare/estimate_cost"
-  },
-  {
-    "detail_id": "407ed286-4dde-400b-a0d9-7794d0e26e59",
-    "ccn": "340143",
-    "hospital_name": "CATAWBA VALLEY MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://secure.claraprice.net/price-transparency/KNAL-1701801986440/machine-readable/560789196_catawba-valley-health-system_standardcharges.json",
-    "transparency_page": "https://secure.claraprice.net/price-transparency/catawba-valley-nc"
-  },
-  {
-    "detail_id": "534c86e4-833a-4294-badf-fb217b4ee69f",
-    "ccn": "340020",
-    "hospital_name": "CENTRAL CAROLINA HOSPITAL",
-    "address": "",
-    "file_url": "https://www.centralcarolinahosp.com/docs/ahcentralcarolinahospitallibraries/hcl/mrf3q25/810691912_central-carolina-hospital_standardcharges.csv",
-    "transparency_page": "https://www.centralcarolinahosp.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "eadc3ddb-ad47-43dd-ad0d-c738197d9346",
-    "ccn": "341311",
-    "hospital_name": "CHATHAM HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#b1f9dd1570d8e8f2b7f3cc8cfdd353c8dd2f856b654beeed377bcea39a1d9196",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#b1f9dd1570d8e8f2b7f3cc8cfdd353c8dd2f856b654beeed377bcea39a1d9196"
-  },
-  {
-    "detail_id": "b688cf5c-ec47-4b76-84ca-59707a39ea9e",
-    "ccn": "340156",
-    "hospital_name": "CHEROKEE INDIAN HOSPITAL AUTHORITY",
-    "address": "",
-    "file_url": "https://cherokeehospital.org/wp-content/uploads/2025/01/2025-Chargemaster.xlsx",
-    "transparency_page": "https://cherokeehospital.org/patients/purchased-and-referred-care/"
-  },
-  {
-    "detail_id": "00ef6797-7330-4014-af0c-4076fc729eca",
-    "ccn": "340068",
-    "hospital_name": "COLUMBUS REGIONAL HEALTHCARE SYSTEM",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11292/560538020_columbus-regional-healthcare-system_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/ColumbusRegionalHealthcareSystem/11292"
-  },
-  {
-    "detail_id": "154549b8-7454-4ba8-8bac-41a45cb5be76",
-    "ccn": "340070",
-    "hospital_name": "CONE HEALTH ALAMANCE REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=a5e93e8d15b2bbb0ce0ad1118574abf834f0ad95725353933ca98f85ca817b2f",
-    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
-  },
-  {
-    "detail_id": "b6bcbe75-2adb-4798-8d96-71597e3602f2",
-    "ccn": "340007",
-    "hospital_name": "CONE HEALTH ANNIE PENN HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=5513c0b0708cfdba6ecf6c72ebc0ceff139528327651bb768f8dc97ad86227ee",
-    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
-  },
-  {
-    "detail_id": "db0e2fc9-e3b2-477f-9095-fbe677d5a814",
-    "ccn": "",
-    "hospital_name": "CONE HEALTH BEHAVIORAL HEALTH HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=0c56ff10e16a9265ec5b4214036ef34cc4d2a600f392101051e41873f20e34f0",
-    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
-  },
-  {
-    "detail_id": "2afecce0-a37f-4a78-998e-01f33347d39b",
-    "ccn": "340091",
-    "hospital_name": "CONE HEALTH MOSES CONE HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=0f29cfd75455d1ead9097328c3e094a89457e2c3083c52041f6674342300e674",
-    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
-  },
-  {
-    "detail_id": "2e8dae14-7021-47fd-b092-13cc96609236",
-    "ccn": "",
-    "hospital_name": "CONE HEALTH WESLEY LONG HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=6edf78aad4fa620b74412a8d9137863312db433f8b3984653428521e9d7f8fba",
-    "transparency_page": "https://www.conehealth.com/patients-visitors/patient-financial-services/patient-estimates--charges/"
-  },
-  {
-    "detail_id": "7a0c9108-b21d-4359-a7f5-1fe7b587e04d",
-    "ccn": "341327",
-    "hospital_name": "DOSHER MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.dosher.org/docs/560845824_j-arthur-dosher-memorial-hospital_standardcharges.csv",
-    "transparency_page": "https://www.dosher.org/"
-  },
-  {
-    "detail_id": "a88cffea-1ed8-4760-b227-a98cef9aaaad",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "eca32b30-8edb-485b-b493-6e0279ba6d20",
-    "ccn": "340073",
-    "hospital_name": "DUKE RALEIGH HOSPITAL",
-    "address": "",
-    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-Raleigh-Hospital-a-Campus-of-Duke-University-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
-  },
-  {
-    "detail_id": "d746424a-a943-4df4-9a8b-5ecd2de19f6f",
-    "ccn": "340155",
-    "hospital_name": "DUKE REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-Regional-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
-  },
-  {
-    "detail_id": "832ab5f4-b313-4603-98bd-5a0fbcecc9d1",
-    "ccn": "340030",
-    "hospital_name": "DUKE UNIVERSITY HOSPITAL",
-    "address": "",
-    "file_url": "https://standardcharges.dukehealth.org/562070036_Duke-University-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.dukehealth.org/paying-for-care/what-duke-charges-services"
-  },
-  {
-    "detail_id": "6b1c4bf2-e691-4aa1-876c-b650e90ce721",
-    "ccn": "340038",
-    "hospital_name": "ECU HEALTH BEAUFORT HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560585243_ecu-health-medical-center_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
-  },
-  {
-    "detail_id": "129",
-    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
-  },
-  {
-    "detail_id": "dd659b5f-fcd4-417d-a60e-9f933a9ea54e",
-    "ccn": "341304",
-    "hospital_name": "ECU HEALTH BERTIE HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562072002_ecu-health-bertie-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
-  },
-  {
-    "detail_id": "126",
-    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
-  },
-  {
-    "detail_id": "70d4f138-0671-4aca-8309-9cd783677a76",
-    "ccn": "341318",
-    "hospital_name": "ECU HEALTH CHOWAN HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562101090_ecu-health-chowan-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
-  },
-  {
-    "detail_id": "120",
-    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
-  },
-  {
-    "detail_id": "0a52f4c7-f914-4b20-943e-e5a9eef2785b",
-    "ccn": "340120",
-    "hospital_name": "ECU HEALTH DUPLIN HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/566011594_ecu-health-duplin-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
-  },
-  {
-    "detail_id": "a8822c35-49e4-441f-80fd-b1441ba45036",
-    "ccn": "340107",
-    "hospital_name": "ECU HEALTH EDGECOMBE HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562093700_ecu-health-edgecombe-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
-  },
-  {
-    "detail_id": "79cff2da-4674-4e26-a535-25bc4915735c",
-    "ccn": "340040",
-    "hospital_name": "ECU HEALTH MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560585243_ecu-health-medical-center_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
-  },
-  {
-    "detail_id": "5d26eadb-07b0-40a8-a400-e260cc06a1da",
-    "ccn": "340151",
-    "hospital_name": "ECU HEALTH NORTH HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/560989789_ecu-health-north-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
-  },
-  {
-    "detail_id": "90",
-    "error": "Failed to read a named property 'document' from 'Window': Blocked a frame with origin \"https://hospitalpricingfiles.org\" from accessing a cross-origin frame."
-  },
-  {
-    "detail_id": "e9c12ae1-ccfa-46f1-a9c7-831a512938ce",
-    "ccn": "340099",
-    "hospital_name": "ECU HEALTH ROANOKE-CHOWAN HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562003393_ecu-health-roanoke-chowan-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/pricing-transparency/"
-  },
-  {
-    "detail_id": "58756592-1897-47d4-bf44-0288643b8a51",
-    "ccn": "341328",
-    "hospital_name": "ERLANGER WESTERN CAROLINA HOSPITAL",
-    "address": "",
-    "file_url": "https://erlanger.pt.panaceainc.com/MRFDownload/erlanger/westcarolina",
-    "transparency_page": "https://www.erlanger.org/patient-and-family-resources/billing-and-insurance/price-transparency"
-  },
-  {
-    "detail_id": "9e63015b-0c88-48a1-8467-726c25ce9883",
-    "ccn": "341303",
-    "hospital_name": "FIRSTHEALTH MONTGOMERY MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.firsthealth.org/app/files/public/6b80dddd-dd8e-450d-b21a-3c0de8d40fa7/561936354_firsthealth-montgomery-memorial-hospital_standardcharges.csv",
-    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
-  },
-  {
-    "detail_id": "327c4af4-6a40-40ef-ab12-6eb06ef9d35c",
-    "ccn": "340115",
-    "hospital_name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://stmlfirsthealthncus001.blob.core.windows.net/public/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
-    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
-  },
-  {
-    "detail_id": "7ecc7b6a-384b-4fb0-8fab-9529830be28f",
-    "ccn": "",
-    "hospital_name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL - HOKE CAMPUS",
-    "address": "",
-    "file_url": "https://stmlfirsthealthncus001.blob.core.windows.net/public/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
-    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
-  },
-  {
-    "detail_id": "c4903daf-fb3f-4ab0-a7a0-aba5370c71f2",
-    "ccn": "347041",
-    "hospital_name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL - RICHMOND",
-    "address": "",
-    "file_url": "https://stmlfirsthealthncus001.blob.core.windows.net/public/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
-    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
-  },
-  {
-    "detail_id": "e49bbd49-897a-4972-9eab-015b2a41abdd",
-    "ccn": "340116",
-    "hospital_name": "FRYE REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.fryemedctr.com/docs/ahfryemedicalcenterlibraries/hcl/mrf3q25/352547114_frye-regional-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.fryemedctr.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "01be8fa3-620a-4b77-8596-40705c6d58c6",
-    "ccn": "344029",
-    "hospital_name": "GOOD HOPE HOSPITAL",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "e51aaa2f-d1dc-40fc-b7ad-671103fd069e",
-    "ccn": "340127",
-    "hospital_name": "GRANVILLE HEALTH SYSTEM",
-    "address": "",
-    "file_url": "https://ghshospital.org/wp-content/uploads/2025/09/560593547_granville-medical-center_standardcharges_9.15.25.csv",
-    "transparency_page": "https://ghshospital.org/"
-  },
-  {
-    "detail_id": "4f1c845c-bc09-4dd8-bbf3-9c98a69b220e",
-    "ccn": "340016",
-    "hospital_name": "HARRIS REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.myharrisregional.com/docs/ahharrisregionallibraries/hcl/mrf2q25/383932775_harris-regional-hospital_standardcharges.csv",
-    "transparency_page": "https://www.myharrisregional.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "3a86625a-8c6b-4a8d-a382-428a921c1356",
-    "ccn": "340184",
-    "hospital_name": "HAYWOOD REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.myhaywoodregional.com/docs/ahhaywoodregionalmedicalcenterlibraries/hcl/mrf2q25/300830918_haywood-regional-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.myhaywoodregional.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "08536ad3-6693-46f7-b8a2-6c9e86416cd3",
-    "ccn": "341316",
-    "hospital_name": "HIGHLANDS-CASHIERS HOSPITAL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/9b8091bcc49d4cc5a9d327615d533661?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "b870b0c4-c410-46be-bd8f-f0e8e0ec0e5f",
-    "ccn": "344014",
-    "hospital_name": "HOLLY HILL HOSPITAL",
-    "address": "",
-    "file_url": "https://uhsfilecdn.eskycity.net/bh/621692189_holly-hill_standardcharges.csv",
-    "transparency_page": "https://hollyhillhospital.com/standard-services/"
-  },
-  {
-    "detail_id": "f979c099-2477-4880-afa5-5a1f8eeaadc5",
-    "ccn": "340097",
-    "hospital_name": "HUGH CHATHAM MEMORIAL HOSPITAL, INC.",
-    "address": "",
-    "file_url": "https://hughchatham.org/wp-content/uploads/2024/12/560642846_HughChathamMemorialHospital_standardcharges.csv",
-    "transparency_page": "https://hughchatham.org/patient-visitor-guide/price-transparency/"
-  },
-  {
-    "detail_id": "b52cfdc0-6c15-448a-b2f8-3ef64813f97e",
-    "ccn": "344036",
-    "hospital_name": "IREDELL DAVIS BEHAVIORAL HEALTH HOSPITAL",
-    "address": "",
-    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/iredell-health-system-site-359/media/r/1e6f0b9bfd7f446a80d15e9e4313e007/560591303_iredell_davis_standardcharges_10-1-2024-final.csv",
-    "transparency_page": "https://www.iredelldavis.org/price-transparency/"
-  },
-  {
-    "detail_id": "8d6907c2-3a73-41e8-b220-5a3743eace2c",
-    "ccn": "340039",
-    "hospital_name": "IREDELL MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/iredell-health-system-site-359/media/r/8e24a90b6c444f498d9e8a8f2a618bcf/560591303_iredell-memorial-hospital_standardcharges_2024-final.csv",
-    "transparency_page": "https://www.iredellhealth.org/patients-and-visitors/billing-and-insurance/price-transparency/"
-  },
-  {
-    "detail_id": "8f83f3d5-73d2-4edd-b0af-b5871e8019d5",
-    "ccn": "342012",
-    "hospital_name": "KINDRED HOSPITAL - GREENSBORO",
-    "address": "",
-    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=R1aJh8PdcPIS5ZsS*__*P2pwA*-*",
-    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=R1aJh8PdcPIS5ZsS*__*P2pwA*-*"
-  },
-  {
-    "detail_id": "0aece776-7ff0-4cb4-af51-f7815539c92c",
-    "ccn": "341317",
-    "hospital_name": "LIFEBRITE COMMUNITY HOSPITAL OF STOKES",
-    "address": "",
-    "file_url": "https://lifebritestokes.com/wp-content/uploads/814216501_Lifebrite-Community_Hospital-Stokes_standard-charges-5.csv",
-    "transparency_page": "https://lifebritestokes.com/pricing-transparency/"
-  },
-  {
-    "detail_id": "238027b7-351b-4e3f-abbd-7c1eafeb7612",
-    "ccn": "340132",
-    "hospital_name": "MARIA PARHAM MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.mariaparham.com/docs/ahmariaparhamhealthlibraries/hcl/mrf2q25/452743520_maria-parham-med-ctr_standardcharges.csv",
-    "transparency_page": "https://www.mariaparham.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "fbb019c2-e1f2-48b5-861c-2b383d517fc5",
-    "ccn": "340002",
-    "hospital_name": "MISSION HOSPITAL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/9995062d911c4dce9c2a73c479104f33?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "05d7803f-5b6f-4c02-86ee-7119c2db2f70",
-    "ccn": "340087",
-    "hospital_name": "MISSION HOSPITAL MCDOWELL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/9995062d911c4dce9c2a73c479104f33?download=true",
-    "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
-  },
-  {
-    "detail_id": "90667acf-4f89-4a0f-9285-1c88a85e4091",
-    "ccn": "340049",
-    "hospital_name": "NORTH CAROLINA SPECIALTY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ncspecialty.com/files/562109998_North-Carolina-Specialty-Hospital_standardcharges.csv",
-    "transparency_page": "https://www.ncspecialty.com/patient-resources/patient-info/patient-price-transparency/"
-  },
-  {
-    "detail_id": "344cfea6-3c77-4156-8a0b-f3f6eacfcc80",
-    "ccn": "340003",
-    "hospital_name": "NORTHERN REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://machine-readable-files.com/northern-regional-hospital/566015416_Northern-Regional-Hospital_standardcharges.csv",
-    "transparency_page": "https://ezcost.info/Northern-Regional-Hospital"
-  },
-  {
-    "detail_id": "5188cff4-4ff1-4304-a9b2-06f8d6c2d196",
-    "ccn": "340195",
-    "hospital_name": "NOVANT HEALTH BALLANTYNE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/86-3305323_novant_health_ballantyne_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "9696b108-7704-4fbc-993b-0165725b280f",
-    "ccn": "340158",
-    "hospital_name": "NOVANT HEALTH BRUNSWICK MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/20-4278130_novant_health_brunswick_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "b8e03edf-0de7-4931-adc8-c88aa9039cc1",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "d64f367a-6609-488a-9b17-7546f3df369a",
-    "ccn": "",
-    "hospital_name": "NOVANT HEALTH CLEMMONS MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0928089_novant_health_clemmons_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "2b8df042-f804-4f48-97de-383881f8d950",
-    "ccn": "340014",
-    "hospital_name": "NOVANT HEALTH FORSYTH MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0928089_novant_health_forsyth_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "87a561b8-553e-4482-8a6b-522fe65a6b1a",
-    "ccn": "340183",
-    "hospital_name": "NOVANT HEALTH HUNTERSVILLE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0554230_novant_health_huntersville_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "e4f7ad5b-8cee-4fd3-b297-e0e674e71e8c",
-    "ccn": "",
-    "hospital_name": "NOVANT HEALTH KERNERSVILLE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0928089_novant_health_kernersville_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "6e49cdaf-cf81-4a11-98d2-8bc4959dbfa1",
-    "ccn": "340171",
-    "hospital_name": "NOVANT HEALTH MATTHEWS MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-1376368_novant_health_matthews_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "982a4642-0201-4e70-b65c-05c0c45ed55a",
-    "ccn": "340148",
-    "hospital_name": "NOVANT HEALTH MEDICAL PARK HOSPITAL",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-1340424_novant_health_medical_park_hospital_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "ce14bbbf-6d0d-43e8-ac89-8eb0f4168e45",
-    "ccn": "340190",
-    "hospital_name": "NOVANT HEALTH MINT HILL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/26-0599536_novant_health_mint_hill_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "396b595b-2fa4-4a0c-8aa3-7fd493684dbe",
-    "ccn": "340094",
-    "hospital_name": "NOVANT HEALTH NEW HANOVER ORTHOPEDIC HOSPITAL",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0887181_novant_health_new_hanover_regional_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "4d95f6cb-5901-4326-9700-92736abe25a4",
-    "ccn": "340141",
-    "hospital_name": "NOVANT HEALTH NEW HANOVER REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0887181_novant_health_new_hanover_regional_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "e7e94c5b-a492-4596-be01-586fbe5647dd",
-    "ccn": "341307",
-    "hospital_name": "NOVANT HEALTH PENDER MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0653348_novant_health_pender_memorial_hospital_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "bc9c4832-e824-4013-9b28-03bceb9692e6",
-    "ccn": "340053",
-    "hospital_name": "NOVANT HEALTH PRESBYTERIAN MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0554230_novant_health_presbyterian_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "b1222503-3c7e-4150-b652-ef32b59926b0",
-    "ccn": "343027",
-    "hospital_name": "NOVANT HEALTH REHABILITATION HOSPITAL",
-    "address": "",
-    "file_url": "https://encompasshealth.com/-/media/healthsouth/project/healthsouth/files/1-price-transparency/81-3251045_novant-health-rehabilitation-hospital-an-affiliate-of-encompass-health_standardcharges.csv",
-    "transparency_page": "https://encompasshealth.com/locations/novanthealthrehab/transparency-healthcare"
-  },
-  {
-    "detail_id": "1230f429-a894-4ea4-b146-debb6113c994",
-    "ccn": "340015",
-    "hospital_name": "NOVANT HEALTH ROWAN MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0547479_novant_health_rowan_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "9296c2d1-be5f-4c83-bf3f-7d262f060b04",
-    "ccn": "340085",
-    "hospital_name": "NOVANT HEALTH THOMASVILLE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www2.novanthealth.org/Public_Files/regulatory/56-0636250_novant_health_thomasville_medical_center_standardcharges.csv",
-    "transparency_page": "https://www.novanthealth.org/for-patients/billing--insurance/price-transparency/"
-  },
-  {
-    "detail_id": "f26bfe4c-b58d-4416-931c-931ffa9e7ca3",
-    "ccn": "344007",
-    "hospital_name": "OLD VINEYARD BEHAVIORAL HEALTH SERVICES",
-    "address": "",
-    "file_url": "https://uhsfilecdn.eskycity.net/bh/201943356_old-vineyard_standardcharges.csv",
-    "transparency_page": "https://oldvineyardbhs.com/standard-services/"
-  },
-  {
-    "detail_id": "8e58de17-ecd9-4be4-8e69-9f9e5efbbb1c",
-    "ccn": "340042",
-    "hospital_name": "ONSLOW MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11821/562014989_onslow-memorial-hospital%2C-inc_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/onslowmemorialhospital/11821"
-  },
-  {
-    "detail_id": "4d8ffbcb-ea26-4563-9e74-352027aa3b95",
-    "ccn": "342013",
-    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF ROCKY MOUNT",
-    "address": "",
-    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10973/842694136_pam-specialty-hospital-of-rocky-mount-llc_standardcharges.csv",
-    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PostAcuteMedical/10973"
-  },
-  {
-    "detail_id": "d64dece5-3b75-4737-a885-7969f7b6c10a",
-    "ccn": "340159",
-    "hospital_name": "PERSON MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.personhospital.com/docs/ahpersonmemorialhospitallibraries/hcl/mrf2q25/452909143_person-memorial-_standardcharges.csv",
-    "transparency_page": "https://www.personhospital.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "99616132-5ba2-4da3-9dce-93b2d16cf26c",
-    "ccn": "340123",
-    "hospital_name": "RANDOLPH HOSPITAL",
-    "address": "",
-    "file_url": "https://www.randolphhealth.org/media/1636/854354835_randolphhealth_standardcharges.csv",
-    "transparency_page": "https://www.randolphhealth.org/patients-and-visitors/billing-and-insurance/hospital-chargemaster/"
-  },
-  {
-    "detail_id": "e33577ed-8365-4699-851d-11901eb4410b",
-    "ccn": "340013",
-    "hospital_name": "RUTHERFORD REGIONAL HEALTH SYSTEM",
-    "address": "",
-    "file_url": "https://www.myrutherfordregional.com/docs/ahrutherfordregionalhealthsystemlibraries/hcl/mrf2q25/300811171_rutherford-regional-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.myrutherfordregional.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "4b6898d5-ca26-483d-b3d7-14aba4daf944",
-    "ccn": "340024",
-    "hospital_name": "SAMPSON REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSRMCCLINTONNC&type=CDMWithoutLabel&fileType=CSV",
-    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Sampson_V2.aspx"
-  },
-  {
-    "detail_id": "98932cc1-816b-4ca3-87f6-b2eba021eee9",
-    "ccn": "340008",
-    "hospital_name": "SCOTLAND MEMORIAL HOSPITAL",
-    "address": "",
-    "file_url": "https://machine-readable-files.com/scotland-memorial-hospital/560583151_scotland-memorial-hospital_standardcharges.csv",
-    "transparency_page": "https://www.scotlandhealth.org/patients-visitors/financial-assistance-and-standard-charges"
   },
   {
     "detail_id": "9ca31c35-3c3c-4f82-add1-537ed1e23e93",
@@ -955,192 +775,63 @@
     "detail_id": "ebad0b9b-1df3-4d49-97fc-0df26ed77a34",
     "ccn": "342020",
     "hospital_name": "SELECT SPECIALTY HOSPITAL - GREENSBORO",
-    "address": "",
     "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/71-0958380_Select_Specialty_Hospital-Greensboro_standardcharges.csv",
     "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
   },
   {
-    "detail_id": "70318f67-d184-47b8-93f0-a50c2b320881",
-    "ccn": "340109",
-    "hospital_name": "SENTARA ALBEMARLE MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.sentara.com/Documents/s/sentaraalbemarlemedicalcenterstandardchargesxlsx-1395240",
-    "transparency_page": "https://www.sentara.com/billing/estimating-hospital-charges"
-  },
-  {
-    "detail_id": "ffab45f1-c1d7-4b48-9c5f-64f85d3779af",
-    "ccn": "341305",
-    "hospital_name": "SWAIN COMMUNITY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.myswaincommunity.com/sites/swain/assets/uploads/MRF1Q25/320441929_swain-county-hospital_standardcharges.csv",
-    "transparency_page": "https://www.myswaincommunity.com/hospital-charges-listing"
-  },
-  {
-    "detail_id": "e1e20e85-6fc0-4936-a7bc-cf6e3fc66f60",
-    "ccn": "",
-    "hospital_name": "THE EMILY PROGRAM DURHAM",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "9f69ab87-fd0e-4833-a4c2-63d9095f1ccd",
-    "ccn": "341324",
-    "hospital_name": "THE OUTER BANKS HOSPITAL",
-    "address": "",
-    "file_url": "https://www.ecuhealth.org/wp-content/uploads/2024/06/562112733_the-outer-banks-hospital_standardcharges.zip",
-    "transparency_page": "https://www.ecuhealth.org/patients-and-families/your-bill/price-transparency/"
-  },
-  {
-    "detail_id": "6d2979f0-c203-449e-81b8-0a5d9523de90",
-    "ccn": "341319",
-    "hospital_name": "TRANSYLVANIA REGIONAL HOSPITAL",
-    "address": "",
-    "file_url": "https://www.hcadam.com/api/public/content/3b00d5da653e45fa9346e4e0f4baabfe?download=true",
+    "detail_id": "6b33ab52-a0f6-4cf7-bcf0-6aeb886bc22c",
+    "ccn": "343025",
+    "hospital_name": "CAREPARTNERS REHABILITATION HOSPITAL",
+    "file_url": "https://www.hcadam.com/api/public/content/569fc7d62b6f4d82af86e4a4132f31f1?download=true",
     "transparency_page": "https://www.missionhealth.org/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
   },
   {
-    "detail_id": "c89ff25b-b2eb-4d3e-bdd7-45a421c1486f",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
+    "detail_id": "b1222503-3c7e-4150-b652-ef32b59926b0",
+    "ccn": "343027",
+    "hospital_name": "NOVANT HEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/813251045_Novant-Health-Rehabilitation-Hospital-an-affiliate-of-Encompass-Health_standardcharges.csv",
+    "transparency_page": "https://encompasshealth.com/locations/novanthealthrehab/transparency-healthcare"
   },
   {
-    "detail_id": "d9d587c9-1982-427e-9920-ef689f23d672",
-    "ccn": "340075",
-    "hospital_name": "UNC HEALTH BLUE RIDGE",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#80fc95fc4f9f50bd5597b8e3db03d0cd2cd99dd204827250b1b8c71cbc626d48",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#80fc95fc4f9f50bd5597b8e3db03d0cd2cd99dd204827250b1b8c71cbc626d48"
+    "detail_id": "f26bfe4c-b58d-4416-931c-931ffa9e7ca3",
+    "ccn": "344007",
+    "hospital_name": "OLD VINEYARD BEHAVIORAL HEALTH SERVICES",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/201943356_old-vineyard_standardcharges.csv",
+    "transparency_page": "https://oldvineyardbhs.com/standard-services/"
   },
   {
-    "detail_id": "c824830e-e591-4a8f-a15a-7ba5c00e4d56",
-    "ccn": "340090",
-    "hospital_name": "UNC HEALTH JOHNSTON",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#1bebae81d06505b29fc9a5323fb9dac3f480979f0fa32bf4004915e0207d36a9",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#1bebae81d06505b29fc9a5323fb9dac3f480979f0fa32bf4004915e0207d36a9"
+    "detail_id": "b870b0c4-c410-46be-bd8f-f0e8e0ec0e5f",
+    "ccn": "344014",
+    "hospital_name": "HOLLY HILL HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621692189_holly-hill_standardcharges.csv",
+    "transparency_page": "https://hollyhillhospital.com/standard-services/"
   },
   {
-    "detail_id": "87ceed71-e7f9-4c6a-a842-0ad83c9b72ec",
-    "ccn": "340147",
-    "hospital_name": "UNC HEALTH NASH",
-    "address": "",
-    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=6864cd865dc9126d1ceb5dba82cccac976f64b50ff09491ea3ef6d72ac9bcffd",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#6864cd865dc9126d1ceb5dba82cccac976f64b50ff09491ea3ef6d72ac9bcffd"
+    "detail_id": "bf5e935e-9447-4e9f-8136-b10b46a787e1",
+    "ccn": "344016",
+    "hospital_name": "BRYNN MARR HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/561317433_brynn-marr_standardcharges.csv",
+    "transparency_page": "https://brynnmarr.org/standard-services/"
   },
   {
-    "detail_id": "d27c20d8-bd42-4ce5-9e03-27dd16c74d16",
-    "ccn": "340017",
-    "hospital_name": "UNC HEALTH PARDEE",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#ba3c4e2c4a2e1f7ea210c970fc4319b1465e1ac06ec9ea1c4d6cfc8c1be9351c",
-    "transparency_page": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=ba3c4e2c4a2e1f7ea210c970fc4319b1465e1ac06ec9ea1c4d6cfc8c1be9351c"
+    "detail_id": "b7d03543-abd9-4e85-9465-6a6a5bc7b017",
+    "ccn": "344030",
+    "hospital_name": "CAROLINA DUNES BEHAVIORAL HEALTH",
+    "file_url": "https://carolinadunesbh.com/wp-content/uploads/2025/03/20-8405354_CarolinaDunes-Behavioral-Health_standardcharges.csv",
+    "transparency_page": "https://carolinadunesbh.com/resources/price-transparency/"
   },
   {
-    "detail_id": "e2e97958-bfba-463e-aa4e-4eaf8cb5c33d",
-    "ccn": "340050",
-    "hospital_name": "UNC HEALTH SOUTHEASTERN",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#12c87a4c8957c9e1c0c94af03a352d556b2a5c7551aa4df448609ce6dc2da33b",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#12c87a4c8957c9e1c0c94af03a352d556b2a5c7551aa4df448609ce6dc2da33bvv"
+    "detail_id": "b52cfdc0-6c15-448a-b2f8-3ef64813f97e",
+    "ccn": "344036",
+    "hospital_name": "IREDELL DAVIS BEHAVIORAL HEALTH HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/iredell-health-system-site-359/media/r/1e6f0b9bfd7f446a80d15e9e4313e007/560591303_iredell_davis_standardcharges_10-1-2024-final.csv",
+    "transparency_page": "https://www.iredelldavis.org/price-transparency/"
   },
   {
-    "detail_id": "68d46e5d-56f9-4c87-8536-d983591b840e",
-    "ccn": "340027",
-    "hospital_name": "UNC LENOIR HEALTH CARE",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#3903c4d6330984f9b7e84e01ab9e392c4786dfac56f8105778ef27c66cdf035",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#3903c4d6330984f9b7e84e01ab9e392c4786dfac56f8105778ef27c66cdf035"
-  },
-  {
-    "detail_id": "d0d649a4-3bee-4e20-8cce-bf14264b1859",
-    "ccn": "340061",
-    "hospital_name": "UNC MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=d4ccc071fab9c79f17e52dc5b243ef668affc5e569aafa907c5b4c81f0a89284",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#d4ccc071fab9c79f17e52dc5b243ef668affc5e569aafa907c5b4c81f0a89284"
-  },
-  {
-    "detail_id": "2aceff83-ae75-443d-adde-8a36df351912",
-    "ccn": "340114",
-    "hospital_name": "UNC REX HOSPITAL",
-    "address": "",
-    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=8d086f6527295fbb6f6d253f3b5548b85ef9fcad8319564656464e552fff3d1e",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#8d086f6527295fbb6f6d253f3b5548b85ef9fcad8319564656464e552fff3d1e"
-  },
-  {
-    "detail_id": "13112a88-11bf-4715-9c88-bc180ee1affc",
-    "ccn": "340060",
-    "hospital_name": "UNC ROCKINGHAM HOSPITAL",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#ce2afee182dc4f67a537e90e9a8037e82a0deb7d7bc758280d0cd5d66c634ada",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#ce2afee182dc4f67a537e90e9a8037e82a0deb7d7bc758280d0cd5d66c634ada"
-  },
-  {
-    "detail_id": "0413543f-68f8-47c6-b2da-805c6a0216fc",
-    "ccn": "340173",
-    "hospital_name": "WAKEMED CARY HOSPITAL",
-    "address": "",
-    "file_url": "https://www.wakemed.org/sites/default/files/PricingTransparency/566017737_wakemed-cary-hospital_standardcharges.csv",
-    "transparency_page": "https://www.wakemed.org/patients-and-visitors/billing-and-insurance/price-transparency"
-  },
-  {
-    "detail_id": "7c2848e3-eaa2-4776-9c8f-0716a92a5943",
-    "ccn": "",
-    "hospital_name": "WAKEMED NORTH HOSPITAL",
-    "address": "",
-    "file_url": "https://www.wakemed.org/sites/default/files/PricingTransparency/566017737_wakemed-raleigh-campus-and-north-hospital_standardcharges.csv",
-    "transparency_page": "https://www.wakemed.org/patients-and-visitors/billing-and-insurance/price-transparency"
-  },
-  {
-    "detail_id": "ea80cdb6-976a-4b83-807b-8a8c8276e0e2",
-    "ccn": "",
-    "hospital_name": "SUBSCRIBE FOR UPDATES",
-    "address": "",
-    "file_url": "",
-    "transparency_page": ""
-  },
-  {
-    "detail_id": "df71bbcf-8122-45b5-b7b1-1873be21fa38",
-    "ccn": "341314",
-    "hospital_name": "WASHINGTON REGIONAL MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.washingtonregionalmedical.org/wp-content/uploads/2024/09/842516855_Washington_Regional_Medical_Center_NC_standardcharges.csv",
-    "transparency_page": "https://www.washingtonregionalmedical.org/price-information-and-transparency/"
-  },
-  {
-    "detail_id": "e6a30a8c-8b43-40ca-875b-d40ec85a2264",
-    "ccn": "340051",
-    "hospital_name": "WATAUGA MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://rca.centaurihs.com/ptapp/#e1e8fab320553614a36ca3531242dfa4110541e14f64b03b7f6e035372d21468",
-    "transparency_page": "https://www.unchealth.org/records-insurance/standard-charges"
-  },
-  {
-    "detail_id": "675577c0-4753-4bc3-b1d9-d8a59289f634",
-    "ccn": "340010",
-    "hospital_name": "WAYNE UNC HEALTHCARE",
-    "address": "",
-    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896",
-    "transparency_page": "https://rca.centaurihs.com/ptapp/#968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896"
-  },
-  {
-    "detail_id": "bec044e2-bc02-46a1-8d6b-bf1a9dbdaafe",
-    "ccn": "340168",
-    "hospital_name": "WILMINGTON TREATMENT CENTER",
-    "address": "",
-    "file_url": "http://rca.centaurihs.com/ptapp/api/cdm/export/oneclick?recno=968964e8e349e2289a4b94ee72948c71b877ce89d0b9cdeb45d61e126eab9896",
-    "transparency_page": "https://www.wilmingtontreatment.com/admissions/insurance-payment/price-transparency/"
-  },
-  {
-    "detail_id": "25a707db-af7b-4daf-a5d1-8678a925ca78",
-    "ccn": "340126",
-    "hospital_name": "WILSON MEDICAL CENTER",
-    "address": "",
-    "file_url": "https://www.wilsonmedical.com/docs/ahwilsonmedicalcenterlibraries/hcl/mrf2q25/464317222_wilson-medical-center_standardcharges.csv",
-    "transparency_page": "https://www.wilsonmedical.com/hospital-charges-listing"
+    "detail_id": "c4903daf-fb3f-4ab0-a7a0-aba5370c71f2",
+    "ccn": "347041",
+    "hospital_name": "FIRSTHEALTH MOORE REGIONAL HOSPITAL - RICHMOND",
+    "file_url": "https://stmlfirsthealthncus001.blob.core.windows.net/public/561936354_firsthealth-moore-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.firsthealth.org/patients-visitors/price-transparency/"
   }
 ]

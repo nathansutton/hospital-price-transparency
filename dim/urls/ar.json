@@ -1,0 +1,597 @@
+[
+  {
+    "detail_id": "5fc1a733-8a81-4179-83c3-ba6e56078533",
+    "ccn": "040001",
+    "hospital_name": "SILOAM SPRINGS REGIONAL HOSPITAL",
+    "file_url": "https://www.northwesthealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/263635210_siloam-springs-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.northwesthealth.com/pricing-information"
+  },
+  {
+    "detail_id": "d3691c70-42cf-407c-b5a8-61ef56a801cf",
+    "ccn": "040002",
+    "hospital_name": "JOHNSON REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.jrmc.com/wp-content/uploads/2025/12/710403278_johnson-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.jrmc.com/billing-services/"
+  },
+  {
+    "detail_id": "cf9ed0c7-f849-4916-921b-c6a652531aa0",
+    "ccn": "040004",
+    "hospital_name": "WASHINGTON REGIONAL MEDICAL CENTER",
+    "file_url": "https://washingtonregionalmedicalcenter.pg.revenuemasters.com/cdm-files/710664687_washington-regional-medical-center_standardcharges.xlsx",
+    "transparency_page": "https://washingtonregionalmedicalcenter.pg.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "2e934443-8f32-4a32-b793-13b7772176a5",
+    "ccn": "040007",
+    "hospital_name": "CHI ST. VINCENT INFIRMARY HEALTH SYSTEM",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236917_chi-st-vincent-infirmary_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "5ec29b41-7337-4b34-b5ba-ec5f0b87cf0d",
+    "ccn": "040010",
+    "hospital_name": "MERCY HOSPITAL NORTHWEST ARKANSAS",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/621684203_mercy-hospital-northwest-arkansas_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "0e8d15ce-afbd-4d47-a2ed-fa1519cbb2ce",
+    "ccn": "040011",
+    "hospital_name": "CHAMBERS MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJECMHDANVILLEAR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Chambers_Memorial.aspx#"
+  },
+  {
+    "detail_id": "29657081-4feb-48f1-af59-ddfb51856b26",
+    "ccn": "040014",
+    "hospital_name": "UNITY HEALTH WHITE COUNTY MEDICAL CENTER",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/unity-health-2024-site-471/media/r/61287d21d91746a88db1f48bf287afc5/71-0772737_unity-health-white-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.unity-health.org/patients/pricing/"
+  },
+  {
+    "detail_id": "2e134b87-b2df-4a33-b2b7-83dc564c4c93",
+    "ccn": "040016",
+    "hospital_name": "UAMS MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/8179f216930ea52889ace48af58b8713/charges/mrf",
+    "transparency_page": "https://uamshealth.com/patients-and-guests/patient-support/billing/price-transparency/"
+  },
+  {
+    "detail_id": "032ddf89-3b18-4973-a110-65e985d8c1d9",
+    "ccn": "040017",
+    "hospital_name": "NORTH ARKANSAS REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.narmc.com/images/710787860_north-arkansas-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.narmc.com/"
+  },
+  {
+    "detail_id": "cebdeacb-6025-484e-88d7-e871c9a2598b",
+    "ccn": "040018",
+    "hospital_name": "BAPTIST HEALTH VAN BUREN",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/825426152_bh-vb_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "e8f9a947-4b89-4af5-86fe-075b6fd3417e",
+    "ccn": "040019",
+    "hospital_name": "FORREST CITY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFCMCFORRESTCITYAR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/ForrestCity.aspx"
+  },
+  {
+    "detail_id": "0a617c4e-e015-4ec2-af80-45f8dfac8d7e",
+    "ccn": "040020",
+    "hospital_name": "ST. BERNARDS MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8121/710290019_st-bernards-hospital-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/StBernardsMedicalCenter/8121"
+  },
+  {
+    "detail_id": "9a94b67d-b85f-4635-8d45-5a3b3bbea45a",
+    "ccn": "040022",
+    "hospital_name": "NORTHWEST MEDICAL CENTER",
+    "file_url": "https://www.northwesthealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/205896848_northwest-medical-center-springdale_standardcharges.csv",
+    "transparency_page": "https://www.northwesthealth.com/pricing-information"
+  },
+  {
+    "detail_id": "1170d15d-6f8e-4581-900b-5513c7a6d864",
+    "ccn": "040026",
+    "hospital_name": "CHI ST VINCENT HOSPITAL HOT SPRINGS",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236913_chi-st-vincent-hospital-hot-springs_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "f45a061c-1b1c-442a-8bd9-efbe306041c1",
+    "ccn": "040027",
+    "hospital_name": "BAXTER HEALTH",
+    "file_url": "https://www.baxterhealth.org/documents/content/710561765_baxter-health_standardcharges.csv",
+    "transparency_page": "https://www.baxterhealth.org/patient-visitors/patients/price-transparency/"
+  },
+  {
+    "detail_id": "cdd5121d-5b93-45bb-ae0c-c248225b016a",
+    "ccn": "040029",
+    "hospital_name": "CONWAY REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.conwayregional.org/docs/default-source/campaigns/710249735_conway-regional-medical-center_standardcharges-1",
+    "transparency_page": "https://www.conwayregional.org/patients-visitors/billing-insurance/estimate-my-cost"
+  },
+  {
+    "detail_id": "13832c73-5af8-4ba3-a265-4a8843b81895",
+    "ccn": "040036",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER - NORTH LITTLE ROCK",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/710236856_bhmc-nlr_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "4ec62546-e57b-440e-b266-7ac36017d94d",
+    "ccn": "040041",
+    "hospital_name": "ST. MARY'S REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.saintmarysregional.com/docs/ahsaintmaryregionalhealthlibraries/hcl/mrf3q25/621771866_saint-marys-regional-health-system_standardcharges.csv",
+    "transparency_page": "https://www.saintmarysregional.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "3eeb735d-ea42-4c5f-8d2e-9a2f1ccad785",
+    "ccn": "040047",
+    "hospital_name": "ST. BERNARDS FIVE RIVER MEDICAL CENTER",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8177/273970823_five-rivers-medical-center-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/St.BernardsHealthcareFiveRiversMedicalCenter/8177"
+  },
+  {
+    "detail_id": "d2136f18-8139-4f55-9feb-2c56f008d866",
+    "ccn": "040051",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER-DREW COUNTY",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/710236856_bhmc-dc_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "b4141032-60b0-49e2-93bd-487061548ebb",
+    "ccn": "040055",
+    "hospital_name": "BAPTIST HEALTH - FORT SMITH",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/825426152_bh-fs_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "8cdcc59c-d6a1-4125-b660-11010df46283",
+    "ccn": "040062",
+    "hospital_name": "MERCY HOSPITAL FORT SMITH",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710240352_mercy-hospital-fort-smith_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "f72a081a-2982-4769-9137-0bd881555d33",
+    "ccn": "040067",
+    "hospital_name": "MAGNOLIA HOSPITAL",
+    "file_url": "http://magnoliarmc.org/wp-content/uploads/2025/07/850512754_magnolia-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://magnoliarmc.org/patient-and-visitors/billing-services/patient-pricing-information/"
+  },
+  {
+    "detail_id": "6e1dc2c5-a3bf-49d3-a3b4-af9000fb1a27",
+    "ccn": "040069",
+    "hospital_name": "GREAT RIVER MEDICAL CENTER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/3da9ca85-20c5-41a0-bdcd-1c72cbc6cce2/716042625_MCHS-GREAT-RIVER-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=3da9ca85-20c5-41a0-bdcd-1c72cbc6cce2"
+  },
+  {
+    "detail_id": "cd2b936f-2403-43de-b698-d4671de41f42",
+    "ccn": "040071",
+    "hospital_name": "JEFFERSON REGIONAL MEDICAL CENTER",
+    "file_url": "https://pricing.jrmc.info/MachineReadable/430687077_jefferson-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://pricing.jrmc.info/ServicesSearch"
+  },
+  {
+    "detail_id": "c24bd4c3-4705-4910-9131-298f92e1bc4f",
+    "ccn": "040072",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER-STUTTGART",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/611570855_bhmc-stuttgart_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "b5b6dd9a-d953-46f2-b28a-69ac0b306ac7",
+    "ccn": "040076",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER - HOT SPRING COUNTY",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/710236856_bhmc-hsc_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "38114e5e-9440-4270-9319-15f84c4113b0",
+    "ccn": "040078",
+    "hospital_name": "NATIONAL PARK MEDICAL CENTER",
+    "file_url": "https://www.nationalparkmedical.com/docs/ahnationalparkmedicalcenterlibraries/hcl/mrf3q25/621769635_national-park-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.nationalparkmedical.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "c9af98cb-63a7-4c0f-b7e5-53e185d72b9f",
+    "ccn": "040084",
+    "hospital_name": "SALINE MEMORIAL HOSPITAL",
+    "file_url": "https://www.salinememorial.org/docs/ahsalinememorialhospitallibraries/hcl/mrf3q25/812816675_saline-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.salinememorial.org/hospital-charges-listing"
+  },
+  {
+    "detail_id": "9a078d7c-5d70-4471-9d6b-604051fccfc8",
+    "ccn": "040088",
+    "hospital_name": "SOUTH ARKANSAS REGIONAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/south-arkansas-regional-hospital/923616260_south-arkansas-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://sarhcare.org/patients-and-visitors/"
+  },
+  {
+    "detail_id": "b42c980b-7e5f-4acd-b9f6-3236fbba549c",
+    "ccn": "040118",
+    "hospital_name": "NEA BAPTIST MEMORIAL HEALTH",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/AR/261214372_nea-baptist-memorial-hospital_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "53a1946a-3265-4b87-bc40-a1ec69ac205c",
+    "ccn": "040119",
+    "hospital_name": "WHITE RIVER MEDICAL CENTER",
+    "file_url": "https://whiteriverhealth.slicedhealth.io/pricer/71-0411459-1710943881_WhiteRiverHealth_standardcharges.CSV",
+    "transparency_page": "https://whiteriverhealth.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "259898ce-613f-4b58-85f5-a2116f91b6a7",
+    "ccn": "040132",
+    "hospital_name": "LEVI HOSPITAL",
+    "file_url": "https://levihealthcare.pt.panaceainc.com/MRFDownload/levihealthcare/levi",
+    "transparency_page": "https://levihospital.com/patients-visitors/"
+  },
+  {
+    "detail_id": "4b11ea23-f6a4-4f22-86db-316263916af4",
+    "ccn": "040134",
+    "hospital_name": "ARKANSAS HEART HOSPITAL",
+    "file_url": "https://arkansasheart.pt.panaceainc.com/MRFDownload/arkansasheart/arkansasheart",
+    "transparency_page": "https://www.arheart.com/financial-information/price-transparency/"
+  },
+  {
+    "detail_id": "ea623831-6c4f-4881-83b2-c72d5f4bced5",
+    "ccn": "040137",
+    "hospital_name": "CHI ST. VINCENT NORTH",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236917_chi-st-vincent-north_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "5223e64e-bd7d-4088-bf11-09fd66eb910d",
+    "ccn": "040152",
+    "hospital_name": "WASHINGTON REGIONAL PHYSICIANS' SPECIALTY HOSPITAL",
+    "file_url": "https://www.northwesthealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/811156570_northwest-health-physicians-specialty-hospital_standardcharges.csv",
+    "transparency_page": "https://www.northwesthealth.com/pricing-information"
+  },
+  {
+    "detail_id": "1f192088-bbb5-451e-bb4a-998ab5966e4a",
+    "ccn": "040153",
+    "hospital_name": "SOUTHWEST ARKANSAS REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.swarmc.org/s/SWARMC-Charge-Master.xlsm",
+    "transparency_page": "https://www.swarmc.org/patient-visitor-information"
+  },
+  {
+    "detail_id": "621c5829-2a5b-49b5-a2ea-852d2fe1c2ba",
+    "ccn": "040154",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER-CONWAY",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/461629800_bhmc-conway_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "e8188dc0-7fe9-44b9-8b0c-d814f386f0b8",
+    "ccn": "040156",
+    "hospital_name": "BAPTIST MEMORIAL HOSPITAL-CRITTENDEN",
+    "file_url": "https://sites.bmhcc.org/-/media/Pricing-Documents/AR/823844150_baptist-memorial-hospitalcrittendeninc_standardcharges.zip",
+    "transparency_page": "https://www.baptistonline.org/estimate-my-costs"
+  },
+  {
+    "detail_id": "be347db0-a701-4fa4-b702-c4568dc7222b",
+    "ccn": "040161",
+    "hospital_name": "ARKANSAS HEART HOSPITAL ENCORE MEDICAL CENTER",
+    "file_url": "https://arkansasheart.pt.panaceainc.com/MRFDownload/arkansasheart/arkansasheart",
+    "transparency_page": "https://www.arheart.com/financial-information/price-transparency/"
+  },
+  {
+    "detail_id": "86cfe4cf-92f3-407f-a216-f728285f56e0",
+    "ccn": "041300",
+    "hospital_name": "MERCY HOSPITAL PARIS",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710655753_mercy-hospital-paris_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "b0d76e21-7b0f-49a8-9457-1263e5022046",
+    "ccn": "041302",
+    "hospital_name": "DARDANELLE REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.conwayregional.org/docs/default-source/campaigns/834538290_dardanelle-regional-medical-center_standardcharges-3-(1).csv",
+    "transparency_page": "https://www.dardanelleregional.org/patients-visitors/price-transparency/estimate-my-cost"
+  },
+  {
+    "detail_id": "cd38342e-08e9-4dac-95c6-04039cb75fff",
+    "ccn": "041303",
+    "hospital_name": "MERCY HOSPITAL OZARK",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710689680_mercy-hospital-ozark_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "f10753b5-aef9-487a-b6fc-a71b71b27f3c",
+    "ccn": "041304",
+    "hospital_name": "EUREKA SPRINGS HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/7b394f9e-d9c2-4b0b-9109-00d32890267b/710578871_EUREKA%20SPRINGS%20HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.eurekaspringshospital.com/transparency"
+  },
+  {
+    "detail_id": "8b037189-94c7-4cc3-8994-36e15fc49c99",
+    "ccn": "041305",
+    "hospital_name": "MERCY HOSPITAL WALDRON",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710557895_mercy-hospital-waldron_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "18471ea0-5572-45a9-b649-43110dcdd93c",
+    "ccn": "041306",
+    "hospital_name": "IZARD REGIONAL HOSPITAL",
+    "file_url": "https://izardregionalhospital.com/wp-content/uploads/2025/03/863590894_izard-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://izardregionalhospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "c5e2df13-a046-48e9-bb61-06b47e686890",
+    "ccn": "041307",
+    "hospital_name": "ST. BERNARDS CROSSRIDGE COMMUNITY HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8119/710835247_st-bernards-community-hospital-corporation_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/St.BernardsHealthcareCrossRidgeCommunityHospital/8119"
+  },
+  {
+    "detail_id": "2b5df563-49c6-40ba-aa8c-15ef291a3e63",
+    "ccn": "041309",
+    "hospital_name": "LAWRENCE MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8120/731547175_lawrence-memorial-health-foundation-inc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/St.BernardsHealthcareLawrenceMemorialHospital/8120"
+  },
+  {
+    "detail_id": "dbd637d7-6a69-4413-8eee-044d8388ad3e",
+    "ccn": "041310",
+    "hospital_name": "STONE COUNTY MEDICAL CENTER",
+    "address": "2106 EAST MAIN STREET, HIGHWAY 14 EAST",
+    "file_url": "https://whiteriverhealth.slicedhealth.io/pricer/71-0411459-1417913419_WhiteRiverHealth_standardcharges.CSV",
+    "transparency_page": "https://whiteriverhealth.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "e74c28cf-c7fa-4eac-b736-b46640fb1d50",
+    "ccn": "041311",
+    "hospital_name": "HOWARD MEMORIAL HOSPITAL",
+    "file_url": "https://www.howardmemorial.com/sites/default/files/2025-10/710644637_Howard-Memorial-Hospital_StandardCharges.csv",
+    "transparency_page": "https://www.howardmemorial.com/billing-insurance"
+  },
+  {
+    "detail_id": "3769bf07-9bf1-46f3-a240-cddefe622604",
+    "ccn": "041312",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER - HEBER SPRINGS",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/710236856_bhmc-heber_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "705e06e8-77d2-4f21-b9bc-cfc502891035",
+    "ccn": "041313",
+    "hospital_name": "OZARK HEALTH",
+    "file_url": "https://ozarkhealth.net/sites/default/files/2025-11/71-0407683_Ozark-Health-Inc_standardcharges.csv",
+    "transparency_page": "https://www.ozarkhealth.net/price-transparency"
+  },
+  {
+    "detail_id": "30f51665-7a2e-409e-b1cd-09ee51379578",
+    "ccn": "041316",
+    "hospital_name": "SOUTH MISSISSIPPI COUNTY REGIONAL MEDICAL CENTER",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/340cba5b-23f2-476f-bd9f-b97e6c9f7afa/800370789_MCHS-SMC-REGIONAL-MEDICAL-CENTER_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=340cba5b-23f2-476f-bd9f-b97e6c9f7afa"
+  },
+  {
+    "detail_id": "e961bd70-ec83-405f-aae4-333be3ee60b3",
+    "ccn": "041317",
+    "hospital_name": "DALLAS COUNTY MEDICAL CENTER",
+    "file_url": "https://dallascountymedicalcenter.pg.quadax.revenuemasters.com/cdm-files/270029542_dallas-county-medical-center_standardcharges.csv",
+    "transparency_page": "https://dallascountymedicalcenter.pg.quadax.revenuemasters.com/disclaimer?"
+  },
+  {
+    "detail_id": "474b4f5f-337a-4baf-9690-df60393a04e0",
+    "ccn": "041318",
+    "hospital_name": "MERCY HOSPITAL BOONEVILLE",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463851119_mercy-hospital-booneville_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "191ddd93-fb51-4550-898b-b1fc1a9fffda",
+    "ccn": "041320",
+    "hospital_name": "LITTLE RIVER MEMORIAL HOSPITAL",
+    "file_url": "https://lrmh.org/Files/812677745_Little-River-Medical-Center-INC_standardcharges.csv",
+    "transparency_page": "https://lrmh.org/price-transparency"
+  },
+  {
+    "detail_id": "8f9b87d2-7a26-4874-aeda-82e0dc74b5a6",
+    "ccn": "041321",
+    "hospital_name": "BAPTIST HEALTH MEDICAL CENTER - ARKADELPHIA",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/710236856_bhmc-ark_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "0f030969-b790-4363-8ff3-7c111570e29d",
+    "ccn": "041322",
+    "hospital_name": "BAXTER HEALTH FULTON COUNTY HOSPITAL",
+    "file_url": "https://www.fultoncountyhospital.org/plugins/show_image.php?id=62",
+    "transparency_page": "https://www.fultoncountyhospital.org/price-transparency"
+  },
+  {
+    "detail_id": "77ce3fff-292d-4fd0-b871-5a0322ee632f",
+    "ccn": "041324",
+    "hospital_name": "CHI ST. VINCENT MORRILTON",
+    "file_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710245507_chi-st-vincent-morrilton_standardcharges.json",
+    "transparency_page": "https://www.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "304a98d8-d1ad-4ac3-9a23-455c8934a71c",
+    "ccn": "041327",
+    "hospital_name": "BRADLEY COUNTY MEDICAL CENTER",
+    "file_url": "http://bradleycountymedicalcenter.com/docs/710797499_Bradley-County_Medical_Center_standardcharges.csv",
+    "transparency_page": "https://www.bradleycountymedicalcenter.com/getpage.php?name=charge_transparency&sub=Charge+Transparency"
+  },
+  {
+    "detail_id": "2a913be6-0e3a-4f7f-8368-08b6acd7f3de",
+    "ccn": "041328",
+    "hospital_name": "CHICOT MEMORIAL MEDICAL CENTER",
+    "file_url": "https://chicotmemorial.com/mrf/383807713_CHICOT-MEMORIAL-MEDICAL-CENTER_standardcharges.csv",
+    "transparency_page": "https://chicotmemorial.com/financial-services/"
+  },
+  {
+    "detail_id": "1b9f932e-c008-4a93-a07c-974bc0310810",
+    "ccn": "041330",
+    "hospital_name": "PIGGOTT COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPCHPIGGOTTAR&type=CDM&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Piggottcommunity.aspx"
+  },
+  {
+    "detail_id": "4e52cb73-3b10-4ce0-901a-5d762f428519",
+    "ccn": "041331",
+    "hospital_name": "OZARKS COMMUNITY HOSPITAL OF GRAVETTE",
+    "address": "1101 JACKSON STREET, S.W.",
+    "file_url": "https://ochonline.com/wp-content/uploads/2025/02/431592082_Ozarks-Community-Hospital_standardcharges.csv.zip",
+    "transparency_page": "https://www.ochonline.com/patients-and-visitors/price-list/"
+  },
+  {
+    "detail_id": "92e8e71e-4350-4c96-880a-e15dadde614d",
+    "ccn": "041332",
+    "hospital_name": "UNITY HEALTH - NEWPORT",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/unity-health-2024-site-471/media/r/f3268e2c9fd04bae97aa2de23b692104/86-1835149_unity-health-newport_standardcharges.csv",
+    "transparency_page": "https://www.unity-health.org/patients/pricing/"
+  },
+  {
+    "detail_id": "dfef00c7-2422-4d4a-ad60-2ce3ff90a0fe",
+    "ccn": "042004",
+    "hospital_name": "ARKANSAS EXTENDED CARE HOSPITAL HOT SPRINGS",
+    "address": "300 WERNER STREET, 3RD FLOOR",
+    "file_url": "https://www.extendedcarehs.com/siteuploads/hospital-hot-springs/1144_pdf_1_82-1978232_lhcg-cxix,-llc-dba-arkansas-extended-care-hospital--hot-springs_standardcharges.csv",
+    "transparency_page": "https://www.extendedcarehs.com/price-transparency-files"
+  },
+  {
+    "detail_id": "0dfd594b-0daf-4e90-939d-ae0acb60d8e1",
+    "ccn": "042006",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - FORT SMITH",
+    "address": "1001 TOWSON AVENUE, SIXTH FLOOR",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/71-0813112_Select_Specialty_Hospital-Fort_Smith_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/locations-and-tours/ar/fort-smith/fort-smith/"
+  },
+  {
+    "detail_id": "997ef59c-3dee-465e-81c6-fda252b52ec4",
+    "ccn": "042009",
+    "hospital_name": "REGENCY HOSPITAL - SPRINGDALE",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/20-0226432_Regency_Hospital_of_Springdale_standardcharges.csv",
+    "transparency_page": "https://www.regencyhospital.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "ce9fd037-e601-465e-b192-1c0054047931",
+    "ccn": "042010",
+    "hospital_name": "CORNERSTONE SPECIALTY HOSPITALS LITTLE ROCK",
+    "address": "2 ST VINCENT CIRCLE, 6TH FLOOR",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=lhNL3XBItWqqtsjNFlglEQ*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=lhNL3XBItWqqtsjNFlglEQ*-*"
+  },
+  {
+    "detail_id": "9250357f-9ac2-4e52-a13f-fe02785ef162",
+    "ccn": "042012",
+    "hospital_name": "BAPTIST HEALTH EXTENDED CARE HOSPITAL-LITTLE ROCK",
+    "address": "9601 BAPTIST HEALTH DR., 10TH FLOOR",
+    "file_url": "https://www.baptist-health.com/wp-content/uploads/2024/12/261286647_bhech_standardcharges.csv",
+    "transparency_page": "https://www.baptist-health.com/billing-insurance-financial-assistance/hospital-charges-and-negotiated-rates/"
+  },
+  {
+    "detail_id": "e6c01070-c0d4-4167-a644-2823ced8e841",
+    "ccn": "043029",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF JONESBORO",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/461429335_Encompass-Health-Rehabilitation-Hospital-of-Jonesboro_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/jonesboro-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "2c479f99-224b-4975-aee9-9edd9756b3df",
+    "ccn": "043032",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL, A PARTNER OF WASHINGTON REGIONAL",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/251652127_Encompass-Health-Rehabilitation-Hospital-a-partner-of-Washington-Regional_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/fayetteville-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "0924ab04-70d2-4177-97ca-345a5f5926eb",
+    "ccn": "043033",
+    "hospital_name": "CONWAY REGIONAL REHABILITATION HOSPITAL",
+    "file_url": "https://www.conwayregional.org/docs/default-source/campaigns/710249735_conway-regional-medical-center_standardcharges-1",
+    "transparency_page": "https://www.conwayregional.org/patients-visitors/billing-insurance/estimate-my-cost"
+  },
+  {
+    "detail_id": "e4fa4608-4828-49b7-b6ab-8fd7f4723a5b",
+    "ccn": "043034",
+    "hospital_name": "SOUTHEAST REHABILITATION HOSPITAL",
+    "file_url": "https://southeastrehab.com/wp-content/uploads/2025/09/SOUTHEAST-REHAB-STANDARD-CHARGES.csv",
+    "transparency_page": "https://southeastrehab.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "d905cb55-61d9-407f-aac3-510b534071f7",
+    "ccn": "043037",
+    "hospital_name": "MERCY REHABILITATION HOSPITAL FORT SMITH",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/301200418_MercyRehabilitationHospitalFortSmith_standardcharges.csv",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "ddf4c3fb-7762-4c2e-ac78-f7d16d61ca7a",
+    "ccn": "044004",
+    "hospital_name": "VANTAGE POINT OF NORTHWEST ARKANSAS",
+    "file_url": "https://www.vantagepointnwa.com/wp-content/uploads/pricing/2025/229/75-2888880_Texarkana-Behavioral-Associates-LLC_standardcharges%20(002).csv",
+    "transparency_page": "https://www.vantagepointnwa.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "4e2e4b1c-2341-4797-9014-7236a2f25340",
+    "ccn": "044005",
+    "hospital_name": "THE BRIDGEWAY",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/232238973_bridgeway_standardcharges.csv",
+    "transparency_page": "https://thebridgeway.com/standard-services/"
+  },
+  {
+    "detail_id": "2721c1dd-d6f2-4032-b64c-e2db92be69e4",
+    "ccn": "044006",
+    "hospital_name": "VALLEY BEHAVIORAL HEALTH SYSTEM",
+    "file_url": "https://www.valleybehavioral.com/wp-content/uploads/pricing/2025/228/32-0370029_Valley-Behavioral-Health-System-LLC_standardcharges.csv",
+    "transparency_page": "https://www.valleybehavioral.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "5849bf25-e472-4a26-b3a8-668b05298b2b",
+    "ccn": "044007",
+    "hospital_name": "RIVENDELL BEHAVIORAL HEALTH SERVICES",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/200930981_rivendell-arkansas_standardcharges.csv",
+    "transparency_page": "https://rivendellofarkansas.com/standard-services/"
+  },
+  {
+    "detail_id": "f9313e86-e07f-4409-a244-ee77e0ca0788",
+    "ccn": "044013",
+    "hospital_name": "PINNACLE POINTE HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/621658502_pinnacle-point_standardcharges.csv",
+    "transparency_page": "https://pinnaclepointehospital.com/standard-services/"
+  },
+  {
+    "detail_id": "b88ef9dc-aeb2-4026-acde-2387563067a1",
+    "ccn": "044017",
+    "hospital_name": "METHODIST BEHAVIORAL HEALTH SYSTEMS",
+    "file_url": "https://www.methodistfamily.org/wp-content/uploads/2022/10/Charge-Master-List-MBH-2022-.xlsx",
+    "transparency_page": "https://www.methodistfamily.org/behavioral-hospital/"
+  },
+  {
+    "detail_id": "ea3f8e23-06e2-4d61-b631-b14f6f8e0c2c",
+    "ccn": "044019",
+    "hospital_name": "SPRINGWOODS BEHAVIORAL HEALTH SERVICES",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/205395878_springwoods_standardcharges.csv",
+    "transparency_page": "https://www.springwoodsbehavioral.com/standard-services-2/"
+  },
+  {
+    "detail_id": "818a6968-a716-4ae8-875b-bf92e77e8a22",
+    "ccn": "044020",
+    "hospital_name": "RIVERVIEW BEHAVIORAL HEALTH",
+    "address": "701 ARKANSAS BOULEVARD, SUITE 300",
+    "file_url": "https://www.riverviewbehavioralhealth.com/wp-content/uploads/pricing/2025/215/26-3679084%20Riverview-Behavioral-Health-LLC_standardcharges.csv",
+    "transparency_page": "https://www.riverviewbehavioralhealth.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "aa16b46e-9119-4187-ac5f-d811ab0fd057",
+    "ccn": "044021",
+    "hospital_name": "PERIMETER BEHAVIORAL HOSPITAL OF WEST MEMPHIS",
+    "file_url": "https://www.perimeterhealthcare.com/west-memphis/461030276_Woodridge-of-West-Memphis-LLC_standardcharges.csv",
+    "transparency_page": "https://www.perimeterhealthcare.com/west-memphis"
+  },
+  {
+    "detail_id": "399021c0-21dc-4cb8-bb36-aa48fb9eb8a3",
+    "ccn": "044022",
+    "hospital_name": "CONWAY BEHAVIORAL HEALTH",
+    "file_url": "https://www.conwaybh.com/wp-content/uploads/pricing/2025/460/35-2564331_Conway-Behavioral-Health-LLC_standardcharges.csv",
+    "transparency_page": "https://www.conwaybh.com/admissions/insurance-payment/price-transparency/"
+  }
+]

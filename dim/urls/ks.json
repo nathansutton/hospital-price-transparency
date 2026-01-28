@@ -1,0 +1,804 @@
+[
+  {
+    "detail_id": "757fc948-059b-4c82-80cc-193e29ca0272",
+    "ccn": "121125",
+    "hospital_name": "SUMMIT SURGICAL",
+    "file_url": "https://summitks.com/wp-content/uploads/203283620_summit-surgical-llc_standardcharges-121125.csv",
+    "transparency_page": "https://summitks.com/patients-visitors/pricing/"
+  },
+  {
+    "detail_id": "18c56e60-eeca-4ea6-a4f4-9a663265ed4e",
+    "ccn": "170006",
+    "hospital_name": "MERCY HOSPITAL PITTSBURG",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/480543778_ascension-via-christi-hospital-pittsburg-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "0e4f7f5c-33a8-4c5d-8818-ac65c9c8d031",
+    "ccn": "170009",
+    "hospital_name": "SAINT JOHN HOSPITAL",
+    "file_url": "https://stjohnleavenworth.com/wp-content/uploads/2024/12/462171791_SaintJohnHospital_standardcharges.json",
+    "transparency_page": "https://stjohnleavenworth.com/financial-assistance/"
+  },
+  {
+    "detail_id": "30ce53b4-9151-4526-9c8b-94a1754c5833",
+    "ccn": "170012",
+    "hospital_name": "SALINA REGIONAL HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSalinaRegionalKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Salina_V2.aspx"
+  },
+  {
+    "detail_id": "ab91aa82-0576-4fca-b006-0a3450ecb557",
+    "ccn": "170013",
+    "hospital_name": "HAYS MEDICAL CENTER",
+    "file_url": "https://haysmed.s3.us-west-2.amazonaws.com/cms-price/480559088-Haysmed-standardcharges_010125.csv",
+    "transparency_page": "https://www.cdmpricing.com/6f60efe90f2bd980196135be8b8f4af0"
+  },
+  {
+    "detail_id": "245a0f41-a07c-4c30-b5cd-b95c2db8b249",
+    "ccn": "170014",
+    "hospital_name": "ADVENTHEALTH OTTAWA",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/830976641_AdventHealth-Ottawa_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "28046c91-53aa-46ae-b23c-612c8f489b61",
+    "ccn": "170016",
+    "hospital_name": "THE UNIVERSITY OF KANSAS HEALTH SYSTEM ST. FRANCIS CAMPUS",
+    "file_url": "https://coc.ardenthealthservices.com/ukhs/82-2034009_The-University-of-Kansas-Health-System-St-Francis-Campus_standardcharges.csv",
+    "transparency_page": "https://kutopeka.com/policies-and-disclosures/price-transparency/"
+  },
+  {
+    "detail_id": "d44b3536-5f07-4100-a5eb-abf0c033b05d",
+    "ccn": "170020",
+    "hospital_name": "HUTCHINSON REGIONAL MEDICAL CENTER INC",
+    "file_url": "https://machine-readable-files.com/hutchinson-regional-medical-center/480774005_hutchinson-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.hutchregional.com/medical-center/patients-visitors/billing/price-transparency/"
+  },
+  {
+    "detail_id": "8320445c-fbe6-49bc-8632-0e47eb55effd",
+    "ccn": "170023",
+    "hospital_name": "COMMONSPIRIT ST. CATHERINE HOSPITAL - GARDEN CITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8277/480543721_commonspirit-health-st-catherine-garden-city_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "cce66b3f-8ea4-44c9-b411-9799d1bc1c57",
+    "ccn": "170027",
+    "hospital_name": "PRATT REGIONAL MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/BILX-1758056023835/machine-readable/481058737_pratt-regional-medical-center_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/pratt-regional-medical-center-ks"
+  },
+  {
+    "detail_id": "ea2c4d0c-836e-4c4a-874a-c741163414af",
+    "ccn": "170040",
+    "hospital_name": "UNIVERSITY OF KANSAS HOSPITAL MAIN CAMPUS, BELL HOSPITAL TOWER",
+    "file_url": "https://ukhspricetransparency.blob.core.windows.net/ukhs-price-transparency/48-1201402_TheUniversityOfKansasHealthSystemKansasCityCampus_standardcharges.csv",
+    "transparency_page": "https://www.kansashealthsystem.com/patient-visitor/financial/patient-bills/services-fees/charge-descriptions"
+  },
+  {
+    "detail_id": "5b364fa2-83e8-4776-9454-6d31f082cfea",
+    "ccn": "170049",
+    "hospital_name": "OLATHE HOSPITAL",
+    "file_url": "https://www.olathehealth.org/wp-content/uploads/2025/04/48-0577664_Olathe-Medical-Center-Inc_standardcharges.csv",
+    "transparency_page": "https://www.olathehealth.org/patients-and-visitors/billing-and-insurance-information/"
+  },
+  {
+    "detail_id": "e5c8c1b8-858b-4ad2-bb9a-73882329c147",
+    "ccn": "170068",
+    "hospital_name": "SOUTHWEST MEDICAL CENTER",
+    "file_url": "https://southwestmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/480684878_southwest-medical-center_standardcharges.csv",
+    "transparency_page": "https://southwestmedicalcenter.pg.quadax.revenuemasters.com/disclaimer"
+  },
+  {
+    "detail_id": "2d70f605-940e-4832-ad8b-3d38a64c240b",
+    "ccn": "170074",
+    "hospital_name": "STORMONT VAIL HEALTH FLINT HILLS CAMPUS",
+    "file_url": "https://www.stormontvail.org/wp-content/uploads/883089376_STORMONTVAIL_STANDARDCHARGES.csv",
+    "transparency_page": "https://www.stormontvail.org/billing-insurance-financial-services/cost-of-care/"
+  },
+  {
+    "detail_id": "c69eddb4-7f68-4e2f-b5b6-8c74bb3ed0f4",
+    "ccn": "170075",
+    "hospital_name": "MERCY HOSPITAL",
+    "file_url": "https://www.mercyh.org/wp-content/uploads/2024/07/48-0663711_Mercy-Hospital-Inc_standardcharges.csv",
+    "transparency_page": "https://www.mercyh.org/pricing/"
+  },
+  {
+    "detail_id": "56b449b3-8450-42d9-bcbc-2fffea4564a8",
+    "ccn": "170086",
+    "hospital_name": "STORMONT VAIL HEALTH TOPEKA CAMPUS",
+    "file_url": "https://www.stormontvail.org/wp-content/uploads/480543789_STORMONTVAIL_STANDARDCHARGES.csv",
+    "transparency_page": "https://www.stormontvail.org/patient-resources/cost-of-care/"
+  },
+  {
+    "detail_id": "d8727483-ceea-4d04-877f-8d38ede7c064",
+    "ccn": "170103",
+    "hospital_name": "NEWTON MEDICAL CENTER",
+    "file_url": "https://secure.claraprice.net/price-transparency/XBZP-1715710889221/machine-readable/481040759_nmc-health_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/nmc-health"
+  },
+  {
+    "detail_id": "b61c508b-8596-455b-80a4-f8f921db173e",
+    "ccn": "170104",
+    "hospital_name": "ADVENTHEALTH SHAWNEE MISSION",
+    "file_url": "https://www.adventhealth.com/sites/default/files/CDM/2025/480637331_AdventHealth-Shawnee-Mission_standardcharges.json",
+    "transparency_page": "https://www.adventhealth.com/pricelist"
+  },
+  {
+    "detail_id": "c0a48e04-2961-4793-be29-45a36671cd28",
+    "ccn": "170109",
+    "hospital_name": "PAOLA HOSPITAL",
+    "file_url": "https://www.olathehealth.org/wp-content/uploads/2025/04/48-1155548_Miami-County-Medical-Center-Inc_standardcharges.csv",
+    "transparency_page": "https://www.olathehealth.org/patients-and-visitors/billing-and-insurance-information/"
+  },
+  {
+    "detail_id": "e9cb7655-603a-4c27-9648-a635c4d98ce7",
+    "ccn": "170110",
+    "hospital_name": "COMMONSPIRIT BOB WILSON MEMORIAL HOSPITAL",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8265/480543721_commonspirit-health-bob-wilson_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "67d27d8a-4d31-458b-a6ef-af98217d00f5",
+    "ccn": "170120",
+    "hospital_name": "LABETTE HEALTH",
+    "file_url": "https://labettehealth.pt.panaceainc.com/MRFDownload/labettehealth/labettehealth",
+    "transparency_page": "https://www.labettehealth.com/patients-visitors/financial-services/pricing-and-charging/"
+  },
+  {
+    "detail_id": "4670fe37-b39a-4205-8605-dd468b727143",
+    "ccn": "170122",
+    "hospital_name": "ASCENSION VIA CHRISTI ST. FRANCIS",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/481172106_ascension-via-christi-hospitals-wichita-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "55589715-143c-44f4-8d9f-5661039949e7",
+    "ccn": "170123",
+    "hospital_name": "WESLEY MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/8cf802df1ca74002bc905804324caf05?download=true",
+    "transparency_page": "https://www.wesleymc.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "9934ca05-a787-4469-8eba-e801a85ac04a",
+    "ccn": "170137",
+    "hospital_name": "LAWRENCE MEMORIAL HOSPITAL",
+    "file_url": "https://www.lmh.org/app/files/public/6bdda36c-7b12-4f68-8cb8-0df37d3da1e4/48-6033703_The-Lawrence-Memorial-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.lmh.org/patients-visitors/understanding-your-hospital-costs/"
+  },
+  {
+    "detail_id": "d7760e65-48e1-4769-939c-0721783fe7a9",
+    "ccn": "170142",
+    "hospital_name": "ASCENSION VIA CHRISTI HOSPITAL IN MANHATTAN",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/481186704_ascension-via-christi-hospital-manhattan-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "bc1914df-8f7f-40e6-8860-c515e95eb0a2",
+    "ccn": "170145",
+    "hospital_name": "COFFEYVILLE REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.crmcinc.org/wp-content/uploads/2025/07/Price-Transparency-Export-Machine-Readable-File-2025V1.xlsx",
+    "transparency_page": "https://www.crmcinc.org/patients-visitors/billing-insurance/pricing-transparency/"
+  },
+  {
+    "detail_id": "60fb42e4-08c2-4175-b974-0b8779dced38",
+    "ccn": "170146",
+    "hospital_name": "PROVIDENCE MEDICAL CENTER",
+    "file_url": "https://providencekc.com/wp-content/uploads/2024/12/462162669_ProvidenceMedicalCenter_standardcharges.json",
+    "transparency_page": "https://providencekc.com/financial-assistance/"
+  },
+  {
+    "detail_id": "9be3d3a9-edbb-4772-877a-08c92ef97f59",
+    "ccn": "170150",
+    "hospital_name": "SOUTH CENTRAL KS MED CENTER",
+    "file_url": "https://sckhealth.org/wp-content/uploads/2023/08/Price-List-08-29-2023.xlsx",
+    "transparency_page": "https://sckhealth.org/patients-visitors/financial-services/"
+  },
+  {
+    "detail_id": "5ea45db4-6070-48ed-a430-8365efd5d510",
+    "ccn": "170175",
+    "hospital_name": "COMMONSPIRIT ST. CATHERINE HOSPITAL - DODGE CITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10548/480543721_commonspirit-health-st-catherine-hospital-dodge-city_standardcharges.csv",
+    "transparency_page": "https://www.mountain.commonspirit.org/price-transparency"
+  },
+  {
+    "detail_id": "91bd6f63-28b3-47e4-aae7-bb8916a7b34d",
+    "ccn": "170176",
+    "hospital_name": "OVERLAND PARK REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/1d47da8ae87f4ce2847ba765c9af2c1b?download=true",
+    "transparency_page": "https://www.hcamidwest.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "0cc19d93-c931-4e25-b51c-14cc1122d8a1",
+    "ccn": "170182",
+    "hospital_name": "MENORAH MEDICAL CENTER",
+    "file_url": "https://www.hcadam.com/api/public/content/4e12eecc20ff47979a74e565cb413594?download=true",
+    "transparency_page": "https://www.hcamidwest.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "2a85bd41-303c-491a-a97c-d3a1d11108ce",
+    "ccn": "170183",
+    "hospital_name": "KANSAS SURGERY & RECOVERY CENTER",
+    "file_url": "https://irp.cdn-website.com/fa377abf/files/uploaded/481148580_kansas-surgery---recovery-center-llc_standardcharges.csv",
+    "transparency_page": "https://www.kansas.surgery/price-transparency"
+  },
+  {
+    "detail_id": "ab262896-259d-423c-8c3b-5e4b69ae8366",
+    "ccn": "170186",
+    "hospital_name": "KANSAS HEART HOSPITAL",
+    "file_url": "https://kansasheart.com/price-transparency/742837441_kansas-heart-hospital,-l.l.c._standardcharges.csv",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kansas_HH.aspx"
+  },
+  {
+    "detail_id": "9cc8e00e-452e-4529-bedd-10a0b9ad9c19",
+    "ccn": "170187",
+    "hospital_name": "SALINA SURGICAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/salina-surgical-hospital/481169103_salina-surgical-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hospitalpricelists.org/Salina-Surgical-Hospital"
+  },
+  {
+    "detail_id": "123673e6-0fe6-470b-a6cf-a62ea5d82550",
+    "ccn": "170188",
+    "hospital_name": "KANSAS CITY ORTHOPAEDIC INSTITUTE",
+    "file_url": "https://kcoi.pt.panaceainc.com/MRFDownload/kcoi/kcoi",
+    "transparency_page": "https://www.kcoi.com/patient-information/pricing/"
+  },
+  {
+    "detail_id": "c6bbfdef-026a-4c13-95c0-cc226ae14acb",
+    "ccn": "170191",
+    "hospital_name": "UNIVERSITY OF KANSAS HEALTH SYSTEM GREAT BEND CAMPUS",
+    "file_url": "https://ukhspricetransparency.blob.core.windows.net/ukhs-price-transparency/83-0516935_TheUniversityOfKansasHealthSystemGreatBendCampus_standardcharges.csv",
+    "transparency_page": "https://www.gbregional.com/billing-insurance"
+  },
+  {
+    "detail_id": "19d89262-a57c-4692-a0ec-1a92c5aad2f1",
+    "ccn": "170196",
+    "hospital_name": "KANSAS SPINE & SPECIALTY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/80b49e7e4d81721153e53e7620151ead/charges/mrf",
+    "transparency_page": "https://www.ksspine.com/patients/price-transparency/"
+  },
+  {
+    "detail_id": "88fd6ea7-0291-40be-a68b-6834f560c26b",
+    "ccn": "170197",
+    "hospital_name": "KANSAS MEDICAL CENTER",
+    "file_url": "https://ksmedcenter.com/wp-content/uploads/2023/11/201853760_kansas-medical-center_standardcharges.csv",
+    "transparency_page": "https://ksmedcenter.com/patient-information/"
+  },
+  {
+    "detail_id": "b74e42e3-ccb1-4484-8ef0-d89e5f3b98cc",
+    "ccn": "170200",
+    "hospital_name": "ASCENSION VIA CHRISTI ST TERESA",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/271965272_ascension-via-christi-hospital-wichita-st-teresa-inc_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "fce35cdd-a3d9-4b1b-a4a3-7e2170ecef30",
+    "ccn": "170203",
+    "hospital_name": "MERCY SPECIALTY HOSPITAL SOUTHEAST KANSAS",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/843730625_mercy-hospital-southeast-kansas-specialty-hospital_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "e896d19c-3835-452e-88cd-0fa65dcccbd1",
+    "ccn": "171300",
+    "hospital_name": "GRISELL MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGMHDRANSOMKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Grisell_V2.aspx"
+  },
+  {
+    "detail_id": "09890870-634f-479e-8e09-2b14cdd89cf6",
+    "ccn": "171301",
+    "hospital_name": "ELLINWOOD DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbEDHELLINWOODKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Ellinwood_V2.aspx"
+  },
+  {
+    "detail_id": "71629791-3be3-469b-9993-66e5bec63b67",
+    "ccn": "171303",
+    "hospital_name": "LANE COUNTY HOSPITAL",
+    "address": "235 WEST VINE, PO BOX 969",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLCHDIGHTONKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LaneCounty_V2.aspx"
+  },
+  {
+    "detail_id": "6a1634d5-3cec-4836-8f1d-e3b1692ec261",
+    "ccn": "171304",
+    "hospital_name": "ASHLAND HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHCASHLANDKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Ashland_V2.aspx"
+  },
+  {
+    "detail_id": "3e182606-f145-43bd-ab10-0227400091e6",
+    "ccn": "171306",
+    "hospital_name": "WICHITA COUNTY HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWCHCLEOTIKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Wichita_V2.aspx"
+  },
+  {
+    "detail_id": "0be807ae-ba97-4337-bb64-9e837f1560ef",
+    "ccn": "171307",
+    "hospital_name": "RAWLINS COUNTY HEALTH CENTER",
+    "file_url": "https://rchc.slicedhealth.io/pricer/48-0545181_RawlinsCountyHealthCenter_StandardCharges.csv",
+    "transparency_page": "https://rchc.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "c15f86c8-c0e9-43ac-8129-38f4857e6ad3",
+    "ccn": "171308",
+    "hospital_name": "MERCY HOSPITAL COLUMBUS",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/270842031_mercy-hospital-maude-norton_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "72d1b945-c705-4031-b1fa-c3edd9e23aed",
+    "ccn": "171309",
+    "hospital_name": "JEWELL COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJewellCounty&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Jewell_V2.aspx"
+  },
+  {
+    "detail_id": "16fc29ed-7cda-40f7-afbd-afd60c11a128",
+    "ccn": "171310",
+    "hospital_name": "CHEYENNE COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCheyenneCounty&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Cheyenne_V2.aspx"
+  },
+  {
+    "detail_id": "5b284bdd-0017-4b93-aea9-22f1c80e585c",
+    "ccn": "171312",
+    "hospital_name": "COMANCHE COUNTY HOSPITAL",
+    "file_url": "https://comanchecountyhospital.com/vimages/shared/vnews/stories/60187d4dbaf14/486057762_Comanche-County-Hospital_standardcharges.csv",
+    "transparency_page": "https://comanchecountyhospital.com/vnews/display.v/ART/60187d4dbaf14"
+  },
+  {
+    "detail_id": "87adf9eb-45c3-48a8-93fe-7af8d6e622d3",
+    "ccn": "171313",
+    "hospital_name": "KEARNY COUNTY HOSPITAL",
+    "file_url": "https://www.kearnycountyhospital.com/48-0568594_kearny_county_hospital_standardcharges-20250512/",
+    "transparency_page": "https://www.kearnycountyhospital.com/patient-resources/#price-transparency"
+  },
+  {
+    "detail_id": "d507e946-f468-4b5c-82e0-e9480ae1c6aa",
+    "ccn": "171314",
+    "hospital_name": "F. W. HUSTON MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbJCMHWINCHESTERKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/FW_Huston.aspx"
+  },
+  {
+    "detail_id": "9305d041-22d5-4104-8b5f-42e541c1aa3c",
+    "ccn": "171315",
+    "hospital_name": "NEMAHA VALLEY COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbNVCHSENECAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Nemaha_Valley_V2.aspx"
+  },
+  {
+    "detail_id": "0eb48180-586a-4d2d-83f1-c8b17a82fb86",
+    "ccn": "171316",
+    "hospital_name": "ANDERSON COUNTY HOSPITAL",
+    "file_url": "https://www.saintlukeskc.org/hpt/6/742849611_AndersonCountyHospital_standardcharges.json",
+    "transparency_page": "https://www.saintlukeskc.org/patients-visitors/billing/transparency"
+  },
+  {
+    "detail_id": "18566ed2-f977-4d69-bb3a-82429c86f05e",
+    "ccn": "171317",
+    "hospital_name": "EDWARDS COUNTY MEDICAL CENTER",
+    "file_url": "https://edcomed.com/assets/site/documents/price-transparency/481082458_EdwardsCountyMedicalCenter_Hospital_standardcharges.csv",
+    "transparency_page": "https://edcomed.com/patients-and-visitors/standard-charges/"
+  },
+  {
+    "detail_id": "a52ab786-5955-4d76-b9b7-7433d940f1e3",
+    "ccn": "171319",
+    "hospital_name": "HOLTON COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCHHOLTONKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Holton_V2.aspx"
+  },
+  {
+    "detail_id": "89072d2a-1e0d-4899-93c2-b130d52cab2e",
+    "ccn": "171321",
+    "hospital_name": "ARTESIAN VALLEY HEALTH SYSTEM",
+    "file_url": "https://a9a4b96f-06fd-48d5-afab-60ad79a55e97.filesusr.com/ugd/3293c1_b634e2c6081e4736bc6956dddef01d94.json?dn=480966086_Meade%20District%20Hospital_standardcharges%20(3).json",
+    "transparency_page": "https://www.avhealthsystem.com/pricing-information"
+  },
+  {
+    "detail_id": "d88921af-73a2-4433-a875-d73a5074d17a",
+    "ccn": "171322",
+    "hospital_name": "HAMILTON COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHamiltonKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hamilton_V3.aspx"
+  },
+  {
+    "detail_id": "3b6a8f31-6833-4bcf-9220-90d3467b813b",
+    "ccn": "171323",
+    "hospital_name": "STAFFORD COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSDHNSTAFFORDKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Stafford_V2.aspx"
+  },
+  {
+    "detail_id": "539e384a-a3bb-45c7-8169-f67ce6ce6899",
+    "ccn": "171324",
+    "hospital_name": "SATANTA DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSDHSATANTAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Satanta_V2.aspx"
+  },
+  {
+    "detail_id": "391987dc-0697-439a-9809-c40f3e656caa",
+    "ccn": "171325",
+    "hospital_name": "GRAHAM COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGCHHILLCITYKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/GrahamCounty_V3.aspx"
+  },
+  {
+    "detail_id": "b7eb68d5-d54e-47ba-8501-4a03d7afa5ad",
+    "ccn": "171326",
+    "hospital_name": "LOGAN COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLCHOAKLEYKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Logan_V2.aspx"
+  },
+  {
+    "detail_id": "048be0bf-6ec5-4408-9db2-fb6fdf5c407f",
+    "ccn": "171327",
+    "hospital_name": "ELLSWORTH COUNTY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbECMCELLSWORTHKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Ellsworth_V2.aspx"
+  },
+  {
+    "detail_id": "488b95af-b838-4567-88dc-de5af3c0b396",
+    "ccn": "171330",
+    "hospital_name": "RICE COUNTY DISTRICT HOSPITAL",
+    "file_url": "https://ricecommunityhealth.com/486091484_Rice%20County%20District%20Hospital_standardcharges.json",
+    "transparency_page": "https://ricecommunityhealth.com/insurance-billing/"
+  },
+  {
+    "detail_id": "ff3568e4-b01f-4e23-8aca-557da992d9e9",
+    "ccn": "171331",
+    "hospital_name": "KIOWA DISTRICT HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKDHKIOWAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kiowa_District_V2.aspx"
+  },
+  {
+    "detail_id": "0084897c-79c2-4913-a204-c7d34c4df527",
+    "ccn": "171332",
+    "hospital_name": "KIOWA COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbKCMHGREENSBURGKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Kiowa_Memorial_V2.aspx"
+  },
+  {
+    "detail_id": "3dcef6f4-3a0c-4f1c-bfa9-25da109f9790",
+    "ccn": "171333",
+    "hospital_name": "CLARA BARTON HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCBHHOISINGTONKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Clara_Barton_V2.aspx"
+  },
+  {
+    "detail_id": "58d70ee3-2b42-4f9b-9f4b-7db589507404",
+    "ccn": "171334",
+    "hospital_name": "MEDICINE LODGE MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMLMHMEDICINELODGEKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Medicine_Lodge_V2.aspx"
+  },
+  {
+    "detail_id": "5d9d7f68-a1aa-4364-bd80-8c1153d69521",
+    "ccn": "171335",
+    "hospital_name": "STEVENS COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSCHHUGOTONKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Stevens_V2.aspx"
+  },
+  {
+    "detail_id": "e4ad62ab-5f92-419c-a411-879aa22cfdc1",
+    "ccn": "171337",
+    "hospital_name": "ASCENSION WAMEGO HEALTH CENTER",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/721526400_wamego-hospital-association_standardcharges.csv",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "a083b810-5df6-466a-b8ba-fae961155ddd",
+    "ccn": "171338",
+    "hospital_name": "SABETHA COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSCHSABETHAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Sabetha_V3.aspx?sub=Patient%2FVisitors#"
+  },
+  {
+    "detail_id": "2d6d6e0a-75df-4a78-ac98-f9880b154811",
+    "ccn": "171339",
+    "hospital_name": "GREENWOOD COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGCHEUREKAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Greenwood_V2.aspx"
+  },
+  {
+    "detail_id": "26aa64af-7ef2-424d-9ad9-f0a159485939",
+    "ccn": "171342",
+    "hospital_name": "RUSH COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/RushCounty_V2.aspx#",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/RushCounty_V2.aspx"
+  },
+  {
+    "detail_id": "e316c09f-1d68-4050-8d8d-cfa5819696b9",
+    "ccn": "171343",
+    "hospital_name": "STANTON COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSCHJOHNSONKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Stanton_County.aspx"
+  },
+  {
+    "detail_id": "8c13fd13-44f0-4571-afdc-8928a6fc3bac",
+    "ccn": "171344",
+    "hospital_name": "WILSON MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWCHNEODESHAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Wilson_V2.aspx"
+  },
+  {
+    "detail_id": "c32299b9-edce-48e9-8a84-46af057d9b9a",
+    "ccn": "171346",
+    "hospital_name": "PATTERSON HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbAMCANTHONYKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Patterson_V2.aspx"
+  },
+  {
+    "detail_id": "daa106be-35e2-4559-8ca8-4856c90caa2b",
+    "ccn": "171348",
+    "hospital_name": "NORTON COUNTY HOSPITAL",
+    "file_url": "https://www.ntcohosp.com/PriceTransparency/48-6013207_norton-county-hospital_standardcharges.csv",
+    "transparency_page": "https://www.ntcohosp.com/services/pricing.html"
+  },
+  {
+    "detail_id": "139ebbac-5722-4ddf-8944-54099f6ab3a0",
+    "ccn": "171349",
+    "hospital_name": "NORTH CENTRAL KANSAS MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCCHCCONCORDIAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CloudCounty_V2.aspx"
+  },
+  {
+    "detail_id": "e350f821-08aa-4d54-80fa-009cfdebd465",
+    "ccn": "171350",
+    "hospital_name": "RUSSELL REGIONAL HOSPITAL",
+    "file_url": "https://www.russellhospital.org/_files/ugd/914c06_b1887907752d4d74a14eb0f82d951d4a.csv?dn=742842747_RRH_standardcharges.csv",
+    "transparency_page": "https://www.russellhospital.org/billing"
+  },
+  {
+    "detail_id": "2710f9c5-ef81-4f04-88e3-d59a9e8f9de9",
+    "ccn": "171352",
+    "hospital_name": "DECATUR HEALTH HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbDHOBERLINKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/DecaturHealth_V2.aspx"
+  },
+  {
+    "detail_id": "678609da-df0c-4375-bfc8-ed7af986b82e",
+    "ccn": "171354",
+    "hospital_name": "COMMUNITY HEALTHCARE SYTEM ONAGA",
+    "file_url": "https://www.chcsks.org/uploads/userfiles/files/documents/481020227_Community-HealthCare-System_Hospital_standardcharges%5B47%5D.csv",
+    "transparency_page": "https://www.chcsks.org/patients-families/service-pricing-information"
+  },
+  {
+    "detail_id": "2080832c-6a6e-4d0c-95ef-5c61caa13814",
+    "ccn": "171355",
+    "hospital_name": "TREGO COUNTY LEMKE MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbTCLMWAKEENEYKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Trego_V2.aspx"
+  },
+  {
+    "detail_id": "620e8b2d-6716-42f9-9fb7-a305e7fe2a5f",
+    "ccn": "171356",
+    "hospital_name": "ST LUKE HOSPITAL",
+    "file_url": "https://stlukehospital.slicedhealth.io/home",
+    "transparency_page": "https://stlukehospital.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "832814de-f8c6-401b-a8f1-9f05c0fa0acf",
+    "ccn": "171357",
+    "hospital_name": "HILLSBORO COMMUNITY HOSPITAL",
+    "file_url": "https://www.hillsborohospital.com/docs/1100_BILLINGITEMSLIST_CsvTallv2.0.0_20241114211737.csv",
+    "transparency_page": "https://www.hillsborohospital.com/getpage.php?name=Patient_Payment_Estimator&sub=Patients%20%26%20Visitors"
+  },
+  {
+    "detail_id": "b105030d-dd95-431b-8533-1e9448e64cba",
+    "ccn": "171358",
+    "hospital_name": "LINDSBORG COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLCHLINDSBORGKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Lindsborg_V2.aspx"
+  },
+  {
+    "detail_id": "306f3b39-1a20-45a7-b462-65e297add7e7",
+    "ccn": "171359",
+    "hospital_name": "GREELEY COUNTY HOSPITAL",
+    "file_url": "https://greeleycounty.slicedhealth.io/home",
+    "transparency_page": "https://greeley.health/"
+  },
+  {
+    "detail_id": "e32ff614-948a-4a3e-b84b-c6e5806ab819",
+    "ccn": "171360",
+    "hospital_name": "LINCOLN COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLCHLINCOLNKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LincolnCounty.aspx"
+  },
+  {
+    "detail_id": "99867159-17b2-4700-b096-d07994078d96",
+    "ccn": "171361",
+    "hospital_name": "REPUBLIC COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRCHBELLEVILLEKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Republic_V3.aspx"
+  },
+  {
+    "detail_id": "bbc8d408-b190-478f-bbdf-23979e111ee3",
+    "ccn": "171362",
+    "hospital_name": "CITIZENS MEDICAL CENTER",
+    "file_url": "https://www.cmciks.com/wp-content/uploads/2023/11/CMCI_StandardChargesFile10032023.xlsx",
+    "transparency_page": "https://www.cmciks.com/citizens-medical-center/patient-financial-services/"
+  },
+  {
+    "detail_id": "f1100d68-43e8-4c1e-b1c3-f0f9da2549d3",
+    "ccn": "171367",
+    "hospital_name": "GOVE COUNTY MEDICAL CENTER",
+    "file_url": "https://www.medicalrecoveryservices.net/frontend/data/48-6065840_Gove%20County%20Medical%20Center_standardcharges.json",
+    "transparency_page": "https://www.medicalrecoveryservices.net/frontend/index.html?clientId=668300025dfdb3001146209b"
+  },
+  {
+    "detail_id": "136a4594-6d55-42a0-9a03-e9bd83432ad1",
+    "ccn": "171368",
+    "hospital_name": "MINNEOLA DISTRICT HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMDHMINNEOLAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Minneola_V2.aspx"
+  },
+  {
+    "detail_id": "619cf615-3edd-451c-985a-a69f8e86de7c",
+    "ccn": "171369",
+    "hospital_name": "HODGEMAN COUNTY HEALTH CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCHCJETMOREKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Hodgeman_V2.aspx"
+  },
+  {
+    "detail_id": "535f9fcd-71ef-441a-9191-e79cf2ddd43a",
+    "ccn": "171370",
+    "hospital_name": "GOODLAND REGIONAL MEDICAL CENTER",
+    "file_url": "https://goodlandregional.slicedhealth.io/pricer/48-0725111_GoodlandRegionalMedicalCenter_StandardCharges.csv",
+    "transparency_page": "https://goodlandregional.slicedhealth.io/home"
+  },
+  {
+    "detail_id": "59405301-3406-4a17-9c85-125bb85a2691",
+    "ccn": "171371",
+    "hospital_name": "CLAY COUNTY MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbClayCounty&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Clay_V2.aspx"
+  },
+  {
+    "detail_id": "f255f1cc-c035-4434-bf49-54ed3bc9e8a5",
+    "ccn": "171372",
+    "hospital_name": "SCOTT COUNTY HOSPITAL",
+    "file_url": "https://www.scotthospital.net/48-0812417_Scott_County_Hospital_standardcharges.json",
+    "transparency_page": "https://www.scotthospital.net/getpage.php?name=Chargemaster&sub=Patients%20%26%20Visitors"
+  },
+  {
+    "detail_id": "5b1b58e5-2e36-4f6a-9b1d-02363b09a12f",
+    "ccn": "171374",
+    "hospital_name": "FREDONIA REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbFRHFREDONIAKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Fredonia_V2.aspx"
+  },
+  {
+    "detail_id": "294071cb-600e-442f-a7f2-536d8d92da07",
+    "ccn": "171375",
+    "hospital_name": "MITCHELL COUNTY HOSPITAL HEALTH SYSTEMS",
+    "address": "400 W 8TH STREET, P O BOX 399",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCHHSBELOITKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mitchell_V2.aspx"
+  },
+  {
+    "detail_id": "f46a489a-b5b5-4090-8991-988cb9fa45de",
+    "ccn": "171376",
+    "hospital_name": "GIRARD MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbGMCGIRARDKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Girard_V2.aspx"
+  },
+  {
+    "detail_id": "d7f2f9fd-0789-4928-a72e-d5f7daeb48b5",
+    "ccn": "171377",
+    "hospital_name": "SMITH COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT//FinalLinks/Reports.aspx?dbName=dbSCMHSMITHCENTERKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Smith_County_V2.aspx"
+  },
+  {
+    "detail_id": "8be32543-586f-4ac9-bb65-865021b88bff",
+    "ccn": "171378",
+    "hospital_name": "KINGMAN HEALTHCARE CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/NinnescahValleyHealth/480761700_kingman-healthcare-center_standardcharges.json",
+    "transparency_page": "https://www.kingmanhc.com/getpage.php?name=Patient_Info&sub=Patient+Infol"
+  },
+  {
+    "detail_id": "1173efeb-75cb-4d94-97b5-83c2cdded11e",
+    "ccn": "171379",
+    "hospital_name": "MORRIS COUNTY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCHCOUNCILGROVEKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MorrisCounty_V2.aspx"
+  },
+  {
+    "detail_id": "2b6db605-9663-441c-a794-52770aebba5e",
+    "ccn": "171380",
+    "hospital_name": "NEOSHO MEMORIAL REGIONAL MEDICAL CENTER",
+    "file_url": "https://nmrmc.com/Documents/486075784_neosho-memorial-regional-medical-center_standardcharges%20(4).csv",
+    "transparency_page": "https://www.nmrmc.com/billing/pricingtransparency/"
+  },
+  {
+    "detail_id": "70d6b775-b782-4aea-ac4b-3752b1dcef12",
+    "ccn": "171381",
+    "hospital_name": "MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMHAABILENEKS&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Abilene_V2.aspx"
+  },
+  {
+    "detail_id": "aee4656d-0dc0-49df-9e37-cf99a54c4053",
+    "ccn": "171384",
+    "hospital_name": "NEWMAN REGIONAL HEALTH",
+    "file_url": "https://pricetransparency.blob.core.windows.net/newmanregionalhospital/48-6026835_Newman-Regional-Health_standardcharges.csv?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2099-04-26T22:40:35Z&st=2024-04-11T14:40:35Z&spr=https&sig=V53UDZpYxrVMzk1BKj4Dvm45q%2FAztzKKQCADbpBONqo%3D",
+    "transparency_page": "https://pricetransparency.accureg.net/newman"
+  },
+  {
+    "detail_id": "f25837ae-99f3-4957-abff-34b54111ec2a",
+    "ccn": "171385",
+    "hospital_name": "COFFEY COUNTY HOSPITAL",
+    "file_url": "https://coffeyhealth.org/Documents/480860883_Coffey_County_Hospital_Standardcharges.csv",
+    "transparency_page": "https://coffeyhealth.org/patient-experience/pricing-and-transparency/"
+  },
+  {
+    "detail_id": "93ea2808-57b2-44ee-95df-51ebd0c056d8",
+    "ccn": "172004",
+    "hospital_name": "KPC PROMISE HOSPITAL OF OVERLAND PARK",
+    "file_url": "https://overlandpark.kpcph.com/wp-content/uploads/sites/3/2023/12/83-4307959_KPC-Promise-Hospital-of-Overland-Park_standardcharges.csv",
+    "transparency_page": "https://overlandpark.kpcph.com/cms-price-transparency/"
+  },
+  {
+    "detail_id": "fc826979-8f1f-4cba-8f69-0ddde795941e",
+    "ccn": "172005",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL OF KANSAS CITY",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/43-1732618_Select_Specialty_Hospital-Kansas_City_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "10048fe8-516b-433e-8ec7-6b984d592ab1",
+    "ccn": "172007",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL WICHITA",
+    "address": "929 NORTH ST FRANCIS, 5TH & 6TH FLOORS",
+    "file_url": "https://resources.selectmedical.com/pricing-transparency/critical-illness-recovery/48-1196430_Select_Specialty_Hospital-Wichita_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "c0e4149a-54db-48e1-8242-ef7717ae6873",
+    "ccn": "173032",
+    "hospital_name": "REHABILIATION HOSPITAL OF OVERLAND PARK",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8510/320414398_heartland-rehabilitation-hospital-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PostAcuteMedical/8510"
+  },
+  {
+    "detail_id": "7c16fe8f-2e0b-484f-83d6-a0c06a78d7fd",
+    "ccn": "173300",
+    "hospital_name": "CHILDREN'S MERCY HOSPITAL KANSAS",
+    "file_url": "https://www.childrensmercy.org/siteassets/media-documents-for-depts-section/documents-for-your-visit/billing-and-insurance/440605373_childrens-mercy-hospital-kansas_standardcharges.csv",
+    "transparency_page": "https://www.childrensmercy.org/your-visit/billing-and-insurance/understanding-health-care-costs/"
+  },
+  {
+    "detail_id": "2727e97f-3b06-45fc-bd67-c09664d0a98c",
+    "ccn": "174016",
+    "hospital_name": "PRAIRIE VIEW INC",
+    "address": "1901 E FIRST STREET, PO BOX 467",
+    "file_url": "https://prairieview.org/uploads/media/480642318_PrairieView_standardcharges_1-2024.csv",
+    "transparency_page": "https://prairieview.org/admissions/standard-charges"
+  },
+  {
+    "detail_id": "b440a7d6-ca4d-46f3-bee4-83a2a3eebf53",
+    "ccn": "174020",
+    "hospital_name": "COTTONWOOD SPRINGS",
+    "file_url": "https://www.cottonwoodsprings.com/docs/bhcottonwoodspringslibraries/dec2025/371752262_cottonwood-springs_standardcharges.csv",
+    "transparency_page": "https://cottonwoodsprings.com/resources/accepted-insurance/#price-list"
+  },
+  {
+    "detail_id": "53e922da-a2c0-45d1-b8ce-02840fffcbbc",
+    "ccn": "202025",
+    "hospital_name": "NESS COUNTY HOSPITAL",
+    "file_url": "https://www.nchospital.org/_files/ugd/213ab8_f95ce32b0b2f4aad8e47356486b5013d.csv?dn=price%20transparency%202025.csv",
+    "transparency_page": "https://www.nchospital.org/price-transparency"
+  },
+  {
+    "detail_id": "bcd2148c-58c2-49c0-8e1e-ac02b550d387",
+    "ccn": "559580",
+    "hospital_name": "WASHINGTON COUNTY HOSPITAL",
+    "file_url": "https://storage.googleapis.com/production-powweb-v1-0-0/580/559580/Y2VBtRQB/24e1393b1341490186b1143bc4c1461d?fileName=1221_CHARGEMASTER_20201211181939.csv",
+    "transparency_page": "https://www.washcohospital.com/price-transparency"
+  }
+]

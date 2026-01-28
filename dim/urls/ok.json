@@ -1,0 +1,836 @@
+[
+  {
+    "detail_id": "ac571be9-227a-4f93-bc8f-edeb5d0ec489",
+    "ccn": "370001",
+    "hospital_name": "HILLCREST MEDICAL CENTER",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/77-0633896_AHS-Hillcrest-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://hillcrestmedicalcenter.com/price-transparency"
+  },
+  {
+    "detail_id": "3e9aef5f-e14c-4191-9c40-543365750b6a",
+    "ccn": "370004",
+    "hospital_name": "INTEGRIS MIAMI HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=pVP5UiW3I*__*Y*_*TJMcttiiiA*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "c738a02b-086b-4290-bcf5-eab730d80710",
+    "ccn": "370006",
+    "hospital_name": "INTEGRIS HEALTH PONCA CITY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=xO*_*y3fOOMLGcE*__*jd2jdm*_*A*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "4b2caff9-6672-4a36-b353-07f474670265",
+    "ccn": "370008",
+    "hospital_name": "NORMAN REGIONAL HOSPITAL",
+    "file_url": "https://www.normanregional.com/documents/736048282_norman-regional-health-system_standardcharges.csv",
+    "transparency_page": "https://www.normanregional.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b6d11c00-232f-4613-a767-6fec20327853",
+    "ccn": "370013",
+    "hospital_name": "MERCY HOSPITAL OKLAHOMA CITY",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/730579285_mercy-hospital-oklahoma-city_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "c612c568-1e31-4b70-82d5-192c2077a852",
+    "ccn": "370014",
+    "hospital_name": "ALLIANCEHEALTH DURANT",
+    "file_url": "https://www.alliancehealthdurant.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/581725656_alliancehealth-durant_standardcharges.csv",
+    "transparency_page": "https://www.alliancehealthdurant.com/pricing-information"
+  },
+  {
+    "detail_id": "8c3a5127-2f6f-4b59-82f1-fa80a001c0ba",
+    "ccn": "370015",
+    "hospital_name": "HILLCREST HOSPITAL PRYOR",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/82-0651263_Hillcrest-Hospital-Pyror_standardchanges.csv",
+    "transparency_page": "https://hillcrest.com/policies-and-disclosures/price-transparency/"
+  },
+  {
+    "detail_id": "de310f5a-e03c-4222-ab20-dd6162f5c94f",
+    "ccn": "370016",
+    "hospital_name": "INTEGRIS HEALTH ENID HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=DGoqeRgxZD8421GymxBLnQ*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "20f4a458-e696-404c-b6cb-59816d09a337",
+    "ccn": "370019",
+    "hospital_name": "GREAT PLAINS REGIONAL MEDICAL CENTER",
+    "file_url": "https://www.gprmc-ok.com/wp-content/uploads/2025/03/730579295_great-plains-regional-medical_standardcharges.csv.xlsx",
+    "transparency_page": "https://www.gprmc-ok.com/patient/cost-estimator/"
+  },
+  {
+    "detail_id": "717c62ce-037e-482d-a5c1-373974747ce4",
+    "ccn": "370020",
+    "hospital_name": "MERCY HOSPITAL ADA",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/462288155_mercy-hospital-ada_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "56a4e7f1-9fdd-47b4-8d4a-f54853f7b75a",
+    "ccn": "370022",
+    "hospital_name": "JACKSON COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/JacksonCountyMemorialHospital/730568956_jackson-county-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.jcmh.com/patients-visitors/billing-information/price-transparency/"
+  },
+  {
+    "detail_id": "16b0482c-0996-496b-a6fc-6bfb4c2e4e1a",
+    "ccn": "370023",
+    "hospital_name": "DUNCAN REGIONAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/DuncanRegionalHealth/731008550_duncan-regional-hospital_standardcharges.json",
+    "transparency_page": "https://www.duncanregional.com/price-transparency/"
+  },
+  {
+    "detail_id": "0847f223-d2a8-4085-92aa-a6cb3ce753ae",
+    "ccn": "370025",
+    "hospital_name": "SAINT FRANCIS HOSPITAL MUSKOGEE",
+    "file_url": "https://www.saintfrancis.com/finance/sfhm-cms-hpt",
+    "transparency_page": "https://www.saintfrancis.com/patients-and-guests/billing-and-insurance/standard-hospital-charges"
+  },
+  {
+    "detail_id": "39116c50-f825-418c-b7cd-f927053d0866",
+    "ccn": "370026",
+    "hospital_name": "ST. MARY'S REGIONAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/233041933_st-marys-regional-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.stmarysregional.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "cfaf0f0b-0e6a-4e41-9705-a55fea93bb83",
+    "ccn": "370030",
+    "hospital_name": "STILLWATER MEDICAL BLACKWELL",
+    "file_url": "https://mrfs.hyvehealthcare.com/StillwaterMedicalCenter/730927647_stillwater-medical-center-ok_standardcharges.json",
+    "transparency_page": "https://www.stillwater-medical.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "20db43a7-36e9-4ec3-8f8c-1b1cf78d6014",
+    "ccn": "370032",
+    "hospital_name": "INTEGRIS BAPTIST MEDICAL CENTER PORTLAND AVENUE",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=BjroEz8c5o*_*7mZ2xptt3iw*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "4f04d464-c293-4e64-badf-550f732f89a4",
+    "ccn": "370034",
+    "hospital_name": "MCALESTER REGIONAL HEALTH CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/McAlesterRegionalHealth/730992978_mcalester-regional-health-center_standardcharges.json",
+    "transparency_page": "https://www.mrhcok.com/patients/billing-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "1ee14740-36b5-472e-8176-251a448597a6",
+    "ccn": "370037",
+    "hospital_name": "SSM HEALTH ST. ANTHONY HOSPITAL-OKLAHOMA CITY",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=M2SKXYB41FA7AYa33bp9XQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "38a28199-5a0c-4bf2-9597-bba5c042db2c",
+    "ccn": "370039",
+    "hospital_name": "HILLCREST HOSPITAL CLAREMORE",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/45-2652006_Hillcrest-Hospital-Claremore_standardcharges.csv",
+    "transparency_page": "https://hillcrestclaremore.com/price-transparency"
+  },
+  {
+    "detail_id": "50631518-4160-49a8-8fa6-85ae1a65138e",
+    "ccn": "370047",
+    "hospital_name": "MERCY HOSPITAL ARDMORE",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/731500629_mercy-hospital-ardmore_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "f8985573-61ce-405b-bb0a-37acc78806e7",
+    "ccn": "370049",
+    "hospital_name": "STILLWATER MEDICAL CENTER",
+    "file_url": "https://mrfs.hyvehealthcare.com/StillwaterMedicalCenter/730927647_stillwater-medical-center-ok_standardcharges.json",
+    "transparency_page": "https://www.stillwater-medical.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "72932772-10b5-43f6-b354-895383f0c821",
+    "ccn": "370054",
+    "hospital_name": "GRADY MEMORIAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/GradyMemorialHospital/736082972_grady-memorial-hospital-ok_standardcharges.json",
+    "transparency_page": "https://www.gradymem.org/getpage.php?name=Pricing_Transparency_and_Estimator"
+  },
+  {
+    "detail_id": "481708d8-0ee3-49de-8a4c-ca68c78ba91e",
+    "ccn": "370056",
+    "hospital_name": "COMANCHE COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/ComancheCountyMemorial/736061037_comanche-county-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.ccmhhealth.com/insurance-and-pricing/"
+  },
+  {
+    "detail_id": "4a29b9e6-96f7-495b-98b7-a23f625b6f76",
+    "ccn": "370057",
+    "hospital_name": "OKMULGEE MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCNMOKMULGEEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Muscogee_V3.aspx"
+  },
+  {
+    "detail_id": "02f7420f-2f23-4af6-9228-9f8431803633",
+    "ccn": "370078",
+    "hospital_name": "OKLAHOMA STATE UNIVERSITY MEDICAL CENTER",
+    "file_url": "https://osumc.com/264331175_oklahoma_state_university_medical_center_standardcharges.csv",
+    "transparency_page": "https://osumc.com/resources/standard-hospital-charges/"
+  },
+  {
+    "detail_id": "a9cfcc75-ed02-46c7-bf98-7e860d783fc3",
+    "ccn": "370083",
+    "hospital_name": "PUSHMATAHA HOSPITAL",
+    "file_url": "https://pushmatahahospital.com/images/docs/736069650_pushmataha-county---city-of-antlers-hospital-authority_standardcharges.csv",
+    "transparency_page": "https://pushmatahahospital.com/index.php/component/sppagebuilder/?view=page&id=74"
+  },
+  {
+    "detail_id": "70cfb89a-d2a1-499b-be7f-fba60eedc1f3",
+    "ccn": "370091",
+    "hospital_name": "SAINT FRANCIS HOSPITAL",
+    "file_url": "https://www.saintfrancis.com/finance/sfh-cms-hpt",
+    "transparency_page": "https://www.saintfrancis.com/patients-and-guests/billing-and-insurance/standard-hospital-charges"
+  },
+  {
+    "detail_id": "b437ef21-7036-4ece-a89b-9dedadf9bb39",
+    "ccn": "370093",
+    "hospital_name": "OU HEALTH MEDICAL CENTER EDMOND",
+    "file_url": "https://www.ouhealth.com/documents/standard-chargemaster-files/821883948_OU-Health-OU-Health-Edmond-Medical-Center-_standardcharges.csv",
+    "transparency_page": "https://www.ouhealth.com/ou-health-patients-families/insurance-billing/billing-ou-health-hospitals-ers/hospital-charges-pricing-transparency/"
+  },
+  {
+    "detail_id": "bf097f6a-1117-47f5-a9a1-3a15d4b22ad5",
+    "ccn": "370093",
+    "hospital_name": "OU HEALTH UNIVERSITY OF OKLAHOMA MEDICAL CENTER",
+    "file_url": "https://www.ouhealth.com/documents/standard-chargemaster-files/821883948_OU-Health-University-of-Oklahoma-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://www.ouhealth.com/ou-health-patients-families/insurance-billing/billing-ou-health-hospitals-ers/hospital-charges-pricing-transparency/"
+  },
+  {
+    "detail_id": "0fdda5e8-8b87-433f-96c9-1244b33ef5a8",
+    "ccn": "370094",
+    "hospital_name": "SSM HEALTH ST. ANTHONY HOSPITAL - MIDWEST",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=g9rprfWFGjfTVv*_*4sDkddQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "31b41b1c-bfd0-4b35-8188-e97c841a44c9",
+    "ccn": "370097",
+    "hospital_name": "SOUTHWESTERN MEDICAL CENTER",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=t46O2wnjRVhoOnpQfKDTmA*-*&f=iFd*_*cEPwhQHJy3lVvHy9uQ*-*",
+    "transparency_page": "https://swmconline.com/understanding-your-healthcare-costs"
+  },
+  {
+    "detail_id": "37514738-6c86-4d36-8476-2ba412d8849f",
+    "ccn": "370099",
+    "hospital_name": "HILLCREST HOSPITAL CUSHING",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/20-1024792_Hillcrest-Hospital-Cushing_standardcharges.csv",
+    "transparency_page": "https://hillcrestcushing.com/price-transparency"
+  },
+  {
+    "detail_id": "1b099777-b6dd-4bd7-8bf3-a67b5c8a21d9",
+    "ccn": "370100",
+    "hospital_name": "CHOCTAW MEMORIAL HOSPITAL",
+    "file_url": "https://choctawmemorial.com/wp-content/uploads/2024/10/736060815_choctaw-county-city-of-hugo-hospital-trust-authority_standardcharges.csv",
+    "transparency_page": "https://choctawmemorial.com/financial/"
+  },
+  {
+    "detail_id": "2a3a97ec-6868-4ea6-b36e-7ee49a58eb1b",
+    "ccn": "370113",
+    "hospital_name": "INTEGRIS HEALTH GROVE HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=pOyz38FZVoI0HoHi*__*7e*_*VQ*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "1e3790bf-f795-424f-a966-21b564520b49",
+    "ccn": "370114",
+    "hospital_name": "ASCENSION ST. JOHN MEDICAL CENTER",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/730579286_st-john-medical-center-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "c51ab396-33f1-46b4-af9c-93585fbf5878",
+    "ccn": "370139",
+    "hospital_name": "STILLWATER MEDICAL PERRY",
+    "file_url": "https://mrfs.hyvehealthcare.com/StillwaterMedicalCenter/730927647_stillwater-medical-center-ok_standardcharges.json",
+    "transparency_page": "https://www.stillwater-medical.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "67983586-bc17-4963-998e-fe1d7b8c4ce4",
+    "ccn": "370149",
+    "hospital_name": "SSM HEALTH ST. ANTHONY HOSPITAL - SHAWNEE, SEMINOLE CAMPUS",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=fhyUnGceR0ZpzaBBOhDvhg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "f3cf51cb-38a7-4cd2-a632-34a43dbcbada",
+    "ccn": "370149",
+    "hospital_name": "SSM HEALTH ST. ANTHONY SHAWNEE HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=fhyUnGceR0ZpzaBBOhDvhg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+    "transparency_page": "https://www.ssmhealth.com/resources/pay-my-bill/price-estimate/price-transparency"
+  },
+  {
+    "detail_id": "8f7e4874-b1e8-4de0-b506-71d970d65fd6",
+    "ccn": "370153",
+    "hospital_name": "ELKVIEW GENERAL HOSPITAL",
+    "file_url": "https://elkviewhospital.com/wp-content/uploads/2025/08/370783_ElkviewGeneralHospital_StandardCharges.csv",
+    "transparency_page": "https://elkviewhospital.com/price-transparency/"
+  },
+  {
+    "detail_id": "b5df7ec0-6082-455e-a2b3-e7c11050c408",
+    "ccn": "370158",
+    "hospital_name": "PURCELL MUNICIPAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHPURCELLOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Purcell.aspx"
+  },
+  {
+    "detail_id": "33b6c6b0-3748-41c7-98d9-d1809c4e99c8",
+    "ccn": "370166",
+    "hospital_name": "WAGONER COMMUNITY HOSPITAL",
+    "file_url": "https://machine-readable-files.com/wagoner-community-hospital/322276246_Wagoner-Community-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.ezcost.info/wagoner-community-hospital"
+  },
+  {
+    "detail_id": "c5dc1743-7f54-44b1-914d-b8bc08886a88",
+    "ccn": "370183",
+    "hospital_name": "HILLCREST HOSPITAL HENRYETTA",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/20-1026264_Hillcrest-Hospital-Henryetta_standardcharges.csv",
+    "transparency_page": "https://hillcresthenryetta.com/price-transparency"
+  },
+  {
+    "detail_id": "c7a63201-6c41-4797-8956-15f35f423b62",
+    "ccn": "370199",
+    "hospital_name": "LAKESIDE WOMEN'S HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=Jd8dxaq5YxQQS4ceW8qokg*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "e2662017-2c80-4714-a6fa-61bc47f7f5e4",
+    "ccn": "370201",
+    "hospital_name": "SURGICAL HOSPITAL OF OKLAHOMA",
+    "file_url": "https://surgicalhospitalok.net/wp-content/uploads/2019/08/SHO-Charge-Master-1.xlsx",
+    "transparency_page": "https://surgicalhospitalok.net/"
+  },
+  {
+    "detail_id": "010f3d54-e179-4e6a-9238-a3e506bda27f",
+    "ccn": "370202",
+    "hospital_name": "HILLCREST HOSPITAL SOUTH",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/45-2711804_Hillcrest-Hospital-South_standardcharges.csv",
+    "transparency_page": "https://hillcrestsouth.com/price-transparency"
+  },
+  {
+    "detail_id": "2eec15be-7196-4079-9a87-9b758af452c3",
+    "ccn": "370203",
+    "hospital_name": "HPI COMMUNITY HOSPITAL SOUTH",
+    "file_url": "https://mrfs.hyvehealthcare.com/USPI/202501360_hpi---community-hospital-south_standardcharges.csv",
+    "transparency_page": "https://communityhospitalokc.com/about/hospital-pricing-information"
+  },
+  {
+    "detail_id": "a8ca7a9c-070c-412c-bd2c-9d671db65fae",
+    "ccn": "370206",
+    "hospital_name": "OKLAHOMA SPINE HOSPITAL",
+    "file_url": "https://oklahomaspine.com/wp-content/uploads/731538478_Oklahoma-Spine-Hospital-LLC_standardcharges.csv",
+    "transparency_page": "https://oklahomaspine.com/"
+  },
+  {
+    "detail_id": "c0877d68-658b-4342-a1aa-d9b8b5dfc749",
+    "ccn": "370210",
+    "hospital_name": "OKLAHOMA SURGICAL HOSPITAL",
+    "file_url": "https://oklahomasurgicalhospital.pt.panaceainc.com/MRFDownload/oklahomasurgicalhospital/oklahomasurgicalhospital",
+    "transparency_page": "https://www.oklahomasurgicalhospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "77c4f904-d019-462a-b88c-f4f0f0cd45ee",
+    "ccn": "370211",
+    "hospital_name": "INTEGRIS CANADIAN VALLEY HOSPITAL",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=PnMmi0OJplyABzmiE7PkYQ*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "d72fb2c7-1841-4923-a74a-bc189d1e9b83",
+    "ccn": "370214",
+    "hospital_name": "LINDSAY MUNICIPAL HOSPITAL",
+    "file_url": "https://lindsayhospital.com/wp-content/uploads/2025/07/730745473_lindsay-municipal-hospital_standardcharges.csv",
+    "transparency_page": "https://lindsayhospital.com/patient-information/"
+  },
+  {
+    "detail_id": "6e268503-5f4a-4e97-adb2-7e4fc74d56ab",
+    "ccn": "370215",
+    "hospital_name": "OKLAHOMA HEART HOSPITAL NORTH",
+    "file_url": "https://www.okheart.com/wp-content/uploads/price-transparency/731575187-1083617005_Oklahoma-Heart-Hospital-LLC_standardcharges.json",
+    "transparency_page": "https://www.okheart.com/patients-visitors/billing-and-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "15352435-4e88-46f0-8fd0-0d7e06db9072",
+    "ccn": "370216",
+    "hospital_name": "TULSA SPINE & SPECIALTY HOSPITAL",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/73-1600601_Tulsa-Spine-and-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://www.tulsaspinehospital.com/pricing-transparency"
+  },
+  {
+    "detail_id": "e69c694a-d1d5-4467-83d7-82daa7da7665",
+    "ccn": "370218",
+    "hospital_name": "SAINT FRANCIS HOSPITAL SOUTH",
+    "file_url": "https://www.saintfrancis.com/finance/sfhs-cms-hpt",
+    "transparency_page": "https://www.saintfrancis.com/patients-and-guests/billing-and-insurance/standard-hospital-charges"
+  },
+  {
+    "detail_id": "cbb15a69-9935-4ad4-af8e-d5387a38663d",
+    "ccn": "370220",
+    "hospital_name": "ONECORE HEALTH",
+    "file_url": "https://onecorehealth.slicedhealth.io/home",
+    "transparency_page": "https://onecorehealth.com/"
+  },
+  {
+    "detail_id": "2b3a1cd5-a490-4e59-9806-bae4942e0f03",
+    "ccn": "370222",
+    "hospital_name": "MCBRIDE ORTHOPEDIC HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/VDLQ-1687968511716/machine-readable/200561474_mcbride-orthopedic-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/mcbride-orthopedic"
+  },
+  {
+    "detail_id": "5b52e727-e06b-4c0f-a343-d4db7805a6bd",
+    "ccn": "370225",
+    "hospital_name": "SUMMIT MEDICAL CENTER",
+    "file_url": "https://scfx-estimator.azurewebsites.net/Download/ChargeFile",
+    "transparency_page": "https://scfx-estimator.azurewebsites.net/"
+  },
+  {
+    "detail_id": "36c0899f-2254-4395-b5cc-30a3b8997288",
+    "ccn": "370227",
+    "hospital_name": "ASCENSION ST. JOHN OWASSO",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/203700131_owasso-medical-facility-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "52d7af08-cf0f-4648-aa71-9aec27373027",
+    "ccn": "370228",
+    "hospital_name": "BAILEY MEDICAL CENTER",
+    "file_url": "https://coc.ardenthealthservices.com/oklahoma/20-1547519_Bailey-Medical-Center_standardcharges.csv",
+    "transparency_page": "https://baileymedicalcenter.com/pricing-transparency"
+  },
+  {
+    "detail_id": "a91ccef8-17a5-44da-8998-f36df80647c8",
+    "ccn": "370234",
+    "hospital_name": "OKLAHOMA HEART HOSPITAL SOUTH",
+    "file_url": "https://www.okheart.com/wp-content/uploads/price-transparency/261131647-1841442274_Oklahoma-Heart-Hospital-South-LLC_standardcharges.json",
+    "transparency_page": "https://www.okheart.com/patients-visitors/billing-and-insurance/price-transparency/"
+  },
+  {
+    "detail_id": "9bfb0ef5-f29b-4265-af3d-25ed93dfa991",
+    "ccn": "370236",
+    "hospital_name": "INTEGRIS HEALTH EDMOND",
+    "file_url": "https://hospitalpricedisclosure.com/Download.aspx?pxi=Ltb8cqfMm9D6g79o7zvF0A*-*&f=1Uqk9sV2mcxtBmvoqWiwog*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?ci=fFJE38ye7xsB8Of*_*qxAfVQ*-*"
+  },
+  {
+    "detail_id": "203fc632-d06c-47cf-b1f2-2b0b9df00dc9",
+    "ccn": "370237",
+    "hospital_name": "SAINT FRANCIS HOSPITAL VINITA",
+    "file_url": "https://www.saintfrancis.com/finance/sfhv-cms-hpt",
+    "transparency_page": "https://www.saintfrancis.com/patients-and-guests/billing-and-insurance/standard-hospital-charges"
+  },
+  {
+    "detail_id": "3aec05e7-5270-49a4-9952-7273eaf4cee2",
+    "ccn": "370240",
+    "hospital_name": "INTEGRIS COMMUNITY HOSPITAL - COUNCIL CROSSING",
+    "file_url": "https://integriscommunityhospital.com/wp-content/uploads/forms/35-2635546_IACC-EHI-NW-LLC_standardcharges.csv",
+    "transparency_page": "https://hospitalpricingfiles.org/details/https//integriscommunityhospital.com/pricing-transparency/"
+  },
+  {
+    "detail_id": "64a30113-425a-4283-a581-eb03af9f7ba1",
+    "ccn": "370244",
+    "hospital_name": "MUSCOGEE NATION COUNCIL OAK COMPREHENSIVE HEALTHCARE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCNMOKMULGEEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Muscogee_V3.aspx"
+  },
+  {
+    "detail_id": "dca22464-10ce-4f6c-8ca1-c7e038760bbf",
+    "ccn": "371300",
+    "hospital_name": "ATOKA COUNTY MEDICAL CENTER",
+    "file_url": "https://wp04-media.cdn.ihealthspot.com/wp-content/uploads/sites/171/2021/09//////////Atoka-County-Medical-Center-Standard-Charges-1.xlsx",
+    "transparency_page": "https://www.atokamedicalcenter.org/visitors-patients/patient-forms/"
+  },
+  {
+    "detail_id": "f711455d-1126-4fd6-bdf9-0bdfdbe81d4f",
+    "ccn": "371301",
+    "hospital_name": "PRAGUE REGIONAL MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPMHPRAGUEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Prague.aspx"
+  },
+  {
+    "detail_id": "fd138c1a-9697-4c0b-b6cb-9202ef10a959",
+    "ccn": "371302",
+    "hospital_name": "MERCY HOSPITAL WATONGA",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/455199762_mercy-hospital-watonga_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "68c26712-bd7d-4855-9622-0d2b926ecb88",
+    "ccn": "371303",
+    "hospital_name": "ROGER MILLS MEMORIAL HOSPITAL",
+    "file_url": "https://www.rmmhonline.com/uploads/8/1/4/1/81415636/chargemaster_01.01.2025__posted_.xlsx",
+    "transparency_page": "https://www.rmmhonline.com/services.html"
+  },
+  {
+    "detail_id": "698c2049-1b07-4703-8e36-99dca6c44fee",
+    "ccn": "371304",
+    "hospital_name": "MERCY HOSPITAL TISHOMINGO",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274433830_mercy-hospital-tishomingo_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "820232c4-03e5-4ec5-a8fc-fe9aa0e14cf7",
+    "ccn": "371305",
+    "hospital_name": "ASCENSION ST. JOHN NOWATA HOSPITAL",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/731440267_jane-phillips-nowata-hospital-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "fdcea0f9-dcab-457a-a520-30f8ded0abc1",
+    "ccn": "371306",
+    "hospital_name": "MERCY HEALTH LOVE COUNTY",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/237037718_mercy-health-love-county_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "717f9f39-7eb7-457e-bce3-ef76d73bf78b",
+    "ccn": "371309",
+    "hospital_name": "PAWHUSKA HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbPHPPAWHUSKAOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Pawhuska_V2.aspx"
+  },
+  {
+    "detail_id": "de20b6f3-a8ca-42e3-88a2-459665ad3d64",
+    "ccn": "371310",
+    "hospital_name": "MERCY HOSPITAL HEALDTON",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/263173902_mercy-hospital-healdton_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "68aeb881-f8c7-47cb-b102-e1cc3fcb70d4",
+    "ccn": "371311",
+    "hospital_name": "JEFFERSON COUNTY HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/DuncanRegionalHealth/731008550_jefferson-county-hospital-ok_standardcharges.json",
+    "transparency_page": "https://www.duncanregional.com/price-transparency/"
+  },
+  {
+    "detail_id": "2fef75b4-8f98-4d09-a613-512566baeabd",
+    "ccn": "371312",
+    "hospital_name": "ASCENSION ST. JOHN SAPULPA",
+    "file_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/730662663_st-john-sapulpa-inc_standardcharges.zip",
+    "transparency_page": "https://healthcare.ascension.org/price-transparency"
+  },
+  {
+    "detail_id": "a69409e8-3f5d-4e24-9489-faeea6bbe8eb",
+    "ccn": "371313",
+    "hospital_name": "MERCY HOSPITAL KINGFISHER",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463433074_mercy-hospital-kingfisher_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "1054d27b-03f9-4d9c-a352-a292ce8982f8",
+    "ccn": "371314",
+    "hospital_name": "RURAL WELLNESS ANADARKO",
+    "file_url": "https://rwanadarko.com/wp-content/uploads/2025/04/872889222_rural-wellness-anadarko_standardcharges.json",
+    "transparency_page": "https://rwanadarko.com/price-transparency/"
+  },
+  {
+    "detail_id": "03f4cefc-6d20-4afd-a898-215235aada90",
+    "ccn": "371316",
+    "hospital_name": "RURAL WELLNESS STROUD",
+    "file_url": "https://rwstroud.com/wp-content/uploads/2025/04/872963101_rural-wellness-stroud_standardcharges-3.json",
+    "transparency_page": "https://rwstroud.com/price-transparency/"
+  },
+  {
+    "detail_id": "08e6476f-c7b1-4fc6-90be-3e3bfa36a776",
+    "ccn": "371317",
+    "hospital_name": "MERCY HOSPITAL LOGAN COUNTY",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/452998842_mercy-hospital-logan-county_standardcharges.zip",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "4ce56bec-5e3e-418b-8f40-7aa972da2a15",
+    "ccn": "371318",
+    "hospital_name": "RURAL WELLNESS FAIRFAX",
+    "file_url": "https://rwfairfax.com/wp-content/uploads/843945620_rural-wellness-fairfax-inc_standardcharges.json",
+    "transparency_page": "https://rwfairfax.com/price-transparency/"
+  },
+  {
+    "detail_id": "7181d478-6138-44af-a26c-d07f536fa6ff",
+    "ccn": "371319",
+    "hospital_name": "COAL COUNTY GENERAL HOSPITAL",
+    "file_url": "https://www.ccghospital.com/_files/ugd/ce403d_b2016326cd6c4e4ca605adaea5065db8.csv?dn=731235996_coal-county-general-hospital_standardcharges%20(1).csv",
+    "transparency_page": "https://www.ccghospital.com/price-transparency"
+  },
+  {
+    "detail_id": "66c496da-469e-47d4-9475-22e71d6cca15",
+    "ccn": "371320",
+    "hospital_name": "CLEVELAND AREA HOSPITAL",
+    "file_url": "https://www.clevelandareahospital.com/_files/ugd/f01f54_5b69ac08fe9841c9a70139a0ce50a4ca.csv?dn=263778478_cleveland-area-hospital_standardcharges.csv",
+    "transparency_page": "https://www.clevelandareahospital.com/hospital-pricing"
+  },
+  {
+    "detail_id": "038d2700-3ecd-42e8-ba5e-42af23065500",
+    "ccn": "371321",
+    "hospital_name": "HOLDENVILLE GENERAL HOSPITAL",
+    "file_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/f25a1e6a-ed78-4641-a1c6-fcebfa80bf1b/730777479_HOLDENVILLE-GENERAL-HOSPITAL_standardcharges.zip",
+    "transparency_page": "https://www.yourcareeverywhere.com/content/medhost/your-care-everywhere/pricing-estimator-page.html?facility_id=f25a1e6a-ed78-4641-a1c6-fcebfa80bf1b"
+  },
+  {
+    "detail_id": "0b951cf1-2137-47ae-98a9-0a638832200d",
+    "ccn": "371322",
+    "hospital_name": "BEAVER COUNTY MEMORIAL HOSPITAL",
+    "file_url": "https://beavercounty.pt.panaceainc.com/MRFDownload/beavercounty/beavercounty",
+    "transparency_page": "https://beavercountyhospitalauthority.com/pricetransparency/"
+  },
+  {
+    "detail_id": "7cdf714c-df7d-4b62-bf65-83646cfb0fe3",
+    "ccn": "371323",
+    "hospital_name": "WEATHERFORD REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbWRHIWEATHERFORDOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Weatherford.aspx#"
+  },
+  {
+    "detail_id": "c570d1f5-d8da-4161-8d18-dfab707ac93c",
+    "ccn": "371324",
+    "hospital_name": "HARPER COUNTY COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbHCCHBUFFALOOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/HarperCounty.aspx"
+  },
+  {
+    "detail_id": "9bcd6b36-7795-44c8-a7c9-8bdf04836597",
+    "ccn": "371325",
+    "hospital_name": "CORDELL MEMORIAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHCORDELLOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CordellMemorial.aspx"
+  },
+  {
+    "detail_id": "cf12e934-bc6e-4dab-813a-07d36ca855f8",
+    "ccn": "371326",
+    "hospital_name": "ALLIANCEHEALTH MADILL",
+    "file_url": "https://www.alliancehealthdurant.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/383862800_alliancehealth-madill_standardcharges.csv",
+    "transparency_page": "https://www.alliancehealthdurant.com/pricing-information"
+  },
+  {
+    "detail_id": "37cbe890-7d0c-41d5-818e-8f23be2a3e86",
+    "ccn": "371328",
+    "hospital_name": "ARBUCKLE MEMORIAL HOSPITAL",
+    "file_url": "https://secure.claraprice.net/price-transparency/YLXD-1717180149061/machine-readable/731312311_arbuckle-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://secure.claraprice.net/price-transparency/arbuckle-memorial-ok"
+  },
+  {
+    "detail_id": "db9e9223-082a-4bf1-81eb-492117e66058",
+    "ccn": "371329",
+    "hospital_name": "FAIRVIEW REGIONAL MEDICAL CENTER",
+    "file_url": "https://fairviewregionalmedicalcenter.com/wp-content/uploads/2025/10/47-2059580_fairviewregionalmedicalcenter_standardcharges.csv",
+    "transparency_page": "https://fairviewregionalmedicalcenter.com/frmc-price-transparency/"
+  },
+  {
+    "detail_id": "7b42dec4-9c1e-4447-8ad6-341594a28380",
+    "ccn": "371330",
+    "hospital_name": "MANGUM REGIONAL MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMRMCMANGUMOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Mangum_V2.aspx"
+  },
+  {
+    "detail_id": "4db43f9e-8621-4231-a8c4-06cb7f13262c",
+    "ccn": "371331",
+    "hospital_name": "DRUMRIGHT REGIONAL HOSPITAL",
+    "file_url": "https://www.drumrighthospital.com/docs/843689648_drumright-regional-hospital_standardcharges.csv",
+    "transparency_page": "https://www.drumrighthospital.com/getpage.php?name=Chargemaster&sub=Patients%20%26%20Visitors"
+  },
+  {
+    "detail_id": "ba0bcd64-753a-48ca-bafc-aac8d4a6b876",
+    "ccn": "371332",
+    "hospital_name": "SEILING MUNICIPAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbSMHSEILINGOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Seiling_V3.aspx"
+  },
+  {
+    "detail_id": "6334f401-6638-467d-a4f5-486fb8bb9a38",
+    "ccn": "371333",
+    "hospital_name": "CREEK NATION COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCNMOKMULGEEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Muscogee_V3.aspx"
+  },
+  {
+    "detail_id": "5549a5e8-9df1-4fcc-aa6e-a3a6cf1dd496",
+    "ccn": "371334",
+    "hospital_name": "CARNEGIE TRI-COUNTY MUNICIPAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCTMHCARNEGIEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/CarnegieTriCounty_V2.aspx"
+  },
+  {
+    "detail_id": "1adc5382-e7bf-4b40-8de1-c35e7c96cdfc",
+    "ccn": "371335",
+    "hospital_name": "HASKELL REGIONAL HOSPITAL",
+    "file_url": "https://haskellregionalhospital.com/wp-content/uploads/2025/03/844289495_haskell-regional-hospital_standardcharges.zip",
+    "transparency_page": "https://haskellregionalhospital.com/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "d03a73dc-a2ce-489c-8632-deb8e7d7bbc7",
+    "ccn": "371336",
+    "hospital_name": "NEWMAN MEMORIAL HOSPITAL",
+    "file_url": "https://newmanmemorialhospital.org/wp-content/uploads/2024/08/730570773_newman-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://newmanmemorialhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "20665339-e6ff-4a59-861a-99669b0a6cb8",
+    "ccn": "371337",
+    "hospital_name": "EASTERN OKLAHOMA MEDICAL CENTER",
+    "file_url": "https://eomchospital.com/wp-content/uploads/2024/12/73-6060835_EasternOklahomaMedicalCenter_standardcharges.csv",
+    "transparency_page": "https://eomchospital.com/"
+  },
+  {
+    "detail_id": "052a9974-80c2-4da0-8886-16d6640e5263",
+    "ccn": "371338",
+    "hospital_name": "HARMON MEMORIAL HOSPITAL",
+    "file_url": "https://mrfs.hyvehealthcare.com/HarmonMemorialHospital/730568956_harmon-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.harmonmemorial.com/services/"
+  },
+  {
+    "detail_id": "de13a4dd-bf9f-40da-99f8-8167cafc9913",
+    "ccn": "371340",
+    "hospital_name": "MEMORIAL HOSPITAL OF TEXAS COUNTY AUTHORITY",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMHOTGUYMONOK&type=CDMWithoutLabel",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MemorialTexas_V3.aspx?sub=For%20Patients%20and%20Visitors"
+  },
+  {
+    "detail_id": "037eabdc-13bd-44e8-996a-67f9462c6977",
+    "ccn": "371341",
+    "hospital_name": "SHARE MEMORIAL HOSPITAL",
+    "file_url": "https://irp.cdn-website.com/59ebd08c/files/uploaded/730765084_Share_Medical_Standardcharges-1730a7fa.csv",
+    "transparency_page": "https://www.smcok.com/price-transparency"
+  },
+  {
+    "detail_id": "b44d54f4-a460-4b09-bab7-4193717ce595",
+    "ccn": "371342",
+    "hospital_name": "MCCURTAIN MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.online/wp-content/uploads/2025/07/736617937_mccurtain-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://pricetransparency.online/mccurtain-memorial-hospital-price-estimator/"
+  },
+  {
+    "detail_id": "011935ca-6230-4f6b-931f-bce8b2767c0f",
+    "ccn": "372004",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF OKLAHOMA CITY",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10000/812471465_curahealth-oklahoma-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMHealthSpecialtyHospitalofOklahomaCity/10000"
+  },
+  {
+    "detail_id": "15f5ba10-3393-427f-a9de-f63c3e24040d",
+    "ccn": "372007",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL - TULSA",
+    "address": "744 W. 9TH ST., FLOORS FIVE AND SIX",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/20-1047631_Select_Specialty_Hospital-Tulsa_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "bff1977d-ea8b-4f33-b038-771cbc141054",
+    "ccn": "372009",
+    "hospital_name": "SELECT SPECIALTY HOSPITAL -OKLAHOMA CITY",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/critical-illness-recovery/25-1813118_Select_Specialty_Hospital-Oklahoma_City_standardcharges.csv",
+    "transparency_page": "https://www.selectspecialtyhospitals.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "563b94b3-7b68-45c6-9d21-67426c282b27",
+    "ccn": "372012",
+    "hospital_name": "INSPIRE SPECIALTY HOSPITAL",
+    "file_url": "http://www.inspirehospital.com/docs/82_2269786_Inspire-Specialty-Hospital_StandardCharges.csv",
+    "transparency_page": "http://www.inspirehospital.com/pricing.php"
+  },
+  {
+    "detail_id": "1eea68e6-507e-41b5-8be5-f754da7cf979",
+    "ccn": "372018",
+    "hospital_name": "PAM SPECIALTY HOSPITAL OF TULSA",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10979/473895137_post-acute-medical-rehabilitation-hospital-of-tulsa-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMRehabHospitalTulsa/10979"
+  },
+  {
+    "detail_id": "9cd08fdb-5073-432f-aef3-e10e5ea27bfd",
+    "ccn": "372022",
+    "hospital_name": "CORNERSTONE SPECIALTY HOSPITALS MUSKOGEE",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=1*__*TK5N5viZnoQiHIDLnlkg*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=1*__*TK5N5viZnoQiHIDLnlkg*-*"
+  },
+  {
+    "detail_id": "00809594-14b7-4496-8d7d-06a2a8a416a6",
+    "ccn": "372023",
+    "hospital_name": "OKMULGEE PHYSICAL REHABILITATION CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMCNMOKMULGEEOK&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Muscogee_V3.aspx"
+  },
+  {
+    "detail_id": "c4a6d947-d948-46d4-ac4f-2459dc3e430d",
+    "ccn": "373033",
+    "hospital_name": "MERCY REHABILITATION HOSPITAL OKLAHOMA CITY",
+    "file_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274736089_mercy-rehabilitation-hospital-oklahoma-city_standardcharges.csv",
+    "transparency_page": "https://www.mercy.net/forms/items-and-services-files/"
+  },
+  {
+    "detail_id": "6e97bbf6-7705-4034-9ea2-5e2bd492e75a",
+    "ccn": "373035",
+    "hospital_name": "PAM REHABILITATION HOSPITAL OF TULSA",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10979/473895137_post-acute-medical-rehabilitation-hospital-of-tulsa-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/PAMRehabHospitalTulsa/10979"
+  },
+  {
+    "detail_id": "2fde5761-da74-44d2-96fc-159b28d5c8dc",
+    "ccn": "373300",
+    "hospital_name": "J. D. MCCARTY CENTER FOR CHILDREN WITH DEVELOPMENTAL DISABILITIES",
+    "file_url": "https://www.jdmc.org/736017987_jd-mccarty-center_standardcharges.csv",
+    "transparency_page": "https://www.jdmc.org/price_transparency"
+  },
+  {
+    "detail_id": "c837ee61-aded-4f53-8943-c240897cf179",
+    "ccn": "373303",
+    "hospital_name": "BETHANY CHILDREN'S HEALTH CENTER",
+    "file_url": "https://www.bethanychildrens.org/wp-content/uploads/2025/11/bethany-childrens-health-center_standardcharges.csv",
+    "transparency_page": "https://www.bethanychildrens.org/family-support/program-pricing/"
+  },
+  {
+    "detail_id": "fd0204af-ba7e-4072-8b15-55956ec61361",
+    "ccn": "374012",
+    "hospital_name": "BROOKHAVEN HOSPITAL",
+    "file_url": "https://brookhaven.pt.panaceainc.com/MRFDownload/brookhaven/brookhaven",
+    "transparency_page": "https://traumaticbraininjury.net/price-transparency/"
+  },
+  {
+    "detail_id": "7f0c9b80-46ee-48f0-9e9d-dc20e066a2f8",
+    "ccn": "374016",
+    "hospital_name": "ROLLING HILLS HOSPITAL",
+    "file_url": "https://www.rollinghillshospital.com/wp-content/uploads/pricing/2026/217/20-5629197_Rolling-Hills-_LLC__standardcharges.csv",
+    "transparency_page": "https://www.rollinghillshospital.com/admissions/insurance-payment/price-transparency/"
+  },
+  {
+    "detail_id": "7db06853-22a5-470a-97f6-17a0a40999f8",
+    "ccn": "374017",
+    "hospital_name": "WILLOW CREST HOSPITAL",
+    "file_url": "https://www.dropbox.com/scl/fi/8y706al63nostj6o8czlf/Willow-Crest-Updated-Pricing.csv?rlkey=p31o8rdfbcgrxo1ztoq7gxnv4&st=l61oo7o6&dl=1",
+    "transparency_page": "https://www.willowcresthospital.com/"
+  },
+  {
+    "detail_id": "b52b7600-c07d-40ed-b7aa-8f8dd881c4fe",
+    "ccn": "374020",
+    "hospital_name": "LAUREATE PSYCHIATRIC CLINIC AND HOSPITAL",
+    "file_url": "https://www.saintfrancis.com/finance/laureate-cms-hpt",
+    "transparency_page": "https://www.saintfrancis.com/patients-and-guests/billing-and-insurance/standard-hospital-charges"
+  },
+  {
+    "detail_id": "2f049abc-be9c-4b70-8e4c-387fb1acd2c2",
+    "ccn": "374021",
+    "hospital_name": "PARKSIDE PSYCHIATRIC HOSPITAL & CLINIC",
+    "file_url": "https://parksideinc.org/wp-content/uploads/2025/11/731280067_ParksidePsychiatricHospital_standardcharges.csv",
+    "transparency_page": "https://parksideinc.org/patient-cost-estimates/"
+  },
+  {
+    "detail_id": "a95359f7-aaa0-47e7-8c41-bc2c733fcc40",
+    "ccn": "374023",
+    "hospital_name": "CEDAR RIDGE BEHAVIORAL HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/202901605_cedar-ridge_standardcharges.csv",
+    "transparency_page": "https://cedarridgebhs.com/standard-services/"
+  },
+  {
+    "detail_id": "f0685d43-abff-4cc7-bb19-6b45f48e1403",
+    "ccn": "374025",
+    "hospital_name": "OAKWOOD SPRINGS",
+    "file_url": "https://oakwoodsprings.com/docs/bhoakwoodspringslibraries/dec2025/352517261_oakwood-springs_standardcharges.csv",
+    "transparency_page": "https://oakwoodsprings.com/resources/accepted-insurance/#price-list"
+  }
+]

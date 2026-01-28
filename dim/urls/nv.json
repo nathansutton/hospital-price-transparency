@@ -1,0 +1,289 @@
+[
+  {
+    "detail_id": "4bc1df81-23c6-4464-8033-6fdfeb3cb6ee",
+    "ccn": "012025",
+    "hospital_name": "CARSON VALLEY HEALTH HOSPITAL",
+    "file_url": "https://carsonvalleyhealth.org/wp-content/uploads/012025-Price-Transparency-file-Final.csv",
+    "transparency_page": "https://carsonvalleyhealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "781e3266-d74e-4d1a-a245-e6f52065e652",
+    "ccn": "290001",
+    "hospital_name": "RENOWN REGIONAL MEDICAL CENTER",
+    "file_url": "https://renown.pt.panaceainc.com/MRFDownload/renown/regional-medical-center",
+    "transparency_page": "https://www.renown.org/Patients-and-Visitors/Billing/Pricing-Transparency/Hospital-Charge-Table"
+  },
+  {
+    "detail_id": "2902174d-44c2-472f-825f-bfd7c4efd8e4",
+    "ccn": "290003",
+    "hospital_name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1762537_SUNRISE-HOSPITAL-AND-MEDICAL-CENTER_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://www.sunrisehealthinfo.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "170f29ba-36c6-4248-9810-63d5381b6aec",
+    "ccn": "290005",
+    "hospital_name": "NORTH VISTA HOSPITAL",
+    "file_url": "https://northvistahospital.com/wp-content/uploads/2025/12/200470861_NorthVistaHospital_standardcharges.json",
+    "transparency_page": "https://northvistahospital.com/patients-visitors/financial-assistance/"
+  },
+  {
+    "detail_id": "f6ab1cd6-c5f7-452f-aa5d-bf833e05f312",
+    "ccn": "290008",
+    "hospital_name": "NORTHEASTERN NEVADA REGIONAL HOSPITAL",
+    "file_url": "https://www.nnrhospital.com/docs/ahnortheasternnevadaregionalhospitallibraries/hcl/mrf2q25/621740235_northeastern-nevada-regional-elko_standardcharges.csv",
+    "transparency_page": "https://www.nnrhospital.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "4fee67d3-7ea0-4a85-bd53-916dd6cdb725",
+    "ccn": "290012",
+    "hospital_name": "DIGNITY HEALTH ST. ROSE DOMINICAN ROSE DE LIMA CAMPUS",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-rose-de-lima_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-san-martin_standardcharges.json?target=%22_blank%22"
+  },
+  {
+    "detail_id": "41c55d82-6358-4574-87f9-7ef2aaccf194",
+    "ccn": "290019",
+    "hospital_name": "CARSON TAHOE REGIONAL MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/633d776663e0de8f00d1b829ca9ce867/charges/mrf",
+    "transparency_page": "https://www.carsontahoe.com/price-transparency.html"
+  },
+  {
+    "detail_id": "e89cd0c2-d02e-4104-8aab-9e606944afd6",
+    "ccn": "290021",
+    "hospital_name": "VALLEY HOSPITAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/232973511_valley-hospital-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.valleyhospital.net/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "63997895-7849-40ca-8ef8-0e0048df8391",
+    "ccn": "290032",
+    "hospital_name": "NORTHERN NEVADA MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/880159958_northern-nevada-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.nnmc.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "a81aabbc-3ed0-4fa5-8c2b-e173dd62e96d",
+    "ccn": "290039",
+    "hospital_name": "MOUNTAINVIEW HOSPITAL",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/62-1600397_MOUNTAINVIEW-HOSPITAL-AND-MEDICAL-CENTER_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://sunrisehealthinfo.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "1d8639ba-ada9-4fce-aa12-8857e5bf6e9d",
+    "ccn": "290045",
+    "hospital_name": "DIGNITY HEALTH ST. ROSE DOMINICAN SIENA CAMPUS",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-siena_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-san-martin_standardcharges.json?target=%22_blank%22"
+  },
+  {
+    "detail_id": "1fa8cb44-1f41-4fd1-a54e-c2de84fb6b54",
+    "ccn": "290046",
+    "hospital_name": "SPRING VALLEY HOSPITAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/721549752_spring-valley-hospital-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.springvalleyhospital.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "f1f30eb6-d912-45f4-a32d-3fae86e6e952",
+    "ccn": "290047",
+    "hospital_name": "SOUTHERN HILLS HOSPITAL AND MEDICAL CENTER",
+    "file_url": "https://stctrprodsnsvc00455826e6.blob.core.windows.net/pt-final-posting-files/74-3048428_SOUTHERN-HILLS-HOSPITAL-AND-MEDICAL-CENTER_standardcharges.json?si=pt-json-access-policy&spr=https&sv=2024-11-04&sr=c&sig=o5IofreS%2F7ETlsnhPakPWCwHVVUZRobywQ5wUKGjVuQ%3D",
+    "transparency_page": "https://sunrisehealthinfo.com/patient-resources/patient-financial-resources/pricing-transparency-cms-required-file-of-standard-charges"
+  },
+  {
+    "detail_id": "e98e6983-3456-4a47-bbd8-6e847a835fca",
+    "ccn": "290051",
+    "hospital_name": "CARSON TAHOE SIERRA SURGERY",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/633d776663e0de8f00d1b829ca9ce867/charges/mrf",
+    "transparency_page": "https://www.carsontahoe.com/price-transparency.html"
+  },
+  {
+    "detail_id": "981cd550-f5d1-43a6-8e0a-99ef2569a72e",
+    "ccn": "290053",
+    "hospital_name": "DIGNITY HEALTH ST. ROSE DOMINICAN SAN MARTIN CAMPUS",
+    "file_url": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-san-martin_standardcharges.json?target=%22_blank%22",
+    "transparency_page": "https://www.dignityhealth.org/content/dam/dignity-health/documents/mrf-json/southwest/json/941196203_st-rose-dominican-hospital-san-martin_standardcharges.json?target=%22_blank%22"
+  },
+  {
+    "detail_id": "c4d1ad4c-9fbd-49da-a7c9-fe709d8ba965",
+    "ccn": "290054",
+    "hospital_name": "CENTENNIAL HILLS HOSPITAL MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/204993360_centennial-hills-hospital-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.centennialhillshospital.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "eacfd2eb-22fc-4646-a0b0-e010f84322db",
+    "ccn": "290057",
+    "hospital_name": "HENDERSON HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/811112022_henderson-hospital_standardcharges.csv",
+    "transparency_page": "https://www.hendersonhospital.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "889412e8-c4da-4fa9-9838-6aeb3c61a20d",
+    "ccn": "291300",
+    "hospital_name": "MOUNT GRANT GENERAL HOSPITAL",
+    "file_url": "https://raw.githubusercontent.com/Mt-Grant-General-Hospital/Pricing-Transparency/refs/heads/main/820299396_MtGrantGeneralHospital_standardcharges.JSON",
+    "transparency_page": "https://mgghnv.org/information-center/summary-of-charges-draft/"
+  },
+  {
+    "detail_id": "95ef3af3-906f-4c54-b0cb-0d3dea614193",
+    "ccn": "291301",
+    "hospital_name": "INCLINE VILLAGE COMMUNITY HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbIVHINCLNEVILLAGENV&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.tfhd.com/shoppable-services/"
+  },
+  {
+    "detail_id": "dbcd0ad0-8a76-4675-9d8c-5cd5eb051346",
+    "ccn": "291302",
+    "hospital_name": "WILLIAM BEE RIRIE HOSPITAL",
+    "file_url": "http://134.197.228.190/Files/880115812_WilliamBeeRirieHospital_standardcharges.csv",
+    "transparency_page": "https://www.wbrhely.org/"
+  },
+  {
+    "detail_id": "0b4371aa-703d-426a-be01-956c4e117272",
+    "ccn": "291303",
+    "hospital_name": "BATTLE MOUNTAIN GENERAL HOSPITAL",
+    "file_url": "https://bmgh.org/resources/public-pricing/880186024_BattleMountainGeneralHospital_standardcharges-2026.csv",
+    "transparency_page": "https://bmgh.org/resources/public-pricing.php"
+  },
+  {
+    "detail_id": "5831ec3e-9d87-4537-8680-56373c5e7e65",
+    "ccn": "291304",
+    "hospital_name": "PERSHING GENERAL HOSPITAL",
+    "file_url": "https://www.pershinghospital.org/_files/ugd/b92894_afcb05069cf44bbe9414cb42fedd43cc.csv?dn=880201578_PERSHING-GENERAL-HOSPITAL_standardcharges.csv",
+    "transparency_page": "https://www.pershinghospital.org/links-and-resources"
+  },
+  {
+    "detail_id": "83787619-4c6b-4630-891c-9d46637fefc3",
+    "ccn": "291307",
+    "hospital_name": "MESA VIEW REGIONAL HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/MesaView.aspx#",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MesaView.aspx"
+  },
+  {
+    "detail_id": "9ba64bc3-e761-4251-b8b5-73501e7bbf1b",
+    "ccn": "291308",
+    "hospital_name": "HUMBOLDT GENERAL HOSPITAL",
+    "file_url": "https://res.cloudinary.com/dpmykpsih/raw/upload/humboldt-site-391/media/r/a17df971484942ed94bf561cd8367dcf/886000088_humboldt-general-hospital-district_machine-readable-file.csv",
+    "transparency_page": "https://www.hghospital.org/patients-visitors/billing-information/"
+  },
+  {
+    "detail_id": "1d80aec3-37c5-4746-907b-31ad37055be3",
+    "ccn": "291309",
+    "hospital_name": "BOULDER CITY HOSPITAL",
+    "file_url": "https://bchcares.org/wp-content/uploads/2025/10/880065829_MRF-%E2%80%93-Boulder-City-Hospital-Standard-Charges.csv",
+    "transparency_page": "https://bchcares.org/price-transparency/"
+  },
+  {
+    "detail_id": "b54442c8-b67d-4758-b35e-22d9e2d960aa",
+    "ccn": "291311",
+    "hospital_name": "DESERT VIEW HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/812660258_desert-view-hospital_standardcharges.csv",
+    "transparency_page": "https://desertviewhospital.com/patients-and-visitors/for-patients/pricing-guide/"
+  },
+  {
+    "detail_id": "5aac9267-b7d2-42a8-bb6a-bc9ccea5546c",
+    "ccn": "291312",
+    "hospital_name": "GROVER C DILS MEDICAL CENTER",
+    "file_url": "https://rca.centaurihs.com/ptapp/#137db597daba65e49980212b8de4297e038c1b814e1a92fe58c0f1c7a0bc78c3",
+    "transparency_page": "http://gcdmc.org/"
+  },
+  {
+    "detail_id": "b5b2949b-9b5f-4dbd-8197-19615ab13622",
+    "ccn": "292002",
+    "hospital_name": "KINDRED HOSPITAL - LAS VEGAS SAHARA",
+    "file_url": "https://hospitalpricedisclosure.com/download.aspx?pi=oGitxXIZKxcaIU3O22g9xA*-*",
+    "transparency_page": "https://hospitalpricedisclosure.com/default.aspx?pi=oGitxXIZKxcaIU3O22g9xA*-*"
+  },
+  {
+    "detail_id": "0260cb2a-502d-4415-ac29-34daf0d3ba75",
+    "ccn": "292003",
+    "hospital_name": "HORIZON SPECIALTY HOSPITAL - LAS VEGAS",
+    "file_url": "https://horizonspecialtyhosp.com/wp-content/uploads/Docs/10/200112678_Horizon-Specialty-Hospital-Las-Vegas_standardcharges.csv",
+    "transparency_page": "https://horizonspecialtyhosp.com/Financial/"
+  },
+  {
+    "detail_id": "9b0d4d27-0d19-4c49-82d7-1808c28f7a42",
+    "ccn": "292006",
+    "hospital_name": "PAM HEALTH SPECIALTY HOSPITAL OF LAS VEGAS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10971/842783143_pam-specialty-hospital-of-las-vegas-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/SpecialtyHospitalLasVegas/10971"
+  },
+  {
+    "detail_id": "0625b7c7-4497-4136-9412-aca031de7d6c",
+    "ccn": "292007",
+    "hospital_name": "AMG SPECIALTY HOSPITAL LAS VEGAS",
+    "file_url": "https://amgihm.com/wp-content/uploads/2023/04/47-3240168_Las-Vegas-AMG-Specialty-Hospital_standardcharges.csv",
+    "transparency_page": "https://amgihm.com/patient-notices/price-transparency/"
+  },
+  {
+    "detail_id": "506d7c5a-4f7a-4f86-bf4c-dcf561fcd3a0",
+    "ccn": "292008",
+    "hospital_name": "CARSON TAHOE SPECIALTY MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/633d776663e0de8f00d1b829ca9ce867/charges/mrf",
+    "transparency_page": "https://www.carsontahoe.com/price-transparency.html"
+  },
+  {
+    "detail_id": "05c52596-dcb1-4ce6-9632-bb9e1eb24ebd",
+    "ccn": "292009",
+    "hospital_name": "ELITE MEDICAL CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/232973511_valley-hospital-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.valleyhospital.net/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "2c8877cb-bdf7-406e-9b9f-d79ceacb90cc",
+    "ccn": "293026",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF LAS VEGAS",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/251693810_Encompass-Health-Rehabilitation-Hospital-of-Las-Vegas_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/las-vegas-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "c39948f1-aec2-4af2-b9cf-e4a0fdec6c45",
+    "ccn": "293033",
+    "hospital_name": "ENCOMPASS HEALTH REHABILITATION HOSPITAL OF DESERT CANYON",
+    "file_url": "https://edge.sitecorecloud.io/encompasshee178-encompasshed9db-prodb258-07da/media/Project/EncompassHealth/encompasshealth/Files/1-price-transparency/272457834_Encompass-Health-Rehabilitation-Hospital-of-Desert-Canyon_standardcharges.csv",
+    "transparency_page": "https://www.encompasshealth.com/locations/desert-canyon-rehab/financial-information/price-transparency"
+  },
+  {
+    "detail_id": "62b2f309-451b-44df-9d66-7a6ccaec46bf",
+    "ccn": "293034",
+    "hospital_name": "PAM REHABILITATION HOSPITAL OF CENTENNIAL HILLS",
+    "file_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8509/611772282_pam-squared-at-las-vegas-llc_standardcharges.csv",
+    "transparency_page": "https://search.hospitalpriceindex.com/hpi2/machineReadable/RehabHospitalCentennialHills/8509"
+  },
+  {
+    "detail_id": "95b40545-881a-46ae-90c1-655aa23ecd0c",
+    "ccn": "293035",
+    "hospital_name": "DIGNITY HEALTH REHABILITATION HOSPITAL",
+    "file_url": "https://resources.selectmedical.com/Pricing-Transparency/inpatient-rehabilitation/82-1064183_Dignity_Health_Rehab_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.dignityhealthrehab.com/patients-and-caregivers/admissions/price-transparency/"
+  },
+  {
+    "detail_id": "8af16593-53bf-4753-a69e-c34284126c67",
+    "ccn": "294011",
+    "hospital_name": "SPRING MOUNTAIN TREATMENT CENTER",
+    "file_url": "https://uhsfilecdn.eskycity.net/ac/721549752_spring-valley-hospital-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.springvalleyhospital.com/patients-visitors/pricing-guide"
+  },
+  {
+    "detail_id": "e892bd91-bb5a-4714-991e-13e9ab85503e",
+    "ccn": "294013",
+    "hospital_name": "DESERT PARKWAY BEHAVIORAL HEALTHCARE HOSPITAL",
+    "file_url": "https://www.desertparkway.com/wp-content/uploads/2025/06/454953696_Desert_Parkway_Behavioral_Healthcare_Hospital_standardcharges.csv",
+    "transparency_page": "https://www.desertparkway.com/resources/"
+  },
+  {
+    "detail_id": "54140580-cb7a-4ea7-95d2-183541c4ba01",
+    "ccn": "294015",
+    "hospital_name": "RENO BEHAVIORAL HEALTHCARE HOSPITAL",
+    "file_url": "https://www.renobehavioral.com/sites/default/files/price-transparency.csv",
+    "transparency_page": "https://www.renobehavioral.com/resources"
+  },
+  {
+    "detail_id": "3e22a481-196c-440b-81bf-52cc0d95ed49",
+    "ccn": "295011",
+    "hospital_name": "SOUTH LYON MEDICAL CENTER",
+    "file_url": "https://slmcnv.org/wp-content/uploads/2025/04/880256932_south-lyon-health-center-inc-_standardcharges.csv.csv",
+    "transparency_page": "https://slmcnv.org/pricing-transparency-report/"
+  }
+]

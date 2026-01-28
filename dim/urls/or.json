@@ -1,0 +1,318 @@
+[
+  {
+    "detail_id": "cfddb749-9e3f-4858-9a18-04dcb3229d5e",
+    "ccn": "303481",
+    "hospital_name": "KAISER PERMANENTE WESTSIDE MEDICAL CENTER",
+    "file_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-westside-medical-center-standard-charges-nw-en.csv",
+    "transparency_page": "https://healthy.kaiserpermanente.org/oregon-washington/doctors-locations/price-transparency"
+  },
+  {
+    "detail_id": "f8293562-7b7f-4a6e-b2b7-b3c627ee9ed9",
+    "ccn": "380001",
+    "hospital_name": "ADVENTIST HEALTH COLUMBIA GORGE",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMidColumbia&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Adventist_Columbia_Gorge.aspx"
+  },
+  {
+    "detail_id": "cd5c8bd3-4551-43c8-8f05-838f5c3051bf",
+    "ccn": "380005",
+    "hospital_name": "ASANTE ASHLAND COMMUNITY HOSPITAL",
+    "file_url": "https://www.asante.org/app/files/public/6ced7477-8c3f-45bc-b59e-cbc0ca8270f4/AsanteAshlandCommunityHospital_StandardCharges.zip",
+    "transparency_page": "https://www.asante.org/patients-visitors/bill-pay/standard-charges/"
+  },
+  {
+    "detail_id": "0e2d6008-fe4c-4ab2-9543-71565328f9ee",
+    "ccn": "380009",
+    "hospital_name": "OHSU HOSPITAL PORTLAND",
+    "file_url": "https://www.ohsu.edu/sites/default/files/custom/931176109_Oregon-Health-and-Science-University_standardcharges.zip",
+    "transparency_page": "https://www.ohsu.edu/health/billing-and-insurance"
+  },
+  {
+    "detail_id": "1320d9ba-4657-4002-b7f5-570cddf4f3f9",
+    "ccn": "380014",
+    "hospital_name": "GOOD SAMARITAN REGIONAL MEDICAL CENTER",
+    "file_url": "https://samaritanhealth.pt.panaceainc.com/MRFDownload/samaritanhealth/goodsamaritan",
+    "transparency_page": "https://samhealth.org/patient-visitors/make-a-payment/learn-more-about-price-transparency/"
+  },
+  {
+    "detail_id": "55e35580-487d-4839-b474-3ff6bd84b6f7",
+    "ccn": "380020",
+    "hospital_name": "MCKENZIE-WILLAMETTE MEDICAL CENTER",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbMWMCSPRINGFIELDOR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/MckenzieWillamette.aspx"
+  },
+  {
+    "detail_id": "b3c2565d-d664-4b9b-a1b3-8970d8d24a75",
+    "ccn": "380021",
+    "hospital_name": "OHSU HILLSBORO MEDICAL CENTER",
+    "file_url": "https://drive.google.com/file/d/1RUYn1Kk5bQpF3pXQIQEqDgzcj20I5KNa/view?usp=sharing",
+    "transparency_page": "https://tuality.org/patient-resources/billing/hospital_price_list/"
+  },
+  {
+    "detail_id": "f649353a-895d-4ba9-a8d6-b7793fecd7e7",
+    "ccn": "380025",
+    "hospital_name": "LEGACY MOUNT HOOD MEDICAL CENTER",
+    "file_url": "https://www.legacyhealth.org/-/media/Files/CSV/930591528_legacy-mount-hood-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.legacyhealth.org/Patients-and-Visitors/paying-for-your-care/estimate-hospital-costs"
+  },
+  {
+    "detail_id": "76229d1c-a147-42d6-9c8a-e7c8dc9d6562",
+    "ccn": "380027",
+    "hospital_name": "CHI MERCY MEDICAL CENTER",
+    "file_url": "https://chimercyhealth.com/genjson.php?l=https://chimercyhealth.com/assets/2024/12/930386868_chi-mercy-health-medical-center_standardcharges.json&f=930386868_chi-mercy-health-medical-center_standardcharges.json",
+    "transparency_page": "https://chimercyhealth.com/patients-visitors/cost-estimator/price-transparency/"
+  },
+  {
+    "detail_id": "93c04b1a-bf08-41e6-a82a-7bbeb4a3e2c6",
+    "ccn": "380029",
+    "hospital_name": "LEGACY SILVERTON HOSPITAL",
+    "file_url": "https://www.legacyhealth.org/-/media/Files/CSV/930281321_legacy-silverton-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.legacyhealth.org/Patients-and-Visitors/paying-for-your-care/estimate-hospital-costs"
+  },
+  {
+    "detail_id": "4940cc1e-9d17-4b05-969c-e55a3e764094",
+    "ccn": "380037",
+    "hospital_name": "PROVIDENCE NEWBERG MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/931146501_providence-newberg-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "e8d5e788-254a-46af-b1a1-753770805f51",
+    "ccn": "380040",
+    "hospital_name": "ST CHARLES REDMOND",
+    "file_url": "https://stcharleshealthcare.org/pricetransparency/93-0602940_StCharlesHealthSystem_Redmond_standardcharges.zip",
+    "transparency_page": "https://stcharleshealthcare.org/patients/billing-and-insurance/standard-list-hospital-charges"
+  },
+  {
+    "detail_id": "3b81d6c4-8368-4c57-9833-f75592e1d2a7",
+    "ccn": "380047",
+    "hospital_name": "ST CHARLES MEDICAL CENTER BEND",
+    "file_url": "https://stcharleshealthcare.org/pricetransparency/93-0602940_StCharlesHealthSystem_Bend_standardcharges.zip",
+    "transparency_page": "https://stcharleshealthcare.org/patients/billing-and-insurance/standard-list-hospital-charges"
+  },
+  {
+    "detail_id": "7dc7d258-1e19-498a-9029-7e82a9524c5e",
+    "ccn": "380050",
+    "hospital_name": "SKY LAKES MEDICAL CENTER",
+    "file_url": "https://www.skylakes.org/wp-content/uploads/2025/01/930508781-Sky-Lakes-Medical-Center-Standard-Charges-2025.zip",
+    "transparency_page": "https://www.skylakes.org/patients-visitors/billing-and-insurance/standardcharges/"
+  },
+  {
+    "detail_id": "ae1a0f92-27f2-44df-b5bd-0740ef36d744",
+    "ccn": "380051",
+    "hospital_name": "SALEM HEALTH SALEM HOSPITAL",
+    "address": "890 OAK STREET, SE",
+    "file_url": "https://salemhealth.org/930579722_salem-hospital_standardcharges.json",
+    "transparency_page": "https://salemhealth.org/patient-guide/billing-and-financial-services/pricing/price-transparency"
+  },
+  {
+    "detail_id": "380df1f0-9793-4f95-81e1-ca510bc2dc83",
+    "ccn": "380052",
+    "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - ONTARIO",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/saintalphonsusmedical-ontario",
+    "transparency_page": "https://www.saintalphonsus.org/for-patients/before-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "06c5696d-9c77-4650-85c8-97a330c4c791",
+    "ccn": "380056",
+    "hospital_name": "SANTIAM HOSPITAL",
+    "file_url": "https://santiamhospital.org/wp-content/uploads/2023/12/2024-Santiam-Pricing-Transparency-File-.xlsx",
+    "transparency_page": "https://santiamhospital.org/patients-visitors-info-2/patient-billing-financial-assistance/"
+  },
+  {
+    "detail_id": "4c425945-70b5-45dc-b74c-ee6295ac7f26",
+    "ccn": "380060",
+    "hospital_name": "ADVENTIST HEALTH PORTLAND",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAMCPORTLANDOR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://www.adventisthealth.org/patients-and-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "b3374f89-66e1-479d-ae27-0978f025b3d6",
+    "ccn": "380061",
+    "hospital_name": "PROVIDENCE PORTLAND MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/930386906_providence-portland-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "349e1bd9-d90c-4bf6-ae97-34901bb185b2",
+    "ccn": "380071",
+    "hospital_name": "WILLAMETTE VALLEY MEDICAL CENTER",
+    "file_url": "https://www.willamettevalleymedical.com/docs/ahwillamettevalleymedicalcenterlibraries/hcl/mrf3q25/621762552_willamette-valley-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.willamettevalleymedical.com/hospital-charges-listing"
+  },
+  {
+    "detail_id": "6133ba31-1e28-4680-aa7f-a1e72c5683da",
+    "ccn": "380075",
+    "hospital_name": "PROVIDENCE MEDFORD MEDICAL CENTER",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/930386912_providence-medford-medical-center_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "43ab8c76-a868-4cd6-8900-bbb14c01c25e",
+    "ccn": "380082",
+    "hospital_name": "PROVIDENCE MILWAUKIE HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/930924302_providence-milwaukie-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "86330003-1dc9-4ced-9320-336a9bd22982",
+    "ccn": "380089",
+    "hospital_name": "LEGACY MERIDIAN PARK MEDICAL CENTER",
+    "file_url": "https://www.legacyhealth.org/-/media/Files/CSV/930618975_legacy-meridian-park-medical-center_standardcharges.csv",
+    "transparency_page": "https://www.legacyhealth.org/Patients-and-Visitors/paying-for-your-care/estimate-hospital-costs"
+  },
+  {
+    "detail_id": "f98fddfa-0d9c-4582-8483-7bea7688df07",
+    "ccn": "380090",
+    "hospital_name": "BAY AREA HOSPITAL",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbBayAreaHospital&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/BayArea.aspx"
+  },
+  {
+    "detail_id": "f348c40f-8a6d-488e-80d0-8f500629fff8",
+    "ccn": "380102",
+    "hospital_name": "PEACEHEALTH SACRED HEART MEDICAL CENTER RIVERBEND",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/ddf337f5c91ecd4ab2af2a271901674d/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "f28493bc-10e1-4f53-bf8f-5cb7e31bb8a7",
+    "ccn": "381301",
+    "hospital_name": "PEACEHEALTH COTTAGE GROVE COMMUNITY HOSPITAL",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/1d4f883a27f95c6823c22aca21c1dcef/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "80161802-9a6d-4f51-99f8-ef8f1caccd04",
+    "ccn": "381303",
+    "hospital_name": "PROVIDENCE SEASIDE HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/930796090_providence-seaside-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "c98b2ff5-0eb7-40bd-b85c-92c9ef4801fa",
+    "ccn": "381305",
+    "hospital_name": "BLUE MOUNTAIN HOSPITAL",
+    "file_url": "https://bluemountainhospital.org/price-transparency/936002615_blue-mountain.csv",
+    "transparency_page": "https://bluemountainhospital.org/price-transparency/"
+  },
+  {
+    "detail_id": "805dd4eb-6d9e-43e9-9794-bff544db477a",
+    "ccn": "381306",
+    "hospital_name": "WALLOWA MEMORIAL HOSPITAL",
+    "file_url": "https://wchcd.org/wp-content/uploads/2024/12/936002339_wallowa-county-health-care-district_standardcharges.csv",
+    "transparency_page": "https://wchcd.org/patient-info/"
+  },
+  {
+    "detail_id": "cf4423a6-0d39-45e6-a44b-23a03e663a33",
+    "ccn": "381307",
+    "hospital_name": "HARNEY DISTRICT HOSPITAL",
+    "file_url": "https://harneydh.com/acknowledgement-form/",
+    "transparency_page": "https://www.harneydh.com/services/patient-financial-services/"
+  },
+  {
+    "detail_id": "66483182-05a1-4d8e-8100-9860bf4b439c",
+    "ccn": "381308",
+    "hospital_name": "SALEM HEALTH WEST VALLEY HOSPITAL",
+    "file_url": "https://salemhealth.org/docs/default-source/pricing/westvalleyhospitalpricingjson",
+    "transparency_page": "https://salemhealth.org/patient-guide/billing-and-financial-services/pricing/price-transparency"
+  },
+  {
+    "detail_id": "ef7da1f7-7d8d-4e17-b429-2034d72f9d07",
+    "ccn": "381310",
+    "hospital_name": "PIONEER MEMORIAL HOSPITAL",
+    "file_url": "https://www.morrowcountyhealthdistrict.org/files/7445aa9f8/871_CHARGEMASTER_20210331194517.csv",
+    "transparency_page": "https://www.morrowcountyhealthdistrict.org/hospital-charges"
+  },
+  {
+    "detail_id": "499c3d40-7290-4a92-9caa-08ab1ed330e8",
+    "ccn": "381311",
+    "hospital_name": "LOWER UMPQUA HOSPITAL DISTRICT",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbLUHDREEDSPORTOR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/LowerUmpqua.aspx"
+  },
+  {
+    "detail_id": "0c079e34-5b18-48dc-889a-d89185c64ddd",
+    "ccn": "381312",
+    "hospital_name": "COQUILLE VALLEY HOSPITAL",
+    "file_url": "https://www.cvhospital.org/wp-content/uploads/2025/03/CVHStandardCharges.csv.csv",
+    "transparency_page": "https://www.cvhospital.org/billing-insurance-assistance/"
+  },
+  {
+    "detail_id": "07e7998d-fc52-41bc-9047-a261c3aef7dd",
+    "ccn": "381315",
+    "hospital_name": "SAINT ALPHONSUS MEDICAL CENTER - BAKER CITY",
+    "file_url": "https://trinityhealth.pt.panaceainc.com/MRFDownload/trinityhealth/saintalphonsusmedicalcenter-bakercity",
+    "transparency_page": "https://www.saintalphonsus.org/for-patients/before-your-visit/price-estimator"
+  },
+  {
+    "detail_id": "0a800de2-f9ba-4be7-a201-1d8d409bac67",
+    "ccn": "381316",
+    "hospital_name": "PEACEHEALTH PEACE HARBOR MEDICAL CENTER",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/b3802a2f7c5adf80aae9a4c10d28b2e3/charges/mrf",
+    "transparency_page": "https://www.peacehealth.org/patient-financial-services/hospital-pricing"
+  },
+  {
+    "detail_id": "b9e83439-d856-4133-90c8-51b453887271",
+    "ccn": "381317",
+    "hospital_name": "ADVENTIST HEALTH TILLAMOOK",
+    "file_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbAHTTILLAMOOKOR&type=CDMWithoutLabel&fileType=CSV",
+    "transparency_page": "https://apps.para-hcfs.com/PTT/FinalLinks/Adventist_Tillamook_V3.aspx"
+  },
+  {
+    "detail_id": "572ee103-603e-439b-bb35-41488c25d10a",
+    "ccn": "381318",
+    "hospital_name": "PROVIDENCE HOOD RIVER MEMORIAL HOSPITAL",
+    "file_url": "https://pricetransparency.providence.org/oregon/live/931265038_providence-hood-river-memorial-hospital_standardcharges.json",
+    "transparency_page": "https://www.providence.org/billing-support/pricing-transparency"
+  },
+  {
+    "detail_id": "025993b1-d2bd-4fe5-a645-8ee869480e7e",
+    "ccn": "381319",
+    "hospital_name": "CHI ST ANTHONY HOSPITAL",
+    "file_url": "https://www.sahpendleton.org/content/dam/sahpendletonorg/2024-financial-forms/mrf-json/930391614_st-anthony-hospital-pendleton_standardcharges.json",
+    "transparency_page": "https://www.sahpendleton.org/patients-and-visitors/price-transparency"
+  },
+  {
+    "detail_id": "d5ddcc47-01b8-44e5-999c-0d0021251ddc",
+    "ccn": "381320",
+    "hospital_name": "COLUMBIA MEMORIAL HOSPITAL",
+    "file_url": "https://machine-readable-files.com/columbia-memorial-hospital/930583856_columbia-memorial-hospital_standardcharges.csv",
+    "transparency_page": "https://www.columbiamemorial.org/patient-and-visitors/billing-information/price-transparency/"
+  },
+  {
+    "detail_id": "6c7d2348-bbfe-4054-9d5b-4387a94a27e8",
+    "ccn": "381321",
+    "hospital_name": "GRANDE RONDE HOSPITAL",
+    "file_url": "https://www.grh.org/clientfiles/GetFile/930505325_grande-ronde-hospital_standardcharges.csv",
+    "transparency_page": "https://www.grh.org/patients-visitors/price-transparency/"
+  },
+  {
+    "detail_id": "e0e1099e-a1af-43ff-b24f-a6c86caefcfb",
+    "ccn": "381322",
+    "hospital_name": "CURRY GENERAL HOSPITAL",
+    "file_url": "https://www.curryhealthnetwork.com/docs/930937095_CURRYGENERALHOSPITAL_STANDARDCHARGES.csv",
+    "transparency_page": "https://www.curryhealthnetwork.com/getpage.php?name=Pricing_of_Services&left=Patient+Information&sub=Patient%20Information"
+  },
+  {
+    "detail_id": "6e517631-4b4a-44fa-8939-6fc3707cfe81",
+    "ccn": "381324",
+    "hospital_name": "ST CHARLES MADRAS",
+    "file_url": "https://stcharleshealthcare.org/pricetransparency/93-0602940_StCharlesHealthSystem_Madras_standardcharges.zip",
+    "transparency_page": "https://stcharleshealthcare.org/patients/billing-and-insurance/standard-list-hospital-charges"
+  },
+  {
+    "detail_id": "4f8290a9-ed48-43c1-9b2b-39770bde8e3f",
+    "ccn": "383300",
+    "hospital_name": "SHRINERS HOSPITAL FOR CHILDREN-PORTLAND",
+    "file_url": "https://apim.services.craneware.com/api-pricing-transparency/api/public/2823b8d43138258b7c2cb40fea30d548/charges/mrf",
+    "transparency_page": "https://www.cdmpricing.com/2823b8d43138258b7c2cb40fea30d548"
+  },
+  {
+    "detail_id": "ec94ef03-e773-42ae-af0e-f3b72b9da0ea",
+    "ccn": "384012",
+    "hospital_name": "CEDAR HILLS HOSPITAL",
+    "file_url": "https://uhsfilecdn.eskycity.net/bh/262343447_cedar-hills_standardcharges.csv",
+    "transparency_page": "https://cedarhillshospital.com/standard-services/"
+  }
+]
