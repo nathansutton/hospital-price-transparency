@@ -20,7 +20,6 @@ Usage:
 
 import argparse
 import json
-import re
 import sys
 import time
 from pathlib import Path
@@ -52,9 +51,6 @@ def find_failed_entries(
 
     entries = []
 
-    # Build error pattern
-    error_pattern = "|".join(f"Server returned {code}" for code in error_codes)
-
     # Determine which states to process
     if state_filter:
         status_files = [status_dir / f"{state_filter.upper()}.csv"]
@@ -74,7 +70,7 @@ def find_failed_entries(
 
         with open(status_file) as f:
             # Skip header
-            header = f.readline()
+            f.readline()
             for line in f:
                 if ",FAILURE," not in line:
                     continue

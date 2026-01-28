@@ -8,8 +8,8 @@ Reference: https://www.cms.gov/hospital-price-transparency/resources
 
 import csv
 import io
+from collections.abc import Iterator
 from pathlib import Path
-from typing import Iterator
 
 import pandas as pd
 
@@ -145,7 +145,6 @@ class CMSStandardCSVScraper(BaseScraper):
         Returns:
             CSV text content
         """
-        import json
         import zipfile
 
         with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
@@ -340,8 +339,7 @@ class CMSStandardCSVScraper(BaseScraper):
                 encoding=encoding,
                 chunksize=CSV_CHUNK_SIZE,
             )
-            for chunk in reader:
-                yield chunk
+            yield from reader
         except Exception as e:
             self.logger.warning("chunked_csv_read_error", error=str(e)[:100])
             # Fall back to single read with Python engine
@@ -372,15 +370,18 @@ class CMSStandardCSVScraper(BaseScraper):
 
         if isinstance(raw_data, bytes):
             # Try multiple encodings (Windows-generated files often use cp1252)
+            raw_bytes = raw_data
+            decoded_text: str | None = None
             for encoding in FALLBACK_ENCODINGS:
                 try:
-                    raw_data = raw_data.decode(encoding)
+                    decoded_text = raw_bytes.decode(encoding)
                     break
                 except UnicodeDecodeError:
                     continue
-            else:
+            if decoded_text is None:
                 # If all fail, try UTF-8 and let it raise
-                raw_data = raw_data.decode("utf-8")
+                decoded_text = raw_bytes.decode("utf-8")
+            raw_data = decoded_text
         if not isinstance(raw_data, str):
             raise ValueError(f"Expected str, bytes, or Path, got {type(raw_data).__name__}")
 
@@ -490,7 +491,7 @@ class CMSStandardCSVScraper(BaseScraper):
         """
         try:
             # Read first few lines to detect format
-            with open(file_path, "r", encoding="utf-8", errors="replace") as f:
+            with open(file_path, encoding="utf-8", errors="replace") as f:
                 first_lines = "".join(f.readline() for _ in range(10))
 
             # Detect delimiter

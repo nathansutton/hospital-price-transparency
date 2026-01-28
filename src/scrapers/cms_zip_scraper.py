@@ -14,6 +14,7 @@ import shutil
 import subprocess
 import tempfile
 import zipfile
+from pathlib import Path
 from typing import Any
 
 import pandas as pd
@@ -132,8 +133,8 @@ class CMSStandardZIPScraper(BaseScraper):
                     raise RuntimeError(
                         f"unzip failed: {result.stderr.decode('utf-8', errors='replace')}"
                     )
-            except subprocess.TimeoutExpired:
-                raise RuntimeError("unzip timed out after 300 seconds")
+            except subprocess.TimeoutExpired as e:
+                raise RuntimeError("unzip timed out after 300 seconds") from e
 
             # Read extracted file
             # Handle case where file might be in a subdirectory
@@ -142,7 +143,7 @@ class CMSStandardZIPScraper(BaseScraper):
                     return f.read()
 
             # Search for the file (might be in a subdirectory)
-            for root, dirs, files in os.walk(tmpdir):
+            for root, _dirs, files in os.walk(tmpdir):
                 for fname in files:
                     if fname == os.path.basename(target_file):
                         with open(os.path.join(root, fname), "rb") as f:
@@ -178,7 +179,8 @@ class CMSStandardZIPScraper(BaseScraper):
             # Try to detect format from content
             if zip_bytes.startswith(b"{") or zip_bytes.startswith(b"["):
                 self._content_type = "json"
-                return json.loads(zip_bytes.decode("utf-8-sig"))
+                json_result: dict[str, Any] = json.loads(zip_bytes.decode("utf-8-sig"))
+                return json_result
             else:
                 # Assume CSV
                 self._content_type = "csv"
@@ -269,18 +271,19 @@ class CMSStandardZIPScraper(BaseScraper):
                     size_bytes=len(raw_bytes),
                 )
                 self._extracted_filename = target_file
-                return json.loads(content)
+                json_data: dict[str, Any] = json.loads(content)
+                return json_data
 
             else:
                 raise ValueError(
                     f"No CSV or JSON file found in ZIP archive. Contents: {all_files[:10]}"
                 )
 
-    def parse_data(self, raw_data: str | dict | list | bytes) -> pd.DataFrame:
+    def parse_data(self, raw_data: str | dict | list | bytes | Path) -> pd.DataFrame:
         """Parse the extracted content using the appropriate parser.
 
         Args:
-            raw_data: CSV text, parsed JSON data, or raw XLSX bytes
+            raw_data: CSV text, parsed JSON data, raw XLSX bytes, or Path to temp file
 
         Returns:
             DataFrame with vocabulary_id, concept_code, gross, cash columns
@@ -303,7 +306,7 @@ class CMSStandardZIPScraper(BaseScraper):
                 normalizer=self.normalizer,
             )
             # Parse XLSX bytes directly
-            df = pd.read_excel(
+            df = pd.read_excel(  # type: ignore[call-overload]
                 io.BytesIO(raw_data),  # type: ignore[arg-type]
                 sheet_name=0,
                 header=None,

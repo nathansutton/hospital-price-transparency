@@ -16,7 +16,6 @@ import subprocess
 import sys
 from pathlib import Path
 
-
 # Allowed file path patterns
 ALLOWED_PATHS = [
     r"^dim/urls/[a-z]{2}\.json$",

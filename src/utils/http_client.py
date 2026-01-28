@@ -6,11 +6,11 @@ retries, timeouts, and various HTTP error conditions gracefully.
 
 import io
 import ssl
+from pathlib import Path
 from typing import Any
 
 import pandas as pd
 import requests
-import urllib3
 from requests.adapters import HTTPAdapter
 from tenacity import (
     retry,
@@ -42,7 +42,8 @@ class LegacySSLAdapter(HTTPAdapter):
 
         # Allow legacy server connections (unsafe renegotiation)
         # This is needed for older hospital servers
-        ctx.options |= ssl.OP_LEGACY_SERVER_CONNECT
+        if hasattr(ssl, "OP_LEGACY_SERVER_CONNECT"):
+            ctx.options |= ssl.OP_LEGACY_SERVER_CONNECT
 
         # Also be lenient with certificate verification issues
         # Some hospital servers have misconfigured certificate chains
@@ -50,7 +51,7 @@ class LegacySSLAdapter(HTTPAdapter):
         ctx.verify_mode = ssl.CERT_NONE
 
         kwargs["ssl_context"] = ctx
-        return super().init_poolmanager(*args, **kwargs)
+        super().init_poolmanager(*args, **kwargs)
 
 
 class HTTPError(Exception):
@@ -183,7 +184,6 @@ class RetryHTTPClient:
         import re
 
         # Track if this is a Google Drive URL for virus scan handling
-        original_url = url
         gdrive_file_id = None
         gdrive_match = re.match(r"https://drive\.google\.com/file/d/([^/]+)/view", url)
         if gdrive_match:
@@ -288,7 +288,7 @@ class RetryHTTPClient:
             content_start = response.content[:500].decode("utf-8", errors="ignore").lower()
             if "<!doctype html" in content_start or "<html" in content_start:
                 raise ValueError(
-                    f"Server returned HTML instead of JSON (URL may have moved or require auth)"
+                    "Server returned HTML instead of JSON (URL may have moved or require auth)"
                 ) from e
 
             raise ValueError(f"Failed to parse JSON from {url}: {e}") from e
@@ -335,13 +335,14 @@ class RetryHTTPClient:
             text = response.content.decode("utf-8", errors="replace")
             logger.warning("csv_encoding_fallback", url=url[:60])
 
-        return pd.read_csv(
+        df: pd.DataFrame = pd.read_csv(  # type: ignore[call-overload]
             io.StringIO(text),
             skiprows=skiprows,
-            dtype=dtype,  # type: ignore[arg-type]
+            dtype=dtype,
             keep_default_na=keep_default_na,
             on_bad_lines="skip",
         )
+        return df
 
     def get_content_length(self, url: str) -> int | None:
         """Get the content length of a URL without downloading.

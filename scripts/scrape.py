@@ -33,7 +33,7 @@ import click
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
-from src.config import ScraperConfig, get_data_age_days, load_concept_codes, load_hospital_configs_from_urls
+from src.config import ScraperConfig, get_data_age_days, load_hospital_configs_from_urls
 from src.models import HospitalConfig, ScrapeResult, ScrapeStats, ScrapeStatus
 from src.normalizers import CPTNormalizer
 from src.scrapers import get_scraper

@@ -10,7 +10,7 @@ Usage:
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 import click
@@ -93,7 +93,7 @@ def scan_data_files(data_dir: Path, state: str) -> dict[str, dict]:
     for jsonl_file in state_dir.glob("*.jsonl"):
         ccn = jsonl_file.stem
         records = count_jsonl_records(jsonl_file)
-        mtime = datetime.fromtimestamp(jsonl_file.stat().st_mtime, tz=timezone.utc)
+        mtime = datetime.fromtimestamp(jsonl_file.stat().st_mtime, tz=UTC)
 
         files_by_ccn[ccn] = {
             "path": jsonl_file,

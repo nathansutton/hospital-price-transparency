@@ -45,7 +45,7 @@ def run_claude_analysis(issue_details: dict, prompt_file: Path) -> str | None:
 **Body:**
 {issue_details['body']}
 
-**Current Labels:** {', '.join(l['name'] for l in issue_details.get('labels', []))}
+**Current Labels:** {', '.join(label['name'] for label in issue_details.get('labels', []))}
 
 ---
 

@@ -11,9 +11,9 @@ import csv
 import json
 import sys
 from collections import defaultdict
-from dataclasses import dataclass, asdict
+from collections.abc import Iterator
+from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Iterator
 from urllib.parse import urlparse
 
 
@@ -122,7 +122,7 @@ def parse_status_csv(csv_path: Path) -> Iterator[Failure]:
     """Parse a status CSV file and yield failure records."""
     state = csv_path.stem.upper()
 
-    with open(csv_path, "r", encoding="utf-8") as f:
+    with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
             status = row.get("status", "")

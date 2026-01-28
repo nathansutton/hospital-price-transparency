@@ -7,6 +7,7 @@ Uses the Strategy pattern to allow different parsing strategies.
 from abc import ABC, abstractmethod
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 import pandas as pd
 
@@ -53,12 +54,13 @@ class BaseScraper(ABC):
         )
 
     @abstractmethod
-    def fetch_data(self) -> bytes | str | dict:
+    def fetch_data(self) -> bytes | str | dict | Path:
         """Fetch raw data from the hospital's price file URL.
 
         Returns:
             Raw data in the format appropriate for the data type
-            (bytes for binary, str for text, dict for pre-parsed JSON)
+            (bytes for binary, str for text, dict for pre-parsed JSON,
+            Path for large files streamed to disk)
 
         Raises:
             HTTPError: If the fetch fails
@@ -66,7 +68,7 @@ class BaseScraper(ABC):
         pass
 
     @abstractmethod
-    def parse_data(self, raw_data: bytes | str | dict | list) -> pd.DataFrame:
+    def parse_data(self, raw_data: bytes | str | dict | list | Path) -> pd.DataFrame:
         """Parse raw data into a DataFrame with required columns.
 
         The returned DataFrame must have at minimum:
@@ -76,7 +78,7 @@ class BaseScraper(ABC):
         - cash: Cash/discounted price amount
 
         Args:
-            raw_data: Raw data from fetch_data()
+            raw_data: Raw data from fetch_data() (Path for large files streamed to disk)
 
         Returns:
             DataFrame with parsed price data
@@ -136,7 +138,8 @@ class BaseScraper(ABC):
 
         if path.suffix == ".json":
             text = path.read_text(encoding="utf-8-sig")
-            return json.loads(text)
+            result: dict[str, Any] = json.loads(text)
+            return result
         elif path.suffix == ".csv":
             try:
                 return path.read_text(encoding="utf-8-sig")
@@ -184,6 +187,7 @@ class BaseScraper(ABC):
             try:
                 # Check for locally downloaded raw file first
                 local_file = self._find_local_raw_file()
+                raw_data: bytes | str | dict[Any, Any] | Path
                 if local_file:
                     raw_data = self._load_local_file(local_file)
                 else:

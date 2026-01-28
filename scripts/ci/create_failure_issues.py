@@ -11,7 +11,6 @@ import json
 import subprocess
 import sys
 from pathlib import Path
-from typing import Optional
 
 
 def run_gh_command(args: list[str], check: bool = True) -> subprocess.CompletedProcess:
@@ -20,7 +19,7 @@ def run_gh_command(args: list[str], check: bool = True) -> subprocess.CompletedP
     return subprocess.run(cmd, capture_output=True, text=True, check=check)
 
 
-def search_existing_issue(group_id: str, repo: Optional[str] = None) -> Optional[int]:
+def search_existing_issue(group_id: str, repo: str | None = None) -> int | None:
     """Search for an existing open issue with the given group_id."""
     search_query = f'is:issue is:open "[{group_id}]" in:title'
     args = ["issue", "list", "--search", search_query, "--json", "number", "--limit", "1"]
@@ -45,8 +44,8 @@ def create_issue(
     title: str,
     body: str,
     labels: list[str],
-    repo: Optional[str] = None,
-) -> Optional[int]:
+    repo: str | None = None,
+) -> int | None:
     """Create a new GitHub issue."""
     args = ["issue", "create", "--title", title, "--body", body]
     for label in labels:
@@ -67,7 +66,7 @@ def create_issue(
         return None
 
 
-def add_issue_comment(issue_number: int, body: str, repo: Optional[str] = None) -> bool:
+def add_issue_comment(issue_number: int, body: str, repo: str | None = None) -> bool:
     """Add a comment to an existing issue."""
     args = ["issue", "comment", str(issue_number), "--body", body]
     if repo:
@@ -80,7 +79,6 @@ def add_issue_comment(issue_number: int, body: str, repo: Optional[str] = None) 
 def format_issue_title(group: dict) -> str:
     """Format the issue title for a failure group."""
     category = group["category"]
-    error_type = group["error_type"]
     domain = group["domain"]
     count = group["count"]
     group_id = group["group_id"]
